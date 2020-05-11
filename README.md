@@ -11,10 +11,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [bitcoin whitepaper via ips](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj)
 - [A list of websites hosting the bitcoin whitepaper](https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated hourly
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for decoding a version of the original paper hosted on the bitcoin blockchain
-
-**note**
-
-In the lead up-to the chain fork with BTC, certain members of the small-block side [attempted](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325) to make amendments and revisions to the original whitepaper.  For this reason, the original bitcoin whitepaper is actively monitored and checked for integrity.  
+ 
 
 # Roadmaps
 
@@ -48,7 +45,7 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 - [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) A Java implementation with the goal of being interoperable with mining nodes
 - [flowee](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) A full node supporting a suite of software focued on payment integration.
 
-## SPV Wallets
+## Open Source Wallets
 
 ### Desktop
 - [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SVP wallet for Bitcoin Cash - Accept no imitations
@@ -57,12 +54,20 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 - [CashFusion](https://cashfusion.org/)  plugin for privately and trustlessly joining coin amounts.
 - [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) plugin for crowdfunding
 
+### Mobile
+
+- [Electron-Cash](https://electroncash.org) - Android and iOS version available with limited functionality 
+- [neutrino](https://github.com/gcash/android-neutrino) - An android wallet with advanced privacy features.
+
+### Cli
+- [bchwallet](https://github.com/gcash/bchwallet) - A secure bitcoin cash wallet daemon written in Go (golang)
+- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - An SPV wallet in Go (golang) used by openbazaar2
 
 ## General Libraries & Software Development Kits:
 
 ### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
-- [Badger SDK docs](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet supporting BCH and SLP
+- [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet supporting BCH and SLP
 
 ### Javascript
 - [Bitcoin Cash JavaScript Library based on BITBOX
