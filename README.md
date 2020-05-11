@@ -35,21 +35,48 @@ Established Non-base protocols:
 ## Software Development Kits:
 
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[& docs](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
-- [Independent javascript Bitbox](https://fullstack.cash)[ & docs](https://bchjs.cash/bch-js/index.html)
+- [Bitcoin Cash JavaScript Library based on BITBOX
+](https://fullstack.cash)[ & docs](https://bchjs.cash/bch-js/index.html) - Chris Troutner BitBox stack
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) protobuf based javascript client for interacting with bchd full nodes
 - [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) protobug based pyhton client for bchd
 
+# Tokens
+
+
+
 # Adoption
 
-## Apps:
+## Apps
 
+### Social
 - [read.cash](https://read.cash) - A long-format blogging platform allowing BCH tipping for content
 - [flipstarter](https://flipstarter.cash/) - A crowd funding app using Anyone can pay multisig transactions 
+
+### Marketplace
 - [OpenBazaar](https://openbazaar.org/download/) - Desktop p2p marketplace using multisig transactions
+- [Havenapp](https://gethaven.app/) - Mobile implementation of openbazaar 
 
-## In Commerce:
+### Entertainment
+- [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits
 
-- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - Browsable list of merchants and stores
+
+## Merchant Listings
+
+### Notible mentions
+- [A good suit from lanieri](https://www.lanieri.com) - not that you would ever need one, for work.
+- [Cheap plane tickets](https://www.cheapair.com) - for your fancy developer conferences. 
+
+### Merchants near you or where you're headed
 - [Member map](https://memberapp.github.io/#map) - Permanent on-chain geographic tags utilizing extensions to the memo protocol.
-- [Bitcoin.com map](https://map.bitcoin.com/) - Website and mobile app for discovering merchants
+- [Bitcoin.com map](https://map.bitcoin.com/) - Website and mobile app for discovering merchants, formerly marcocoino
+- [Greenpages map](https://greenpages.cash/pages/map.php) - Merchant finder with advanced filtering
+
+### Listing searches across the broader internet
+- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - Browsable list of merchants and stores
 - [Bitpay Directory](https://bitpay.com/directory) - Partial and outdateed list of websites using bitpay as a payment processor.
+ using ipfs.
+- [Openbazaar Listings](https://openbazaar.com) - Distributed multicoin marketplace with integrated wallet
+- [Purse.io](https://purse.io/) - Service to privately purchace goods on Amazon.com (US) at a discount
+
+## Notible Charity
+- [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/)
