@@ -1,11 +1,11 @@
 # awesome-bitcoin-cash
 A developer oriented list of awesome bitcoin cash resources 🕶️
 
-Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world, as first described, implemented, and mined by Satoshi Nakamoto. 
+Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
 # Whitepaper
 
-Bitcoin Cash generally strives to follow the original approach outlined by Satoshi Nakamoto for scaling bitcoin. 
+The bitcoin whitepaper by Satoshi Nakamoto:
 
 - [Archived copy of te bitcoin whitepaper from bitcoin.org](http://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf)
 - [bitcoin whitepaper via ips](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj)
@@ -32,7 +32,7 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 
 - [Base Protocol Reference](https://reference.cash/) - maintained by Bitcoin Unlimited
 
-Established Non-base protocols:
+### Secondary protocols:
 
 - [SLP Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md) for handling tradable or redeemable tokens
 - [Memo Protocol](https://memo.cash/protocol) - For the on-chain tweet style social media app
@@ -41,17 +41,17 @@ Established Non-base protocols:
 
 ## Full Nodes
 
-- [BitcoinABC](https://www.bitcoinabc.org/) [mirror](https://github.com/Bitcoin-ABC/bitcoin-abc) Bitcoin ABC is a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
-- [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [src](https://github.com/BitcoinUnlimited/BitcoinUnlimited) A full node implentation focused on supporting user needs.
-- [BCHN](https://bitcoincashnode.org/) [src](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) A descendant of the Bitcoin Core and Bitcoin ABC software projects with independant development team. C/C++.
-- [bchd](https://bchd.cash/) [src](https://github.com/gcash/bchd) An alternative full node bitcoin cash implementation written in Go (golang)
-- [Bitcoin Verde](https://bitcoinverde.org/ [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) A Java implementation with the goal of being interoperable with mining nodes
-- [flowee](https://flowee.org/) [src](https://gitlab.com/FloweeTheHub) A full node supporting a suite of software focued on payment integration.
+- [BitcoinABC](https://www.bitcoinabc.org/) [[mirror]](https://github.com/Bitcoin-ABC/bitcoin-abc) Bitcoin ABC is a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
+- [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) A full node implentation focused on supporting user needs.
+- [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) A descendant of the Bitcoin Core and Bitcoin ABC software projects with independant development team. C/C++.
+- [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) An alternative full node bitcoin cash implementation written in Go (golang)
+- [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) A Java implementation with the goal of being interoperable with mining nodes
+- [flowee](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) A full node supporting a suite of software focued on payment integration.
 
-## Wallets
+## SPV Wallets
 
 ### Desktop
-- [Electron-Cash][https://electroncash.org](https://github.com/Electron-Cash/Electron-Cash) - the awesome SVP wallet for Bitcoin Cash - Accept no imitations
+- [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SVP wallet for Bitcoin Cash - Accept no imitations
 
 #### Electron-Cash Plugins
 - [CashFusion](https://cashfusion.org/)  plugin for privately and trustlessly joining coin amounts.
@@ -60,11 +60,11 @@ Established Non-base protocols:
 
 ## General Libraries & Software Development Kits:
 
-- [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[& docs](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
+- [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
 - [Bitcoin Cash JavaScript Library based on BITBOX
-](https://fullstack.cash)[ & docs](https://bchjs.cash/bch-js/index.html) - Chris Troutner BitBox stack
+](https://fullstack.cash)[[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner BitBox stack
 - [Badger SDK docs](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet
-- [bitcash](https://sporestack.github.io/bitcash/) [src](https://github.com/sporestack/bitcash) - A python3 library for bitcoin cash.
+- [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - A python3 library for bitcoin cash.
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) protobuf based javascript client for interacting with bchd full nodes
 - [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) protobug based pyhton client for bchd
 
@@ -75,9 +75,9 @@ Established Non-base protocols:
 
 ## Scripting
 
-[meep](https://github.com/gcash/meep) - Meep is a command line Bitcoin Cash script debugger
-[bitauth ide](https://ide.bitauth.com/) - an integrated development environment for bitcoin authentication
-[Cashscript](https://developer.bitcoin.com/cashscript/docs/language) A solidity like language for bitcoin cash
+- [meep](https://github.com/gcash/meep) - Meep is a command line Bitcoin Cash script debugger
+- [bitauth ide](https://ide.bitauth.com/) - an integrated development environment for bitcoin authentication
+- [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) A solidity like language for bitcoin cash
 
 
 # Adoption
@@ -96,11 +96,11 @@ Established Non-base protocols:
 
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits
-- [https://www.satoshidice.com/] - Satoshi dice game
+- [Satoshi dice](https://www.satoshidice.com/) -  game
 
 ## Merchant Listings
 
-### Notible mentions
+### Awesome merchants
 - [A good suit from lanieri](https://www.lanieri.com) - not that you would ever need one, for work.
 - [Cheap plane tickets](https://www.cheapair.com) - for your fancy developer conferences. 
 
