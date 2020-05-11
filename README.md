@@ -1,5 +1,5 @@
 # awesome-bitcoin-cash
-A curated list of awesome bitcoin cash resources for devs 🕶️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome bitcoin cash resources for devs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
