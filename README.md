@@ -45,7 +45,7 @@ Established Non-base protocols:
 - [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [src](https://github.com/BitcoinUnlimited/BitcoinUnlimited) A full node implentation focused on supporting user needs.
 - [BCHN](https://bitcoincashnode.org/) [src](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) A descendant of the Bitcoin Core and Bitcoin ABC software projects with independant development team. C/C++.
 - [bchd](https://bchd.cash/) [src](https://github.com/gcash/bchd) An alternative full node bitcoin cash implementation written in Go (golang)
-- (Bitcoin Verde)[https://bitcoinverde.org/] [src](https://github.com/softwareverde/bitcoin-verde)[docs](https://bitcoinverde.org/documentation/) A Java implementation with the goal of being interoperable with mining nodes
+- [Bitcoin Verde](https://bitcoinverde.org/ [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) A Java implementation with the goal of being interoperable with mining nodes
 - [flowee](https://flowee.org/) [src](https://gitlab.com/FloweeTheHub) A full node supporting a suite of software focued on payment integration.
 
 ## Wallets
