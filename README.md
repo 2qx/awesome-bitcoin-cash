@@ -1,5 +1,5 @@
 # awesome-bitcoin-cash
-A developer oriented list of awesome bitcoin cash resources 🕶️
+A curated list of awesome bitcoin cash resources for devs 🕶️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
@@ -55,7 +55,7 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 
 #### Electron-Cash Plugins
 - [CashFusion](https://cashfusion.org/)  plugin for privately and trustlessly joining coin amounts.
-- [Flipstarter](https://gitlab.com/flipstarter/flipstarter-electron-cash) plugin for crowdfunding
+- [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) plugin for crowdfunding
 
 
 ## General Libraries & Software Development Kits:
@@ -63,6 +63,7 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
 - [Bitcoin Cash JavaScript Library based on BITBOX
 ](https://fullstack.cash)[[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner BitBox stack
+- [libcash-js](https://developers.cash/resource/libcash-js/default) - Javascript library using the flowee api
 - [Badger SDK docs](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet
 - [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - A python3 library for bitcoin cash.
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) protobuf based javascript client for interacting with bchd full nodes
@@ -86,7 +87,7 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 
 ### Social
 - [read.cash](https://read.cash) - A long-format blogging platform allowing BCH tipping for content
-- [flipstarter](https://flipstarter.cash/) - A crowd funding app using Anyone can pay multisig transactions 
+- [flipstarter](https://flipstarter.cash/) [https://read.cash/@flipstarter/introducing-flipstarter-695d4d50](Introduction)- A crowd funding app using Anyone can pay multisig transactions 
 - [memo.cash](https://memo.cash) - Short message social media site with decentralized SLP token exchange
 - [member.cash](https://member.cash) - Longer format social media platform with voting, tipping, moderation and filtering
 
@@ -96,13 +97,18 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits
-- [Satoshi dice](https://www.satoshidice.com/) -  game
+- [Satoshi dice](https://www.satoshidice.com/) -  Provably fair dic game
 
 ## Merchant Listings
 
+
 ### Awesome merchants
-- [A good suit from lanieri](https://www.lanieri.com) - not that you would ever need one, for work.
+
+There are many places that accept Bitcoin Cash that a developer might need, this list is meant to highlight the really awesome ones and not replicate the listing services below. They have accepted Bitcoin Cash for years and are committed or sympathetic toward the idea of electronic cash payments.
+
+- [Lanieri](https://www.lanieri.com) - makes a good suit, not that you would ever need one, for work.
 - [Cheap plane tickets](https://www.cheapair.com) - for your fancy developer conferences. 
+- [newegg.com](any item sold by newegg) - "Buy a good headset" should be rule #1 for remote devsent laptop.
 
 ### Merchants near you or where you're headed
 - [Member map](https://memberapp.github.io/#map) - Permanent on-chain geographic tags utilizing extensions to the memo protocol.
