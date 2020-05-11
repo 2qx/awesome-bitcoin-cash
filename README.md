@@ -1,7 +1,7 @@
 # awesome-bitcoin-cash
 A developer oriented list of awesome bitcoin cash resources 🕶️
 
-Bitcoin Cash a cryptocurrency scaling to be an electronic peer-to-peer system as first described, implemented, and mined by Satoshi Nakamoto. 
+Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world, as first described, implemented, and mined by Satoshi Nakamoto. 
 
 # Whitepaper
 
