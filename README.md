@@ -108,7 +108,7 @@ There are many places that accept Bitcoin Cash that a developer might need, this
 
 - [Lanieri](https://www.lanieri.com) - makes a good suit, not that you would ever need one, for work.
 - [Cheap plane tickets](https://www.cheapair.com) - for your fancy developer conferences. 
-- [newegg.com](any item sold by newegg) - "Buy a good headset" should be rule #1 for remote devsent laptop.
+- [Items sold by newegg](https://newegg.com) - Buy a good headset.
 
 ### Merchants near you or where you're headed
 - [Member map](https://memberapp.github.io/#map) - Permanent on-chain geographic tags utilizing extensions to the memo protocol.
