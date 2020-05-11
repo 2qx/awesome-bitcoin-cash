@@ -107,7 +107,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits
-- [Satoshi dice](https://www.satoshidice.com/) -  Provably fair dic game
+- [Satoshi dice](https://www.satoshidice.com/) -  Provably fair dice game
 
 ## Merchant Listings
 
@@ -117,7 +117,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 There are many places that accept Bitcoin Cash, this list is meant to highlight the really awesome ones and not replicate the listing services below. They have accepted Bitcoin Cash for years and are committed or sympathetic toward the idea of electronic cash payments.
 
 - [Lanieri](https://www.lanieri.com) - makes a good suit, not that you would ever need one, for work.
-- [Cheap plane tickets](https://www.cheapair.com) - for your fancy developer conferences. 
+- [Cheap plane tickets](https://www.cheapair.com) - for your travel needs. 
 - [Items sold by newegg](https://newegg.com) - Buy a good headset.
 
 ### Merchants near you or where you're headed
