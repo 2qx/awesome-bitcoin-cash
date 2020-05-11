@@ -1,5 +1,5 @@
 # awesome-bitcoin-cash
-A curated list of awesome bitcoin cash resources for devs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome bitcoin cash dev resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
@@ -60,16 +60,21 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 
 ## General Libraries & Software Development Kits:
 
+### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
+- [Badger SDK docs](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet supporting BCH and SLP
+
+### Javascript
 - [Bitcoin Cash JavaScript Library based on BITBOX
 ](https://fullstack.cash)[[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner BitBox stack
 - [libcash-js](https://developers.cash/resource/libcash-js/default) - Javascript library using the flowee api
-- [Badger SDK docs](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet
-- [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - A python3 library for bitcoin cash.
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) protobuf based javascript client for interacting with bchd full nodes
+
+### Python
+- [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - A python3 library for bitcoin cash.
 - [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) protobug based pyhton client for bchd
 
-## Tokens
+## SLP Tokens
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/) 
 - [slpjs](https://github.com/simpleledger/slpjs) - Library for interacting with SLP tokens, dependant on bitbox.
 - [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - Link to sdks for android and iOS
@@ -87,7 +92,7 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 
 ### Social
 - [read.cash](https://read.cash) - A long-format blogging platform allowing BCH tipping for content
-- [flipstarter](https://flipstarter.cash/) [https://read.cash/@flipstarter/introducing-flipstarter-695d4d50](Introduction)- A crowd funding app using Anyone can pay multisig transactions 
+- [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50] A crowd funding app using Anyone can pay multisig transactions 
 - [memo.cash](https://memo.cash) - Short message social media site with decentralized SLP token exchange
 - [member.cash](https://member.cash) - Longer format social media platform with voting, tipping, moderation and filtering
 
@@ -104,7 +109,7 @@ In the lead up-to the chain fork with BTC, certain members of the small-block si
 
 ### Awesome merchants
 
-There are many places that accept Bitcoin Cash that a developer might need, this list is meant to highlight the really awesome ones and not replicate the listing services below. They have accepted Bitcoin Cash for years and are committed or sympathetic toward the idea of electronic cash payments.
+There are many places that accept Bitcoin Cash, this list is meant to highlight the really awesome ones and not replicate the listing services below. They have accepted Bitcoin Cash for years and are committed or sympathetic toward the idea of electronic cash payments.
 
 - [Lanieri](https://www.lanieri.com) - makes a good suit, not that you would ever need one, for work.
 - [Cheap plane tickets](https://www.cheapair.com) - for your fancy developer conferences. 
