@@ -3,7 +3,7 @@ A curated list of awesome bitcoin cash dev resources [![Awesome](https://awesome
 
 📤 [A shareable link](https://2qx.github.io/awesome-bitcoin-cash/)
 
-Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
+Bitcoin Cash (BCH) is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
 # Whitepaper
 
@@ -27,6 +27,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [Chris Troutner's introduction](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) to developing on Bitcoin Cash
 - [developers.cash](https://developers.cash/) many useful resources and [tools](https://developers.cash/tools/)
 - [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) Libraries for interacting with Bitcoin Cash
+- [KeepBitcoinFree](https://keepbitcoinfree.org/bch-dev/) 
 
 ## Base Protocol
 
@@ -70,6 +71,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 ### Paper/Offline Generator
 - [Cash Address Generator](https://cashaddress.org/) - Reputible javascript random address generator suitable for offline use.
 - [BCH Gifts](https://gifts.bitcoin.com/) - Generate reclaimable preloaded paper private keys as gifts.
+- [SLP wallet generator](https://wallet.bitchslap.tech/) - Simple Ledger Paper Wallet
 
 ## General Libraries & Software Development Kits:
 
@@ -93,7 +95,6 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/) 
 - [slpjs](https://github.com/simpleledger/slpjs) - Library for interacting with SLP tokens, dependant on bitbox.
 - [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - Link to sdks for android and iOS
-- [SLPDEX](https://slpdex.cash/) - Decentralized token exchange
 
 ## Scripting
 
@@ -103,6 +104,12 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) A solidity-style language for bitcoin cash
  
 # Adoption
+
+### Shipyard
+
+These are up and coming projects in beta:
+
+- [causes.cash](https://causes.cash/) - A site for creating your own fundraising campaign
 
 ## Apps
 
@@ -114,7 +121,6 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 ### Social
 - [read.cash](https://read.cash) - A long-format blogging platform allowing BCH tipping for content
 - [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) A crowd funding app using anyone can pay multisig transactions 
-- [causes.cash](https://causes.cash/) - A site for creating your own fundraising campaign
 - [memo.cash](https://memo.cash) - Short message social media site with decentralized SLP token exchange
 - [member.cash](https://member.cash) - Longer format social media platform with voting, tipping, moderation and filtering
 
@@ -126,44 +132,49 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits
 - [Satoshi dice](https://www.satoshidice.com/) -  Provably fair dice game
 
+### Web
+
+- [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - A simple embedable script to accept bitcoin cash on your website
+
 ### Bots
 
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties
 
-## Dormant Apps
+## Launchpad
 
-These are awesome projects which appear to be dormant due to lack of use.
+Awesome projects which appear to be dormant due to lack of use.
 
 - [lazyfox](https://lazyfox.io) - A Bitcoin Cash Powered Question and Answer / Tasking Platform 
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a bitcoin cash stack exchange
 - [Satoshi Wall](https://satoshiwall.cash/) - A non-custodial payment wall service
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - Bounties for github commits
 
+
 ## In the Boneyard
+
+These ships are apparently in long term storage
+
 - [Learn Bitcoin dot Cash](https://learnbitcoin.cash/) - Letsencrypt expired Monday, April 27, 2020 at 2:24:48 PM
 - [BCH Pizza](https://www.bchpizza.org) - Connection Refused
+- [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange
 
 
-## eCommerce Plugins
+## eCommerce 
+
+### Plugins and Resources
 
 - [WooCommerce plugin](https://github.com/sanchaz/P2P-Electronic-Cash-Payments-for-WooCommerce) - accepting BCH and BSV
 - [BitPay developer tools](https://bitpay.com/docs)
 - [Shopify Cryptocurrency Docs](https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency)
 
-## Merchant Listings
+#### The Awesome Short List
 
-### Awesome merchants
+This list is meant to highlight the really awesome sites, but not replicate the general listing services below. They have accepted Bitcoin Cash for years and are committed (or sympathetic) toward the idea of electronic cash payments.
 
-There are many places that accept Bitcoin Cash.
-
-#### The Short List
-
-This list is meant to highlight the really awesome ones and not replicate the listing services below. They have accepted Bitcoin Cash for years and are committed or sympathetic toward the idea of electronic cash payments.
-
-- [Lanieri](https://www.lanieri.com) - makes a good suit, not that you would ever need one, for work.
 - [Cheap plane tickets](https://www.cheapair.com) - for your travel needs. 
 - [Items sold by newegg](https://newegg.com) - good for a great headset.
+- [Lanieri](https://www.lanieri.com) - makes a good suit, not that you would ever need one, for work.
 
 ### Merchants near you or where you're headed
 - [Member map](https://memberapp.github.io/#map) - Permanent on-chain geographic tags utilizing extensions to the memo protocol.
@@ -176,7 +187,7 @@ This list is meant to highlight the really awesome ones and not replicate the li
 - [Openbazaar Listings](https://openbazaar.com) - Web listings for distributed multicoin marketplace with integrated wallet
 - [Purse.io](https://purse.io/) - Service to privately purchace goods on Amazon.com (US) at a discount
 
-## Awesome Charities
+## Awesome Charities and Foundations
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/)
 - [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4)
 - [Tails](https://tails.boum.org/donate/index.en.html)
