@@ -59,9 +59,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments
 - [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation
 
-
 ### Mobile
-
 - [Electron-Cash](https://electroncash.org) - Android and iOS version available with limited functionality 
 - [neutrino](https://github.com/gcash/android-neutrino) - An android wallet with advanced privacy features.
 
@@ -69,9 +67,9 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [bchwallet](https://github.com/gcash/bchwallet) - A secure bitcoin cash wallet daemon written in Go (golang)
 - [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - An SPV wallet in Go (golang) used by openbazaar2
 
-### Offline Address Generator
-
+### Paper/Offline Generator
 - [Cash Address Generator](https://cashaddress.org/) - Reputible javascript random address generator suitable for offline use.
+- [BCH Gifts](https://gifts.bitcoin.com/) - Generate reclaimable preloaded paper private keys as gifts.
 
 ## General Libraries & Software Development Kits:
 
@@ -91,14 +89,17 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) protobuf based python client for bchd
 
 ## SLP Tokens
+
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/) 
 - [slpjs](https://github.com/simpleledger/slpjs) - Library for interacting with SLP tokens, dependant on bitbox.
 - [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - Link to sdks for android and iOS
+- [SLPDEX](https://slpdex.cash/) - Decentralized token exchange
 
 ## Scripting
 
 - [meep](https://github.com/gcash/meep) - Meep is a command line Bitcoin Cash script debugger
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication
+- [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - Spedn is a high level smart contracts language for Bitcoin Cash
 - [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) A solidity-style language for bitcoin cash
  
 # Adoption
