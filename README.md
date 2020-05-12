@@ -47,7 +47,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) A descendant of the Bitcoin Core and Bitcoin ABC software projects with independant development team. C/C++.
 - [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) An alternative full node bitcoin cash implementation written in Go (golang)
 - [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) A Java implementation with the goal of being interoperable with mining nodes
-- [flowee](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) A full node supporting a suite of software focued on payment integration.
+- [flowee TheHub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) A full node supporting a suite of software focued on payment integration. C++
 
 ## Open Source Wallets
 
@@ -99,11 +99,16 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 - [meep](https://github.com/gcash/meep) - Meep is a command line Bitcoin Cash script debugger
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication
-- [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) A solidity like language for bitcoin cash
+- [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) A solidity-style language for bitcoin cash
  
 # Adoption
 
 ## Apps
+
+### Network
+
+- [doublespend.cash](https://doublespend.cash) - View Bitcoin Cash double spend attempts
+- [tx street](https://txstreet.com/beta) - Transaction visualizer
 
 ### Social
 - [read.cash](https://read.cash) - A long-format blogging platform allowing BCH tipping for content
@@ -121,7 +126,8 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ### Bots
 
-- [chaintip](https://www.chaintip.org) - An on-chain non-custodial reddit tipping bot.
+- [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
+- [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties
 
 ## Boneyard
 
@@ -156,7 +162,7 @@ This list is meant to highlight the really awesome ones and not replicate the li
 - [Bitcoin.com map](https://map.bitcoin.com/) - Website and mobile app for discovering merchants, formerly marcocoino
 - [Greenpages map](https://greenpages.cash/pages/map.php) - Merchant finder with advanced filtering
 
-### Listing searches across the broader internet
+### Listing directories across the broader internet
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - Browsable list of merchants and stores
 - [Bitpay Directory](https://bitpay.com/directory) - Partial and outdated list of websites using bitpay as a payment processor.
 - [Openbazaar Listings](https://openbazaar.com) - Web listings for distributed multicoin marketplace with integrated wallet
