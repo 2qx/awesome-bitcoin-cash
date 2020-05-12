@@ -1,6 +1,8 @@
 # awesome-bitcoin-cash
 A curated list of awesome bitcoin cash dev resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+📤 [A shareable link as a pretty webpage via github pages](https://2qx.github.io/awesome-bitcoin-cash/)
+
 Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
 # Whitepaper
@@ -115,6 +117,20 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits
 - [Satoshi dice](https://www.satoshidice.com/) -  Provably fair dice game
+
+### Bots
+
+- [chaintip](https://www.chaintip.org) - An on-chain non-custodial reddit tipping bot.
+
+## Boneyard
+
+These are awesome projects which appear to be dormant due to lack of users, and may come back one day.
+
+- [lazyfox](lazyfox.io) - A Bitcoin Cash Powered Question and Answer / Tasking Platform 
+- [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a bitcoin cash stack exchange
+- [Satoshi Wall](https://satoshiwall.cash/) - A non-custodial payment wall service
+
+
 
 ## eCommerce Plugins
 
