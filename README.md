@@ -133,15 +133,18 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 These are awesome projects which appear to be dormant due to lack of users, and may come back one day.
 
-- [lazyfox](lazyfox.io) - A Bitcoin Cash Powered Question and Answer / Tasking Platform 
+- [lazyfox](https://lazyfox.io) - A Bitcoin Cash Powered Question and Answer / Tasking Platform 
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a bitcoin cash stack exchange
 - [Satoshi Wall](https://satoshiwall.cash/) - A non-custodial payment wall service
 - [Learn Bitcoin dot Cash](https://learnbitcoin.cash/) - Letsencrypt expired Monday, April 27, 2020 at 2:24:48 PM
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - Bounties for github commits
 
+
 ## eCommerce Plugins
 
 - [WooCommerce plugin](https://github.com/sanchaz/P2P-Electronic-Cash-Payments-for-WooCommerce) - accepting BCH and BSV
+- [BitPay developer tools](https://bitpay.com/docs)
+- [Shopify Cryptocurrency Docs](https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency)
 
 ## Merchant Listings
 
