@@ -15,7 +15,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 # Roadmaps
 
-- [Roadmap](https://www.bitcoincash.org/roadmap.html) 
+- [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) 
 - [Coin Dance List](https://cash.coin.dance/development) - A list of broader developments and proposals 
 - [Detailed Specs](https://www.bitcoincash.org/specs/) - An ongoing list of detailed specifications
 
@@ -34,7 +34,8 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [SLP Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md) for handling tradable or redeemable tokens
 - [Memo Protocol](https://memo.cash/protocol) - For the on-chain tweet style social media app
 - [Memo with Member extensions](https://github.com/memberapp/protocol) - For creating a reddit/hn style app
-- [Cashfusion](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - A protocol for joining inputs from many parties to larger amounts
+- [CashShuffle](https://cashshuffle.com/)[[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) A privacy protocol for to combining transactions with others.
+- [CashFusion](https://cashfusion.org/)[[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) A privacy protocol for privately and trustlessly joining coin amounts.
 
 ## Full Nodes
 
@@ -48,11 +49,13 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 ## Open Source Wallets
 
 ### Desktop
-- [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SVP wallet for Bitcoin Cash - Accept no imitations
+- [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash
 
 #### Electron-Cash Plugins
-- [CashFusion](https://cashfusion.org/)  plugin for privately and trustlessly joining coin amounts.
-- [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) plugin for crowdfunding
+- [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding
+- [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments
+- [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation
+
 
 ### Mobile
 
@@ -89,8 +92,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [meep](https://github.com/gcash/meep) - Meep is a command line Bitcoin Cash script debugger
 - [bitauth ide](https://ide.bitauth.com/) - an integrated development environment for bitcoin authentication
 - [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) A solidity like language for bitcoin cash
-
-
+ 
 # Adoption
 
 ## Apps
@@ -109,8 +111,11 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits
 - [Satoshi dice](https://www.satoshidice.com/) -  Provably fair dice game
 
-## Merchant Listings
+## eCommerce Plugins
 
+- [WooCommerce plugin](https://github.com/sanchaz/P2P-Electronic-Cash-Payments-for-WooCommerce) - accepting BCH and BSV
+
+## Merchant Listings
 
 ### Awesome merchants
 
