@@ -82,7 +82,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) protobuf based javascript client for interacting with bchd full nodes
 
 ### Typescript
-- [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
+- [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
 - [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet supporting BCH and SLP
 - [bitcoin-ts](https://github.com/bitauth/bitcoin-ts) - A zero-dependency, typescript bitcoin library, including WASM crypto functions
 
@@ -98,7 +98,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 ## Scripting
 
 - [meep](https://github.com/gcash/meep) - Meep is a command line Bitcoin Cash script debugger
-- [bitauth ide](https://ide.bitauth.com/) - an integrated development environment for bitcoin authentication
+- [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication
 - [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) A solidity like language for bitcoin cash
  
 # Adoption
