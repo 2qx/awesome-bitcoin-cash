@@ -104,7 +104,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ### Social
 - [read.cash](https://read.cash) - A long-format blogging platform allowing BCH tipping for content
-- [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50] A crowd funding app using Anyone can pay multisig transactions 
+- [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) A crowd funding app using Anyone can pay multisig transactions 
 - [memo.cash](https://memo.cash) - Short message social media site with decentralized SLP token exchange
 - [member.cash](https://member.cash) - Longer format social media platform with voting, tipping, moderation and filtering
 
