@@ -66,11 +66,16 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [bchwallet](https://github.com/gcash/bchwallet) - A secure bitcoin cash wallet daemon written in Go (golang)
 - [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - An SPV wallet in Go (golang) used by openbazaar2
 
+### Offline Address Generator
+
+- [Cash Address Generator](https://cashaddress.org/) - Reputible javascript random address generator suitable for offline use.
+
 ## General Libraries & Software Development Kits:
 
 ### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
 - [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet supporting BCH and SLP
+- [bitcoin-ts](https://github.com/bitauth/bitcoin-ts) - A zero-dependency, typescript bitcoin library, including WASM crypto functions
 
 ### Javascript
 - [Bitcoin Cash JavaScript Library based on BITBOX
