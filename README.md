@@ -158,7 +158,7 @@ This list is meant to highlight the really awesome ones and not replicate the li
 
 ### Listing searches across the broader internet
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - Browsable list of merchants and stores
-- [Bitpay Directory](https://bitpay.com/directory) - Partial and outdateed list of websites using bitpay as a payment processor.
+- [Bitpay Directory](https://bitpay.com/directory) - Partial and outdated list of websites using bitpay as a payment processor.
  using ipfs.
 - [Openbazaar Listings](https://openbazaar.com) - Distributed multicoin marketplace with integrated wallet
 - [Purse.io](https://purse.io/) - Service to privately purchace goods on Amazon.com (US) at a discount
