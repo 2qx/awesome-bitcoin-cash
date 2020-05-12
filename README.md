@@ -124,11 +124,15 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ### Awesome merchants
 
-There are many places that accept Bitcoin Cash, this list is meant to highlight the really awesome ones and not replicate the listing services below. They have accepted Bitcoin Cash for years and are committed or sympathetic toward the idea of electronic cash payments.
+There are many places that accept Bitcoin Cash.
+
+#### The Short List
+
+This list is meant to highlight the really awesome ones and not replicate the listing services below. They have accepted Bitcoin Cash for years and are committed or sympathetic toward the idea of electronic cash payments.
 
 - [Lanieri](https://www.lanieri.com) - makes a good suit, not that you would ever need one, for work.
 - [Cheap plane tickets](https://www.cheapair.com) - for your travel needs. 
-- [Items sold by newegg](https://newegg.com) - Buy a good headset.
+- [Items sold by newegg](https://newegg.com) - good for a great headset.
 
 ### Merchants near you or where you're headed
 - [Member map](https://memberapp.github.io/#map) - Permanent on-chain geographic tags utilizing extensions to the memo protocol.
@@ -142,5 +146,7 @@ There are many places that accept Bitcoin Cash, this list is meant to highlight 
 - [Openbazaar Listings](https://openbazaar.com) - Distributed multicoin marketplace with integrated wallet
 - [Purse.io](https://purse.io/) - Service to privately purchace goods on Amazon.com (US) at a discount
 
-## Awesome Charity
+## Awesome Charities
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/)
+- [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4)
+- [Tails](https://tails.boum.org/donate/index.en.html)
