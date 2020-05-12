@@ -25,7 +25,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 # Developer resources:
 
 - [Chris Troutner's introduction](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) to developing on Bitcoin Cash
-- [developers.cash](https://developers.cash/) Many useful resources
+- [developers.cash](https://developers.cash/) many useful resources and [tools](https://developers.cash/tools/)
 - [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) Libraries for interacting with Bitcoin Cash
 
 ## Base Protocol
