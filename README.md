@@ -88,7 +88,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ### Python
 - [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - A python3 library for bitcoin cash.
-- [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) protobuf based pyhton client for bchd
+- [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) protobuf based python client for bchd
 
 ## SLP Tokens
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/) 
