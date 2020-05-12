@@ -113,7 +113,8 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ### Social
 - [read.cash](https://read.cash) - A long-format blogging platform allowing BCH tipping for content
-- [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) A crowd funding app using Anyone can pay multisig transactions 
+- [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) A crowd funding app using anyone can pay multisig transactions 
+- [https://causes.cash/] - A site for creating your own fundraising campaign
 - [memo.cash](https://memo.cash) - Short message social media site with decentralized SLP token exchange
 - [member.cash](https://member.cash) - Longer format social media platform with voting, tipping, moderation and filtering
 
@@ -130,15 +131,18 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties
 
-## Boneyard
+## Dormant Apps
 
-These are awesome projects which appear to be dormant due to lack of users, and may come back one day.
+These are awesome projects which appear to be dormant due to lack of use.
 
 - [lazyfox](https://lazyfox.io) - A Bitcoin Cash Powered Question and Answer / Tasking Platform 
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a bitcoin cash stack exchange
 - [Satoshi Wall](https://satoshiwall.cash/) - A non-custodial payment wall service
-- [Learn Bitcoin dot Cash](https://learnbitcoin.cash/) - Letsencrypt expired Monday, April 27, 2020 at 2:24:48 PM
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - Bounties for github commits
+
+## In the Boneyard
+- [Learn Bitcoin dot Cash](https://learnbitcoin.cash/) - Letsencrypt expired Monday, April 27, 2020 at 2:24:48 PM
+- [BCH Pizza](https://www.bchpizza.org) - Connection Refused
 
 
 ## eCommerce Plugins
