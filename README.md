@@ -1,7 +1,7 @@
 # awesome-bitcoin-cash
 A curated list of awesome bitcoin cash dev resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-📤 [A shareable link as a pretty webpage via github pages](https://2qx.github.io/awesome-bitcoin-cash/)
+📤 [A shareable link](https://2qx.github.io/awesome-bitcoin-cash/)
 
 Bitcoin Cash is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
@@ -18,14 +18,15 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 # Roadmaps
 
 - [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html)  
-- [Detailed Specs](https://www.bitcoincash.org/specs/) - An ongoing list of detailed specifications
-- [Coin Dance List](https://cash.coin.dance/development) - A broader list of developments and proposals in various states
+- [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - An ongoing list of detailed specifications
+- [Coin Dance List](https://cash.coin.dance/development) - A broader list of developments and proposals in various states from many groups
+- [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - An awesome early Bitcoin Cash list.
 
 # Developer resources:
 
-- [Chris Troutner's introduction](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) to developing on bitcoin cash
-- https://developers.cash/
-- https://www.bitcoincash.org/developers.html
+- [Chris Troutner's introduction](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) to developing on Bitcoin Cash
+- [developers.cash](https://developers.cash/) Many useful resources
+- [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) Libraries for interacting with Bitcoin Cash
 
 ## Base Protocol
 
@@ -33,16 +34,16 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ### Secondary protocols:
 
-- [SLP Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md) for handling tradable or redeemable tokens
+- [SLP Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md) for handling fungible or redeemable tokens
 - [Memo Protocol](https://memo.cash/protocol) - For the on-chain tweet style social media app
 - [Memo with Member extensions](https://github.com/memberapp/protocol) - For creating a reddit/hn style app
-- [CashShuffle](https://cashshuffle.com/)[[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) A privacy protocol for to combining transactions with others.
+- [CashShuffle](https://cashshuffle.com/)[[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) A privacy protocol for combining transactions with others, splitting to the lowest common amount.
 - [CashFusion](https://cashfusion.org/)[[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) A privacy protocol for privately and trustlessly joining coin amounts.
 
 ## Full Nodes
 
 - [BitcoinABC](https://www.bitcoinabc.org/) [[mirror]](https://github.com/Bitcoin-ABC/bitcoin-abc) Bitcoin ABC is a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
-- [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) A full node implentation focused on supporting user needs.
+- [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) A full node implentation focused on supporting user needs, C/C++.
 - [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) A descendant of the Bitcoin Core and Bitcoin ABC software projects with independant development team. C/C++.
 - [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) An alternative full node bitcoin cash implementation written in Go (golang)
 - [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) A Java implementation with the goal of being interoperable with mining nodes
@@ -74,20 +75,20 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ## General Libraries & Software Development Kits:
 
+### Javascript
+- [Bitcoin Cash JavaScript Library based on BITBOX
+](https://fullstack.cash)[[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner Bitcoin Cash stack
+- [libcash-js](https://developers.cash/resource/libcash-js/default) - Javascript library using the flowee api
+- [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) protobuf based javascript client for interacting with bchd full nodes
+
 ### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/)[[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
 - [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet supporting BCH and SLP
 - [bitcoin-ts](https://github.com/bitauth/bitcoin-ts) - A zero-dependency, typescript bitcoin library, including WASM crypto functions
 
-### Javascript
-- [Bitcoin Cash JavaScript Library based on BITBOX
-](https://fullstack.cash)[[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner BitBox stack
-- [libcash-js](https://developers.cash/resource/libcash-js/default) - Javascript library using the flowee api
-- [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) protobuf based javascript client for interacting with bchd full nodes
-
 ### Python
 - [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - A python3 library for bitcoin cash.
-- [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) protobug based pyhton client for bchd
+- [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) protobuf based pyhton client for bchd
 
 ## SLP Tokens
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/) 
@@ -129,8 +130,8 @@ These are awesome projects which appear to be dormant due to lack of users, and 
 - [lazyfox](lazyfox.io) - A Bitcoin Cash Powered Question and Answer / Tasking Platform 
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a bitcoin cash stack exchange
 - [Satoshi Wall](https://satoshiwall.cash/) - A non-custodial payment wall service
-
-
+- [Learn Bitcoin dot Cash](https://learnbitcoin.cash/) - Letsencrypt expired Monday, April 27, 2020 at 2:24:48 PM
+- [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - Bounties for github commits
 
 ## eCommerce Plugins
 
