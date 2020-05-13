@@ -41,8 +41,8 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [SLP Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md) - for handling fungible or redeemable tokens
 - [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app
 - [Memo with Member extensions](https://github.com/memberapp/protocol) - for creating a reddit/hn style app
-- [CashShuffle](https://cashshuffle.com/)[[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
-- [CashFusion](https://cashfusion.org/)[[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
+- [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
+- [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 
 ## Full Nodes
 
@@ -180,13 +180,13 @@ These ships are apparently in long term storage
 
 This list is meant to highlight the really awesome sites, but not replicate the general listing services below. They have accepted Bitcoin Cash for years and are committed (or sympathetic) toward the idea of electronic cash payments.
 
-- [namecheap](https://namecheap.com) - dns, ssl and some hosting
-- [cheapair](https://www.cheapair.com) - for your travel needs. 
-- [items sold by newegg](https://newegg.com) - good for a great headset.
-- [lanieri](https://www.lanieri.com) - makes a good suit.
+- [Namecheap](https://namecheap.com) - dns, ssl and some hosting.
+- [CheapAir](https://www.cheapair.com) - for your travel needs. 
+- [items sold by Newegg](https://kb.newegg.com/knowledge-base/using-bitcoin-on-newegg/) - good for a great headset.
+- [Lanieri](https://www.lanieri.com) - makes a good suit.
 
 ### Merchants near you or where you're headed
-- [Member map](https://memberapp.github.io/#map) - permanent on-chain geographic tags utilizing extensions to the memo protocol.
+- [member map](https://memberapp.github.io/#map) - permanent on-chain geographic tags utilizing extensions to the memo protocol.
 - [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino
 - [Greenpages map](https://greenpages.cash/pages/map.php) - merchant finder with advanced filtering
 
