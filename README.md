@@ -9,7 +9,7 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 
 # Whitepaper
 
-The bitcoin whitepaper by Satoshi Nakamoto:
+"Bitcoin: A Peer-to-Peer Electronic Cash System" by Satoshi Nakamoto:
 
 - [Archived copy](http://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf) of the bitcoin whitepaper from bitcoin.org
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs
