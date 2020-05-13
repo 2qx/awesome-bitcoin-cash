@@ -1,7 +1,7 @@
 # awesome-bitcoin-cash
 A curated list of awesome bitcoin cash dev resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-📤 [A shareable link](https://2qx.github.io/awesome-bitcoin-cash/) of this README fomatted with github pages
+📤 [A shareable link](https://2qx.github.io/awesome-bitcoin-cash/) of this README formatted with github pages
 
 Bitcoin Cash (BCH) is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
@@ -51,7 +51,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independant development team. C/C++.
 - [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) - alternative implementation written in Go (golang)
 - [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes
-- [flowee TheHub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focued on payment integration. C++
+- [flowee TheHub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
 
 ## Open Source Wallets
 
@@ -76,7 +76,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [blockparty](https://blockparty.sh/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitox.earth
 
 ### Paper/Offline Generator
-- [Cash Address Generator](https://cashaddress.org/) - reputible javascript random address generator suitable for offline use.
+- [Cash Address Generator](https://cashaddress.org/) - reputable javascript random address generator suitable for offline use.
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 - [SLP wallet generator](https://wallet.bitchslap.tech/) - generator for Simple Ledger addresses
 
@@ -100,7 +100,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 ## SLP Tokens
 
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/) 
-- [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependant on bitbox.
+- [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
 - [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - link to sdks for android and iOS.
 
 ## Scripting
@@ -142,7 +142,7 @@ These are up and coming projects in beta:
 
 ### Web
 
-- [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple embedable script to accept Bitcoin Cash on your website
+- [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple snippet to accept Bitcoin Cash on your website
 
 ### Bots
 
@@ -180,20 +180,21 @@ These ships are apparently in long term storage
 
 This list is meant to highlight the really awesome sites, but not replicate the general listing services below. They have accepted Bitcoin Cash for years and are committed (or sympathetic) toward the idea of electronic cash payments.
 
-- [Cheap plane tickets](https://www.cheapair.com) - for your travel needs. 
-- [Items sold by newegg](https://newegg.com) - good for a great headset.
-- [Lanieri](https://www.lanieri.com) - makes a good suit.
+- [namecheap](https://namecheap.com) - dns, ssl and some hosting
+- [cheapair](https://www.cheapair.com) - for your travel needs. 
+- [items sold by newegg](https://newegg.com) - good for a great headset.
+- [lanieri](https://www.lanieri.com) - makes a good suit.
 
 ### Merchants near you or where you're headed
 - [Member map](https://memberapp.github.io/#map) - permanent on-chain geographic tags utilizing extensions to the memo protocol.
-- [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marcocoino
+- [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino
 - [Greenpages map](https://greenpages.cash/pages/map.php) - merchant finder with advanced filtering
 
 ### Listing directories across the broader internet
-- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - browsable list of merchants and stores
+- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - list of merchants and stores
 - [Bitpay Directory](https://bitpay.com/directory) - partial and outdated list of websites using bitpay as a payment processor.
 - [Openbazaar Listings](https://openbazaar.com) - web listings for distributed multicoin marketplace with integrated wallet
-- [Purse.io](https://purse.io/) - service to privately purchace goods on Amazon.com (US) at a discount
+- [Purse.io](https://purse.io/) - service to privately purchase goods on Amazon.com (US) at a discount
 
 ## Awesome Charities and Foundations
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/)
