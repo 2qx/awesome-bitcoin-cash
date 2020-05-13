@@ -5,7 +5,7 @@ A curated list of awesome bitcoin cash dev resources [![Awesome](https://awesome
 
 Bitcoin Cash (BCH) is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
 
-This project is not a fork of the [awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) project with a more general focus.
+This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) project with a more general focus.
 
 # Whitepaper
 
@@ -14,23 +14,23 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [Archived copy](http://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf) of the bitcoin whitepaper from bitcoin.org
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs
 - [A list of websites hosting the bitcoin whitepaper](https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated hourly
-- [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for decoding a version of the original paper hosted on the bitcoin blockchain
+- [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for decoding a version of the original paper hosted on the pre-fork bitcoin blockchain
  
 
 # Roadmaps
 
-- [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html)  
-- [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - An ongoing list of detailed specifications
-- [Coin Dance List](https://cash.coin.dance/development) - A broader list of developments and proposals in various states from many groups
-- [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - An awesome early Bitcoin Cash list.
+- [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - official.
+- [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list of detailed specifications
+- [Coin Dance List](https://cash.coin.dance/development) - a broader list of developments and proposals in various states from many groups
+- [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - an awesome early Bitcoin Cash list.
 
 # Developer resources:
 
-- [Chris Troutner's introduction](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) to developing on Bitcoin Cash
-- [developers.cash](https://developers.cash/) many useful resources and [tools](https://developers.cash/tools/)
-- [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) Libraries for interacting with Bitcoin Cash
-- [KeepBitcoinFree](https://keepbitcoinfree.org/bch-dev/) 
-- [tutorial.cash](https://www.tutorial.cash/) Video tutorials
+- [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
+- [developers.cash](https://developers.cash/) - many useful resources and [tools](https://developers.cash/tools/)
+- [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) - libraries for interacting with Bitcoin Cash
+- [KeepBitcoinFree](https://keepbitcoinfree.org/bch-dev/) - a great list of many B/itcoin Cash projects
+- [tutorial.cash](https://www.tutorial.cash/) - video tutorials
 
 ## Base Protocol
 
@@ -68,8 +68,8 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [neutrino](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
 
 ### Cli
-- [bchwallet](https://github.com/gcash/bchwallet) - A secure bitcoin cash wallet daemon written in Go (golang)
-- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - An SPV wallet in Go (golang) used by openbazaar2
+- [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
+- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) used by openbazaar2
 
 ### Browser
 
@@ -84,7 +84,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 
 ### Javascript
 - [Bitcoin Cash JavaScript Library based on BITBOX
-](https://fullstack.cash)[[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner Bitcoin Cash stack
+](https://fullstack.cash)[[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner's Bitcoin Cash stack
 - [libcash-js](https://developers.cash/resource/libcash-js/default) - javascript library using the flowee api
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes
 
@@ -94,21 +94,21 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [bitcoin-ts](https://github.com/bitauth/bitcoin-ts) - a zero-dependency, typescript bitcoin library, including WASM crypto functions, BTC, but BCH friendly.
 
 ### Python
-- [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - python3 library for bitcoin cash.
-- [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) - sample protobuf based python client for bchd
+- [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - python3 library.
+- [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) - sample protobuf based python client for bchd.
 
 ## SLP Tokens
 
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/) 
 - [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependant on bitbox.
-- [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - link to sdks for android and iOS
+- [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - link to sdks for android and iOS.
 
 ## Scripting
 
-- [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger
+- [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication
-- [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - a high level smart contracts language for Bitcoin Cash
-- [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) - a solidity-style language for bitcoin cash
+- [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - a high level smart contracts language that compiles to Bitcoin Cash Script.
+- [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) - a solidity-style language that compiles to Bitcoin Cash Script.
  
 # Adoption
 
@@ -142,7 +142,7 @@ These are up and coming projects in beta:
 
 ### Web
 
-- [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple embedable script to accept bitcoin cash on your website
+- [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple embedable script to accept Bitcoin Cash on your website
 
 ### Bots
 
@@ -154,7 +154,7 @@ These are up and coming projects in beta:
 Awesome projects which appear to be dormant due to lack of use.
 
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform 
-- [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a bitcoin cash stack exchange
+- [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange
 - [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall service
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - bounties for github commits
 
