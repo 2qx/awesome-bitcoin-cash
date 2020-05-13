@@ -69,6 +69,10 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 - [bchwallet](https://github.com/gcash/bchwallet) - A secure bitcoin cash wallet daemon written in Go (golang)
 - [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - An SPV wallet in Go (golang) used by openbazaar2
 
+### Browser
+
+- [blockparty](https://blockparty.sh/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitox.earth
+
 ### Paper/Offline Generator
 - [Cash Address Generator](https://cashaddress.org/) - Reputible javascript random address generator suitable for offline use.
 - [BCH Gifts](https://gifts.bitcoin.com/) - Generate reclaimable preloaded paper private keys as gifts.
@@ -85,7 +89,7 @@ The bitcoin whitepaper by Satoshi Nakamoto:
 ### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) for interacting with BCH via bitcoin.com
 - [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - Browser extension wallet supporting BCH and SLP
-- [bitcoin-ts](https://github.com/bitauth/bitcoin-ts) - A zero-dependency, typescript bitcoin library, including WASM crypto functions
+- [bitcoin-ts](https://github.com/bitauth/bitcoin-ts) - A zero-dependency, typescript bitcoin library, including WASM crypto functions, BTC, but BCH friendly.
 
 ### Python
 - [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - A python3 library for bitcoin cash.
