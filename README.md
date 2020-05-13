@@ -1,11 +1,12 @@
 # awesome-bitcoin-cash
+
 A curated list of awesome bitcoin cash dev resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-📤 [A shareable link](https://2qx.github.io/awesome-bitcoin-cash/) of this README formatted with github pages
+Bitcoin Cash (BCH) is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world.
 
-Bitcoin Cash (BCH) is a cryptocurrency forked from the BTC chain aimed at scaling to be an electronic peer-to-peer system for the world. 
+This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash), a project with a more general focus.
 
-This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) project with a more general focus.
+📤 [a mobile friendly version](https://2qx.github.io/awesome-bitcoin-cash/) of this [project](https://github.com/2qx/awesome-bitcoin-cash) is formatted [a markdown file](https://github.com/2qx/awesome-bitcoin-cash/blob/master/README.md) by github pages.
 
 # Whitepaper
 
@@ -15,14 +16,14 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs
 - [A list of websites hosting the bitcoin whitepaper](https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated hourly
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for decoding a version of the original paper hosted on the pre-fork bitcoin blockchain
- 
+
 
 # Roadmaps
 
 - [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - official.
 - [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list of detailed specifications
 - [Coin Dance List](https://cash.coin.dance/development) - a broader list of developments and proposals in various states from many groups
-- [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - an awesome early Bitcoin Cash list.
+
 
 # Developer resources:
 
@@ -52,6 +53,7 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 - [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) - alternative implementation written in Go (golang)
 - [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes
 - [flowee TheHub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
+- [Knuth](https://kth.cash/) [[src]](https://github.com/k-nuth/kth)- a high performance implementation of the Bitcoin protocol focused on users requiring extra capacity and resilience.
 
 ## Open Source Wallets
 
@@ -62,9 +64,10 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 - [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding
 - [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments
 - [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation
+- [More Comprehensive List](https://blog.imaginary.cash/index.php/electron-cash-plugins/) - hosted by im_uname
 
 ### Mobile
-- [Electron-Cash](https://electroncash.org) - Android and iOS version available with limited functionality 
+- [Electron-Cash](https://electroncash.org) - Android and iOS version available with limited functionality
 - [neutrino](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
 
 ### Cli
@@ -83,8 +86,7 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 ## General Libraries & Software Development Kits:
 
 ### Javascript
-- [Bitcoin Cash JavaScript Library based on BITBOX
-](https://fullstack.cash)[[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner's Bitcoin Cash stack
+- [Bitcoin Cash JavaScript Library based on BITBOX](https://fullstack.cash) [[docs]](https://bchjs.cash/bch-js/index.html) - Chris Troutner's Bitcoin Cash stack
 - [libcash-js](https://developers.cash/resource/libcash-js/default) - javascript library using the flowee api
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes
 
@@ -99,7 +101,7 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 
 ## SLP Tokens
 
-- [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/) 
+- [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
 - [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
 - [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - link to sdks for android and iOS.
 
@@ -109,14 +111,25 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication
 - [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - a high level smart contracts language that compiles to Bitcoin Cash Script.
 - [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) - a solidity-style language that compiles to Bitcoin Cash Script.
- 
+
 # Adoption
+
+The following apps are either opensource or useful 
+
+## More Comprehensive Lists
+
+There have been many projects built on Bitcoin Cash. This list doesn't attempt to be comprehensive, but the project may be found here:
+
+- [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
+- [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - A list of projects maintained by bitcoin.com
+- [A Project Developments](https://keepbitcoinfree.org/bch-dev/) - A list of projects maintained by KeepBitcoinFree
 
 ### Shipyard
 
 These are up and coming projects in beta:
 
-- [causes.cash](https://causes.cash/) - a site for creating your own fundraising campaign
+- [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
+[comment]: <> (announced 2020-05-12)
 
 ## Apps
 
@@ -128,13 +141,13 @@ These are up and coming projects in beta:
 
 ### Social
 - [read.cash](https://read.cash) - a conventional long-format blogging platform, with BCH tipping for content
-- [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) - a crowd funding app using anyone can pay multisig transactions 
+- [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) - a crowd funding app using anyone can pay multisig transactions
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange
 - [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering
 
 ### Marketplace
 - [OpenBazaar](https://openbazaar.org/download/) -  Desktop (daemon w/ electron app) p2p marketplace using multisig transactions
-- [Havenapp](https://gethaven.app/) - Mobile implementation of openbazaar 
+- [Havenapp](https://gethaven.app/) - Mobile implementation of openbazaar
 
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits, BTC and BSV supported
@@ -143,6 +156,11 @@ These are up and coming projects in beta:
 ### Web
 
 - [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple snippet to accept Bitcoin Cash on your website
+
+### Utilities
+
+- [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts or Bitcoin Cash handles.
+- [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities
 
 ### Bots
 
@@ -153,7 +171,7 @@ These are up and coming projects in beta:
 
 Awesome projects which appear to be dormant due to lack of use.
 
-- [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform 
+- [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange
 - [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall service
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - bounties for github commits
@@ -165,10 +183,10 @@ These ships are apparently in long term storage
 
 - [Learn Bitcoin dot Cash](https://learnbitcoin.cash/) - Letsencrypt expired Monday, April 27, 2020 at 2:24:48 PM
 - [BCH Pizza](https://www.bchpizza.org) - Connection Refused
-- [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange
+- [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange, errors
 
 
-## eCommerce 
+## eCommerce
 
 ### Plugins and Resources
 
@@ -181,7 +199,7 @@ These ships are apparently in long term storage
 This list is meant to highlight the really awesome sites, but not replicate the general listing services below. They have accepted Bitcoin Cash for years and are committed (or sympathetic) toward the idea of electronic cash payments.
 
 - [Namecheap](https://namecheap.com) - dns, ssl and some hosting.
-- [CheapAir](https://www.cheapair.com) - for your travel needs. 
+- [CheapAir](https://www.cheapair.com) - for your travel needs.
 - [items sold by Newegg](https://kb.newegg.com/knowledge-base/using-bitcoin-on-newegg/) - good for a great headset.
 - [Lanieri](https://www.lanieri.com) - makes a good suit.
 
@@ -198,5 +216,5 @@ This list is meant to highlight the really awesome sites, but not replicate the 
 
 ## Awesome Charities and Foundations
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/)
-- [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4) 
+- [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4)
 - [Tails](https://tails.boum.org/donate/index.en.html)
