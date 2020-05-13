@@ -122,6 +122,7 @@ These are up and coming projects in beta:
 
 - [doublespend.cash](https://doublespend.cash) - View Bitcoin Cash double spend attempts
 - [tx street](https://txstreet.com/beta) - Transaction visualizer
+- [privacy stats](https://stats.cash/#/) - List and total of shuffles and fusions
 
 ### Social
 - [read.cash](https://read.cash) - A long-format blogging platform allowing BCH tipping for content
