@@ -58,7 +58,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 "Bitcoin: A Peer-to-Peer Electronic Cash System" by Satoshi Nakamoto.
 
-- [Archived copy](http://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf) of the bitcoin whitepaper from bitcoin.org
+- [Archived copy](https://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf) of the bitcoin whitepaper from bitcoin.org
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs
 - [Websites hosting the bitcoin whitepaper](https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated hourly.
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for building the original paper encoded on the blockchain on 2013-04-06.
@@ -268,4 +268,3 @@ This list is meant to highlight really awesome sites accepting Bitcoin Cash. The
 - [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4)
 - [Tails](https://tails.boum.org/donate/index.en.html)
 
-[a broken link](https://developer.awesome.cash/)
