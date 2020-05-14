@@ -4,17 +4,15 @@
 </div>
 <br/>
 <div align="center">
-A curated list of Bitcoin Cash software developer resources 
+A curated list of Bitcoin Cash software developer resources <br>
+<a href="https://awesome.re">
+  <img src="https://awesome.re/badge.svg" alt="awesome" style="height:12px;border:10;">
+</a>
 <br />
 <br />
 Bitcoin Cash (BCH) chain-forked from BTC in 2017 to scale on-chain as an electronic peer-to-peer system for the world. 🚀
-<br/>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 <br/>
-
-
 
 This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash).
 
