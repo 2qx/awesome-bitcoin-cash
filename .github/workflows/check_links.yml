@@ -1,0 +1,25 @@
+
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on: 
+  push:
+    branches:
+    - master
+  schedule:
+  # Run everyday Sunday at 4:00 UTC
+  - cron: "0 4 * * 0"
+
+# A workflow to check all markdown links
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'yes'
+        check-modified-files-only: 'yes'
