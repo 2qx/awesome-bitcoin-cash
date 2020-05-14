@@ -20,6 +20,8 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 
 📤 [a mobile friendly version](https://2qx.github.io/awesome-bitcoin-cash/) of this [project](https://github.com/2qx/awesome-bitcoin-cash) is formatted [from markdown](https://github.com/2qx/awesome-bitcoin-cash/blob/master/README.md) by github pages.
 
+Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING.md).
+
 # Contents
 - [Contents](#contents)
 - [Whitepaper](#whitepaper)
