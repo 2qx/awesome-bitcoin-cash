@@ -267,3 +267,5 @@ This list is meant to highlight really awesome sites accepting Bitcoin Cash. The
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/)
 - [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4)
 - [Tails](https://tails.boum.org/donate/index.en.html)
+
+[a broken link](https://developer.awesome.cash/)
