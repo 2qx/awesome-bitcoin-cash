@@ -5,9 +5,9 @@ name: CI
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on: 
-  push:
-    branches:
-    - master
+  #push:
+  #  branches:
+  #  - master
   schedule:
   # Run everyday Sunday at 4:00 UTC
   - cron: "0 4 * * 0"
@@ -21,7 +21,7 @@ jobs:
       - name: Link Checker
         uses: peter-evans/link-checker@v1
         with:
-          args: -v -r *
+          args: -v -r *.md
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v2
         with:
