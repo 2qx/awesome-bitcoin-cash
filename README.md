@@ -1,30 +1,41 @@
-# awesome-bitcoin-cash
+<br/>
+<div align="center">
+  <img width="250px" src="./awesome-bitcoin-cash.png">
+</div>
+<br/>
+<div align="center">
+A curated list of Bitcoin Cash software developer resources 
+<br />
+<br />
+Bitcoin Cash (BCH) chain-forked from BTC in 2017 to scale on-chain as an electronic peer-to-peer system for the world. 🚀
+<br/>
 
-A curated list of awesome bitcoin cash dev resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+<br/>
 
-Bitcoin Cash (BCH) chain-forked from BTC in 2017 with the intention of scaling on-chain to become an electronic peer-to-peer system for the world. 🚀
+
 
 This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash).
 
 📤 [a mobile friendly version](https://2qx.github.io/awesome-bitcoin-cash/) of this [project](https://github.com/2qx/awesome-bitcoin-cash) is formatted [from markdown](https://github.com/2qx/awesome-bitcoin-cash/blob/master/README.md) by github pages.
 
 ## Contents
-- [awesome-bitcoin-cash](#awesome-bitcoin-cash)
-  - [Contents](#contents)
-  - [Whitepaper](#whitepaper)
-  - [Roadmaps](#roadmaps)
-  - [Developer resources](#developer-resources)
-    - [Base Protocol](#base-protocol)
-    - [Full Nodes](#full-nodes)
-    - [Open Source Wallets](#open-source-wallets)
-    - [Libraries & SDKs](#libraries--sdks)
-    - [Scripting](#scripting)
-    - [SLP Token Tools](#slp-token-tools)
-  - [Adoption](#adoption)
-    - [List of Project Lists](#list-of-project-lists)
-    - [Apps](#apps)
-    - [eCommerce](#ecommerce)
-    - [Charities and Foundations](#charities-and-foundations)
+- [Contents](#contents)
+- [Whitepaper](#whitepaper)
+- [Roadmaps](#roadmaps)
+- [Developer resources](#developer-resources)
+  - [Base Protocol](#base-protocol)
+  - [Full Nodes](#full-nodes)
+  - [Open Source Wallets](#open-source-wallets)
+  - [Libraries & SDKs](#libraries--sdks)
+  - [Scripting](#scripting)
+  - [SLP Token Specific Tools](#slp-token-specific-tools)
+- [Adoption](#adoption)
+  - [List of Project Lists](#list-of-project-lists)
+  - [Apps](#apps)
+  - [eCommerce](#ecommerce)
+  - [Charities and Foundations](#charities-and-foundations)
 
 ## Whitepaper
 
@@ -125,11 +136,13 @@ This project is **not a fork** of the canonical [awesome-bitcoin-cash](https://g
 - [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) - a solidity-style language that compiles to Bitcoin Cash Script.
 
 
-### SLP Token Tools
+### SLP Token Specific Tools
 
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
 - [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
-- [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - link to sdks for android and iOS.
+- [SLPDB](https://github.com/simpleledger/SLPDB) - simpleledger indexer 
+- [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer
+- [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - for android and iOS.
 
 
 ## Adoption
