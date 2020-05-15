@@ -74,6 +74,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 # Developer resources
 
 - [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
+- [Mastering Bitcoin Cash](https://developer.bitcoin.com/mastering-bitcoin-cash/) - Fork of Andreas M. Antonopoulos' book under Creative Commons
 - [developers.cash](https://developers.cash/) - many useful resources and [tools](https://developers.cash/tools/)
 - [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) - libraries for interacting with Bitcoin Cash
 - [tutorial.cash](https://www.tutorial.cash/) - video tutorials
