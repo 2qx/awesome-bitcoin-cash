@@ -114,8 +114,9 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 ### Mobile
 - [Electron-Cash](https://electroncash.org) - Android and iOS version available with limited functionality
+- [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
 - [neutrino](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
-- [crescent.cash](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
+
 
 ### Cli
 - [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
