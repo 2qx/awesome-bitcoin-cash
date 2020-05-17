@@ -85,11 +85,16 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 ### Secondary protocols
 
-- [SLP Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md) - for handling fungible or redeemable tokens
+A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstandards.org)
+  
+- [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
+- [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses
 - [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app
 - [Memo with Member extensions](https://github.com/memberapp/protocol) - for creating a reddit/hn style app
 - [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 - [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
+- [CashID](https://gitlab.com/cashid/protocol-specification) - 
+- [SLP Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md) - for handling fungible or redeemable tokens
 
 ## Full Nodes
 
@@ -152,7 +157,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication.
-- [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - a high level smart contracts language that compiles to Bitcoin Cash Script.
+- [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - a high level smart contract language that compiles to Bitcoin Cash Script.
 - [Cashscript](https://developer.bitcoin.com/cashscript/docs/language) - a solidity-style language that compiles to Bitcoin Cash Script.
 
 
@@ -173,7 +178,7 @@ There have been many projects built on Bitcoin Cash. This list doesn't attempt t
 
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
 - [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
-- [A Project Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
+- [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
 
 ## Apps
 
@@ -217,7 +222,9 @@ These are up and coming projects in beta:
 #### Bots
 
 - [chaintip](https://www.chaintip.org) - an on-chain non-custodial tipping bot for reddit/twitter & github.
+- [tipbitcoin.cash](https://tipbitcoin.cash) - Live tipping bot for video streamers.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
+
 
 ### Launchpad
 
