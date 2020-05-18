@@ -130,7 +130,8 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 ### Browser
 
 - [blockparty](https://blockparty.sh/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitox.earth
-
+- [mint](https://github.com/Bitcoin-com/mint) - Non-custodial web-based tool to manage your SLP tokens. 
+  
 ### Paper/Offline Generator
 - [Cash Address Generator](https://cashaddress.org/) - reputable javascript random address generator suitable for offline use.
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
@@ -221,8 +222,9 @@ These are up and coming projects in beta:
 
 #### Bots
 
-- [chaintip](https://www.chaintip.org) - an on-chain non-custodial tipping bot for reddit/twitter & github.
+- [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [tipbitcoin.cash](https://tipbitcoin.cash) - Live tipping bot for video streamers.
+- [bitcash](https://gitcash.io/start) - A custodial tipping bot for github. 
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 
 
