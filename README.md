@@ -38,6 +38,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Javascript](#javascript)
     - [Typescript](#typescript)
     - [Python](#python)
+    - [Java](#java)
   - [Scripting](#scripting)
   - [SLP Token Specific Tools](#slp-token-specific-tools)
 - [Adoption](#adoption)
@@ -110,7 +111,8 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 
 ### Desktop
 - [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash
-
+- [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - a Bitcoin Cash wallet in java.
+  
 #### Electron-Cash Plugins
 - [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding
 - [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments
@@ -153,6 +155,9 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 ### Python
 - [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - python3 library.
 - [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) - sample protobuf based python client for bchd.
+
+### Java
+- [bitcoincashj](https://github.com/pokkst/bitcoincashj) - Bitcoin Cash library for Java 
 
 ## Scripting
 
@@ -251,7 +256,7 @@ These ships are apparently in long term storage
 
 ### Plugins and Resources
 
-- [WooCommerce plugin](https://github.com/sanchaz/P2P-Electronic-Cash-Payments-for-WooCommerce) - accepting BCH and BSV
+- [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Woocommerce with integrated wallet
 - [BitPay developer tools](https://bitpay.com/docs)
 - [Shopify Cryptocurrency Docs](https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency)
 
@@ -263,6 +268,8 @@ This list is meant to highlight really awesome sites accepting Bitcoin Cash. The
 - [CheapAir](https://www.cheapair.com) - for your travel needs.
 - [items sold by Newegg](https://kb.newegg.com/knowledge-base/using-bitcoin-on-newegg/) - good for a great headset.
 - [Lanieri](https://www.lanieri.com) - makes a good suit.
+- [partsoven](https://www.partsoven.com/) - for that 3rd dimension of building.
+- [AdaFruit](https://www.adafruit.com/bitcoin/) - hardware dodads via bitpay 
 
 ### Merchants near you or where you're headed
 - [member map](https://memberapp.github.io/#map) - permanent on-chain geographic tags utilizing extensions to the memo protocol.
