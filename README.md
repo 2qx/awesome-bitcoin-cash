@@ -96,7 +96,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 - [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
-- [snowglobe](https://github.com/tyler-smith/snowglobe/blob/master/spec/snowglobe.md) - 🐉 Active local-state reconciliation using Avalanche 🐉
+- [snowglobe](https://github.com/tyler-smith/snowglobe/blob/master/spec/snowglobe.md) [[draft implementation (golang)]](https://github.com/gcash/bchd/tree/snowglobe/)- 🐉 Active local-state reconciliation using Avalanche 🐉 
   
 ## Full Nodes
 
