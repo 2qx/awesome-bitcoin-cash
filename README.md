@@ -92,7 +92,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses
 - [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app
 - [Memo with Member extensions](https://github.com/memberapp/protocol) - for creating a reddit/hn style app
-- [Simple Ledger Tokens SLP](https://simpleledger.cash/) [[spec]](https://github.com/simpleledger/slp-specifications/blob/master/slp-token-type-1.md) [[NFT spec]](https://github.com/simpleledger/slp-specifications/blob/master/slp-nft-1.md)- for handling ERC-20 style tokens
+- [Simple Ledger Protocol (SLP)](https://simpleledger.cash/) [[specs]](https://slp.dev) - for handling ERC-20 style tokens
 - [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 - [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
