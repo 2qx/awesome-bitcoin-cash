@@ -45,7 +45,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [eCommerce](#ecommerce)
     - [Plugins and Resources](#plugins-and-resources)
     - [Payment Processor Status](#payment-processor-status)
-    - [Retail Platform Pages](#retail-platform-pages)
   - [List of Project Lists](#list-of-project-lists)
   - [Apps](#apps)
     - [Shipyard](#shipyard)
@@ -187,23 +186,19 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 
 ### Plugins and Resources
 
-#### Pure Crypto Open-Source plugins
+#### Bitcoin Cash Open-Source plugins
 - [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Woocommerce with integrated wallet
 
-#### Crypto-to-Fiat Payment Processors
-- [BitPay developer tools](https://bitpay.com/docs) [[plugins]](https://bitpay.com/integrations/)
+#### BCH-to-Fiat Payment Processors
+- [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]]((https://bitpay.com/docs))
 - [Coinpayments Tools](https://www.coinpayments.net/merchant-tools) [[plugins]](https://www.coinpayments.net/merchant-tools-plugins) - Integrations for coinpayments
-- [GoCoin](https://gocoin.com/docs) - Integrations and libraries for GoCoin with many platforms.
+- [GoCoin](https://gocoin.com/docs) - GoCoin integrations, libraries & API docs.
 - [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase
 
 ### Payment Processor Status
 
-- [Coinbase Status](https://status.coinbase.com/#) - Dashboard with subscriptions endpoints and post-mortems
-- [BitPay](https://status.bitpay.com/) - Current status with recent incidents 
-
-### Retail Platform Pages
-- [Shopify Cryptocurrency Docs](https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency)
-
+- [status.coinbase.com](https://status.coinbase.com/#) - Dashboard with subscriptions endpoints and post-mortems
+- [status.bitPay.com](https://status.bitpay.com/) - Current status with recent incidents 
 
 ## List of Project Lists
 
