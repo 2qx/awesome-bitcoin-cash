@@ -42,14 +42,16 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Scripting](#scripting)
   - [SLP Token Specific Tools](#slp-token-specific-tools)
 - [Adoption](#adoption)
+  - [eCommerce](#ecommerce)
+    - [Plugins and Resources](#plugins-and-resources)
+    - [Payment Processor Status](#payment-processor-status)
+    - [Retail Platform Pages](#retail-platform-pages)
   - [List of Project Lists](#list-of-project-lists)
   - [Apps](#apps)
     - [Shipyard](#shipyard)
     - [Shipped](#shipped)
     - [Launchpad](#launchpad)
     - [In the Boneyard](#in-the-boneyard)
-  - [eCommerce](#ecommerce)
-    - [Plugins and Resources](#plugins-and-resources)
     - [A Short List](#a-short-list)
     - [Merchants near you or where you're headed](#merchants-near-you-or-where-youre-headed)
     - [Listing directories across the broader internet](#listing-directories-across-the-broader-internet)
@@ -78,6 +80,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [*Mastering Bitcoin Cash*](https://developer.bitcoin.com/mastering-bitcoin-cash/) - Fork of Andreas M. Antonopoulos' book under Creative Commons
 - [developers.cash](https://developers.cash/) - many useful resources and [tools](https://developers.cash/tools/)
 - [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) - libraries for interacting with Bitcoin Cash
+- [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com
 - [tutorial.cash](https://www.tutorial.cash/) - video tutorials
 
 ## Base Protocol
@@ -180,6 +183,28 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 
 # Adoption
 
+## eCommerce
+
+### Plugins and Resources
+
+#### Pure Crypto Open-Source plugins
+- [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Woocommerce with integrated wallet
+
+#### Crypto-to-Fiat Payment Processors
+- [BitPay developer tools](https://bitpay.com/docs) [[plugins]](https://bitpay.com/integrations/)
+- [Coinpayments Tools](https://www.coinpayments.net/merchant-tools) [[plugins]](https://www.coinpayments.net/merchant-tools-plugins) - Integrations for coinpayments
+- [GoCoin](https://gocoin.com/docs) - Integrations and libraries for GoCoin with many platforms.
+- [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase
+
+### Payment Processor Status
+
+- [Coinbase Status](https://status.coinbase.com/#) - Dashboard with subscriptions endpoints and post-mortems
+- [BitPay](https://status.bitpay.com/) - Current status with recent incidents 
+
+### Retail Platform Pages
+- [Shopify Cryptocurrency Docs](https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency)
+
+
 ## List of Project Lists
 
 There have been many projects built on Bitcoin Cash. This list doesn't attempt to be comprehensive, but more projects are listed by these sources:
@@ -253,14 +278,6 @@ These ships are apparently in long term storage
 - [BCH Pizza](https://www.bchpizza.org) - Connection Refused
 - [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange, errors on slp/list
 
-
-## eCommerce
-
-### Plugins and Resources
-
-- [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Woocommerce with integrated wallet
-- [BitPay developer tools](https://bitpay.com/docs)
-- [Shopify Cryptocurrency Docs](https://help.shopify.com/en/manual/payments/alternative-payments/cryptocurrency)
 
 ### A Short List
 
