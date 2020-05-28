@@ -218,7 +218,7 @@ There have been many projects built on Bitcoin Cash. This list doesn't attempt t
 These are up and coming projects in beta:
 
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
-
+- Electron-Cash 4.1.* (CashFusion Alpha) [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/cashfusion) [[bin]](https://c3-soft.com/downloads/BitcoinCash/Electron-Cash/Fusion/)
 ### Shipped
 
 #### Network
