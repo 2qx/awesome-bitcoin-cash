@@ -27,6 +27,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Developer resources](#developer-resources)
   - [Base Protocol](#base-protocol)
     - [Secondary protocols](#secondary-protocols)
+  - [Bitcoin Script](#bitcoin-script)
   - [Full Nodes](#full-nodes)
   - [Open Source Wallets](#open-source-wallets)
     - [Desktop](#desktop)
@@ -39,7 +40,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Typescript](#typescript)
     - [Python](#python)
     - [Java](#java)
-  - [Scripting](#scripting)
+    - [PHP](#php)
   - [SLP Token Specific Tools](#slp-token-specific-tools)
 - [Adoption](#adoption)
   - [eCommerce](#ecommerce)
@@ -99,7 +100,15 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
 - [snowglobe](https://github.com/tyler-smith/snowglobe/blob/master/spec/snowglobe.md) [[draft implementation (golang)]](https://github.com/gcash/bchd/tree/snowglobe/)- 🐉 Active local-state reconciliation using Avalanche 🐉 
-  
+
+## Bitcoin Script
+
+- [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
+- [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication.
+- [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - a high level smart contract language that compiles to Bitcoin Cash Script.
+- [Cashscript](https://cashscript.org/docs/basics/about/) - a solidity-style language that compiles to Bitcoin Cash Script.
+- [Cashscript alt-docs](https://developer.bitcoin.com/cashscript/docs/language) - documentation for Cashscript hosted at bitcoin.com.
+
 ## Full Nodes
 
 - [BitcoinABC](https://www.bitcoinabc.org/) [[mirror]](https://github.com/Bitcoin-ABC/bitcoin-abc) - a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
@@ -162,14 +171,8 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 ### Java
 - [bitcoincashj](https://github.com/pokkst/bitcoincashj) - Bitcoin Cash library for Java 
 
-## Scripting
-
-- [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
-- [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication.
-- [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - a high level smart contract language that compiles to Bitcoin Cash Script.
-- [Cashscript](https://cashscript.org/docs/basics/about/) - a solidity-style language that compiles to Bitcoin Cash Script.
-- [Cashscript alt-docs](https://developer.bitcoin.com/cashscript/docs/language) - documentation for Cashscript hosted at bitcoin.com.
-
+### PHP
+- [cashp](https://github.com/Ekliptor/cashp) - Library for BCH and SLP tokens
 
 ## SLP Token Specific Tools
 
