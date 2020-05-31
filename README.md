@@ -232,7 +232,7 @@ These are up and coming projects in beta:
 - [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) - a crowd funding app using anyone can pay multisig transactions.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
-
+ 
 #### Marketplace
 - [OpenBazaar](https://openbazaar.org/download/) -  desktop (daemon w/ electron app) p2p marketplace using multisig transactions.
 - [Havenapp](https://gethaven.app/) - mobile implementation of openbazaar.
@@ -250,12 +250,13 @@ These are up and coming projects in beta:
 - [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 
-#### Bots
+#### Services & Bots
 
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [tipbitcoin.cash](https://tipbitcoin.cash) - Live tipping bot for video streamers.
 - [bitcash](https://gitcash.io/start) - A custodial tipping bot for github. 
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
+- [BCH Pizza](https://www.bchpizza.org) - BCH shared bounty site for pizza shop adoption.
 
 
 ### Launchpad
@@ -273,7 +274,6 @@ Awesome projects which appear to be dormant due to lack of use.
 These ships are apparently in long term storage
 
 - [Learn Bitcoin dot Cash](https://learnbitcoin.cash/) - Letsencrypt expired Monday, April 27, 2020 at 2:24:48 PM
-- [BCH Pizza](https://www.bchpizza.org) - Connection Refused
 - [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange, errors on slp/list
 
 
