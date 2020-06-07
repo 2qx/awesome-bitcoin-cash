@@ -179,6 +179,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
 - [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
 - [SLPDB](https://github.com/simpleledger/SLPDB) - simpleledger indexer 
+- [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries
 - [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer
 - [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - for android and iOS.
 
