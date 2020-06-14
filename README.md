@@ -82,7 +82,8 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) - libraries for interacting with Bitcoin Cash
 - [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com
 - [tutorial.cash](https://www.tutorial.cash/) - video tutorials
-
+- [Learn Bitcoin Cash](https://learnbitcoin.cash/) - Early general introduction to Bitcoin Cash.
+  
 ## Base Protocol
 
 - [Base Protocol Reference](https://reference.cash/) - maintained by Bitcoin Unlimited
@@ -277,7 +278,6 @@ Awesome projects which appear to be dormant due to lack of use.
 
 These ships are apparently in long term storage
 
-- [Learn Bitcoin dot Cash](https://learnbitcoin.cash/) - Letsencrypt expired Monday, April 27, 2020 at 2:24:48 PM
 - [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange, errors on slp/list
 
 
