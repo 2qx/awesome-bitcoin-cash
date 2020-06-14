@@ -24,7 +24,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Projects and apps should be functional and ideally have usage by the community.
 - Projects which are large and multifaceted may appear in multiple places, but the same link should never be duplicated.
 - Everything should be awesome: open-source, functional, uses Bitcoin Cash, have documentation and tests, or has most of these.
-- You should not suggest a project you created.
+- You should not submit a project you created or contributed to, rather, it should be promoted to the wider community. However, there is an awesome loophole if your pull request is submitted two days before or after the code freeze preceding a chain hard-fork.
 
 ## Formatting 
 

@@ -134,7 +134,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 ### Mobile
 - [Electron-Cash](https://electroncash.org) - Android and iOS version available with limited functionality
 - [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
-- [neutrino](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
+- [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
 
 
 ### Cli
@@ -145,7 +145,8 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 
 - [blockparty](https://blockparty.sh/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitox.earth
 - [mint](https://github.com/Bitcoin-com/mint) - Non-custodial web-based tool to manage your SLP tokens. 
-  
+- [nito](https://app.nitojs.org) - ALPHA web wallet with CashFusion and CashShuffle
+
 ### Paper/Offline Generator
 - [Cash Address Generator](https://cashaddress.org/) - reputable javascript random address generator suitable for offline use.
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
@@ -220,6 +221,8 @@ These are up and coming projects in beta:
 
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
 - Electron-Cash 4.1.* (CashFusion Alpha) [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/cashfusion) [[bin]](https://c3-soft.com/downloads/BitcoinCash/Electron-Cash/Fusion/)
+- [stamp] [[src]](https://github.com/cashweb/stamp) - A Bitcoin Cash powered chat electron app on testnet
+  
 ### Shipped
 
 #### Network
