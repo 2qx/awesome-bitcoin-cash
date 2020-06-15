@@ -270,7 +270,7 @@ Awesome projects which appear to be dormant due to lack of use.
 
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange.
-- [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall tiered hosting service.
+- [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall tiered content site.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - bounties for github commits.
 
 
