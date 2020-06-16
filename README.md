@@ -29,6 +29,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Secondary protocols](#secondary-protocols)
   - [Bitcoin Script](#bitcoin-script)
   - [Full Nodes](#full-nodes)
+    - [Full Node Development Tools](#full-node-development-tools)
   - [Open Source Wallets](#open-source-wallets)
     - [Desktop](#desktop)
     - [Mobile](#mobile)
@@ -122,6 +123,10 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [Flowee the Hub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
 - [Knuth](https://kth.cash/) [[src]](https://github.com/k-nuth/kth)- a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 
+### Full Node Development Tools
+
+- [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
+
 ## Open Source Wallets
 
 ### Desktop
@@ -142,7 +147,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 
 ### Cli
 - [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
-- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) used by openbazaar2
+- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) developed for openbazaar2
 
 ### Browser
 
