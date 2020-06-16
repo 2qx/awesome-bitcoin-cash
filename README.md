@@ -102,6 +102,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
 - [snowglobe](https://github.com/tyler-smith/snowglobe/blob/master/spec/snowglobe.md) [[draft implementation (golang)]](https://github.com/gcash/bchd/tree/snowglobe/)- 🐉 Active local-state reconciliation using Avalanche 🐉 
+- [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) - [Draft] 
 
 ## Bitcoin Script
 
@@ -137,7 +138,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [Electron-Cash](https://electroncash.org) - Android and iOS version available with limited functionality
 - [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
 - [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
-
+- [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS and Android
 
 ### Cli
 - [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
@@ -167,6 +168,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [libcash-js](https://developers.cash/resource/libcash-js/default) - javascript library using the flowee api.
 - [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
+- [electrum-cash](https://gitlab.com/GeneralProtocols/electrum-cash) [[docs]](https://gitlab.com/GeneralProtocols/electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
 
 ### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) - library for interacting with BCH via rest.bitcoin.com.
