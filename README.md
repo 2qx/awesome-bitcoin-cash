@@ -94,6 +94,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstandards.org)
   
+- [Cashaddr](https://github.com/bitcoincashorg/bitcoincash.org/blob/master/spec/cashaddr.md) - Format for Bitcoin Cash addresses
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
 - [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses
 - [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app
@@ -102,7 +103,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 - [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
-- [snowglobe](https://github.com/tyler-smith/snowglobe/blob/master/spec/snowglobe.md) [[draft implementation (golang)]](https://github.com/gcash/bchd/tree/snowglobe/)- 🐉 Active local-state reconciliation using Avalanche 🐉 
+- [snowglobe](https://github.com/tyler-smith/snowglobe/blob/master/spec/snowglobe.md) [[draft implementation (golang)]](https://github.com/gcash/bchd/tree/snowglobe/)- 🐉 Proof-of-Concept local-state reconciliation using Avalanche 🐉 
 - [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) - [Draft] Price oracle work in progress
 
 ## Bitcoin Script
@@ -125,7 +126,9 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 
 ### Full Node Development Tools
 
+- [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
+- [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
 
 ## Open Source Wallets
 
