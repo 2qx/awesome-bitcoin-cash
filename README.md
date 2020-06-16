@@ -35,6 +35,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Cli](#cli)
     - [Browser](#browser)
     - [Paper/Offline Generator](#paperoffline-generator)
+    - [SPV servers](#spv-servers)
   - [Libraries & SDKs](#libraries--sdks)
     - [Javascript](#javascript)
     - [Typescript](#typescript)
@@ -152,6 +153,12 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [Cash Address Generator](https://cashaddress.org/) - reputable javascript random address generator suitable for offline use.
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 - [SLP wallet generator](https://wallet.bitchslap.tech/) - generator for Simple Ledger addresses
+
+### SPV servers
+
+- [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server for Bitcoin Cash
+- [ElectronX](https://github.com/Electron-Cash/electrumx) [[docs]](https://electrumx.readthedocs.io/en/latest/) - A reimplementation of Electrum-Server for a future with bigger blocks.  ⚠️ [See changlog note v1.15.0](https://electrumx.readthedocs.io/en/latest/changelog.html) ⚠️
+- [Electron Cash ElectronX](https://github.com/Electron-Cash/electrumx) [[docs]](https://electrumx.readthedocs.io/en/latest/) - Electron Cash maintained version of ElectrumX.  ⚠️ [See changlog note v1.15.0](https://electrumx.readthedocs.io/en/latest/changelog.html) ⚠️
 
 ## Libraries & SDKs
 
