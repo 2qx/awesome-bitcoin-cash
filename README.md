@@ -102,7 +102,7 @@ A site dedicated to collecting [Bitcoin Cash Standards](https://bitcoincashstand
 - [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
 - [snowglobe](https://github.com/tyler-smith/snowglobe/blob/master/spec/snowglobe.md) [[draft implementation (golang)]](https://github.com/gcash/bchd/tree/snowglobe/)- 🐉 Active local-state reconciliation using Avalanche 🐉 
-- [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) - [Draft] 
+- [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) - [Draft] Price oracle work in progress
 
 ## Bitcoin Script
 
