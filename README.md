@@ -15,7 +15,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 </div>
 <br/>
 
-📤 [a mobile friendly version](https://2qx.github.io/awesome-bitcoin-cash/) of this [project](https://github.com/2qx/awesome-bitcoin-cash) is formatted [from markdown](https://github.com/2qx/awesome-bitcoin-cash/blob/master/README.md) by github pages.
+📤 [a mobile friendly version](https://awesomebitcoin.cash) of this [project](https://github.com/2qx/awesome-bitcoin-cash) is formatted [from markdown](https://github.com/2qx/awesome-bitcoin-cash/blob/master/README.md) by github pages.
 
 Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING.md).
 
@@ -27,7 +27,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Shipped](#shipped)
     - [Open Source Wallets](#open-source-wallets)
     - [Network](#network)
-    - [Social](#social)
+    - [Social Apps](#social-apps)
     - [Decentralized Marketplace](#decentralized-marketplace)
     - [Entertainment](#entertainment)
     - [Web](#web)
@@ -97,9 +97,11 @@ These are up and coming projects in beta:
   
 ## Shipped
 
+All of these apps are mostly stable and active.  Always check the notes of a particualar project before risking a large sum of value.  Links are checked on a weekly basis, but function is not checked.
+
 ### Open Source Wallets
 
-This list focuses on non-custodial wallets that specialize in fully utilizing features specific to Bitcoin Cash, because a wallet supporting many currencies which are copies of another is never likely to fully support a currency that extends those features.
+Below are non-custodial open-source wallets that use features specific to Bitcoin Cash.
 
 #### Desktop
 - [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash
@@ -140,7 +142,7 @@ This list focuses on non-custodial wallets that specialize in fully utilizing fe
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 
-### Social
+### Social Apps
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) - a crowd funding app using anyone can pay multisig transactions.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
@@ -201,7 +203,7 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 
 ## A Short List
 
-These vendors have accepted cryptocurrency for years and are committed (or sympathetic) toward the idea of electronic cash payments.
+These vendors have accepted bitcoin for years and are committed (or sympathetic) toward the idea of electronic cash payments.
 
 Although some of these may appear to only accept Bitcoin (BTC), they do infact accept Bitcoin Cash also.
 
@@ -225,14 +227,11 @@ Although some of these may appear to only accept Bitcoin (BTC), they do infact a
 
 ## Some Charities and Foundations
 
-Just some good charities for the world at large.
+Just some good charities for the world at large. 
 
-- [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/)
+- [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - Powered by [The Giving Block](https://www.thegivingblock.com/)
 - [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4)
 - [Tails](https://tails.boum.org/donate/index.en.html)
-
-
-  
 
 
 # eCommerce Merchant Resources 
