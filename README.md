@@ -62,6 +62,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Python](#python)
     - [Java](#java)
     - [PHP](#php)
+    - [Language Agnostic](#language-agnostic)
   - [SLP Token Specific Tools](#slp-token-specific-tools)
 
 # Whitepaper
@@ -363,6 +364,11 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### PHP
 - [cashp](https://github.com/Ekliptor/cashp) - Library for BCH and SLP tokens
+
+### Language Agnostic
+
+- [grpc-bchrpc-star](https://github.com/2qx/grpc-bchrpc-star) - Client libraries for bchd rpc generated from protocol buffers
+- [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
 ## SLP Token Specific Tools
 
