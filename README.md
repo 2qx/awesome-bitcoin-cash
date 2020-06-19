@@ -115,10 +115,10 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [More Comprehensive List](https://blog.imaginary.cash/index.php/electron-cash-plugins/) - hosted by im_uname
 
 #### Mobile
-- [Electron-Cash](https://electroncash.org) - Android and iOS version available with more limited functionality
+- [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality
 - [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
 - [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
-- [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS and Android
+- [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/ios) and Android [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/android)
 
 #### Cli
 - [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
@@ -260,6 +260,7 @@ Just some good charities for the world at large.
 - [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - "official."
 - [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list.
 - [Coin Dance list](https://cash.coin.dance/development) - with broader developments and proposals in various states from many groups
+- [](https://www.thefutureofbitcoin.cash/development-meetings)
 
 ## General 
 - [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
@@ -316,6 +317,8 @@ Just some good charities for the world at large.
 - [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
 - [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
+- [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Repos to coordinate discussion around particualr sub projects
+
 
 ## Open-Source Teams Builing Upon  Bitcoin Cash
 
