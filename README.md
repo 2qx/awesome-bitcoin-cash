@@ -91,10 +91,11 @@ Below is a copy of the original nine page whitepaper:
 
 These are up and coming projects in beta:
 
+- [be.cash](https://be.cash) [[whitepaper]](https://be.cash/becash.pdf) [[demo]](https://twitter.com/TobiasRuck/status/1261025132971274240) - point of sale system using stable tokens and nfc
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
 - Electron-Cash 4.1.* (CashFusion Alpha) [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/cashfusion) [[bin]](https://c3-soft.com/downloads/BitcoinCash/Electron-Cash/Fusion/)
 - stamp [[src]](https://github.com/cashweb/stamp) - A Bitcoin Cash powered chat electron app on testnet
-- [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution against Arbitrary Assets on Bitcoin Cash
+- [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
   
 ## Shipped
 
@@ -323,6 +324,7 @@ Just some good charities for the world at large.
 ## Open-Source Teams Builing Upon  Bitcoin Cash
 
 > If you want to go fast, go alone. If you want to go far, go together. 
+> 
 > -- An African Proverb.
 
 
