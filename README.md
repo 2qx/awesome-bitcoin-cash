@@ -358,7 +358,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 ### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) - library for interacting with BCH via rest.bitcoin.com.
 - [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - browser extension wallet supporting BCH and SLP on webpages.
-- [bitcoin-ts](https://github.com/bitauth/bitcoin-ts) - a zero-dependency, typescript bitcoin library, including WASM crypto functions, BTC, but BCH friendly.
+- [libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - a zero-dependency, typescript bitcoin library, including WASM crypto functions, BTC, but BCH friendly. (formerly bitcoin-ts)
 
 ### Python
 - [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - python3 library.
