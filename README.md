@@ -318,7 +318,7 @@ Just some good charities for the world at large.
 - [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
 - [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
-- [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Repos to coordinate discussion around particualr sub projects
+- [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
 
 
 ## Open-Source Teams Builing Upon  Bitcoin Cash
