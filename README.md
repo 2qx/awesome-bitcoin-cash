@@ -207,7 +207,7 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 
 These vendors have accepted bitcoin for years and are committed (or sympathetic) toward the idea of electronic cash payments.
 
-Although some of these may appear to only accept Bitcoin (BTC), they do infact accept Bitcoin Cash also.
+Although some of these may appear to only accept Bitcoin (BTC), they do, in fact, accept Bitcoin Cash also.
 
 - [Namecheap](https://namecheap.com) - dns, ssl and some packaged hosting.
 - [CheapAir](https://www.cheapair.com) - for your travel needs.
