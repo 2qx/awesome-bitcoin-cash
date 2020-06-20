@@ -53,7 +53,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Bitcoin Script](#bitcoin-script)
 - [Software](#software)
   - [Full Nodes](#full-nodes)
-    - [Full Node Development Tools](#full-node-development-tools)
+    - [Full Node Developer Resources](#full-node-developer-resources)
   - [Open-Source Teams Builing Upon  Bitcoin Cash](#open-source-teams-builing-upon-bitcoin-cash)
   - [SPV servers](#spv-servers)
   - [Libraries & SDKs](#libraries--sdks)
@@ -124,6 +124,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 #### Cli
 - [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
 - [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) developed for openbazaar2
+- [bitcore-walleet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets
 
 #### Browser
 
@@ -313,12 +314,13 @@ Just some good charities for the world at large.
 - [Flowee the Hub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
 - [Knuth](https://kth.cash/) [[src]](https://github.com/k-nuth/kth)- a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 
-### Full Node Development Tools
+### Full Node Developer Resources
 
+- [Future of Bitcoin Cash](thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts developer meetings, a newsletter and general information.
+- [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
 - [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
 - [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
-- [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
 
 
 ## Open-Source Teams Builing Upon  Bitcoin Cash
