@@ -89,7 +89,7 @@ Below is a copy of the original nine page whitepaper:
 
 ## Shipyard
 
-These are up and coming projects in beta:
+These are up and coming projects in alpha stage (may not be suitable for large transactions):
 
 - [be.cash](https://be.cash) [[whitepaper]](https://be.cash/becash.pdf) [[demo]](https://twitter.com/TobiasRuck/status/1261025132971274240) - point of sale system using stable tokens and nfc
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
@@ -133,7 +133,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [nito](https://nito.cash) [[src]](https://gitlab.com/bchplease/nito.cash) - Web wallet designed for easily on-boarding new users
 
 #### Paper/Offline Generator
-- [Cash Address Generator](https://cashaddress.org/) - reputable javascript random address generator suitable for offline use.
+- [Cash Address Generator](https://cashaddress.org/) - reputable javascript address generator suitable for offline use.
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 - [SLP wallet generator](https://wallet.bitchslap.tech/) [[src]](https://github.com/SLPVH/SLPpaperwallet)- offline generator for Simple Ledger addresses
 
@@ -259,9 +259,9 @@ Just some good charities for the world at large.
 
 ## Roadmaps
 
-- [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - Official Bitcoin ABC Roadmap
+- [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - Official Bitcoin ABC Roadmap.
 - [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list.
-- [Coin Dance list](https://cash.coin.dance/development) - with broader developments and proposals in various states from many groups
+- [Coin Dance list](https://cash.coin.dance/development) - with broader developments and proposals in various states from many groups.
 - [](https://www.thefutureofbitcoin.cash/development-meetings)
 
 ## General 
@@ -316,7 +316,7 @@ Just some good charities for the world at large.
 
 ### Full Node Developer Resources
 
-- [Future of Bitcoin Cash](thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts developer meetings, a newsletter and general information.
+- [Future of Bitcoin Cash](https://thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts developer meetings, a newsletter and general information.
 - [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
 - [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
