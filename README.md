@@ -128,7 +128,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 #### Browser
 
-- [blockparty](https://blockparty.sh/) [[src]](https://github.com/blockparty-sh/wallet/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitox.earth
+- [blockparty](https://blockparty.sh/) [[src]](https://github.com/blockparty-sh/wallet/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitbox.earth
 - [mint](https://mint.bitcoin.com) [[src]](https://github.com/Bitcoin-com/mint) - Non-custodial web-based tool to manage your SLP tokens. 
 - [nito](https://nito.cash) [[src]](https://gitlab.com/bchplease/nito.cash) - Web wallet designed for easily on-boarding new users
 
@@ -259,7 +259,7 @@ Just some good charities for the world at large.
 
 ## Roadmaps
 
-- [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - "official."
+- [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - Official Bitcoin ABC Roadmap
 - [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list.
 - [Coin Dance list](https://cash.coin.dance/development) - with broader developments and proposals in various states from many groups
 - [](https://www.thefutureofbitcoin.cash/development-meetings)
@@ -310,7 +310,7 @@ Just some good charities for the world at large.
 - [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
 - [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) - alternative implementation written in Go (golang)
 - [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes
-- [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independant development team. C/C++.
+- [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
 - [Flowee the Hub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
 - [Knuth](https://kth.cash/) [[src]](https://github.com/k-nuth/kth)- a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 
