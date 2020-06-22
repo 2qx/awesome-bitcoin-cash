@@ -26,10 +26,11 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Shipyard](#shipyard)
   - [Shipped](#shipped)
     - [Open Source Wallets](#open-source-wallets)
-    - [Network](#network)
-    - [Social Apps](#social-apps)
+    - [Apps](#apps)
     - [Decentralized Marketplace](#decentralized-marketplace)
     - [Entertainment](#entertainment)
+    - [Network](#network)
+    - [Projects Leveraging SLP Tokens](#projects-leveraging-slp-tokens)
     - [Web](#web)
     - [Utilities](#utilities)
     - [Services & Bots](#services--bots)
@@ -63,7 +64,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Java](#java)
     - [PHP](#php)
     - [Language Agnostic](#language-agnostic)
-  - [SLP Token Specific Tools](#slp-token-specific-tools)
+  - [SLP Token Enabled Tooling](#slp-token-enabled-tooling)
 
 # Whitepaper
 
@@ -137,17 +138,9 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 - [SLP wallet generator](https://wallet.bitchslap.tech/) [[src]](https://github.com/SLPVH/SLPpaperwallet)- offline generator for Simple Ledger addresses
 
-
-### Network
-
-- [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
-- [tx street](https://txstreet.com/beta) - transaction visualizer, updated with popular protocols.
-- [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
-- [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
-
-### Social Apps
+### Apps
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
-- [flipstarter](https://flipstarter.cash/) [Introduction](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) - a crowd funding app using anyone can pay multisig transactions.
+- [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) - a crowd funding app using anyone can pay multisig transactions.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
  
@@ -159,6 +152,24 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits, BTC and BSV supported.
 - [Satoshi dice](https://www.satoshidice.com/) -  a provably fair dice game.
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf 
+
+
+### Network
+
+- [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
+- [tx street](https://txstreet.com/beta) - transaction visualizer, updated with popular protocols.
+- [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
+- [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
+- 
+### Projects Leveraging SLP Tokens
+
+- [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
+- [mist](https://mistcoin.org/) - a mineable SLP token using a proof-of-work covenant contract 
+- [cryptophyl](https://cryptophyl.com/) - an SLP exchange
+- [Toba Token](https://tobaelectricbike.com/toba-token/) - an e-bike customer reward token
+- [Honest Coin](https://www.honestcoin.io/) - a fully regulated, 1:1 U.S. Dollar-backed stablecoin
+- [SpiceToken](https://spicetoken.org/) - a meme token for social tipping
+
 
 ### Web
 
@@ -377,9 +388,8 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [grpc-bchrpc-star](https://github.com/2qx/grpc-bchrpc-star) - Client libraries for bchd rpc generated from protocol buffers
 - [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
-## SLP Token Specific Tools
+## SLP Token Enabled Tooling
 
-- [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
 - [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
 - [SLPDB](https://github.com/simpleledger/SLPDB) - simpleledger indexer 
 - [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries
