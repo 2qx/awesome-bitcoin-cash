@@ -25,15 +25,15 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Projects Built on Bitcoin Cash](#projects-built-on-bitcoin-cash)
   - [Shipyard](#shipyard)
   - [Shipped](#shipped)
-    - [Open Source Wallets](#open-source-wallets)
+    - [Wallets](#wallets)
     - [Apps](#apps)
     - [Decentralized Marketplace](#decentralized-marketplace)
     - [Entertainment](#entertainment)
     - [Network](#network)
     - [Projects Leveraging SLP Tokens](#projects-leveraging-slp-tokens)
-    - [Web](#web)
-    - [Utilities](#utilities)
     - [Services & Bots](#services--bots)
+    - [Utilities](#utilities)
+    - [Web](#web)
   - [Launchpad](#launchpad)
   - [In the Boneyard](#in-the-boneyard)
   - [See Also](#see-also)
@@ -102,7 +102,7 @@ These are up and coming projects in alpha stage (may not be suitable for large t
 
 All of these apps are mostly stable and active.  Always check the notes of a particualar project before risking a large sum of value.  Links are checked on a weekly basis, but function is not checked.
 
-### Open Source Wallets
+### Wallets
 
 Below are non-custodial open-source wallets that use features specific to Bitcoin Cash.
 
@@ -160,7 +160,8 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [tx street](https://txstreet.com/beta) - transaction visualizer, updated with popular protocols.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
-- 
+  
+  
 ### Projects Leveraging SLP Tokens
 
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
@@ -171,15 +172,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [SpiceToken](https://spicetoken.org/) - a meme token for social tipping
 
 
-### Web
-
-- [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple snippet to accept Bitcoin Cash on your website.
-
-### Utilities
-
-- [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
-- [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
-
 ### Services & Bots
 
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
@@ -188,6 +180,16 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [BCH Pizza](https://www.bchpizza.org) - BCH shared bounty site for pizza shop adoption.
 - [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall tiered content site.
+
+
+### Utilities
+
+- [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
+- [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
+
+### Web
+
+- [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple snippet to accept Bitcoin Cash on your website.
 
 ## Launchpad
 
@@ -273,7 +275,7 @@ Just some good charities for the world at large.
 - [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - Official Bitcoin ABC Roadmap.
 - [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list.
 - [Coin Dance list](https://cash.coin.dance/development) - with broader developments and proposals in various states from many groups.
-- [](https://www.thefutureofbitcoin.cash/development-meetings)
+
 
 ## General 
 - [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
@@ -327,7 +329,7 @@ Just some good charities for the world at large.
 
 ### Full Node Developer Resources
 
-- [Future of Bitcoin Cash](https://thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts developer meetings, a newsletter and general information.
+- [Future of Bitcoin Cash](https://thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts - [developer meetings](https://www.thefutureofbitcoin.cash/development-meetings), a [newsletter](https://www.thefutureofbitcoin.cash/pulse-newsletter) and other planing resources.
 - [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
 - [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
