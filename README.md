@@ -25,12 +25,12 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Projects Built on Bitcoin Cash](#projects-built-on-bitcoin-cash)
   - [Shipyard](#shipyard)
   - [Shipped](#shipped)
-    - [Wallets](#wallets)
+    - [A Sampling of Open-Source Wallets](#a-sampling-of-open-source-wallets)
     - [Apps](#apps)
     - [Decentralized Marketplace](#decentralized-marketplace)
     - [Entertainment](#entertainment)
     - [Network](#network)
-    - [Projects Leveraging SLP Tokens](#projects-leveraging-slp-tokens)
+    - [SLP Token Projects](#slp-token-projects)
     - [Services & Bots](#services--bots)
     - [Utilities](#utilities)
     - [Web](#web)
@@ -102,7 +102,7 @@ These are up and coming projects in alpha stage (may not be suitable for large t
 
 All of these apps are mostly stable and active.  Always check the notes of a particualar project before risking a large sum of value.  Links are checked on a weekly basis, but function is not checked.
 
-### Wallets
+### A Sampling of Open-Source Wallets
 
 Below are non-custodial open-source wallets that use features specific to Bitcoin Cash.
 
@@ -162,7 +162,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
   
   
-### Projects Leveraging SLP Tokens
+### SLP Token Projects
 
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
 - [mist](https://mistcoin.org/) - a mineable SLP token using a proof-of-work covenant contract 
@@ -195,7 +195,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 Awesome projects which appear to be dormant due to lack of use.
 
-- [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform, 🚧 under revision.
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange.
 
 
@@ -204,6 +203,7 @@ Awesome projects which appear to be dormant due to lack of use.
 These ships are apparently in long term storage
 
 - [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange, errors on slp/list
+- [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform, 🚧 under revision.
 
 ## See Also
 
@@ -229,6 +229,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [Lanieri](https://www.lanieri.com) - makes a good suit.
 - [partsoven](https://www.partsoven.com/) - for that 3rd dimension of building.
 - [AdaFruit](https://www.adafruit.com/bitcoin/) - hardware dodads via bitpay 
+
 
 ## Geographic lists
 - [member map](https://memberapp.github.io/#map) - permanent on-chain geographic tags utilizing extensions to the memo protocol.
