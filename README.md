@@ -180,7 +180,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [BCH Pizza](https://www.bchpizza.org) - BCH shared bounty site for pizza shop adoption.
 - [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall tiered content site.
-
+- [Bitcoin Mining Parlament](https://bmp.virtualpol.com/) [[src]](https://github.com/JavierGonzalez/BMP) [[whitepaper]](https://virtualpol.com/BMP_EN.pdf) - Miner voting and chat.
 
 ### Utilities
 
