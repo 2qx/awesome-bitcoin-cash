@@ -45,6 +45,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [eCommerce Merchant Resources](#ecommerce-merchant-resources)
   - [Bitcoin Cash Open-Source plugins](#bitcoin-cash-open-source-plugins)
   - [BCH-to-Fiat Payment Processors](#bch-to-fiat-payment-processors)
+  - [Loyalty Programs](#loyalty-programs)
   - [Payment Processor Status](#payment-processor-status)
 - [Documentation](#documentation)
   - [Roadmaps](#roadmaps)
@@ -261,6 +262,9 @@ Just some good charities for the world at large.
 - [Coinpayments Tools](https://www.coinpayments.net/merchant-tools) [[plugins]](https://www.coinpayments.net/merchant-tools-plugins) - Integrations for coinpayments
 - [GoCoin](https://gocoin.com/docs) - GoCoin integrations, libraries & API docs.
 - [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase
+
+## Loyalty Programs
+- [HoneyPay](https://www.honeypay.cash/) - Customer loyalty point card system using SLP.
 
 ## Payment Processor Status
 
