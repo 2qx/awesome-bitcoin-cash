@@ -177,6 +177,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [tipbitcoin.cash](https://tipbitcoin.cash) - Live tipping bot for video streamers.
+- [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
 - [bitcash](https://gitcash.io/start) - A custodial tipping bot for github. 
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [BCH Pizza](https://www.bchpizza.org) - BCH shared bounty site for pizza shop adoption.
