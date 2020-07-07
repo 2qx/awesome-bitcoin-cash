@@ -319,7 +319,7 @@ Just some good charities for the world at large.
 
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication.
-- [spedn](https://spedn.readthedocs.io/en/latest/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) - a high level smart contract language that compiles to Bitcoin Cash Script.
+- [spedn](http://spedn.pl/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]]((https://spedn.readthedocs.io/en/latest/)) - a high level smart contract language that compiles to Bitcoin Cash Script.
 - [Cashscript](https://cashscript.org/docs/basics/about/) - a solidity-style language that compiles to Bitcoin Cash Script.
 - [Cashscript alt-docs](https://developer.bitcoin.com/cashscript/docs/language) - documentation for Cashscript hosted at bitcoin.com.
 
