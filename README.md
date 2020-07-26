@@ -386,7 +386,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - a zero-dependency, typescript bitcoin library, including WASM crypto functions, BTC, but BCH friendly. (formerly bitcoin-ts)
 
 ### Python
-- [bitcash](https://sporestack.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - python3 library.
+- [bitcash](https://pybitcash.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - python3 library.
 - [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) - sample protobuf based python client for bchd.
 
 ### Java
