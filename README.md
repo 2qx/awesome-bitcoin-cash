@@ -26,6 +26,12 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Shipyard](#shipyard)
   - [Shipped](#shipped)
     - [A Sampling of Open-Source Wallets](#a-sampling-of-open-source-wallets)
+      - [Desktop](#desktop)
+        - [Electron-Cash Plugins](#electron-cash-plugins)
+      - [Mobile](#mobile)
+      - [Cli](#cli)
+      - [Browser](#browser)
+      - [Paper/Offline Generator](#paperoffline-generator)
     - [Apps](#apps)
     - [Decentralized Marketplace](#decentralized-marketplace)
     - [Entertainment](#entertainment)
@@ -329,11 +335,11 @@ Just some good charities for the world at large.
 
 ## Full Nodes
 
-- [BitcoinABC](https://www.bitcoinabc.org/) [[mirror]](https://github.com/Bitcoin-ABC/bitcoin-abc) - a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
+- [BitcoinABC](https://www.bitcoinabc.org/) [[mirror]](https://github.com/Bitcoin-ABC/bitcoin-abc) [[docs]](https://doc.bitcoinabc.org/) - a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
 - [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
-- [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) - alternative implementation written in Go (golang)
-- [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde)[[docs]](https://bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes
-- [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
+- [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - alternative implementation written in Go (golang)
+- [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes
+- [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [[docs]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
 - [Flowee the Hub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
 - [Knuth](https://kth.cash/) [[src]](https://github.com/k-nuth/kth)- a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 
