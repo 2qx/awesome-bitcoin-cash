@@ -275,7 +275,7 @@ Just some good charities for the world at large.
 - [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase
 
 ## Loyalty Programs
-- [HoneyPay](https://www.honeypay.cash/) - Customer loyalty point card system using SLP.
+- [HoneyPay](https://www.honeypay.io/) - Customer loyalty point card system using SLP.
 
 ## Payment Processor Status
 
