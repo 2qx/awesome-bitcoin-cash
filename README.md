@@ -104,7 +104,7 @@ These are up and coming projects in alpha stage (may not be suitable for large t
 - Electron-Cash 4.1.* (CashFusion Alpha) [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/cashfusion) [[bin]](https://c3-soft.com/downloads/BitcoinCash/Electron-Cash/Fusion/)
 - stamp [[src]](https://github.com/cashweb/stamp) - A Bitcoin Cash powered chat electron app on testnet
 - [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
-- Neutron Cash - [[release]](https://github.com/musashidev/neutron-cash/releases/tag/v0.1.0) [[src]](https://github.com/musashidev/neutron-cash)
+- Neutron Cash [[release]](https://github.com/musashidev/neutron-cash/releases/tag/v0.1.0) [[src]](https://github.com/musashidev/neutron-cash) - A desktop neutrino wallet using bchwallet and electron
 
 ## Shipped
 
