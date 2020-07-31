@@ -101,7 +101,6 @@ These are up and coming projects in alpha stage (may not be suitable for large t
 
 - [be.cash](https://be.cash) [[whitepaper]](https://be.cash/becash.pdf) [[demo]](https://twitter.com/TobiasRuck/status/1261025132971274240) - point of sale system using stable tokens and nfc
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
-- Electron-Cash 4.1.* (CashFusion Alpha) [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/cashfusion) [[release-candidate-1]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.1.0-rc1)
 - stamp [[src]](https://github.com/cashweb/stamp) - A Bitcoin Cash powered chat electron app on testnet
 - [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
 - Neutron Cash [[release]](https://github.com/musashidev/neutron-cash/releases/tag/v0.1.0) [[src]](https://github.com/musashidev/neutron-cash) - A desktop neutrino wallet using bchwallet and electron
