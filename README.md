@@ -22,17 +22,17 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 # Contents
 - [Contents](#contents)
 - [Whitepaper](#whitepaper)
+- [Open-Source Wallets](#open-source-wallets)
+  - [Mobile](#mobile)
+  - [Desktop](#desktop)
+    - [Electron-Cash Plugins](#electron-cash-plugins)
+  - [Cli](#cli)
+  - [Browser](#browser)
+  - [Paper/Offline Generator](#paperoffline-generator)
 - [Projects Built on Bitcoin Cash](#projects-built-on-bitcoin-cash)
   - [Shipyard](#shipyard)
   - [Shipped](#shipped)
-    - [A Sampling of Open-Source Wallets](#a-sampling-of-open-source-wallets)
-      - [Desktop](#desktop)
-        - [Electron-Cash Plugins](#electron-cash-plugins)
-      - [Mobile](#mobile)
-      - [Cli](#cli)
-      - [Browser](#browser)
-      - [Paper/Offline Generator](#paperoffline-generator)
-    - [Apps](#apps)
+    - [Apps (Social)](#apps-social)
     - [Decentralized Marketplace](#decentralized-marketplace)
     - [Entertainment](#entertainment)
     - [Network](#network)
@@ -87,6 +87,44 @@ Below is a copy of the original nine page whitepaper:
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for building the original paper encoded on the blockchain on 2013-04-06.
 
 
+# Open-Source Wallets
+
+Below are non-custodial open-source wallets that use features specific to Bitcoin Cash.
+
+## Mobile
+- [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality
+- [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
+- [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
+- [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) - Edge Wallet React Native GUI for iOS and Android
+- [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/ios) and Android [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/android)
+
+## Desktop
+- [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash
+- [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - a Bitcoin Cash wallet in java.
+  
+### Electron-Cash Plugins
+- [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding
+- [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments
+- [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation
+- [More Comprehensive List](https://blog.imaginary.cash/index.php/electron-cash-plugins/) - hosted by im_uname
+
+## Cli
+- [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
+- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) developed for openbazaar2
+- [bitcore-walleet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets
+
+## Browser
+
+- [blockparty](https://blockparty.sh/) [[src]](https://github.com/blockparty-sh/wallet/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitbox.earth
+- [mint](https://mint.bitcoin.com) [[src]](https://github.com/Bitcoin-com/mint) - Non-custodial web-based tool to manage your SLP tokens. 
+- [nito](https://nito.cash) [[src]](https://gitlab.com/bchplease/nito.cash) - Web wallet designed for easily on-boarding of new users
+
+## Paper/Offline Generator
+- [Cash Address Generator](https://cashaddress.org/) - reputable javascript address generator suitable for offline use.
+- [Crescent Cash Paper](https://paper.crescent.cash/) [[src]](https://gitlab.com/pokkst/crescentpaper) - Crescent Cash Paperwallet Generator
+- [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
+- [SLP wallet generator](https://wallet.bitchslap.tech/) [[src]](https://github.com/SLPVH/SLPpaperwallet)- offline generator for Simple Ledger addresses
+
 # Projects Built on Bitcoin Cash
 
 ## Shipyard
@@ -102,51 +140,13 @@ These are up and coming projects in alpha stage (may not be suitable for large t
 ## Shipped
 
 All of these apps are mostly stable and active.  Always check the notes of a particualar project before risking a large sum of value.  Links are checked on a weekly basis, but function is not checked.
-
-### A Sampling of Open-Source Wallets
-
-Below are non-custodial open-source wallets that use features specific to Bitcoin Cash.
-
-#### Desktop
-- [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash
-- [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - a Bitcoin Cash wallet in java.
-  
-##### Electron-Cash Plugins
-- [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding
-- [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments
-- [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation
-- [More Comprehensive List](https://blog.imaginary.cash/index.php/electron-cash-plugins/) - hosted by im_uname
-
-#### Mobile
-- [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality
-- [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
-- [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
-- [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) - Edge Wallet React Native GUI for iOS and Android
-- [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/ios) and Android [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/android)
-
-#### Cli
-- [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
-- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) developed for openbazaar2
-- [bitcore-walleet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets
-
-#### Browser
-
-- [blockparty](https://blockparty.sh/) [[src]](https://github.com/blockparty-sh/wallet/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitbox.earth
-- [mint](https://mint.bitcoin.com) [[src]](https://github.com/Bitcoin-com/mint) - Non-custodial web-based tool to manage your SLP tokens. 
-- [nito](https://nito.cash) [[src]](https://gitlab.com/bchplease/nito.cash) - Web wallet designed for easily on-boarding of new users
-
-#### Paper/Offline Generator
-- [Cash Address Generator](https://cashaddress.org/) - reputable javascript address generator suitable for offline use.
-- [Crescent Cash Paper](https://paper.crescent.cash/) [[src]](https://gitlab.com/pokkst/crescentpaper) - Crescent Cash Paperwallet Generator
-- [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
-- [SLP wallet generator](https://wallet.bitchslap.tech/) [[src]](https://github.com/SLPVH/SLPpaperwallet)- offline generator for Simple Ledger addresses
-
-### Apps
+ 
+### Apps (Social)
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) - a crowd funding app using anyone can pay multisig transactions.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
- 
+
 ### Decentralized Marketplace
 - [OpenBazaar](https://openbazaar.org/download/) -  desktop (daemon w/ electron app) p2p marketplace using multisig transactions.
 - [Havenapp](https://gethaven.app/) - mobile implementation of openbazaar.
