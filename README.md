@@ -79,12 +79,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 Bitcoin Cash is one chain of Satoshi Nakamoto's blockchain invention which was deliberately hard-forked on August 1st, 2017.  It shares the whitepaper, first block, and all bitcoin block history prior to the fork.  It attempts to implement the central idea outlined in that paper.
 
-Whitepaper TL;DR: 
-  1. A person controls unspent value at some address with a secret key.
-  2. Value is transferred permissionlessly by signing a transaction with the secret key.
-  3. The network is maintained and controlled by rewarding new value to the network operators. 
-  4. Tracking a list of unspent value is manageable on a global scale. 
-
 Below is a copy of the original nine page whitepaper:
 
 - [Archived copy](https://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf) of the bitcoin whitepaper from bitcoin.org
