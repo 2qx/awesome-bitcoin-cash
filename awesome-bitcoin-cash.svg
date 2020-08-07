@@ -5,10 +5,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    viewBox="0 0 788 788"
    data-name="Layer 1"
-   id="Layer_1">
+   id="Layer_1"
+   sodipodi:docname="awesome-bitcoin-cash.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1715"
+     inkscape:window-height="849"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="0.84709239"
+     inkscape:cx="464.94357"
+     inkscape:cy="445.28331"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g30-5" />
   <metadata
      id="metadata23">
     <rdf:RDF>
@@ -38,19 +62,21 @@
      id="g5204">
     <g
        transform="matrix(0.04187991,0,0,0.04187991,75.615576,54.993306)"
-       style="fill:#8dc351;stroke:none"
+       style="fill:#8dc351;stroke:none;"
        id="layer101">
       <path
          d="m 7525,15989 c -349,-23 -745,-74 -1074,-139 -1411,-279 -2741,-944 -3806,-1903 -103,-94 -479,-466 -575,-572 -245,-266 -540,-648 -754,-974 -84,-128 -216,-339 -216,-346 0,-2 -17,-32 -38,-66 -48,-80 -130,-233 -220,-414 C 359,10611 82,9566 10,8445 -3,8240 -3,7750 10,7545 113,5935 655,4458 1610,3185 c 239,-319 428,-535 744,-850 286,-286 436,-420 706,-632 C 4666,442 6732,-162 8765,35 c 1734,169 3354,891 4645,2071 632,577 1156,1241 1589,2014 64,113 231,450 301,605 345,767 574,1625 659,2470 32,311 41,496 41,810 0,808 -118,1588 -356,2359 -526,1697 -1613,3186 -3064,4197 -1216,848 -2616,1332 -4135,1429 -181,11 -740,11 -920,-1 z"
-         id="path4601" />
+         id="path4601"
+         style="" />
     </g>
     <g
        transform="matrix(0.04187991,0,0,0.04187991,75.615576,54.993306)"
-       style="fill:#ffffff;stroke:none"
+       style="fill:#ffffff;stroke:none;fill-opacity:0.84020621"
        id="layer102">
       <path
          d="m 7751,13046 c -6,-17 -62,-222 -127,-456 -195,-713 -262,-951 -266,-956 -3,-2 -398,103 -879,234 -481,131 -875,238 -877,237 -3,-3 -112,-1041 -112,-1071 0,-17 8,-23 33,-28 75,-14 558,-147 627,-172 101,-38 181,-113 204,-193 28,-95 21,-155 -43,-390 -33,-119 -139,-504 -236,-856 -97,-352 -239,-867 -315,-1145 -76,-278 -193,-703 -260,-945 -67,-242 -142,-514 -166,-605 -25,-91 -57,-185 -72,-210 -44,-77 -110,-138 -190,-177 -67,-34 -84,-38 -171,-41 -134,-6 -233,16 -734,162 -81,23 -120,30 -122,22 -7,-20 -247,-901 -249,-910 0,-4 87,-33 194,-62 107,-30 499,-138 870,-241 371,-102 678,-189 682,-192 4,-3 -81,-323 -188,-711 -107,-388 -192,-710 -190,-715 2,-6 28,-17 57,-24 30,-8 222,-61 428,-117 206,-57 376,-103 377,-101 1,1 88,315 193,697 106,382 194,696 196,698 2,2 137,-35 302,-83 164,-48 318,-92 343,-100 35,-10 44,-17 42,-31 -2,-11 -87,-320 -188,-689 -101,-368 -184,-674 -184,-680 0,-9 858,-250 865,-243 2,2 91,322 198,711 107,389 196,710 199,712 2,3 42,-2 89,-10 416,-74 899,-94 1184,-51 672,104 1078,440 1283,1061 196,592 97,1085 -302,1499 l -73,76 h 118 c 828,0 1344,393 1564,1190 130,470 135,910 15,1273 -41,126 -137,313 -218,427 -145,205 -419,444 -699,612 -277,166 -754,378 -1083,483 -30,10 -58,20 -62,24 -4,3 71,290 166,636 96,347 185,671 198,721 l 25,91 -426,117 c -234,64 -431,116 -436,116 -6,0 -98,-318 -204,-707 -107,-390 -195,-709 -196,-710 -1,-2 -143,35 -316,81 -173,46 -329,87 -346,91 -18,3 -33,12 -33,18 0,11 16,68 259,952 71,259 128,471 126,473 -1,1 -196,56 -433,121 l -431,118 z m 442,-2762 c 928,-243 1429,-470 1733,-785 93,-98 132,-151 179,-252 54,-113 70,-186 69,-317 0,-211 -79,-419 -214,-563 -317,-339 -883,-384 -1824,-143 -226,58 -696,197 -696,207 0,4 117,433 260,953 143,520 260,948 260,951 0,10 22,5 233,-51 z M 7391,7495 c 657,-172 1015,-321 1295,-540 97,-76 161,-145 225,-243 60,-91 87,-161 107,-277 19,-113 7,-234 -39,-369 -102,-305 -310,-473 -660,-532 -82,-13 -140,-16 -298,-11 -227,6 -400,32 -681,103 -171,42 -609,170 -618,179 -4,4 126,484 431,1588 24,87 46,147 53,147 6,0 90,-20 185,-45 z"
-         id="path4604" />
+         id="path4604"
+         style="fill:#ffffff;fill-opacity:0.84020621" />
     </g>
   </g>
   <g
@@ -73,7 +99,7 @@
         <path
            d="m 0,0 c 0,0 -0.036,7.979 2.985,11 3.021,3.021 11.042,2.813 11.042,2.813 C 14.027,13.813 14.026,6 11.026,3 8.026,0 0,0 0,0"
            id="path28"
-           style="fill:#ffac33;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#ffacd8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
       <g
          transform="translate(11.067328,2.4318484)"
@@ -81,25 +107,25 @@
         <path
            d="M 0,0 C 0,2.209 1.791,4 4,4 6.209,4 8,2.209 8,0 8,-2.209 6.209,-4 4,-4 1.791,-4 0,-2.209 0,0"
            id="path32"
-           style="fill:#ffcc4d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#ffccd0;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
       <g
-         style="fill:#d9d7cf;fill-opacity:1"
+         style="fill:#e7e5e0;fill-opacity:1"
          transform="translate(42.067328,29.432348)"
          id="g34">
         <path
            d="m 0,0 c 0,0 -10,0 -22,-10 -6,-5 -6,-14 -4,-16 2,-2 11,-2 16,4 C 0,-10 0,0 0,0"
            id="path36"
-           style="fill:#d9d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#e7e5e0;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
       <g
          transform="translate(33.067328,24.432348)"
          id="g38"
-         style="fill:#010a2e;fill-opacity:1">
+         style="fill:#010a2e;fill-opacity:0.86597937">
         <path
            d="M 0,0 C -1.623,0 -3.013,-0.971 -3.641,-2.36 -3.139,-2.133 -2.586,-2 -2,-2 0.209,-2 2,-3.791 2,-6 2,-6.586 1.867,-7.139 1.641,-7.64 3.029,-7.013 4,-5.623 4,-4 4,-1.791 2.209,0 0,0"
            id="path40"
-           style="fill:#010a2e;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#010a2e;fill-opacity:0.86597937;fill-rule:nonzero;stroke:none" />
       </g>
       <g
          transform="translate(14.068328,1.4318484)"
@@ -107,7 +133,7 @@
         <path
            d="M 0,0 C 0,0 0,4 1,5 2,6 14.001,15.999 15,15 15.999,14.001 5.999,2 4.999,1 3.999,0 0,0 0,0"
            id="path44"
-           style="fill:#315bfa;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
     </g>
     <g
@@ -119,7 +145,7 @@
         <path
            d="m 0,0 8,7 16,-1 1,-16 -7,-8 c 0,0 0,5.999 -6,12 C 5.999,0.001 0,0 0,0"
            id="path24-7"
-           style="fill:#315bfa;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#4667e5;fill-opacity:0.87113404;fill-rule:nonzero;stroke:none" />
       </g>
       <g
          transform="translate(-11.46937,8.140675)"
@@ -127,7 +153,7 @@
         <path
            d="m 0,0 c 0,0 -0.036,7.979 2.985,11 3.021,3.021 11.042,2.813 11.042,2.813 C 14.027,13.813 14.026,6 11.026,3 8.026,0 0,0 0,0"
            id="path28-3"
-           style="fill:#ffac33;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#ffb2c5;fill-opacity:0.80927837;fill-rule:nonzero;stroke:none" />
       </g>
       <g
          transform="translate(-7.4430698,16.140675)"
@@ -135,16 +161,16 @@
         <path
            d="M 0,0 C 0,2.209 1.791,4 4,4 6.209,4 8,2.209 8,0 8,-2.209 6.209,-4 4,-4 1.791,-4 0,-2.209 0,0"
            id="path32-6"
-           style="fill:#ffcc4d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#ffcced;fill-opacity:0.92783505;fill-rule:nonzero;stroke:none" />
       </g>
       <g
-         style="fill:#d9d7cf;fill-opacity:1"
+         style="fill:#b9b6a7;fill-opacity:1"
          transform="translate(23.55693,43.141175)"
          id="g34-2">
         <path
            d="m 0,0 c 0,0 -10,0 -22,-10 -6,-5 -6,-14 -4,-16 2,-2 11,-2 16,4 C 0,-10 0,0 0,0"
            id="path36-9"
-           style="fill:#d9d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#b9b6a7;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
       <g
          transform="translate(-4.4420698,15.140675)"
@@ -152,7 +178,7 @@
         <path
            d="M 0,0 C 0,0 0,4 1,5 2,6 14.001,15.999 15,15 15.999,14.001 5.999,2 4.999,1 3.999,0 0,0 0,0"
            id="path44-0"
-           style="fill:#315bfa;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+           style="fill:#5e7ced;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       </g>
     </g>
   </g>
