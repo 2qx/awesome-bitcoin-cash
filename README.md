@@ -19,6 +19,9 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 
 Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING.md).
 
+
+<!--💚📙-->
+
 # Contents
 - [Contents](#contents)
 - [Whitepaper](#whitepaper)
@@ -64,14 +67,15 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Full Node Developer Resources](#full-node-developer-resources)
   - [Open-Source Teams Builing Upon  Bitcoin Cash](#open-source-teams-builing-upon-bitcoin-cash)
   - [SPV servers](#spv-servers)
+  - [SLP Token Enabled Tooling](#slp-token-enabled-tooling)
   - [Libraries & SDKs](#libraries--sdks)
     - [Javascript](#javascript)
     - [Typescript](#typescript)
     - [Python](#python)
     - [Java](#java)
+    - [C](#c)
     - [PHP](#php)
     - [Language Agnostic](#language-agnostic)
-  - [SLP Token Enabled Tooling](#slp-token-enabled-tooling)
 
 # Whitepaper
 
@@ -136,14 +140,15 @@ These are up and coming projects in alpha stage (may not be suitable for large t
 - stamp [[src]](https://github.com/cashweb/stamp) - A Bitcoin Cash powered chat electron app on testnet
 - [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
 - Neutron Cash [[release]](https://github.com/musashidev/neutron-cash/releases/tag/v0.1.0) [[src]](https://github.com/musashidev/neutron-cash) - A desktop neutrino wallet using bchwallet and electron
+- [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 
 ## Shipped
 
 All of these apps are mostly stable and active.  Always check the notes of a particualar project before risking a large sum of value.  Links are checked on a weekly basis, but function is not checked.
  
 ### Apps (Social)
-- [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
-- [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) - a crowd funding app using anyone can pay multisig transactions.
+- 💚 [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
+- [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
 
@@ -165,13 +170,13 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [tx street](https://txstreet.com/beta) - transaction visualizer, updated with popular protocols.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
-  
+- [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs
   
 ### SLP Token Projects
 
-- [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
+- 💚 [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
 - [mist](https://mistcoin.org/) - a mineable SLP token using a proof-of-work covenant contract 
-- [cryptophyl](https://cryptophyl.com/) - an SLP exchange
+- 💚 [cryptophyl](https://cryptophyl.com/) - an SLP exchange
 - [Toba Token](https://tobaelectricbike.com/toba-token/) - an e-bike customer reward token
 - [Honest Coin](https://www.honestcoin.io/) - a fully regulated, 1:1 U.S. Dollar-backed stablecoin
 - [SpiceToken](https://spicetoken.org/) - a meme token for social tipping
@@ -252,9 +257,9 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 Just some good charities for the world at large. 
 
+- [Tails](https://tails.boum.org/donate/index.en.html)
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - Powered by [The Giving Block](https://www.thegivingblock.com/)
 - [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4)
-- [Tails](https://tails.boum.org/donate/index.en.html)
 
 
 # eCommerce Merchant Resources 
@@ -263,7 +268,7 @@ Just some good charities for the world at large.
 - [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Bitcoin Cash integration for CryptoWoo
 
 ## BCH-to-Fiat Payment Processors
-- [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]]((https://bitpay.com/docs))
+- [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]](https://bitpay.com/docs)
 - [Coinpayments Tools](https://www.coinpayments.net/merchant-tools) [[plugins]](https://www.coinpayments.net/merchant-tools-plugins) - Integrations for coinpayments
 - [GoCoin](https://gocoin.com/docs) - GoCoin integrations, libraries & API docs.
 - [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase
@@ -282,8 +287,8 @@ Just some good charities for the world at large.
 
 ## Roadmaps
 
-- [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - Official Bitcoin ABC Roadmap.
-- [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list.
+- 📙 [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - Bitcoin ABC Roadmap.
+- 📙 [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list.
 - [Coin Dance list](https://cash.coin.dance/development) - with broader developments and proposals in various states from many groups.
 
 
@@ -291,7 +296,7 @@ Just some good charities for the world at large.
 - [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
 - [*Mastering Bitcoin Cash*](https://developer.bitcoin.com/mastering-bitcoin-cash/) - Fork of Andreas M. Antonopoulos' book under Creative Commons
 - [developers.cash](https://developers.cash/) - many useful resources and [tools](https://developers.cash/tools/)
-- [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) - libraries for interacting with Bitcoin Cash
+- 📙 [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) - libraries for interacting with Bitcoin Cash
 - [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com
 - [tutorial.cash](https://www.tutorial.cash/) - video tutorials
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/) - Early general introduction to Bitcoin Cash.
@@ -322,7 +327,7 @@ Just some good charities for the world at large.
 
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication.
-- [spedn](https://spedn.pl/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]]((https://spedn.readthedocs.io/en/latest/)) - a high level smart contract language that compiles to Bitcoin Cash Script.
+- [spedn](https://spedn.pl/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
 - [Cashscript](https://cashscript.org/docs/basics/about/) - a solidity-style language that compiles to Bitcoin Cash Script.
 - [Cashscript alt-docs](https://developer.bitcoin.com/cashscript/docs/language) - documentation for Cashscript hosted at bitcoin.com.
 
@@ -330,19 +335,19 @@ Just some good charities for the world at large.
 
 ## Full Nodes
 
-- [BitcoinABC](https://www.bitcoinabc.org/) [[mirror]](https://github.com/Bitcoin-ABC/bitcoin-abc) [[docs]](https://doc.bitcoinabc.org/) - a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
+- 💚 [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [[docs]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
 - [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
 - [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - alternative implementation written in Go (golang)
-- [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes
-- [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [[docs]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
 - [Flowee the Hub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
+- 📙 [BitcoinABC](https://www.bitcoinabc.org/) [[mirror]](https://github.com/Bitcoin-ABC/bitcoin-abc) [[docs]](https://doc.bitcoinabc.org/) - a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
+- [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes
 - [Knuth](https://kth.cash/) [[src]](https://github.com/k-nuth/kth)- a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 
 ### Full Node Developer Resources
 
+- 💚 [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
 - [Future of Bitcoin Cash](https://thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts - [developer meetings](https://www.thefutureofbitcoin.cash/development-meetings), a [newsletter](https://www.thefutureofbitcoin.cash/pulse-newsletter) and other planing resources.
-- [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
-- [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
+- 📙 [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
 - [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
 
@@ -356,13 +361,13 @@ Just some good charities for the world at large.
 
 There are various groups developing software stacks & apps for the broader ecosystem.  
 
-- [Bitcoin.com](https://bitcoin.com) [[repos]](https://github.com/Bitcoin-com) - Prolific group developing webapps, mobile apps, and new tooling for deployed at bitcoin.com. (Typescript with some Javascript et al.)
 - [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
+- 💚 [Simple Ledger](https://simpleledger.io/) [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
+- [Flowee](https://flowee.org) [[repos]](https://gitlab.com/FloweeTheHub) - Team maintaining a non-mining full node and services to access the Bitcoin Cash network. (C++, NodeJs et al)
 - [gcash](https://bchd.cash) [[repos]](https://github.com/gcash/) - Team building apps, a wallet and tooling using an alternative full node directly. (Golang)
-- [Simple Ledger](https://simpleledger.io/) [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
 - [General Protocols](https://GeneralProtocols.com) [[repos]](https://gitlab.com/GeneralProtocols) - Team researching and developing protocols for non-custodial and trustless networks using BitBox. (Typescript and Javascript)
 - [Electron Cash](https://electroncash.org/) [[repos]](https://github.com/Electron-Cash/) - Team maintaining a desktop SPV wallet with plugins and mobile app (Python)
-- [Flowee](https://flowee.org) [[repos]](https://gitlab.com/FloweeTheHub) - Team maintaining a non-mining full node and services to access the Bitcoin Cash network. (C++, NodeJs et al)
+- [Bitcoin.com](https://bitcoin.com) [[repos]](https://github.com/Bitcoin-com) - Prolific group developing webapps, mobile apps, and new tooling for deployed at bitcoin.com. (Typescript with some Javascript et al.)
 
 
 
@@ -372,6 +377,16 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [ElectronX](https://github.com/Electron-Cash/electrumx) [[docs]](https://electrumx.readthedocs.io/en/latest/) - A reimplementation of Electrum-Server for a future with bigger blocks.  ⚠️ [See changlog note v1.15.0](https://electrumx.readthedocs.io/en/latest/changelog.html) ⚠️
 - [Electron Cash ElectronX](https://github.com/Electron-Cash/electrumx) [[docs]](https://electrumx.readthedocs.io/en/latest/) - Electron Cash maintained version of ElectrumX.  ⚠️ See note on main branch above ⚠️
 
+
+## SLP Token Enabled Tooling
+
+- 💚 [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
+- 💚 [SLPDB](https://github.com/simpleledger/SLPDB) - simpleledger indexer 
+- 💚 [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries
+- [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer
+- 💚 [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - for android and iOS.
+
+
 ## Libraries & SDKs
 
 ### Javascript
@@ -379,7 +394,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [libcash-js](https://developers.cash/resource/libcash-js/default) - javascript library using the flowee api.
 - [signup.cash](https://signup.cash/) [[src]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps
 - [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
-- [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
+- 💚 [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
 - [electrum-cash](https://gitlab.com/GeneralProtocols/electrum-cash) [[docs]](https://gitlab.com/GeneralProtocols/electrum-cash) [[tutorials]](https://read.cash/c/electrum-cash-f45e) - JavaScript library that lets you connect with one or more Electrum servers.
 
 ### Typescript
@@ -390,10 +405,14 @@ There are various groups developing software stacks & apps for the broader ecosy
 ### Python
 - [bitcash](https://pybitcash.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - python3 library.
 - [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) - sample protobuf based python client for bchd.
+- [jtoomim/p2pool](https://github.com/jtoomim/p2pool) - jtoomim fork of bitcoin pool mining software
 
 ### Java
 - [bitcoincashj](https://github.com/pokkst/bitcoincashj) - Bitcoin Cash library for Java 
 
+### C
+- [Breadwallet Core](https://github.com/breadwallet/breadwallet-core) - SPV bitcoin C library
+  
 ### PHP
 - [cashp](https://github.com/Ekliptor/cashp) - Library for BCH and SLP tokens
 
@@ -401,13 +420,5 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - [grpc-bchrpc-star](https://github.com/2qx/grpc-bchrpc-star) - Client libraries for bchd rpc generated from protocol buffers
 - [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-
-## SLP Token Enabled Tooling
-
-- [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
-- [SLPDB](https://github.com/simpleledger/SLPDB) - simpleledger indexer 
-- [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries
-- [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer
-- [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - for android and iOS.
 
 
