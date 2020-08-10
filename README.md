@@ -298,7 +298,7 @@ Just some good charities for the world at large.
 
 [Bitcoin Cash Standards](https://bitcoincashstandards.org) is a site dedicated to collecting, some of which are listed below:
   
-- [Cashaddr](https://github.com/bitcoincashorg/bitcoincash.org/blob/master/spec/cashaddr.md) - Format for Bitcoin Cash addresses
+- [Cashaddr](https://upgradespecs.bitcoincashnode.org/cashaddr/) - Format for Bitcoin Cash addresses
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
 - [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses
 - [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app
