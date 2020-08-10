@@ -292,7 +292,7 @@ Just some good charities for the world at large.
 
 ## Base Protocol
 
-- [Base Protocol Reference](https://reference.cash/) - maintained by Bitcoin Unlimited
+- 💚 [Base Protocol Reference](https://reference.cash/) - maintained by Bitcoin Unlimited
 
 ### Secondary protocols
 
