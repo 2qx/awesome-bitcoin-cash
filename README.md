@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img width="250px" src="./awesome-bitcoin-cash.png">
+  <img width="400px" src="./awesome-bitcoin-cash.dark.svg">
 </div>
 <br/>
 <div align="center">
