@@ -99,7 +99,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
 - [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
 - [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) - Edge Wallet React Native GUI for iOS and Android
-- [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/ios) and Android [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/android)
+- 💚 [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/ios) and Android [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/android)
 
 ## Desktop
 - [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash
@@ -119,7 +119,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 ## Browser
 
 - [blockparty](https://blockparty.sh/) [[src]](https://github.com/blockparty-sh/wallet/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitbox.earth
-- [mint](https://mint.bitcoin.com) [[src]](https://github.com/Bitcoin-com/mint) - Non-custodial web-based tool to manage your SLP tokens. 
+- 💚 [mint](https://mint.bitcoin.com) [[src]](https://github.com/Bitcoin-com/mint) - Non-custodial web-based tool to manage your SLP tokens. 
 - [nito](https://nito.cash) [[src]](https://gitlab.com/bchplease/nito.cash) - Web wallet designed for easily on-boarding of new users
 
 ## Paper/Offline Generator
@@ -193,7 +193,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 ### Utilities
 
 - [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
-- [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
+- 💚 [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 
 ### Web
 
@@ -212,7 +212,7 @@ These ships are apparently in long term storage
 These are other projects dedicated to listing projects in the Bitcoin Cash ecosystem:
 
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
-- [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
+- 💚 [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
 - [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
   
 
@@ -235,7 +235,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 ## Geographic lists
 - [member map](https://memberapp.github.io/#map) - permanent on-chain geographic tags utilizing extensions to the memo protocol.
-- [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino.
+- 💚 [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino.
 - [Greenpages map](https://greenpages.cash/pages/map.php) - merchant finder with advanced filtering.
 
 ## Projects dedicated to listing or enabling eCommerce.
@@ -283,9 +283,9 @@ Just some good charities for the world at large.
 
 ## General 
 - [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
-- [*Mastering Bitcoin Cash*](https://developer.bitcoin.com/mastering-bitcoin-cash/) - Fork of Andreas M. Antonopoulos' book under Creative Commons
+- 💚 [*Mastering Bitcoin Cash*](https://developer.bitcoin.com/mastering-bitcoin-cash/) - Fork of Andreas M. Antonopoulos' book under Creative Commons
 - [developers.cash](https://developers.cash/) - many useful resources and [tools](https://developers.cash/tools/)
-- [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com
+- 💚 [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com
 - [tutorial.cash](https://www.tutorial.cash/) - video tutorials
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/) - Early general introduction to Bitcoin Cash.
   
@@ -317,7 +317,7 @@ Just some good charities for the world at large.
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - an integrated development environment for bitcoin authentication.
 - [spedn](https://spedn.pl/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
 - [Cashscript](https://cashscript.org/docs/basics/about/) - a solidity-style language that compiles to Bitcoin Cash Script.
-- [Cashscript alt-docs](https://developer.bitcoin.com/cashscript/docs/language) - documentation for Cashscript hosted at bitcoin.com.
+- 💚 [Cashscript alt-docs](https://developer.bitcoin.com/cashscript/docs/language) - documentation for Cashscript hosted at bitcoin.com.
 
 # Software 
 
@@ -347,9 +347,9 @@ Just some good charities for the world at large.
 
 There are various groups developing software stacks & apps for the broader ecosystem.  
 
-- [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
 - 💚 [Simple Ledger](https://simpleledger.io/) [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
-- [Bitcoin.com](https://bitcoin.com) [[repos]](https://github.com/Bitcoin-com) - Prolific group developing webapps, mobile apps, and new tooling for deployed at bitcoin.com. (Typescript with some Javascript et al.)
+- 💚 [Bitcoin.com](https://bitcoin.com) [[repos]](https://github.com/Bitcoin-com) - Prolific group developing webapps, mobile apps, and new tooling for deployed at bitcoin.com. (Typescript with some Javascript et al.)
+- [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
 - [Flowee](https://flowee.org) [[repos]](https://gitlab.com/FloweeTheHub) - Team maintaining a non-mining full node and services to access the Bitcoin Cash network. (C++, NodeJs et al)
 - [gcash](https://bchd.cash) [[repos]](https://github.com/gcash/) - Team building apps, a wallet and tooling using an alternative full node directly. (Golang)
 - [General Protocols](https://GeneralProtocols.com) [[repos]](https://gitlab.com/GeneralProtocols) - Team researching and developing protocols for non-custodial and trustless networks using BitBox. (Typescript and Javascript)
@@ -369,7 +369,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 - 💚 [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
 - 💚 [SLPDB](https://github.com/simpleledger/SLPDB) - simpleledger indexer 
 - 💚 [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries
-- [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer
+- 💚 [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer
 - 💚 [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - for android and iOS.
 
 
@@ -384,8 +384,8 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [electrum-cash](https://gitlab.com/GeneralProtocols/electrum-cash) [[docs]](https://gitlab.com/GeneralProtocols/electrum-cash) [[tutorials]](https://read.cash/c/electrum-cash-f45e) - JavaScript library that lets you connect with one or more Electrum servers.
 
 ### Typescript
-- [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) - library for interacting with BCH via rest.bitcoin.com.
-- [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - browser extension wallet supporting BCH and SLP on webpages.
+- 💚 [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) - library for interacting with BCH via rest.bitcoin.com.
+- 💚 [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - browser extension wallet supporting BCH and SLP on webpages.
 - [libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - a zero-dependency, typescript bitcoin library, including WASM crypto functions, BTC, but BCH friendly. (formerly bitcoin-ts)
 
 ### Python
@@ -404,7 +404,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### Language Agnostic
 
-- [grpc-bchrpc-star](https://github.com/2qx/grpc-bchrpc-star) - Client libraries for bchd rpc generated from protocol buffers
-- [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+- 💚* [grpc-bchrpc-star](https://github.com/2qx/grpc-bchrpc-star) - Client libraries for bchd rpc generated from protocol buffers
+- 💚 [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
 
