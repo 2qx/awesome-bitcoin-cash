@@ -20,7 +20,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING.md).
 
 
-<!--💚📙-->
+<!--💚-->
 
 # Contents
 - [Contents](#contents)
@@ -43,7 +43,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Services & Bots](#services--bots)
     - [Utilities](#utilities)
     - [Web](#web)
-  - [Launchpad](#launchpad)
   - [In the Boneyard](#in-the-boneyard)
   - [See Also](#see-also)
 - [Merchants and Services Accepting Bitcoin Cash](#merchants-and-services-accepting-bitcoin-cash)
@@ -135,10 +134,8 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 These are up and coming projects in alpha stage (may not be suitable for large transactions):
 
-- [be.cash](https://be.cash) [[whitepaper]](https://be.cash/becash.pdf) [[demo]](https://twitter.com/TobiasRuck/status/1261025132971274240) - point of sale system using stable tokens and nfc
-- [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
-- stamp [[src]](https://github.com/cashweb/stamp) - A Bitcoin Cash powered chat electron app on testnet
 - [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
+- [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
 - Neutron Cash [[release]](https://github.com/musashidev/neutron-cash/releases/tag/v0.1.0) [[src]](https://github.com/musashidev/neutron-cash) - A desktop neutrino wallet using bchwallet and electron
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 
@@ -184,6 +181,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 ### Services & Bots
 
+- [Bitcoin Mining Parlament](https://bmp.virtualpol.com/) [[src]](https://github.com/JavierGonzalez/BMP) [[whitepaper]](https://virtualpol.com/BMP_EN.pdf) - Miner voting and chat.
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [tipbitcoin.cash](https://tipbitcoin.cash) - Live tipping bot for video streamers.
 - [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
@@ -191,7 +189,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [BCH Pizza](https://www.bchpizza.org) - BCH shared bounty site for pizza shop adoption.
 - [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall tiered content site.
-- [Bitcoin Mining Parlament](https://bmp.virtualpol.com/) [[src]](https://github.com/JavierGonzalez/BMP) [[whitepaper]](https://virtualpol.com/BMP_EN.pdf) - Miner voting and chat.
 
 ### Utilities
 
@@ -202,17 +199,11 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 - [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple snippet to accept Bitcoin Cash on your website.
 
-## Launchpad
-
-Awesome projects which appear to be dormant due to lack of use.
-
-- [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange.
-
-
 ## In the Boneyard
 
 These ships are apparently in long term storage
 
+- [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange.
 - [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange, errors on slp/list
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform, 🚧 under revision.
 
@@ -287,8 +278,6 @@ Just some good charities for the world at large.
 
 ## Roadmaps
 
-- 📙 [Bitcoin Cash Roadmap](https://www.bitcoincash.org/roadmap.html) - Bitcoin ABC Roadmap.
-- 📙 [Detailed Specs of Proposed Improvements](https://www.bitcoincash.org/specs/) - an ongoing list.
 - [Coin Dance list](https://cash.coin.dance/development) - with broader developments and proposals in various states from many groups.
 
 
@@ -296,7 +285,6 @@ Just some good charities for the world at large.
 - [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
 - [*Mastering Bitcoin Cash*](https://developer.bitcoin.com/mastering-bitcoin-cash/) - Fork of Andreas M. Antonopoulos' book under Creative Commons
 - [developers.cash](https://developers.cash/) - many useful resources and [tools](https://developers.cash/tools/)
-- 📙 [bitcoincash.org dev docs](https://www.bitcoincash.org/developers.html) - libraries for interacting with Bitcoin Cash
 - [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com
 - [tutorial.cash](https://www.tutorial.cash/) - video tutorials
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/) - Early general introduction to Bitcoin Cash.
@@ -336,10 +324,9 @@ Just some good charities for the world at large.
 ## Full Nodes
 
 - 💚 [BCHN](https://bitcoincashnode.org/) [[src]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [[docs]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
-- [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
+- 💚 [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[src]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
 - [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - alternative implementation written in Go (golang)
 - [Flowee the Hub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
-- 📙 [BitcoinABC](https://www.bitcoinabc.org/) [[mirror]](https://github.com/Bitcoin-ABC/bitcoin-abc) [[docs]](https://doc.bitcoinabc.org/) - a full node implementation of the Bitcoin Cash protocol. The dominant mining implementation, C/C++.
 - [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes
 - [Knuth](https://kth.cash/) [[src]](https://github.com/k-nuth/kth)- a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 
@@ -347,7 +334,7 @@ Just some good charities for the world at large.
 
 - 💚 [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
 - [Future of Bitcoin Cash](https://thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts - [developer meetings](https://www.thefutureofbitcoin.cash/development-meetings), a [newsletter](https://www.thefutureofbitcoin.cash/pulse-newsletter) and other planing resources.
-- 📙 [Workgroups](https://github.com/bitcoincashorg/bitcoincash.org/tree/master/workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
+workgroups) - Entrypoint for discussion around particular roadmap sub-projects.
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
 - [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
 
@@ -408,7 +395,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [jtoomim/p2pool](https://github.com/jtoomim/p2pool) - jtoomim fork of bitcoin pool mining software
 
 ### Java
-- [bitcoincashj](https://github.com/pokkst/bitcoincashj) - Bitcoin Cash library for Java 
+- 💚 [bitcoincashj](https://github.com/pokkst/bitcoincashj) - Bitcoin Cash library for Java 
 
 ### C
 - [Breadwallet Core](https://github.com/breadwallet/breadwallet-core) - SPV bitcoin C library
