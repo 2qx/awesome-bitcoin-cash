@@ -198,6 +198,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 ### Web
 
 - [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple snippet to accept Bitcoin Cash on your website.
+- [Bitcoin Paywall](https://wordpress.org/plugins/bitcoin-paywall/) [[src]](https://plugins.trac.wordpress.org/browser/bitcoin-paywall/) - Wordpress paywall plugin
 
 ## In the Boneyard
 
