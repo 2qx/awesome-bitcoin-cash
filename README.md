@@ -92,7 +92,8 @@ Below is a copy of the original nine page whitepaper:
 
 # Getting Started
 
-- [General Information](https://bch.info/) - Multilingual site for general information about bitcoin cash.
+- [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
+- [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
 
 # Open-Source Wallets
 
