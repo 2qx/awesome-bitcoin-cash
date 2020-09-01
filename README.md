@@ -65,7 +65,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Software](#software)
   - [Full Nodes](#full-nodes)
     - [Full Node Developer Resources](#full-node-developer-resources)
-  - [Open-Source Teams Builing Upon  Bitcoin Cash](#open-source-teams-builing-upon-bitcoin-cash)
+  - [Open-Source Teams Building on Bitcoin Cash](#open-source-teams-building-on-bitcoin-cash)
   - [SPV servers](#spv-servers)
   - [SLP Token Enabled Tooling](#slp-token-enabled-tooling)
   - [Libraries & SDKs](#libraries--sdks)
@@ -142,6 +142,7 @@ These are up and coming projects in alpha stage (may not be suitable for large t
 - [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign
 - Neutron Cash [[release]](https://github.com/musashidev/neutron-cash/releases/tag/v0.1.0) [[src]](https://github.com/musashidev/neutron-cash) - A desktop neutrino wallet using bchwallet and electron
+- [](https://bitcoincashjobs.com) - Bitcoin Cash job board
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 
 ## Shipped
@@ -210,9 +211,8 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 These ships are apparently in long term storage
 
+- 💚 [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform, 🚧 under revision.
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange.
-- [SLPDEX](https://slpdex.cash/) [[src]](https://github.com/slpdex/slpdex) - Decentralized token exchange, errors on slp/list
-- [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform, 🚧 under revision.
 
 ## See Also
 
@@ -345,7 +345,7 @@ Just some good charities for the world at large.
 - 💚 [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
 
 
-## Open-Source Teams Builing Upon  Bitcoin Cash
+## Open-Source Teams Building on Bitcoin Cash
 
 > If you want to go fast, go alone. If you want to go far, go together. 
 > 
