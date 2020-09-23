@@ -170,6 +170,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 ### Network
 
+- 💚 [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
 - [tx street](https://txstreet.com/beta) - transaction visualizer, updated with popular protocols.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
