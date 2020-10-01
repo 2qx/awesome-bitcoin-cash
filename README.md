@@ -340,6 +340,7 @@ Just some good charities for the world at large.
 ### Full Node Developer Resources
 
 - 💚 [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
+- 💚 [Bitcoin Cash Discussions](https://bitcoincashnetworkdiscussions.org/) - Site for hosting live meetings and discussions about protocols 
 - 💚 [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
 - 💚 [SLP Unit Tests](https://github.com/simpleledger/slp-unit-test-data) - Test vectors for ensuring that validators of the Simple Ledger Protocol follow consensus.
 - [Future of Bitcoin Cash](https://thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts - [developer meetings](https://www.thefutureofbitcoin.cash/development-meetings), a [newsletter](https://www.thefutureofbitcoin.cash/pulse-newsletter) and other planing resources.
