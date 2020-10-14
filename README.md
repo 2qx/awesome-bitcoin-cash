@@ -370,6 +370,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 ## SPV servers
 
 - 💚 [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server for Bitcoin Cash
+- 💚 [ElectrsCash](https://github.com/BitcoinUnlimited/ElectrsCash) - Electron Cash Server, rust implementation. 
 - [ElectronX](https://github.com/Electron-Cash/electrumx) [[docs]](https://electrumx.readthedocs.io/en/latest/) - A reimplementation of Electrum-Server for a future with bigger blocks.  ⚠️ [See changlog note v1.15.0](https://electrumx.readthedocs.io/en/latest/changelog.html) ⚠️
 - [Electron Cash ElectronX](https://github.com/Electron-Cash/electrumx) [[docs]](https://electrumx.readthedocs.io/en/latest/) - Electron Cash maintained version of ElectrumX.  ⚠️ See note on main branch above ⚠️
 
