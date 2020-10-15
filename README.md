@@ -39,6 +39,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Apps (Social)](#apps-social)
     - [Decentralized Marketplace](#decentralized-marketplace)
     - [Entertainment](#entertainment)
+    - [Faucets](#faucets)
     - [Network](#network)
     - [SLP Token Projects](#slp-token-projects)
     - [Services & Bots](#services--bots)
@@ -164,8 +165,12 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits, BTC and BSV supported.
 - 💚 [craft.cash](https://craft.cash/) [[src]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) -  a provably fair dice game.
+- [Spice Casa](https://spice.casa/) -  a provably fair spice game.
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf 
 
+### Faucets
+- [BCH Testnet Faucet](https://faucet.fullstack.cash/) [[src]](https://github.com/christroutner/testnet-faucet2/i) - Fullstack.cash faucet for tBCH
+- [HONK Faucet](https://faucet.honkhonk.io/) - 
 
 
 ### Network
@@ -378,7 +383,10 @@ There are various groups developing software stacks & apps for the broader ecosy
 ## SLP Token Enabled Tooling
 
 - 💚 [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
-- 💚 [SLPDB](https://github.com/simpleledger/SLPDB) - simpleledger indexer 
+- 💚 [SLPDB](https://slpdb.fountainhead.cash/explorer) [[src]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer 
+- 💚 [SLP Socket](https://slpsocket.fountainhead.cash/channel) [[src]](https://github.com/fountainhead-cash/slpsockserve) [[doc]](https://slp.dev/tooling/slpsocket/) - simpleledger streaming service 
+- 💚 [gs++](https://gs.fountainhead.cash/) [[src]](https://github.com/blockparty-sh/cpp_slp_graph_search) [[doc]](https://gs.fountainhead.cash/swagger.html) - a fast SLP indexer, validator, and graph search server.
+- 💚 [SLP Stream](https://slpstream.fountainhead.cash/channel) [[src]](https://github.com/blockparty-sh/slpstream) [[doc]](https://slp.dev/tooling/slpstream/) - a frontend API for GS++ that provides a streaming output of new transactions.
 - 💚 [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries
 - 💚 [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer
 - 💚 [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - for android and iOS.
@@ -416,7 +424,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### Language Agnostic
 
+- 💚 [Insomnia](https://insomnia.fountainhead.cash/) [[src]](https://github.com/fountainhead-cash/insomnia) - Swagger/OpenAPI3 specification for ElectrumX
 - 💚* [grpc-bchrpc-star](https://github.com/2qx/grpc-bchrpc-star) - Client libraries for bchd rpc generated from protocol buffers
 - 💚 [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-
 

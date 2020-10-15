@@ -1,6 +1,6 @@
 # Motivating Principles
 
-This project was created to serve as a resource for developers, and also from 
+This project was created to serve as a resource for newcomers and developers, and also from 
 frustration with lists of dead, inactive, abandoned or closed-source projects.
 
 In an effort to keep this list maintainable, the idea is to be somewhat picky about what is added,
@@ -15,7 +15,6 @@ Please ensure your pull request adheres to the following guidelines:
 
 ## Before you start
 
-- Make an individual pull request for each suggestion.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 
 ## Editorial Guidelines
@@ -24,12 +23,12 @@ Please ensure your pull request adheres to the following guidelines:
 - Projects and apps should be functional and ideally have usage by the community.
 - Projects which are large and multifaceted may appear in multiple places, but the same link should never be duplicated.
 - Everything should be awesome: open-source, functional, uses Bitcoin Cash, have documentation and tests, or has most of these.
-- You should not submit a project you created or contributed to, rather, it should be promoted to the wider community. However, there is an awesome loophole if your pull request is submitted two days before or after the code freeze preceding a chain upgrade.
+- You should not submit a project **less than six months old** you created or contributed to, rather, it should be promoted to the wider community. 
 
 ## Formatting 
 
 - Use the following format: `[project](link) - a short description.`
-- If source code and documentation are available, those may be linked as well: `[project](link) [src](link) [docs](doc) - ...`
+- If source code and documentation are available, those may be linked as well: `[project](link) [[src]](link) [[docs]](doc) - ...`
 - Try to describe projects in their own words.
 - Keep descriptions short and simple, but descriptive.
 - Check your spelling and grammar.
