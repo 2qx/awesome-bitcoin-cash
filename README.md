@@ -169,13 +169,14 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf 
 
 ### Faucets
-- [BCH Testnet Faucet](https://faucet.fullstack.cash/) [[src]](https://github.com/christroutner/testnet-faucet2/i) - Fullstack.cash faucet for tBCH
+- [BCH Testnet Faucet](https://faucet.fullstack.cash/) [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH
 - [HONK Faucet](https://faucet.honkhonk.io/) - 
 
 
 ### Network
 
 - 💚 [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+- 💚 [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/blockparty-sh/slp-explorer) - Open source explorer for SLP tokens
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
 - [tx street](https://txstreet.com/beta) - transaction visualizer, updated with popular protocols.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
@@ -348,7 +349,7 @@ Just some good charities for the world at large.
 - 💚 [Bitcoin Cash Discussions](https://bitcoincashnetworkdiscussions.org/) - Site for hosting live meetings and discussions about protocols 
 - 💚 [Difficulty Simulator](https://github.com/jtoomim/difficulty) - A more up to date difficulty adjustment with rational miners.
 - 💚 [SLP Unit Tests](https://github.com/simpleledger/slp-unit-test-data) - Test vectors for ensuring that validators of the Simple Ledger Protocol follow consensus.
-- [Future of Bitcoin Cash](https://thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts - [developer meetings](https://www.thefutureofbitcoin.cash/development-meetings), a [newsletter](https://www.thefutureofbitcoin.cash/pulse-newsletter) and other planing resources.
+- [Future of Bitcoin Cash](https://www.thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts - [developer meetings](https://www.thefutureofbitcoin.cash/development-meetings).
 - [Difficulty Simulator](https://github.com/kyuupichan/difficulty) - Simulator for testing algorithms for difficulty adjustment with rational miners.
 
 
@@ -390,6 +391,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 - 💚 [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries
 - 💚 [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer
 - 💚 [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - for android and iOS.
+- 💚 [SLP Icons](https://github.com/kosinusbch/slp-token-icons) - Hosted icons for slp tokens
 
 
 ## Libraries & SDKs
