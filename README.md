@@ -199,7 +199,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [tipbitcoin.cash](https://tipbitcoin.cash) - Live tipping bot for video streamers.
 - [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
-- [bitcash](https://gitcash.io/start) - A custodial tipping bot for github. 
+- [gitcash](https://gitcash.io/start) - A custodial tipping bot for github. 
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [BCH Pizza](https://www.bchpizza.org) - BCH shared bounty site for pizza shop adoption.
 - [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall tiered content site.
@@ -411,7 +411,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 
 ### Python
-- [bitcash](https://pybitcash.github.io/bitcash/) [[src]](https://github.com/sporestack/bitcash) - python3 library.
+- [bitcash](https://pybitcash.github.io/bitcash/) [[src]](https://github.com/pybitcash/bitcash) - python3 library.
 - [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) - sample protobuf based python client for bchd.
 - 💚 [jtoomim/p2pool](https://github.com/jtoomim/p2pool) - jtoomim fork of bitcoin pool mining software
 
