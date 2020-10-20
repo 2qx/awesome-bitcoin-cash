@@ -58,7 +58,7 @@ hr{height:0;border:0;border-bottom:1px dashed #b5e853;color:#b5e853}
 .btn:hover{background:-webkit-linear-gradient(top, rgba(40,40,40,0.6), rgba(35,35,35,0.6) 50%, rgba(10,10,10,0.8) 50%, rgba(0,0,0,0.8))}
 .btn .icon{display:inline-block;width:16px;height:16px;margin:1px 8px 0 0;float:left}
 .btn-github .icon{opacity:0.6;background:url("../images/blacktocat.png") 0 0 no-repeat}
-a{color:#63c0f5;text-shadow:0 0 5px rgba(104,182,255,0.5)}
+a{color:#80f563;text-shadow:0 0 5px rgba(134, 255, 104, 0.5);text-decoration: none;}
 .cf:before,.cf:after{content:"";display:table}
 .cf:after{clear:both}
 .cf{zoom:1}
