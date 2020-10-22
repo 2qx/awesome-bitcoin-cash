@@ -1,3 +1,6 @@
+<div id='stars'></div>
+<div id='stars2'></div>
+<div id='stars3'></div>
 <br/>
 <div align="center">
   <img width="400px" alt="awesome bitcoin cash" src="./awesome-bitcoin-cash.dark.svg">
