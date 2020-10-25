@@ -156,6 +156,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 ### Apps (Social)
 - 💚 [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - 💚 [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
+- 💚 [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 
@@ -168,7 +169,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits, BTC and BSV supported.
 - 💚 [craft.cash](https://craft.cash/) [[src]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) -  a provably fair dice game.
-- [Spice Casa](https://spice.casa/) -  a provably fair spice game.
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf 
 
 ### Faucets
@@ -221,7 +221,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 These ships are apparently in long term storage
 
-- 💚 [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform, 🚧 under revision.
+- [Spice Casa](https://spice.casa/) -  a provably fair spice game.
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange.
 
 ## See Also
