@@ -262,6 +262,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [Bitpay Directory](https://bitpay.com/directory) - partial list of websites using bitpay as a payment processor (sometimes outdated).
 - [Openbazaar Listings](https://openbazaar.com) - web preview for distributed multicoin marketplace.
 - [Purse.io](https://purse.io/) - service to privately purchase goods on Amazon.com (US) at a discount.
+- [CryptoToPayPal](https://cryptotopaypal.com/) - Merchant paypal to crypto or send cryptocurrencies to paypal.
 
 ## Some Charities and Foundations
 
