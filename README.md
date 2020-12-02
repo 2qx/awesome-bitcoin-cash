@@ -73,8 +73,8 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Simple Payment Verification (SPV)](#simple-payment-verification-spv)
   - [Simple Ledger Protocol (SLP Token) Enabled Tooling](#simple-ledger-protocol-slp-token-enabled-tooling)
   - [Libraries & SDKs](#libraries--sdks)
-    - [Javascript](#javascript)
     - [Typescript](#typescript)
+    - [Javascript](#javascript)
     - [Python](#python)
     - [Java](#java)
     - [C](#c)
@@ -188,12 +188,14 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 ### SLP Token Projects
 
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
+- [Flex](https://coinflex.com/flex) [[whitepaper]](https://cdnm.coinflex.com/wp-content/uploads/20200720042551/FLEX-Coin-Whitepaper.pdf) - Token powering CoinFLEX exchange
 - [mist](https://mistcoin.org/) - a mineable SLP token using a proof-of-work covenant contract 
-- [cryptophyl](https://cryptophyl.com/) - an SLP exchange
-- [Toba Token](https://tobaelectricbike.com/toba-token/) - an e-bike customer reward token
-- [Honest Coin](https://www.honestcoin.io/) - a fully regulated, 1:1 U.S. Dollar-backed stablecoin
-- [SpiceToken](https://spicetoken.org/) - a meme token for social tipping
-
+- [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
+- [Toba Token](https://tobaelectricbike.com/toba-token/) - An e-bike customer reward token
+- [Honest Coin](https://www.honestcoin.io/) - A fully regulated, 1:1 U.S. Dollar-backed stablecoin
+- [SpiceToken](https://spicetoken.org/) - A meme token for social tipping
+- [SLP wallet generator [src]](https://github.com/SLPVH/SLPpaperwallet)- Offline generator for Simple Ledger addresses
+- [cryptophyl](https://cryptophyl.com/) - an SLP exchange (deprecated, see: [detoken](https://detoken.net/))
 
 ### Services & Bots
 
@@ -220,11 +222,9 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 These ships are apparently in long term storage
 
 - [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) - Edge Wallet React Native GUI for iOS and Android
-- [Spice Casa](https://spice.casa/) - a provably fair spice game.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
-- [Satoshi Wall](https://satoshiwall.cash/) - a non-custodial payment wall tiered content site.
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange.
-- [SLP wallet generator](https://wallet.bitchslap.tech/) [[src]](https://github.com/SLPVH/SLPpaperwallet)- offline generator for Simple Ledger addresses
+
 
 ## See Also
 
@@ -268,8 +268,8 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 Just some good charities for the world at large. 
 
-- [Tails](https://tails.boum.org/donate/index.en.html)
-- [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - Powered by [The Giving Block](https://www.thegivingblock.com/)
+- [Tails](https://tails.boum.org/donate/index.en.html) 
+- [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - **A United Kingdom based charity, founded in 1919**, to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
 - [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4)
 
 
@@ -303,7 +303,7 @@ Just some good charities for the world at large.
 
 ## General 
 - [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
-- [developers.cash](https://developers.cash/) - many useful resources and [tools](https://developers.cash/tools/)
+- [developers.cash](https://developers.cash/) - many useful resources 
 - [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com
 - [tutorial.cash](https://www.tutorial.cash/) - video tutorials
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/) - Early general introduction to Bitcoin Cash.
@@ -404,20 +404,20 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ## Libraries & SDKs
 
-### Javascript
-- [bchjs](https://bchjs.cash) [[docs]](https://bchjs.cash/bch-js/index.html) - JavaScript Libraries based on BITBOX.
-- [libcash-js](https://developers.cash/resource/libcash-js/default) - javascript library using the flowee api.
-- [electrum-cli](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
-- [signup.cash](https://signup.cash/) [[src]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps.
-- [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
-
 ### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) [[src]](https://github.com/Bitcoin-com/bitbox-sdk/) - library for interacting with BCH via rest.bitcoin.com.
 - [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - browser extension wallet supporting BCH and SLP on webpages.
 - [Libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
 - [electrum-cash](https://gitlab.com/GeneralProtocols/electrum-cash) [[docs]](https://gitlab.com/GeneralProtocols/electrum-cash) [[tutorials]](https://read.cash/c/electrum-cash-f45e) - JavaScript library that lets you connect with one or more Electrum servers.
+- [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/floweejs/) [[src]](https://gitlab.com/FloweeTheHub/floweejs/) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
+  
 
+### Javascript
+- [bchjs](https://bchjs.cash) [[docs]](https://bchjs.cash/bch-js/index.html) - JavaScript Libraries based on BITBOX.
+- [electrum-cli [src]](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
+- [signup.cash](https://signup.cash/) [[src]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps.
+- [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
 
 ### Python
 - [bitcash](https://pybitcash.github.io/bitcash/) [[src]](https://github.com/pybitcash/bitcash) - python3 library.
