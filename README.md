@@ -70,8 +70,8 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Full Nodes](#full-nodes)
     - [Full Node Developer Resources](#full-node-developer-resources)
   - [Open-Source Teams Building on Bitcoin Cash](#open-source-teams-building-on-bitcoin-cash)
-  - [SPV servers](#spv-servers)
-  - [SLP Token Enabled Tooling](#slp-token-enabled-tooling)
+  - [Simple Payment Verification (SPV)](#simple-payment-verification-spv)
+  - [Simple Ledger Protocol (SLP Token) Enabled Tooling](#simple-ledger-protocol-slp-token-enabled-tooling)
   - [Libraries & SDKs](#libraries--sdks)
     - [Javascript](#javascript)
     - [Typescript](#typescript)
@@ -380,7 +380,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 
 
-## SPV servers
+## Simple Payment Verification (SPV) 
 
 - [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server for Bitcoin Cash
 - [ElectrsCash](https://github.com/BitcoinUnlimited/ElectrsCash) - Electron Cash Server, rust implementation. 
@@ -388,7 +388,8 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [Electron Cash ElectronX](https://github.com/Electron-Cash/electrumx) [[docs]](https://electrumx.readthedocs.io/en/latest/) - Electron Cash maintained version of ElectrumX.  ⚠️ See note on main branch above ⚠️
 
 
-## SLP Token Enabled Tooling
+
+## Simple Ledger Protocol (SLP Token) Enabled Tooling
 
 - [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
 - [SLPDB](https://slpdb.fountainhead.cash/explorer) [[src]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer 
@@ -406,7 +407,8 @@ There are various groups developing software stacks & apps for the broader ecosy
 ### Javascript
 - [bchjs](https://bchjs.cash) [[docs]](https://bchjs.cash/bch-js/index.html) - JavaScript Libraries based on BITBOX.
 - [libcash-js](https://developers.cash/resource/libcash-js/default) - javascript library using the flowee api.
-- [signup.cash](https://signup.cash/) [[src]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps
+- [electrum-cli](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
+- [signup.cash](https://signup.cash/) [[src]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps.
 - [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
 
 ### Typescript
