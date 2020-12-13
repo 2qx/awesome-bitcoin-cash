@@ -28,6 +28,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 # Contents
 - [Contents](#contents)
 - [Whitepaper](#whitepaper)
+- [State of the Project](#state-of-the-project)
 - [Getting Started](#getting-started)
 - [Open-Source Wallets](#open-source-wallets)
   - [Mobile](#mobile)
@@ -93,6 +94,10 @@ Below is a copy of the original nine page whitepaper:
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs.
 - [Websites hosting the bitcoin whitepaper](https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated hourly.
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for building the original paper encoded on the blockchain on 2013-04-06.
+
+# State of the Project
+
+- [Three Years In: A Bitcoin Cash Update From One of Its Founders](https://news.bitcoin.com/three-years-in-a-bitcoin-cash-update-from-one-of-its-founders/) - by Jonald Fyookball
 
 # Getting Started
 
@@ -281,9 +286,9 @@ Just some good charities for the world at large.
 
 ## BCH-to-Fiat Payment Processors
 - [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]](https://bitpay.com/docs)
-- [Coinpayments Tools](https://www.coinpayments.net/merchant-tools) [[plugins]](https://www.coinpayments.net/merchant-tools-plugins) - Integrations for coinpayments
-- [GoCoin](https://gocoin.com/docs) - GoCoin integrations, libraries & API docs.
 - [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase.
+- [GoCoin](https://gocoin.com/docs) - GoCoin integrations, libraries & API docs.
+- [Coinpayments Tools](https://www.coinpayments.net/merchant-tools) [[plugins]](https://www.coinpayments.net/merchant-tools-plugins) - Integrations for coinpayments
 
 ## Loyalty Programs
 - [HoneyPay](https://www.honeypay.io/) - Customer loyalty point card system using SLP.
