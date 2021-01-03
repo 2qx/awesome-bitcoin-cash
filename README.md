@@ -160,9 +160,11 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 ### Apps (Social)
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
+- [noise.cash](https://noise.cash) - A Bitcoin Cash powered micro-blogging platform.
+- [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
-- [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
+
 
 
 ### Decentralized Marketplace
@@ -197,6 +199,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 - [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
 - [Flex](https://coinflex.com/flex) [[whitepaper]](https://cdnm.coinflex.com/wp-content/uploads/20200720042551/FLEX-Coin-Whitepaper.pdf) - Token powering CoinFLEX exchange.
+- [FlexUSD](https://coinflex.com/support/4-1-1-flexusd-yield-on-yield/) - Yield producing stable coin.
 - [mist](https://mistcoin.org/) - a mineable SLP token using a proof-of-work covenant contract
 - [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
 - [Honest Coin](https://www.honestcoin.io/) - A fully regulated, 1:1 U.S. Dollar-backed stablecoin.
