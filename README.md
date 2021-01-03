@@ -199,7 +199,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [Flex](https://coinflex.com/flex) [[whitepaper]](https://cdnm.coinflex.com/wp-content/uploads/20200720042551/FLEX-Coin-Whitepaper.pdf) - Token powering CoinFLEX exchange.
 - [mist](https://mistcoin.org/) - a mineable SLP token using a proof-of-work covenant contract
 - [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
-- [Toba Token](https://tobaelectricbike.com/toba-token/) - An e-bike customer reward token.
 - [Honest Coin](https://www.honestcoin.io/) - A fully regulated, 1:1 U.S. Dollar-backed stablecoin.
 - [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
 - [SLP wallet generator [src]](https://github.com/SLPVH/SLPpaperwallet)- Offline generator for Simple Ledger addresses.
@@ -222,7 +221,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 ### Web
 
-- [Pay Button](https://paybutton.org/docs/) [[src]](https://github.com/PayButton/paybutton) - a simple snippet to accept Bitcoin Cash on your website.
+- [Pay Button](https://paybutton.org/) [[src]](https://github.com/paybutton/paybutton) - a simple html (or react component) to accept Bitcoin Cash on a website.
 - [Bitcoin Paywall](https://wordpress.org/plugins/bitcoin-paywall/) [[src]](https://plugins.trac.wordpress.org/browser/bitcoin-paywall/) - Wordpress paywall plugin
 
 ## In the Boneyard
