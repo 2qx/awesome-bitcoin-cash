@@ -114,6 +114,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
 - [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/ios) and Android [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/android)
 - [bread](https://brd.com/) - Multicoin wallet for Android [[src]](https://github.com/breadwallet/breadwallet-android) and iOS [[src]](https://github.com/breadwallet/breadwallet-ios)
+- [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) - Edge Wallet for iOS and Android.
 
 ## Desktop
 - [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash.
@@ -166,8 +167,9 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
 
 
-
 ### Decentralized Marketplace
+- [local.bitcoin.com](https://local.bitcoin.com/) - Decentralized exchange and marketplace with non-custodial escrow.
+- [Detoken](https://detoken.net) - Decentralized financial services using bitcoin cash script. (See: [Prohibited Jurisdictions](https://detoken.net/prohibited-jurisdictions) on 403 Error)
 - [OpenBazaar](https://openbazaar.org/download/) - desktop (daemon w/ electron app) p2p marketplace using multisig transactions.
 - [Havenapp](https://gethaven.app/) - mobile implementation of openbazaar.
 
@@ -231,7 +233,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 These ships are apparently in long term storage
 
-- [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) - Edge Wallet for iOS and Android.
 - [stack exchange](https://read.cash/@nyusternie/stackexchange-provides-shelter-for-homeless-bch-developers-87223764) - an unsuccessful initiative to create a Bitcoin Cash stack exchange.
 
 
