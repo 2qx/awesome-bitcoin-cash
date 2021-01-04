@@ -74,13 +74,13 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Simple Payment Verification (SPV)](#simple-payment-verification-spv)
   - [Simple Ledger Protocol (SLP Token) Enabled Tooling](#simple-ledger-protocol-slp-token-enabled-tooling)
   - [Libraries & SDKs](#libraries--sdks)
+    - [Language Agnostic](#language-agnostic)
     - [Typescript](#typescript)
     - [Javascript](#javascript)
     - [Python](#python)
     - [Java](#java)
     - [C](#c)
     - [PHP](#php)
-    - [Language Agnostic](#language-agnostic)
 
 # Whitepaper
 
@@ -413,12 +413,21 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ## Libraries & SDKs
 
+### Language Agnostic
+
+- [mainnet](https://mainnet.cash/) [[tutorial]](https://mainnet.cash/tutorial/) [[rest spec]](https://rest-unstable.mainnet.cash/api-docs/#/) - Typescript library, also available as rest api, or from [python](https://github.com/mainnet-cash/mainnet-python-generated), [golang](https://github.com/mainnet-cash/mainnet-go-generated), [php](https://github.com/mainnet-cash/mainnet-php-generated) generated clients, [et. al](https://mainnet.cash/tutorial/other-languages.html)
+- [Insomnia](https://insomnia.fountainhead.cash/) [[src]](https://github.com/fountainhead-cash/insomnia) - Swagger/OpenAPI3 specification for ElectrumX
+- [grpc-bchrpc-star](https://github.com/2qx/grpc-bchrpc-star) - Client libraries for bchd rpc generated from protocol buffers.
+- [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+
+
 ### Typescript
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) [[src]](https://github.com/Bitcoin-com/bitbox-sdk/) - library for interacting with BCH via rest.bitcoin.com.
 - [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - browser extension wallet supporting BCH and SLP on webpages.
 - [Libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
 - [electrum-cash](https://gitlab.com/GeneralProtocols/electrum-cash) [[docs]](https://gitlab.com/GeneralProtocols/electrum-cash) [[tutorials]](https://read.cash/c/electrum-cash-f45e) - JavaScript library that lets you connect with one or more Electrum servers.
 - [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/) [[src]](https://gitlab.com/FloweeTheHub/floweejs/) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
+- [mainnet-js](https://mainnet.cash/) [[src]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
 
 
@@ -441,10 +450,4 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### PHP
 - [cashp](https://github.com/Ekliptor/cashp) - Library for BCH and SLP tokens.
-
-### Language Agnostic
-
-- [Insomnia](https://insomnia.fountainhead.cash/) [[src]](https://github.com/fountainhead-cash/insomnia) - Swagger/OpenAPI3 specification for ElectrumX
-- [grpc-bchrpc-star](https://github.com/2qx/grpc-bchrpc-star) - Client libraries for bchd rpc generated from protocol buffers.
-- [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
