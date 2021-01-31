@@ -111,7 +111,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ## Mobile
 - [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
-- [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - Android wallet with SLP, BIP70 and sms features.
+- [pokket.cash](https://pokket.cash) [[src]](https://github.com/pokkst/pokket) - Android wallet with SLP, BIP70 and sms features.
 - [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
 - [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/ios) and Android [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/android)
 - [bread](https://brd.com/) - Multicoin wallet for Android [[src]](https://github.com/breadwallet/breadwallet-android) and iOS [[src]](https://github.com/breadwallet/breadwallet-ios)
@@ -119,7 +119,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ## Desktop
 - [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash.
-- [crescent.cash](https://crescent.cash) [[src]](https://gitlab.com/pokkst/crescentcash) - a Bitcoin Cash wallet in java.
 
 ### Electron-Cash Plugins
 - [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding.
@@ -140,7 +139,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ## Paper/Offline Generator
 - [Cash Address Generator](https://cashaddress.org/) - reputable javascript address generator suitable for offline use.
-- [Crescent Cash Paper](https://paper.crescent.cash/) [[src]](https://gitlab.com/pokkst/crescentpaper) - Crescent Cash Paperwallet Generator.
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 
 # Projects Built on Bitcoin Cash
@@ -171,8 +169,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 ### Decentralized Marketplace
 - [local.bitcoin.com](https://local.bitcoin.com/) - Decentralized exchange and marketplace with non-custodial escrow.
 - [Detoken](https://detoken.net) - Decentralized financial services using bitcoin cash script. (See: [Prohibited Jurisdictions](https://detoken.net/prohibited-jurisdictions) on 403 Error)
-- [OpenBazaar](https://openbazaar.org/download/) - desktop (daemon w/ electron app) p2p marketplace using multisig transactions.
-- [Havenapp](https://gethaven.app/) - mobile implementation of openbazaar.
 
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits, BTC and BSV supported.
@@ -271,7 +267,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 ## Projects dedicated to listing or enabling eCommerce.
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - list of merchants and stores.
 - [Bitpay Directory](https://bitpay.com/directory) - partial list of websites using bitpay as a payment processor (sometimes outdated).
-- [Openbazaar Listings](https://openbazaar.com) - web preview for distributed multicoin marketplace.
 - [Purse.io](https://purse.io/) - service to privately purchase goods on Amazon.com (US) at a discount.
 - [CryptoToPayPal](https://cryptotopaypal.com/) - Merchant paypal to crypto or send cryptocurrencies to paypal.
 
@@ -293,7 +288,6 @@ Just some good charities for the world at large.
 - [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]](https://bitpay.com/docs)
 - [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase.
 - [GoCoin](https://gocoin.com/docs) - GoCoin integrations, libraries & API docs.
-- [Coinpayments Tools](https://www.coinpayments.net/merchant-tools) [[plugins]](https://www.coinpayments.net/merchant-tools-plugins) - Integrations for coinpayments
 
 ## Loyalty Programs
 - [HoneyPay](https://www.honeypay.io/) - Customer loyalty point card system using SLP.
