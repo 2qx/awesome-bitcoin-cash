@@ -252,13 +252,13 @@ These vendors have accepted bitcoin for years and are committed (or sympathetic)
 Although some of these may appear to only accept Bitcoin (BTC), they do, in fact, accept Bitcoin Cash also.
 
 - [Namecheap](https://namecheap.com) - dns, ssl and some packaged hosting.
-- [keys4coins](https://www.keys4coins.com/) - Buy PC games and Steam gift cards with cryptocurrency.
+- [keys4coins](https://www.keys4coins.com/) - Buy PC games and gift cards with cryptocurrency.
 - [alfa.top](https://alfa.top/) - Buy mobile top-up (credit) and internet with cryptocurrency.
 - [CheapAir](https://www.cheapair.com) - for your travel needs.
 - [items sold by Newegg](https://kb.newegg.com/knowledge-base/using-bitcoin-on-newegg/) - good for a great headset.
 - [Lanieri](https://www.lanieri.com) - makes a good suit.
 - [partsoven](https://www.partsoven.com/) - for that 3rd dimension of building.
-- [AdaFruit](https://www.adafruit.com/bitcoin/) - hardware dodads via bitpay
+- [AdaFruit](https://www.adafruit.com/bitcoin/) - hardware do-dads via bitpay
 
 
 ## Geographic lists
