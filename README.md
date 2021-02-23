@@ -368,7 +368,7 @@ Just some good charities for the world at large.
 
 ## Open-Source Teams Building on Bitcoin Cash
 
-> If you want to go fast, go  . If you want to go far, go together.
+> If you want to go fast, go alone. If you want to go far, go together.
 >
 > -- An African Proverb.
 
