@@ -223,7 +223,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 ### Web
 
-- [Pay Button](https://paybutton.org/) [[src]](https://github.com/paybutton/paybutton) - a simple html (or react component) to accept Bitcoin Cash on a website.
+- [PayButton](https://paybutton.org/) [[src]](https://github.com/paybutton/paybutton) - a simple html (or react component) button to accept Bitcoin Cash on a website.
 - [Bitcoin Paywall](https://wordpress.org/plugins/bitcoin-paywall/) [[src]](https://plugins.trac.wordpress.org/browser/bitcoin-paywall/) - Wordpress paywall plugin
 
 ## In the Boneyard
@@ -419,6 +419,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 
 ### Typescript
+- [Paybutton](https://paybutton.org/) [[src]](https://github.com/PayButton/paybutton) - Front end library that makes it easier to accept Bitcoin Cash by adding a buy button.
 - [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) [[src]](https://github.com/Bitcoin-com/bitbox-sdk/) - library for interacting with BCH via rest.bitcoin.com.
 - [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - browser extension wallet supporting BCH and SLP on webpages.
 - [Libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
