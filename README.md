@@ -27,9 +27,9 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 # Contents
 - [Contents](#contents)
-- [Whitepaper](#whitepaper)
-- [State of the Project](#state-of-the-project)
 - [Getting Started](#getting-started)
+- [State of the Project](#state-of-the-project)
+- [Whitepaper](#whitepaper)
 - [Open-Source Wallets](#open-source-wallets)
   - [Mobile](#mobile)
   - [Desktop](#desktop)
@@ -82,6 +82,17 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [C](#c)
     - [PHP](#php)
 
+
+# Getting Started
+
+- [Bitcoin Cash dot org](https://bitcoincash.org) - A general multi-lingual introduction.
+- [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
+- [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
+
+# State of the Project
+
+- [Three Years In: A Bitcoin Cash Update From One of Its Founders](https://news.bitcoin.com/three-years-in-a-bitcoin-cash-update-from-one-of-its-founders/) - by Jonald Fyookball
+  
 # Whitepaper
 
 "Bitcoin: A Peer-to-Peer Electronic Cash System" by Satoshi Nakamoto.
@@ -95,16 +106,7 @@ Below is a copy of the original nine page whitepaper:
 - [Websites hosting the bitcoin whitepaper](https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated hourly.
 - [An adapted copy](https://member.cash/p/5cf8845001) encoded in the member protocol on 2021-01-21
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for building the original paper encoded on the blockchain on 2013-04-06.
-
-# State of the Project
-
-- [Three Years In: A Bitcoin Cash Update From One of Its Founders](https://news.bitcoin.com/three-years-in-a-bitcoin-cash-update-from-one-of-its-founders/) - by Jonald Fyookball
-
-# Getting Started
-
-- [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
-- [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
-
+    
 # Open-Source Wallets
 
 Below are non-custodial open-source wallets that use features specific to Bitcoin Cash.
@@ -420,8 +422,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### Typescript
 - [PayButton](https://paybutton.org/) [[src]](https://github.com/PayButton/paybutton) - Front end library that makes it easier to accept Bitcoin Cash by adding a buy button.
-- [Bitbox SDK](https://developer.bitcoin.com/bitbox/) [[docs]](https://developer.bitcoin.com/bitbox/docs/getting-started) [[src]](https://github.com/Bitcoin-com/bitbox-sdk/) - library for interacting with BCH via rest.bitcoin.com.
-- [Badger SDK](https://developer.bitcoin.com/badger/docs/getting-started) - browser extension wallet supporting BCH and SLP on webpages.
 - [Libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
 - [electrum-cash](https://gitlab.com/GeneralProtocols/electrum-cash) [[docs]](https://gitlab.com/GeneralProtocols/electrum-cash) [[tutorials]](https://read.cash/c/electrum-cash-f45e) - JavaScript library that lets you connect with one or more Electrum servers.
 - [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/) [[src]](https://gitlab.com/FloweeTheHub/floweejs/) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
