@@ -85,7 +85,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 # Getting Started
 
-- [Bitcoin Cash dot org](https://bitcoincash.org) - A general multi-lingual introduction.
+- [bitcoincash.org](https://bitcoincash.org) - A general multi-lingual introduction.
 - [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
 - [Why Bitcoin Cash?]( https://whybitcoincash.com/) - The revolution will not be censored.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
@@ -116,7 +116,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
 - [pokket.cash](https://pokket.cash) [[src]](https://github.com/pokkst/pokket) - Android wallet with SLP, BIP70 and sms features.
 - [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
-- [Badger Mobile](https://badger.bitcoin.com/) [[src]](https://github.com/Bitcoin-com/badger-mobile) - Mobile App wallet with SLP and CashID support for iOS [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/ios) and Android [[src]](https://github.com/Bitcoin-com/badger-mobile/tree/develop/android)
 - [bread](https://brd.com/) - Multicoin wallet for Android [[src]](https://github.com/breadwallet/breadwallet-android) and iOS [[src]](https://github.com/breadwallet/breadwallet-ios)
 - [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) - Edge Wallet for iOS and Android.
 
@@ -153,7 +152,6 @@ These are up and coming projects in alpha stage (may not be suitable for large t
 - [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign.
 - Neutron Cash [[release]](https://github.com/musashidev/neutron-cash/releases/tag/v0.1.0) [[src]](https://github.com/musashidev/neutron-cash) - A desktop neutrino wallet using bchwallet and electron.
-- [Bitcoin Cash Jobs](https://bitcoincashjobs.com) - Bitcoin Cash job board.
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 
 ## Shipped
@@ -175,14 +173,14 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits, BTC and BSV supported.
-- [craft.cash](https://craft.cash/) [[src]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [bch.games](https://bch.games/) - dice and numbers game.
+- [craft.cash](https://craft.cash/) [[src]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf
 
 ### Faucets
+- [Learn Bitcoin Cash](https://learnbitcoin.cash/faucet)
 - [BCH Testnet Faucet](https://faucet.fullstack.cash/) [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
-- [HONK Faucet](https://faucet.honkhonk.io/) - SLP faucet for honk.
 
 
 ### Network
@@ -192,17 +190,16 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
-- [tx street](https://txstreet.com/beta) - transaction visualizer, updated with popular protocols.
+- [tx street](https://txstreet.com/) - transaction visualizer, updated with popular protocols.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
 - [Electrum Server Status](https://1209k.com/bitcoin-eye/ele.php?chain=bch) - A 1209k hosted list of electrum servers
 
 ### SLP Token Projects
 
-- [Electron-Cash SLP Edition](https://simpleledger.cash/project/electron-cash-slp-edition/)
+
 - [Flex](https://coinflex.com/flex) [[whitepaper]](https://cdnm.coinflex.com/wp-content/uploads/20200720042551/FLEX-Coin-Whitepaper.pdf) - Token powering CoinFLEX exchange.
 - [FlexUSD](https://coinflex.com/support/4-1-1-flexusd-yield-on-yield/) - Yield producing stable coin.
-- [mist](https://mistcoin.org/) - a mineable SLP token using a proof-of-work covenant contract
 - [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
 - [Honest Coin](https://www.honestcoin.io/) - A fully regulated, 1:1 U.S. Dollar-backed stablecoin.
 - [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
@@ -292,7 +289,6 @@ Just some good charities for the world at large.
 ## BCH-to-Fiat Payment Processors
 - [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]](https://bitpay.com/docs)
 - [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase.
-- [GoCoin](https://gocoin.com/docs) - GoCoin integrations, libraries & API docs.
 
 ## Loyalty Programs
 - [HoneyPay](https://www.honeypay.io/) - Customer loyalty point card system using SLP.
@@ -401,12 +397,10 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
 - [SLPDB](https://slpdb.fountainhead.cash/explorer) [[src]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer
-- [SLP Socket](https://slpsocket.fountainhead.cash/channel) [[src]](https://github.com/fountainhead-cash/slpsockserve) [[doc]](https://slp.dev/tooling/slpsocket/) - simpleledger streaming service
 - [gs++](https://gs.fountainhead.cash/) [[src]](https://github.com/blockparty-sh/cpp_slp_graph_search) [[doc]](https://gs.fountainhead.cash/swagger.html) - a fast SLP indexer, validator, and graph search server.
 - [SLP Stream](https://slpstream.fountainhead.cash/channel) [[src]](https://github.com/blockparty-sh/slpstream) [[doc]](https://slp.dev/tooling/slpstream/) - a frontend API for GS++ that provides a streaming output of new transactions.
 - [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries.
 - [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer.
-- [SLP SDKs](https://simpleledger.cash/project/slp-sdk/) - for android and iOS.
 - [SLP Icons](https://github.com/kosinusbch/slp-token-icons) - Hosted icons for slp tokens.
 
 
@@ -430,7 +424,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
 
 ### Javascript
-- [bchjs](https://bchjs.cash) [[docs]](https://bchjs.cash/bch-js/index.html) - JavaScript Libraries based on BITBOX.
 - [electrum-cli [src]](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
 - [signup.cash](https://signup.cash/) [[src]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps.
 - [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
