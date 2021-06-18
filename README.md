@@ -190,7 +190,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
-- [tx street](https://txstreet.com/) - transaction visualizer, updated with popular protocols.
+- [tx street](https://txstreet.com/v/bch) - transaction visualizer, updated with popular protocols.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
 - [Electrum Server Status](https://1209k.com/bitcoin-eye/ele.php?chain=bch) - A 1209k hosted list of electrum servers
