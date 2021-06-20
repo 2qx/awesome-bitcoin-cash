@@ -187,6 +187,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 - [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC, [(also available for Testnet)](https://texplorer.bitcoinunlimited.info/)
 - [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/blockparty-sh/slp-explorer) - Open source explorer for SLP tokens.
+- [smartBCH Explorer](https://smartbch-explorer.web.app/) [[src]](https://github.com/jay-bch/smartbch-explorer) - Explorer for smartBCH.
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
@@ -289,6 +290,7 @@ Just some good charities for the world at large.
 ## Non-Custodial Payment Processors
 
 - [Prompt.cash](https://prompt.cash) [[demo]](https://www.youtube.com/watch?v=8TIpZW1P_9M) [[docs]](https://prompt.cash/pub/docs/#introduction) - **Non-custodial** Bitcoin Cash payment gateway
+- [Cash Pay Server](https://github.com/developers-cash/cash-pay-server-js) [[docs]](https://developers-cash.github.io/cash-pay-server-js/) - a self-hostable NodeJS micro-service that can be used to handle BIP70 and JSON Payment Protocol invoices for Bitcoin Cash (BCH)
 
 ## BCH-to-Fiat Payment Processors
 - [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]](https://bitpay.com/docs)
