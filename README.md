@@ -436,7 +436,8 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
 
 ### Javascript
-- [electrum-cli [src]](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
+- [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js) [[docs]](https://bchjs.fullstack.cash/)
+- [electrum-cli](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
 - [signup.cash](https://signup.cash/) [[src]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps.
 - [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
 
