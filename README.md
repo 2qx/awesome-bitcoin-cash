@@ -169,7 +169,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 ### Decentralized Marketplace
 - [local.bitcoin.com](https://local.bitcoin.com/) - Decentralized exchange and marketplace with non-custodial escrow.
-- [Detoken](https://detoken.net) - Decentralized financial services using bitcoin cash script. (See: [Prohibited Jurisdictions](https://detoken.net/prohibited-jurisdictions) on 403 Error)
 
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits, BTC and BSV supported.
@@ -205,7 +204,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [Honest Coin](https://www.honestcoin.io/) - A fully regulated, 1:1 U.S. Dollar-backed stablecoin.
 - [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
 - [SLP wallet generator [src]](https://github.com/SLPVH/SLPpaperwallet)- Offline generator for Simple Ledger addresses.
-- [cryptophyl](https://cryptophyl.com/) - an SLP exchange (deprecated, see: [detoken](https://detoken.net/))
 
 ### Services & Bots
 
@@ -295,9 +293,6 @@ Just some good charities for the world at large.
 ## BCH-to-Fiat Payment Processors
 - [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]](https://bitpay.com/docs)
 - [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase.
-
-## Loyalty Programs
-- [HoneyPay](https://www.honeypay.io/) - Customer loyalty point card system using SLP.
 
 ## Payment Processor Status
 
