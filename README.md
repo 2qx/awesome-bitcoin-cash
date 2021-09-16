@@ -41,7 +41,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Shipyard](#shipyard)
   - [Shipped](#shipped)
     - [Apps (Social)](#apps-social)
-    - [Decentralized Marketplace](#decentralized-marketplace)
+    - [Peer-to-peer Marketplace](#Peer-to-peer-Marketplace)
     - [Entertainment](#entertainment)
     - [Faucets](#faucets)
     - [Network](#network)
@@ -59,7 +59,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [eCommerce Merchant Resources](#ecommerce-merchant-resources)
   - [Bitcoin Cash Open-Source plugins](#bitcoin-cash-open-source-plugins)
   - [BCH-to-Fiat Payment Processors](#bch-to-fiat-payment-processors)
-  - [Loyalty Programs](#loyalty-programs)
   - [Payment Processor Status](#payment-processor-status)
 - [Documentation](#documentation)
   - [Roadmaps](#roadmaps)
@@ -166,9 +165,8 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
 
-
-### Decentralized Marketplace
-- [local.bitcoin.com](https://local.bitcoin.com/) - Decentralized exchange and marketplace with non-custodial escrow.
+### Peer-to-peer Marketplace
+- [Local Cryptos](https://localcryptos.com/) - Peer-to-peer marketplace with non-custodial escrow which supports Bitcoin Cash.
 
 ### Entertainment
 - [blockchain.poker](https://blockchain.poker) - Texas Hold'em using zero-conf for BCH deposits, BTC and BSV supported.
