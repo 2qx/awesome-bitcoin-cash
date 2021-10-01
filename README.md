@@ -41,7 +41,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Shipyard](#shipyard)
   - [Shipped](#shipped)
     - [Apps (Social)](#apps-social)
-    - [Peer-to-peer Marketplace](#Peer-to-peer-Marketplace)
+    - [Peer-to-peer Marketplace](#peer-to-peer-marketplace)
     - [Entertainment](#entertainment)
     - [Faucets](#faucets)
     - [Network](#network)
@@ -58,6 +58,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Some Charities and Foundations](#some-charities-and-foundations)
 - [eCommerce Merchant Resources](#ecommerce-merchant-resources)
   - [Bitcoin Cash Open-Source plugins](#bitcoin-cash-open-source-plugins)
+  - [Non-Custodial Payment Processors](#non-custodial-payment-processors)
   - [BCH-to-Fiat Payment Processors](#bch-to-fiat-payment-processors)
   - [Payment Processor Status](#payment-processor-status)
 - [Documentation](#documentation)
@@ -65,6 +66,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [General](#general)
   - [Base Protocol](#base-protocol)
     - [Secondary protocols](#secondary-protocols)
+  - [Improvement Proposals](#improvement-proposals)
   - [Bitcoin Script](#bitcoin-script)
 - [Software](#software)
   - [Full Nodes](#full-nodes)
@@ -176,7 +178,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf
 
 ### Faucets
-- [Learn Bitcoin Cash](https://learnbitcoin.cash/faucet)
 - [BCH Testnet Faucet](https://faucet.fullstack.cash/) [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
 
 
@@ -207,7 +208,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 - [Bitcoin Mining Parlament](https://bmp.virtualpol.com/) [[src]](https://github.com/JavierGonzalez/BMP) [[whitepaper]](https://virtualpol.com/BMP_EN.pdf) - Miner voting and chat.
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
-- [tipbitcoin.cash](https://tipbitcoin.cash) - Live tipping bot for video streamers.
 - [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
 - [gitcash](https://gitcash.io/start) - A custodial tipping bot for github.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
@@ -261,7 +261,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 ## Geographic lists
 - [member map](https://memberapp.github.io/#map) - permanent on-chain geographic tags utilizing extensions to the memo protocol.
 - [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino.
-- [Greenpages map](https://greenpages.cash/pages/map.php) - merchant finder with advanced filtering.
 
 ## Projects dedicated to listing or enabling eCommerce.
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - list of merchants and stores.
@@ -311,7 +310,6 @@ Just some good charities for the world at large.
 - [developers.cash](https://developers.cash/) - many useful resources
 - [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com.
 - [tutorial.cash](https://www.tutorial.cash/) - User video tutorials.
-- [Learn Bitcoin Cash](https://learnbitcoin.cash/) - Early general introduction to Bitcoin Cash.
 
 ## Base Protocol
 
@@ -381,7 +379,7 @@ Just some good charities for the world at large.
 
 There are various groups developing software stacks & apps for the broader ecosystem.
 
-- [Simple Ledger](https://simpleledger.io/) [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
+- [Simple Ledger](https://simpleledger.cash/) [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
 - [General Protocols](https://GeneralProtocols.com) [[repos]](https://gitlab.com/GeneralProtocols) - Team researching and developing protocols for non-custodial and trustless networks using BitBox. (Typescript and Javascript)
 - [Electron Cash](https://electroncash.org/) [[repos]](https://github.com/Electron-Cash/) - Team maintaining a desktop SPV wallet with plugins and mobile app (Python)
 - [Bitcoin.com](https://bitcoin.com) [[repos]](https://github.com/Bitcoin-com) - Prolific group developing webapps, mobile apps, and new tooling, deployed at bitcoin.com. (Typescript with some Javascript et al.)
