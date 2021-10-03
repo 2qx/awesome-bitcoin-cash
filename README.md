@@ -42,13 +42,13 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Crowdfunding](#crowdfunding)
   - [Entertainment](#entertainment)
     - [Adult](#adult)
-  - [Exchanges (Conventional)](#exchanges-conventional)
-  - [Exchanges (Decentralized)](#exchanges-decentralized)
+  - [Exchanges](#exchanges)
+    - [More decentralized](#more-decentralized)
+    - [More Established](#more-established)
   - [Faucets](#faucets)
   - [Network](#network)
   - [SLP Token Projects](#slp-token-projects)
   - [Services](#services)
-  - [SmartBCH](#smartbch)
   - [Utilities](#utilities)
   - [Web](#web)
   - [See Also](#see-also)
@@ -180,16 +180,22 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [OnlyCoins](https://onlycoins.com/)
 - [gaze.cash](https://gaze.cash/)
 
-## Exchanges (Conventional)
+## Exchanges 
+
+Bitcoin Cash is supported on hundreds of exchanges, these are a few.
+
+### More decentralized
+
+- [Local Cryptos](https://localcryptos.com/) - Peer-to-peer marketplace with non-custodial escrow which supports Bitcoin Cash.
+- [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
+- [benswap](https://benswap.finance/) [[src]](https://github.com/BenTokenFinance) Decentralized exchanged on SmartBCH
+- [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
+  
+### More Established
 
 - [Coinflex](https://coinflex.com) - Coin Futures and Lending Exchange
 - [CoinEx](https://www.coinex.com) - A professional global cryptocurrency exchange (BCH friendly)
   
-## Exchanges (Decentralized)
-- [Local Cryptos](https://localcryptos.com/) - Peer-to-peer marketplace with non-custodial escrow which supports Bitcoin Cash.
-- [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
-- [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
-- 
 ## Faucets
 - [BCH Testnet Faucet](https://faucet.fullstack.cash/) [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
 - [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
@@ -200,6 +206,7 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC, [(also available for Testnet)](https://texplorer.bitcoinunlimited.info/)
 - [smartscan Exploter](https://www.smartscan.cash/) [[src]](https://github.com/jay-bch/smartbch-explorer) - Explorer for smartBCH.
 - [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/blockparty-sh/slp-explorer) - Open source explorer for SLP tokens.
+- [marketcap.cash](https://www.marketcap.cash/) - Market Capitalization Bitcoin Cash SEP20 Tokens on SmartBCH 
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
@@ -229,10 +236,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [CCtip](https://cctip.io/) - Tipping for twitter, telegram, & discord.
 - [BCH Pizza](https://www.bchpizza.org) - BCH shared bounty site for pizza shop adoption.
 
-## SmartBCH
-
-- [benswap](https://benswap.finance/) [[src]](https://github.com/BenTokenFinance) Decentralized exchanged on SmartBCH
-- [MarketCap.cash](https://www.marketcap.cash/) - Market Capitalization Bitcoin Cash SEP20 Tokens on SmartBCH
 
 ## Utilities
 
