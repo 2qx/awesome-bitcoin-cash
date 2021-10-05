@@ -41,10 +41,9 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Apps (Social)](#apps-social)
   - [Crowdfunding](#crowdfunding)
   - [Entertainment](#entertainment)
-    - [Adult](#adult)
   - [Exchanges](#exchanges)
     - [More decentralized](#more-decentralized)
-    - [More Established](#more-established)
+    - [More established](#more-established)
   - [Faucets](#faucets)
   - [Network](#network)
   - [SLP Token Projects](#slp-token-projects)
@@ -161,7 +160,9 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
-
+- [OnlyCoins](https://onlycoins.com/)
+- [gaze.cash](https://gaze.cash/)
+ 
 ## Crowdfunding 
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
@@ -175,10 +176,6 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [Enter the Sphere](https://market.enter-the-sphere.com/) - NFT trading card game.
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf
 
-### Adult
-
-- [OnlyCoins](https://onlycoins.com/)
-- [gaze.cash](https://gaze.cash/)
 
 ## Exchanges 
 
@@ -191,7 +188,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [benswap](https://benswap.finance/) [[src]](https://github.com/BenTokenFinance) Decentralized exchanged on SmartBCH
 - [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
   
-### More Established
+### More established
 
 - [Coinflex](https://coinflex.com) - Coin Futures and Lending Exchange
 - [CoinEx](https://www.coinex.com) - A professional global cryptocurrency exchange (BCH friendly)
@@ -207,7 +204,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [smartscan Exploter](https://www.smartscan.cash/) [[src]](https://github.com/jay-bch/smartbch-explorer) - Explorer for smartBCH.
 - [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/blockparty-sh/slp-explorer) - Open source explorer for SLP tokens.
 - [marketcap.cash](https://www.marketcap.cash/) - Market Capitalization Bitcoin Cash SEP20 Tokens on SmartBCH 
-- [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
 - [tx street](https://txstreet.com/v/bch) - transaction visualizer, updated with popular protocols.
@@ -215,7 +211,9 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
 - [Electrum Server Status](https://1209k.com/bitcoin-eye/ele.php?chain=bch) - A 1209k hosted list of electrum servers
 - [CoinSalad](https://coinsalad.com/bitcoincash/) - Bitcoin Cash statistics 
+- [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 
+  
 ## SLP Token Projects
 
 - Electron-Cash SLP Edition [[src]](https://github.com/simpleledger/Electron-Cash-SLP) [[releases]](https://github.com/simpleledger/Electron-Cash-SLP/releases)
