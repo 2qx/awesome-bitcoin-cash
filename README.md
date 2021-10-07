@@ -160,8 +160,8 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 - [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
-- [OnlyCoins](https://onlycoins.com/)
-- [gaze.cash](https://gaze.cash/)
+- [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
+- [gaze.cash](https://gaze.cash/) - Pay per view video sharing platform
  
 ## Crowdfunding 
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign.
@@ -185,7 +185,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 - [Local Cryptos](https://localcryptos.com/) - Peer-to-peer marketplace with non-custodial escrow which supports Bitcoin Cash.
 - [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
-- [benswap](https://benswap.finance/) [[src]](https://github.com/BenTokenFinance) Decentralized exchanged on SmartBCH
+- [benswap](https://benswap.finance/) [[src]](https://github.com/BenTokenFinance) - Decentralized exchanged on SmartBCH
+- [mistswap](https://app.mistswap.fi) [[src]](https://github.com/mistswapdex) [[docs]](https://docs.mistswap.fi/) - SEP-20 swap based on the mist SLP-token
 - [AnyHedge](https://anyhedge.com/) [[whitepaper]](https://gitlab.com/GeneralProtocols/anyhedge/whitepaper) [[lib]](https://gitlab.com/GeneralProtocols/anyhedge/library) - A Decentralized Hedge Solution for Arbitrary Assets on Bitcoin Cash
   
 ### More established
@@ -223,12 +224,13 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Honest Coin](https://www.honestcoin.io/) - A fully regulated, 1:1 U.S. Dollar-backed stablecoin.
 - [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
 - [SLP wallet generator [src]](https://github.com/SLPVH/SLPpaperwallet)- Offline generator for Simple Ledger addresses.
+- mistcoin [[archive]](http://web.archive.org/web/20210128134553/https://mistcoin.org/) [[blue miner]](https://gitlab.com/blue_mist/miner) - A mineable SLP token using a proof-of-work covenant contract 
 
 ## Services
 
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
-- [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
 - [SideShift.ai](sideshift.ai) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
+- [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
 - [gitcash](https://gitcash.io/start) - A custodial tipping bot for github.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [CCtip](https://cctip.io/) - Tipping for twitter, telegram, & discord.
