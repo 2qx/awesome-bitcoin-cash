@@ -91,6 +91,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
 - [Why Bitcoin Cash?]( https://whybitcoincash.com/) - The revolution will not be censored.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
+- [helpme.cash](https://helpme.cash/) - Getting started with SmartBCH
 
 # State of the Project
 
