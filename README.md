@@ -230,7 +230,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ## Services
 
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
-- [SideShift.ai](sideshift.ai) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
+- [SideShift.ai](https://sideshift.ai/) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
 - [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
 - [gitcash](https://gitcash.io/start) - A custodial tipping bot for github.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
@@ -328,8 +328,8 @@ Just some good charities for the world at large.
 - [Full-Stack how-to](https://troutsblog.com/research/bitcoin-cash/how-to-bch-full-stack-developer) - Chris Troutner's introduction to developing on Bitcoin Cash
 - [developers.cash](https://developers.cash/) - many useful resources
 - [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com.
-- [tutorial.cash](https://www.tutorial.cash/) - User video tutorials.
-
+  
+  
 ## Base Protocol
 
 - [Base Protocol Reference](https://reference.cash/) - maintained by Bitcoin Unlimited.
