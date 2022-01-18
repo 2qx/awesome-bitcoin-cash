@@ -469,3 +469,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 ### PHP
 - [cashp](https://github.com/Ekliptor/cashp) - Library for BCH and SLP tokens.
 
+### R
+- [rbch](https://cran.r-project.org/package=rbch) - Extraction and Statistical Analysis of Data from the BCH Blockchain
+
