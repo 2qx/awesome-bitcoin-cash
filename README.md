@@ -208,6 +208,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/blockparty-sh/slp-explorer) - Open source explorer for SLP tokens.
 - [marketcap.cash](https://www.marketcap.cash/) - Market Capitalization Bitcoin Cash SEP20 Tokens on SmartBCH 
 - [privacy stats](https://stats.cash/#/) - recent list and totals of shuffles & fusions.
+- [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
 - [tx street](https://txstreet.com/v/bch) - transaction visualizer, updated with popular protocols.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
