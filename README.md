@@ -108,6 +108,7 @@ Below is a copy of the original nine page whitepaper:
 - [Archived copy](https://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf) of the bitcoin whitepaper from bitcoin.org.
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs.
 - Websites hosting the bitcoin whitepaper [[wayback archive]](http://web.archive.org/web/20210516141704if_/https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated as of May 16th 2021.
+- [As a webcomic](https://whitepaper.coinspice.io/) - Bitcoin White Paper Webcomic.
 - [An adapted copy](https://member.cash/p/5cf8845001) encoded in the member protocol on 2021-01-21
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for building the original paper encoded on the blockchain on 2013-04-06.
     
@@ -144,6 +145,7 @@ Honorable mention:
 ## Browser
 
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
+- [BCH Merchant PoS](https://pos.cash)[[src]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
 - [blockparty](https://blockparty.sh/) [[src]](https://github.com/blockparty-sh/wallet/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitbox.earth.
 - [nito](https://nito.cash) [[src]](https://gitlab.com/bchplease/nito.cash) - Web wallet designed for easily on-boarding of new users.
 
