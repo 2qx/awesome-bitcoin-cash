@@ -206,8 +206,9 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [CoinEx](https://www.coinex.com) - A professional global cryptocurrency exchange (BCH friendly)
   
 ## Faucets
-- [BCH Testnet Faucet](https://faucet.fullstack.cash/) [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
 - [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
+- BCH Testnet Faucet [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
+
 
 
 ## Network
@@ -219,13 +220,13 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/blockparty-sh/slp-explorer) - Open source explorer for SLP tokens.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
 - [marketcap.cash](https://www.marketcap.cash/) - Market Capitalization of Bitcoin Cash SEP20 Tokens on SmartBCH 
-- [privacy stats](https://stats.cash/#/) - Recent list and totals of shuffles & fusions.
+- [privacy stats](https://stats.sploit.cash/#/fusion) - Recent list fusions.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
 - [tx street](https://txstreet.com/v/bch) - transaction visualizer, updated with popular protocols.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
-- [Electrum Server Status](https://1209k.com/bitcoin-eye/ele.php?chain=bch) - A 1209k hosted list of electrum servers
+- [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
 - [CoinSalad](https://coinsalad.com/bitcoincash/) - Bitcoin Cash statistics 
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 
@@ -237,9 +238,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [FlexUSD](https://coinflex.com/support/4-1-1-flexusd-yield-on-yield/) - Yield producing stable coin.
 - [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
 - mistcoin [[archive]](http://web.archive.org/web/20210128134553/https://mistcoin.org/) [[blue miner]](https://gitlab.com/blue_mist/miner) - A mineable SLP token using a proof-of-work covenant contract 
-- [Honest Coin](https://www.honestcoin.io/) - A fully regulated, 1:1 U.S. Dollar-backed stablecoin.
 - [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
-- [SLP wallet generator [src]](https://github.com/SLPVH/SLPpaperwallet) - Offline generator for Simple Ledger addresses.
 
 ## Services
 
@@ -339,7 +338,8 @@ Just some good charities for the world at large.
 
 ## General
 - [developers.cash](https://developers.cash/) - many useful resources
-- [Bitcoin.com Developer Resources](https://developer.bitcoin.com/) - Tooling and documentation developed by bitcoin.com.
+- [Bitcoin.com Developer Resources](https://www.bitcoin.com/developer/) - Tooling and documentation developed by bitcoin.com.
+- [Permissionless Software Foundation Videos](https://psfoundation.cash/video/)
   
   
 ## Base Protocol
