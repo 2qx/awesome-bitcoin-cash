@@ -72,7 +72,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Bitcoin Script](#bitcoin-script)
 - [Software](#software)
   - [Full Nodes](#full-nodes)
-    - [Full Node Developer Resources](#full-node-developer-resources)
+    - [Developer Resources](#developer-resources)
   - [Open-Source Teams Building on Bitcoin Cash](#open-source-teams-building-on-bitcoin-cash)
   - [Testnet 4](#testnet-4)
   - [Simple Payment Verification (SPV)](#simple-payment-verification-spv)
@@ -344,7 +344,7 @@ Just some good charities for the world at large.
   
 ## Base Protocol
 
-- [Base Protocol Reference](https://reference.cash/) - maintained by Bitcoin Unlimited.
+- [Base Protocol Reference](https://documentation.cash/) - maintained by Software Verde.
 
 ### Secondary protocols
 
@@ -397,12 +397,11 @@ Just some good charities for the world at large.
 - [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - alternative implementation written in Go (golang)
 
 
-### Full Node Developer Resources
+### Developer Resources
+
 
 - [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
-- [Bitcoin Cash Discussions](https://bitcoincashnetworkdiscussions.org/) - Site for hosting live meetings and discussions about protocols
-- [SLP Unit Tests](https://github.com/simpleledger/slp-unit-test-data) - Test vectors for ensuring that validators of the Simple Ledger Protocol follow consensus.
-- [Future of Bitcoin Cash](https://www.thefutureofbitcoin.cash) [[channel]](https://www.youtube.com/channel/UCXmhk-YFo_c5luPzRqr7ViA) - Hosts - [developer meetings](https://www.thefutureofbitcoin.cash/development-meetings).
+- [Bitcoin Cash Discussions](https://bitcoincashnetworkdiscussions.org/) [[youtube]](https://www.youtube.com/channel/UCmyoHmbSsChInLzZ9S5aAAw) - Site for hosting live meetings and discussions about protocols
 
 
 
