@@ -380,6 +380,7 @@ Just some good charities for the world at large.
 ## Bitcoin Script
 
 - [Cashscript](https://cashscript.org/docs/basics/about/) [[src]](https://github.com/Bitcoin-com/cashscript) [[playground]](https://playground.cashscript.org/) - a solidity-style language that compiles to Bitcoin Cash Script.
+- [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [Cashscript VS Code plugin](https://marketplace.visualstudio.com/items?itemName=nathanielcherian.cashscript) [[src]](https://github.com/nathanielCherian/vscode-cashscript) - Visual Studio Code extension for cashscript.
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
