@@ -396,7 +396,7 @@ Just some good charities for the world at large.
 - [Flowee the Hub](https://flowee.org/) [[src]](https://gitlab.com/FloweeTheHub) - a node supporting a suite of software focused on payment integration. C++
 - [Bitcoin Verde](https://bitcoinverde.org/) [[src]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
 - [Knuth](https://kth.cash/) [[src]](https://github.com/k-nuth/kth) - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
-
+- [bchd](https://bchd.cash/) [[src]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - alternative implementation written in Go (golang)
 
 ### Developer Resources
 
