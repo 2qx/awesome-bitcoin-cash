@@ -305,6 +305,7 @@ Just some good charities for the world at large.
 
 - [Tails](https://tails.boum.org/donate/index.en.html) - The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - **A United Kingdom based charity, founded in 1919**, to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
+- [God's Love We Deliver](https://www.glwd.org/donate/ways-to-give/donate-crypto-currency/) - **A non-denominational NYC charity**, that delivers illness-specific meals to New Yorkers in need [*especially* in pandemics]. [The Giving Block](https://www.thegivingblock.com/))
 - [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4) - dedicated to ensuring that technology supports freedom, justice, and innovation for all the people of the world.
 - [Bitpay Charity Directory](https://bitpay.com/directory/nonprofits) A list of charities that accept Bitcoin Cash and other cryptocurrencies.
 
