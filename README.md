@@ -220,7 +220,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Chaingraph](https://chaingraph.cash/) [[src]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [Smartscan Explorer](https://www.smartscan.cash/) [[src]](https://github.com/jay-bch/smartbch-explorer) - Explorer for smartBCH.
 - [smartBCH Stats](https://smartbch.fountainhead.cash/grafana/d/GUnTOBGnz/smartbch?orgId=1&refresh=5s) - Grafana for SmartBCH
-- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/blockparty-sh/slp-explorer) - Open source explorer for SLP tokens.
+- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Open source explorer for SLP tokens.
+  
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
 - [marketcap.cash](https://www.marketcap.cash/) - Market Capitalization of Bitcoin Cash SEP20 Tokens on SmartBCH 
 - [privacy stats](https://stats.sploit.cash/#/fusion) - Recent list fusions.
@@ -441,7 +442,8 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ## Simple Ledger Protocol (SLP Token) Enabled Tooling
 
-- [slpjs](https://github.com/simpleledger/slpjs) - library for interacting with SLP tokens, dependent on bitbox.
+- SLP Indexer [[src]](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer)
+- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Slp explorer for bitcoin cash.
 - [SLPDB](https://slpdb.fountainhead.cash/explorer) [[src]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer
 - [gs++](https://gs.fountainhead.cash/) [[src]](https://github.com/blockparty-sh/cpp_slp_graph_search) [[doc]](https://gs.fountainhead.cash/swagger.html) - a fast SLP indexer, validator, and graph search server.
 - [SLP Stream](https://slpstream.fountainhead.cash/channel) [[src]](https://github.com/blockparty-sh/slpstream) [[doc]](https://slp.dev/tooling/slpstream/) - a frontend API for GS++ that provides a streaming output of new transactions.
