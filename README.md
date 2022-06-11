@@ -206,6 +206,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [CoinEx](https://www.coinex.com) - A professional global cryptocurrency exchange (BCH friendly)
   
 ## Faucets
+- [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
 - [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
 - BCH Testnet Faucet [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
 
@@ -213,7 +214,9 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Network
 
-- [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC, [(also available for Testnet)](https://texplorer.bitcoinunlimited.info/)
+- [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC, 
+  - [(also available for Testnet)](https://texplorer.bitcoinunlimited.info/)
+  - [(also available for Testnet4)](https://testnet4.imaginary.cash/)
 - [Chaingraph](https://chaingraph.cash/) [[src]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [Smartscan Explorer](https://www.smartscan.cash/) [[src]](https://github.com/jay-bch/smartbch-explorer) - Explorer for smartBCH.
 - [smartBCH Stats](https://smartbch.fountainhead.cash/grafana/d/GUnTOBGnz/smartbch?orgId=1&refresh=5s) - Grafana for SmartBCH
@@ -247,7 +250,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [CCtip](https://cctip.io/) - Tipping for twitter, telegram, & discord.
-- [BCH Pizza](https://www.bchpizza.org) - BCH shared bounty site for pizza shop adoption.
 
 
 ## Utilities
