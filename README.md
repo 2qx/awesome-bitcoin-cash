@@ -28,7 +28,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 # Contents
 - [Contents](#contents)
 - [Getting Started](#getting-started)
-  - [smartBCH](#smartbch)
 - [State of the Project](#state-of-the-project)
 - [Whitepaper](#whitepaper)
 - [Open-Source Wallets](#open-source-wallets)
@@ -43,10 +42,12 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Crowdfunding](#crowdfunding)
   - [Entertainment](#entertainment)
   - [Exchanges](#exchanges)
+    - [Centralized](#centralized)
     - [More decentralized](#more-decentralized)
-    - [More established](#more-established)
+  - [Oracles](#oracles)
   - [Faucets](#faucets)
   - [Network](#network)
+  - [SmartBCH Projects](#smartbch-projects)
   - [SLP Token Projects](#slp-token-projects)
   - [Services](#services)
   - [Utilities](#utilities)
@@ -76,7 +77,9 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Open-Source Teams Building on Bitcoin Cash](#open-source-teams-building-on-bitcoin-cash)
   - [Testnet 4](#testnet-4)
   - [Simple Payment Verification (SPV)](#simple-payment-verification-spv)
-  - [Simple Ledger Protocol (SLP Token) Enabled Tooling](#simple-ledger-protocol-slp-token-enabled-tooling)
+  - [Simple Ledger Protocol (SLP Token)](#simple-ledger-protocol-slp-token)
+    - [Protocols](#protocols)
+    - [Libraries](#libraries)
   - [Libraries & SDKs](#libraries--sdks)
     - [Language Agnostic](#language-agnostic)
     - [Typescript](#typescript)
@@ -95,9 +98,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Why Bitcoin Cash?]( https://whybitcoincash.com/) - The revolution will not be censored.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
 
-## smartBCH
-- [SmartBCH Quickstart](https://build.cash/smartbchstart/) - quickstart from build.cash
-- [helpme.cash](https://helpme.cash/) - Getting started with SmartBCH
 
 # State of the Project
 
@@ -115,7 +115,6 @@ Below is a copy of the original nine page whitepaper:
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs.
 - Websites hosting the bitcoin whitepaper [[wayback archive]](http://web.archive.org/web/20210516141704if_/https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated as of May 16th 2021.
 - [As a webcomic](https://whitepaper.coinspice.io/) - Bitcoin White Paper web comic.
-- [An adapted copy](https://member.cash/p/5cf8845001) encoded in the member protocol on 2021-01-21
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for building the original paper encoded on the blockchain on 2013-04-06.
     
 # Open-Source Wallets
@@ -123,7 +122,6 @@ Below is a copy of the original nine page whitepaper:
 Below are non-custodial open-source wallets that use features specific to Bitcoin Cash.
 
 ## Mobile
-- [pokket.cash](https://pokket.cash) [[src]](https://github.com/pokkst/pokket) [[apk]](https://pokket.cash/dl/pokket.cash.apk) - Android wallet with BIP70, CashFusion, smartBCH and other advanced features.
 - [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
 - [Bitcoin.com](https://wallet.bitcoin.com/) - A user friendly bitcoin wallet.
 - [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) [[apk]](https://apk.edge.app/)  - Edge Wallet for iOS and Android. A multi-coin non-custodial wallet for BCH, XMR, ETH, LTC, DOGE, EOS, XRP, DASH, XLM and others.
@@ -167,15 +165,14 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 ## Apps (Social)
 - [noise.cash](https://noise.cash) - A Bitcoin Cash powered micro-blogging platform.
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
-- [member.cash](https://member.cash) - longer format social media platform with voting, tipping, moderation and filtering.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
 - [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
-- [gaze.cash](https://gaze.cash/) - Pay per view video sharing platform
  
 ## Crowdfunding 
 - [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
+- [IPFS Flipstarter](https://create.flipstarter.me/) [[src]](https://gitlab.com/ipfs-flipstarter/admin) - An IPFS flipstarter campaign site.
 
 
 ## Entertainment
@@ -191,25 +188,26 @@ All of these apps are mostly stable and active.  Always check the notes of a par
 
 Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
+### Centralized
+
+- [CoinEx](https://www.coinex.com/) - A BCH friendly exchange with automatic coin-splitting
+- [Coinbase](https://www.coinbase.com/) - A regulated US based exchange.
+
 ### More decentralized
 
-- [hop.cash](https://hop.cash/) - Bridge to swap BCH for smartBCH
 - [Local Cryptos](https://localcryptos.com/) - Peer-to-peer marketplace with non-custodial escrow which supports Bitcoin Cash.
-- [benswap](https://benswap.finance/) [[src]](https://github.com/BenTokenFinance) - Decentralized exchanged on SmartBCH
-- [mistswap](https://app.mistswap.fi) [[src]](https://github.com/mistswapdex) [[docs]](https://docs.mistswap.fi/) - SEP-20 swap based on the mist SLP-token
-- [Verse Dex](https://verse.bitcoin.com/) - Uniswap based Automated Maker Model Dex for SmartBCH.
 - [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
     
-### More established
 
-- [Coinflex](https://coinflex.com) - Coin Futures and Lending Exchange
-- [CoinEx](https://www.coinex.com) - A professional global cryptocurrency exchange (BCH friendly)
+## Oracles
+
+- [Oracles.Cash](https://oracles.cash/) [[Best Practices]](https://gitlab.com/GeneralProtocols/priceoracle/library#best-practices-for-price-oracle-consumers) [[spec]](https://gitlab.com/GeneralProtocols/priceoracle/specification) - Price oracles for Bitcoin Cash
   
 ## Faucets
 - [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
 - [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
 - BCH Testnet Faucet [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
-
+- [bitcoin-cash-faucet](https://www.npmjs.com/package/bitcoin-cash-faucet) [[src]](https://github.com/2qx/bitcoin-cash-faucet#readme) - An on-chain faucet for tBCH and BCH using introspection.
 
 
 ## Network
@@ -218,12 +216,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
   - [(also available for Testnet)](https://texplorer.bitcoinunlimited.info/)
   - [(also available for Testnet4)](https://testnet4.imaginary.cash/)
 - [Chaingraph](https://chaingraph.cash/) [[src]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
-- [Smartscan Explorer](https://www.smartscan.cash/) [[src]](https://github.com/jay-bch/smartbch-explorer) - Explorer for smartBCH.
-- [smartBCH Stats](https://smartbch.fountainhead.cash/grafana/d/GUnTOBGnz/smartbch?orgId=1&refresh=5s) - Grafana for SmartBCH
-- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Open source explorer for SLP tokens.
   
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
-- [marketcap.cash](https://www.marketcap.cash/) - Market Capitalization of Bitcoin Cash SEP20 Tokens on SmartBCH 
 - [privacy stats](https://stats.sploit.cash/#/fusion) - Recent list fusions.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
 - [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
@@ -234,12 +228,29 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [CoinSalad](https://coinsalad.com/bitcoincash/) - Bitcoin Cash statistics 
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 
-  
+## SmartBCH Projects
+
+Protocol:
+
+- [smartBCH](https://smartbch.org/) [[whitepaper]](https://smartbch.github.io/whitepaper/SmartBCH_Whitepaper-en.pdf) [ (中文)](https://smartbch.github.io/whitepaper/SmartBCH_Whitepaper-cn.pdf) [[src]](https://github.com/smartbch/smartbch) - an EVM&Web3 compatible sidechain for Bitcoin Cash 
+
+
+🐉 🐉 smartBCH is a permissionless BCH sidechain. It is not BCH 🐉 🐉
+
+- [helpme.cash](https://helpme.cash/) - Getting started with SmartBCH
+- [smartBCH](https://smartbch.org/) [[repos]](https://github.com/smartbch) - EVM & Web3 on a sidechain of Bitcoin Cash
+- [Smartscan Explorer](https://www.smartscan.cash/) [[src]](https://github.com/jay-bch/smartbch-explorer) - Explorer for smartBCH.
+- [smartBCH Stats](https://smartbch.fountainhead.cash/grafana/d/GUnTOBGnz/smartbch?orgId=1&refresh=5s) - Grafana for SmartBCH
+- [hop.cash](https://hop.cash/) - Bridge to swap BCH for smartBCH
+- [Verse Dex](https://verse.bitcoin.com/) - Uniswap based Automated Maker Model Dex for SmartBCH.
+- [benswap](https://benswap.finance/) [[src]](https://github.com/BenTokenFinance) - Decentralized exchanged on SmartBCH
+- [mistswap](https://app.mistswap.fi) [[src]](https://github.com/mistswapdex) [[docs]](https://docs.mistswap.fi/) - SEP-20 swap based on the mist SLP-token
+- [marketcap.cash](https://www.marketcap.cash/) - Market Capitalization of Bitcoin Cash SEP20 Tokens on SmartBCH 
+
 ## SLP Token Projects
 
+- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Open source explorer for SLP tokens.
 - Electron-Cash SLP Edition [[src]](https://github.com/simpleledger/Electron-Cash-SLP) [[releases]](https://github.com/simpleledger/Electron-Cash-SLP/releases)
-- [Flex](https://coinflex.com/flex) [[whitepaper]](https://cdnm.coinflex.com/wp-content/uploads/20200720042551/FLEX-Coin-Whitepaper.pdf) - Token powering CoinFLEX exchange.
-- [FlexUSD](https://coinflex.com/support/4-1-1-flexusd-yield-on-yield/) - Yield producing stable coin.
 - [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
 - mistcoin [[archive]](http://web.archive.org/web/20210128134553/https://mistcoin.org/) [[blue miner]](https://gitlab.com/blue_mist/miner) - A mineable SLP token using a proof-of-work covenant contract 
 - [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
@@ -293,7 +304,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 
 ## Geographic lists
-- [member map](https://memberapp.github.io/#map) - permanent on-chain geographic tags utilizing extensions to the memo protocol.
+
 - [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino.
 
 ## Projects dedicated to listing or enabling eCommerce.
@@ -361,13 +372,9 @@ Just some good charities for the world at large.
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
 - [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses.
 - [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app.
-- [Memo with Member extensions](https://github.com/memberapp/protocol) - for creating a reddit/hn style app.
-- [Simple Ledger Protocol (SLP)](https://simpleledger.cash/) [[specs]](https://slp.dev) - for handling ERC-20 style tokens.
-- [smartBCH](https://smartbch.org/) [[whitepaper]](https://smartbch.github.io/whitepaper/SmartBCH_Whitepaper-en.pdf) [ (中文)](https://smartbch.github.io/whitepaper/SmartBCH_Whitepaper-cn.pdf) [[src]](https://github.com/smartbch/smartbch) - an EVM&Web3 compatible sidechain for Bitcoin Cash 
 - [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
-- [Simple Ledger Postage Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-postage-protocol.md) - Protocol for sending SLP tokens without BCH "gas".
 
 - [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 - [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[🐉implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle work in progress.
@@ -421,12 +428,10 @@ Just some good charities for the world at large.
 There are various groups developing software stacks & apps for the broader ecosystem.
 
 - [General Protocols](https://GeneralProtocols.com) [[repos]](https://gitlab.com/GeneralProtocols) - Team researching and developing protocols for non-custodial and trustless networks using BitBox. (Typescript and Javascript)
-- [smartBCH](https://smartbch.org/) [[repos]](https://github.com/smartbch) - EVM & Web3 on a sidechain of Bitcoin Cash
 - [Electron Cash](https://electroncash.org/) [[repos]](https://github.com/Electron-Cash/) - Team maintaining a desktop SPV wallet with plugins and mobile app (Python)
 - [Flowee](https://flowee.org) [[repos]](https://gitlab.com/FloweeTheHub) - Team maintaining a non-mining full node and services to access the Bitcoin Cash network. (C++, NodeJs et al)
 - [Bitcoin.com](https://bitcoin.com) [[repos]](https://github.com/Bitcoin-com) - Prolific group developing webapps, mobile apps, and new tooling, deployed at bitcoin.com. (Typescript with some Javascript et al.)
 - [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
-- [Simple Ledger](https://simpleledger.cash/) [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
 
 
 ## Testnet 4
@@ -440,8 +445,16 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [ElectrsCash](https://github.com/BitcoinUnlimited/ElectrsCash) - Electron Cash Server, rust implementation.
 
 
-## Simple Ledger Protocol (SLP Token) Enabled Tooling
+## Simple Ledger Protocol (SLP Token)
 
+### Protocols
+
+- Simple Ledger Protocol (SLP) [[specs]](https://slp.dev) - for handling ERC-20 style tokens.
+- [Simple Ledger Postage Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-postage-protocol.md) - Protocol for sending SLP tokens without BCH "gas".
+
+### Libraries
+
+- [Simple Ledger](https://simpleledger.cash/) [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
 - SLP Indexer [[src]](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer)
 - [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Slp explorer for bitcoin cash.
 - [SLPDB](https://slpdb.fountainhead.cash/explorer) [[src]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer
