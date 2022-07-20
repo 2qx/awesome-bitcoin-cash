@@ -89,7 +89,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [C](#c)
     - [PHP](#php)
     - [R](#r)
-- [Podcasts, News & Media](#podcasts-news-media)
+- [Podcasts, News & Media](#podcasts-news--media)
   - [The Bitcoin Cash Podcast](#the-bitcoin-cash-podcast)
 
 # Getting Started
