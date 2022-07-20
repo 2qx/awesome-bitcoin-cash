@@ -89,7 +89,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [C](#c)
     - [PHP](#php)
     - [R](#r)
-- [Podcasts, News & Media](#podcasts-news--media)
+- [Podcasts, News, Media](#podcasts-news-media)
   - [The Bitcoin Cash Podcast](#the-bitcoin-cash-podcast)
 
 # Getting Started
@@ -499,7 +499,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - [rbch](https://cran.r-project.org/package=rbch) - Extraction and Statistical Analysis of Data from the BCH Blockchain
 
-# Podcasts, News & Media
+# Podcasts, News, Media
 
 Bitcoin Cash focussed media and content.
 
