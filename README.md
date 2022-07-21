@@ -266,6 +266,7 @@ Protocol:
 
 ## Utilities
 
+- [Address Monitor](https://address.sploit.cash/#/) - An online utiltiy to monitor an address using bchd.
 - [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 - [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - An online IDE for developing Bitcoin Cash contracts.
@@ -282,6 +283,7 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 - [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
 - [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
+- [Mainnet Cash List](https://mainnet.cash/projects.html) - A list of projects maintained at mainnet.cash
 
 # Merchants and Services Accepting Bitcoin Cash
 
@@ -451,6 +453,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 ## Libraries & SDKs
 
 - [Developer tools](https://bch.info/en/developers) - Page devoted to high level developer tools.
+- [Mainnet Cash List](https://mainnet.cash/for-developers.html) - A list of useful services for developers.
 
 ### Language Agnostic
 
