@@ -136,6 +136,7 @@ Honorable mention:
 ## Desktop
 
 - [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash.
+- [Flowee Pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/flowee/pay) - A payment solution, a wallet, a basis for your new product. But currently just a desktop wallet.
 
 ### Electron-Cash Plugins
 
