@@ -24,7 +24,7 @@ jobs:
           # Use different output file path
           output: /tmp/out.md
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{secrets.LINKS}}
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v2
         with:
