@@ -1,0 +1,33 @@
+name: Links (Fail Fast)
+
+on: 
+  #push:
+  #  branches:
+  #  - master
+  schedule:
+  # Run everyday Sunday at 4:00 UTC
+  - cron: "0 4 * * 0"
+
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.5.1
+        with:
+          fail: true
+          # Use json as output format (instead of markdown)
+          format: json
+          # Use different output file path
+          output: /tmp/out.md
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: /tmp/out.md
+          labels: report, automated issue

@@ -11,6 +11,8 @@ A curated list of Bitcoin Cash projects &amp; resources <br>
 <a href="https://awesome.re">
   <img src="https://awesome.re/badge.svg" alt="awesome" style="height:12px;border:10;">
 </a>
+
+
 <br />
 <br />
 Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-to-peer payment system for the world. 🚀
@@ -21,8 +23,9 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 📤 [a mobile friendly version](https://awesomebitcoin.cash) of this [project](https://github.com/2qx/awesome-bitcoin-cash) is formatted [from markdown](https://github.com/2qx/awesome-bitcoin-cash/blob/master/README.md) by github pages.
 
 Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING.md).
+<br/>
 
-<!--💚-->
+[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
 
 # Contents
 
