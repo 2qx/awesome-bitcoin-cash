@@ -1,9 +1,9 @@
 name: Links 
 
 on: 
-  #push:
-  #  branches:
-  #  - master
+  push:
+    branches:
+    - master
   schedule:
   # Run everyday Sunday at 4:00 UTC
   - cron: "0 4 * * 0"
