@@ -1,4 +1,4 @@
-name: Links (Fail Fast)
+name: Links 
 
 on: 
   #push:
@@ -18,9 +18,6 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.5.1
         with:
-          fail: true
-          # Use json as output format (instead of markdown)
-          format: json
           # Use different output file path
           output: /tmp/out.md
         env:
