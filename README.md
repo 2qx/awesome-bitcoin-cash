@@ -27,8 +27,15 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 [![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
 
+# The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!
+
+💚 [CashTokens](https://bitcoincashresearch.org/t/chip-2022-02-cashtokens-token-primitives-for-bitcoin-cash/725)
+
+💚 [P2SH32 CHIP](https://bitcoincashresearch.org/t/chip-2022-05-pay-to-script-hash-32-p2sh32-for-bitcoin-cash/806)
+
 # Contents
 
+- [](#)
 - [Contents](#contents)
 - [Getting Started](#getting-started)
 - [State of the Project](#state-of-the-project)
@@ -146,7 +153,6 @@ Honorable mention:
 - [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding.
 - [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments.
 - [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation.
-- [More Comprehensive List](https://blog.imaginary.cash/index.php/electron-cash-plugins/) - hosted by im_uname.
 
 ## Cli
 
@@ -226,7 +232,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
 - [privacy stats](https://stats.sploit.cash/#/fusion) - Recent list fusions.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
-- [doublespend.cash](https://doublespend.cash) - view Bitcoin Cash double spend attempts.
 - [tx street](https://txstreet.com/v/bch) - transaction visualizer, updated with popular protocols.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
@@ -315,7 +320,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - list of merchants and stores.
 - [Bitpay Directory](https://bitpay.com/directory) - partial list of websites using bitpay as a payment processor (sometimes outdated).
 - [Purse.io](https://purse.io/) - service to privately purchase goods on Amazon.com (US) at a discount.
-- [CryptoToPayPal](https://cryptotopaypal.com/) - Merchant paypal to crypto or send cryptocurrencies to paypal.
 
 ## Some Charities and Foundations
 
@@ -445,7 +449,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### Libraries
 
-- [Simple Ledger](https://simpleledger.cash/) [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
+- Simple Ledger [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
 - SLP Indexer [[src]](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer)
 - [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Slp explorer for bitcoin cash.
 - [SLPDB](https://slpdb.fountainhead.cash/explorer) [[src]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer
