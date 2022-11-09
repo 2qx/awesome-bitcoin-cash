@@ -209,6 +209,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### More decentralized
 
+- [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - web application that allows users, "Bulls", to take long positions with leverage on Bitcoin Cash against a number of other fiat and crypto assets using the Anyhedge protocol.
 - [Local Cryptos](https://localcryptos.com/) - Peer-to-peer marketplace with non-custodial escrow which supports Bitcoin Cash.
 - [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
 
@@ -373,6 +374,7 @@ Just some good charities for the world at large.
 
 [Bitcoin Cash Standards](https://bitcoincashstandards.org) is a site dedicated to collecting, some of which are listed below:
 
+- [AnyHedge](https://anyhedge.com/) [[docs]](https://anyhedge.com/developers/) [[src]](https://gitlab.com/GeneralProtocols/anyhedge) - Decentralized hedge solution against arbitrary commodities for Bitcoin Cash
 - [Cashaddr](https://upgradespecs.bitcoincashnode.org/cashaddr/) - Format for Bitcoin Cash addresses.
 - [Electrum Cash Protocol](https://bitcoincash.network/electrum/) [[src]](https://github.com/dagurval/electrum-cash-protocol) - Protocol for SPV clients and servers.
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
