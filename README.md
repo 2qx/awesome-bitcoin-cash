@@ -35,7 +35,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 # Contents
 
-- [](#)
+- [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
 - [Contents](#contents)
 - [Getting Started](#getting-started)
 - [State of the Project](#state-of-the-project)
@@ -57,7 +57,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Oracles](#oracles)
   - [Faucets](#faucets)
   - [Network](#network)
-  - [SmartBCH Projects](#smartbch-projects)
   - [SLP Token Projects](#slp-token-projects)
   - [Services](#services)
   - [Utilities](#utilities)
@@ -89,7 +88,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Simple Ledger Protocol (SLP Token)](#simple-ledger-protocol-slp-token)
     - [Protocols](#protocols)
     - [Libraries](#libraries)
-  - [Libraries & SDKs](#libraries--sdks)
+  - [Libraries \& SDKs](#libraries--sdks)
     - [Language Agnostic](#language-agnostic)
     - [Typescript](#typescript)
     - [Javascript](#javascript)
@@ -157,8 +156,8 @@ Honorable mention:
 ## Cli
 
 - [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
-- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) developed for openbazaar2
 - [bitcore-wallet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets.
+- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) developed for openbazaar2
 
 ## Browser
 
@@ -205,7 +204,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ### Centralized
 
 - [CoinEx](https://www.coinex.com/) - A BCH friendly exchange with automatic coin-splitting
-- [Coinbase](https://www.coinbase.com/) - A regulated US based exchange.
 
 ### More decentralized
 
@@ -241,23 +239,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer. 
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 
-## SmartBCH Projects
-
-Protocol:
-
-- [smartBCH](https://smartbch.org/) [[whitepaper]](https://smartbch.github.io/whitepaper/SmartBCH_Whitepaper-en.pdf) [ (中文)](https://smartbch.github.io/whitepaper/SmartBCH_Whitepaper-cn.pdf) [[src]](https://github.com/smartbch/smartbch) - an EVM&Web3 compatible sidechain for Bitcoin Cash
-
-🐉 🐉 smartBCH is a permissionless BCH sidechain. It is not BCH 🐉 🐉
-
-- [helpme.cash](https://helpme.cash/) - Getting started with SmartBCH
-- [smartBCH](https://smartbch.org/) [[repos]](https://github.com/smartbch) - EVM & Web3 on a sidechain of Bitcoin Cash
-- [Smartscan Explorer](https://www.smartscan.cash/) [[src]](https://github.com/jay-bch/smartbch-explorer) - Explorer for smartBCH.
-- [smartBCH Stats](https://smartbch.fountainhead.cash/grafana/d/GUnTOBGnz/smartbch?orgId=1&refresh=5s) - Grafana for SmartBCH
-- [hop.cash](https://hop.cash/) - Bridge to swap BCH for smartBCH
-- [Verse Dex](https://verse.bitcoin.com/) - Uniswap based Automated Maker Model Dex for SmartBCH.
-- [benswap](https://benswap.finance/) [[src]](https://github.com/BenTokenFinance) - Decentralized exchanged on SmartBCH
-- [mistswap](https://app.mistswap.fi) [[src]](https://github.com/mistswapdex) [[docs]](https://docs.mistswap.fi/) - SEP-20 swap based on the mist SLP-token
-- [marketcap.cash](https://www.marketcap.cash/) - Market Capitalization of Bitcoin Cash SEP20 Tokens on SmartBCH
 
 ## SLP Token Projects
 
@@ -346,11 +327,9 @@ Just some good charities for the world at large.
 ## BCH-to-Fiat Payment Processors
 
 - [BitPay developer Integrations](https://bitpay.com/integrations/) [[api docs]](https://bitpay.com/docs)
-- [Coinbase](https://commerce.coinbase.com/integrate) - Merchant integrations for coinbase.
 
 ## Payment Processor Status
 
-- [status.coinbase.com](https://status.coinbase.com/#) - Dashboard with subscriptions endpoints and post-mortems.
 - [status.bitpay.com](https://status.bitpay.com/) - Current status with recent incidents.
 
 # Documentation
