@@ -133,7 +133,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 - [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
 - [Bitcoin.com](https://wallet.bitcoin.com/) - A user friendly bitcoin wallet.
-- [edge.app](https://edge.app) [[src]](https://github.com/EdgeApp/edge-react-gui) [[apk]](https://apk.edge.app/) - Edge Wallet for iOS and Android. A multi-coin non-custodial wallet for BCH, XMR, ETH, LTC, DOGE, EOS, XRP, DASH, XLM and others.
 - [zapit](https://zapit.io/#/) - A native, non-custodial Bitcoin Cash wallet for iOS and Android.
 - [bread](https://brd.com/) - Multicoin wallet for Android [[src]](https://github.com/breadwallet/breadwallet-android) and iOS [[src]](https://github.com/breadwallet/breadwallet-ios)
 - [neutrino](https://neutrino.cash/) [[src]](https://github.com/gcash/android-neutrino) - Android wallet with advanced privacy features.
@@ -492,6 +491,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 # Podcasts, News, Media
 
 Bitcoin Cash focussed media and content.
+
 
 ## The Bitcoin Cash Podcast
 
