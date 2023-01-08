@@ -162,7 +162,6 @@ Honorable mention:
 
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 - [BCH Merchant PoS](https://pos.cash)[[src]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
-- [blockparty](https://blockparty.sh/) [[src]](https://github.com/blockparty-sh/wallet/) [[docs]](https://github.com/blockparty-sh/wallet/blob/master/README.md) - A simple in-browser web wallet using bitbox.earth.
 
 ## Paper/Offline Generator
 
@@ -183,7 +182,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Crowdfunding
 
-- [causes.cash](https://causes.cash/) [[src]](https://gitlab.com/bchplease/causes.cash) - a site for creating your own fundraising campaign.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
 - [IPFS Flipstarter](https://create.flipstarter.me/) [[src]](https://gitlab.com/ipfs-flipstarter/admin) - An IPFS flipstarter campaign site.
 
