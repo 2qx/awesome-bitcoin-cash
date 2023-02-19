@@ -78,9 +78,9 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [General](#general)
   - [Base Protocol](#base-protocol)
     - [Secondary protocols](#secondary-protocols)
-  - [Collaboration Resources](#collaboration-resources)
-    - [Discussion](#discussion)
-    - [CHIP Process](#chip-process)
+  - [Discussion](#discussion)
+  - [CHIP Process](#chip-process)
+      - [Upcoming consensus changes, May 2023:](#upcoming-consensus-changes-may-2023)
   - [Miner Consensus](#miner-consensus)
   - [Bitcoin Script](#bitcoin-script)
 - [Software](#software)
@@ -373,31 +373,33 @@ Just some good charities for the world at large.
 - [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[🐉implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle work in progress.
 
 
-## Collaboration Resources
-
-Below are resources for developing new common features on Bitcoin Cash.
-
-### Discussion
+## Discussion
 
 An archive of past and future ideas for Bitcoin Cash ongoing at Bitcoin Cash Research (BCR). Collaborating participants have recorded their thoughts and concerns about various potential ideas & implemented improvements.
 
 - [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical discussion.
 
-### CHIP Process
+## CHIP Process
 
-Protocol changes, software standards and application specifications may be proposed by anyone and developed under a framework of consensus building and conflict reduction known as CHIP.
+Protocol changes, software standards and application specifications may be proposed by anyone. The recommended process for consensus building and conflict reduction is known as Cash Improvement Proposals (CHIP)s.
 
 - [CHIP Guidelines](https://gitlab.com/ggriffith/cash-improvement-proposals/-/blob/master/CHIP-2020-11-CHIP-Guidelines.md)
 - [CHIPs: A more detailed process recommendation](https://gitlab.com/im_uname/cash-improvement-proposals/-/blob/master/CHIPs.md)
 - [CHIPs](https://bitcoincashresearch.org/c/chips/) - a dynamic list of proposed standards
+- [List of Known Cash Improvement Proposals (CHIPs)](https://bch.info/chips) - documents that record proposals to upgrade the Bitcoin Cash protocol, and their ongoing progress, both technical and consensus-building.
   
+#### Upcoming consensus changes, May 2023:
+
+- [CHIP-2021-01 Restrict Transaction Version (v1.0)](https://gitlab.com/bitcoin.cash/chips/-/blob/master/CHIP-2021-01-Restrict%20Transaction%20Versions.md)
+- [CHIP-2021-01 Minimum Transaction Size (v0.4)](https://gitlab.com/bitcoin.cash/chips/-/blob/master/CHIP-2021-01-Allow%20Smaller%20Transactions.md)
+- [CHIP-2022-02 CashTokens (v2.2.1)]()
+- CHIP-2022-05 P2SH32 (v1.5.1)
+
 Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on the CHIP owner to see the idea through to fruition and build consensus.
 
 ## Miner Consensus
 
-- [List of Known Cash Improvement Proposals (CHIPs)](https://bch.info/chips) - documents that record proposals to upgrade the Bitcoin Cash protocol, and their ongoing progress, both technical and consensus-building.
-- [Process for Cash Improvement Proposals (CHIPs)](https://gitlab.com/im_uname/cash-improvement-proposals/-/blob/master/CHIPs.md) - a shared ecosystem process to achieve one positive change on the BCH network.
-- [Bitcoin Mining Parliament](https://bmp.virtualpol.com/) [[README]](https://bmp.virtualpol.com/README) [[src]](https://github.com/JavierGonzalez/BMP) - a decentralized place to talk, vote and more with delegated hashpower.
+- [Bitcoin Mining Parliament](https://bmp.virtualpol.com/) [[README]](https://bmp.virtualpol.com/README) [[src]](https://github.com/JavierGonzalez/BMP) - a decentralized place to talk, vote and more with delegated hashpower
 
 ## Bitcoin Script
 
