@@ -381,7 +381,7 @@ An archive of past and future ideas for Bitcoin Cash ongoing at Bitcoin Cash Res
 
 ## CHIP Process
 
-Protocol changes, software standards and application specifications may be proposed by anyone. The recommended process for consensus building and conflict reduction is known as Cash Improvement Proposals (CHIP)s.
+Protocol changes, software standards and application specifications may be proposed by anyone. The recommended process for consensus building and conflict reduction is known as he Cash Improvement Proposal (CHIP) Process.
 
 - [CHIP Guidelines](https://gitlab.com/ggriffith/cash-improvement-proposals/-/blob/master/CHIP-2020-11-CHIP-Guidelines.md)
 - [CHIPs: A more detailed process recommendation](https://gitlab.com/im_uname/cash-improvement-proposals/-/blob/master/CHIPs.md)
