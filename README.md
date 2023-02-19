@@ -80,7 +80,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Secondary protocols](#secondary-protocols)
   - [Discussion](#discussion)
   - [CHIP Process](#chip-process)
-      - [Upcoming consensus changes, May 2023:](#upcoming-consensus-changes-may-2023)
+    - [Upcoming consensus changes, May 2023:](#upcoming-consensus-changes-may-2023)
   - [Miner Consensus](#miner-consensus)
   - [Bitcoin Script](#bitcoin-script)
 - [Software](#software)
@@ -388,12 +388,12 @@ Protocol changes, software standards and application specifications may be propo
 - [CHIPs](https://bitcoincashresearch.org/c/chips/) - a dynamic list of proposed standards
 - [List of Known Cash Improvement Proposals (CHIPs)](https://bch.info/chips) - documents that record proposals to upgrade the Bitcoin Cash protocol, and their ongoing progress, both technical and consensus-building.
   
-#### Upcoming consensus changes, May 2023:
+### Upcoming consensus changes, May 2023:
 
 - [CHIP-2021-01 Restrict Transaction Version (v1.0)](https://gitlab.com/bitcoin.cash/chips/-/blob/master/CHIP-2021-01-Restrict%20Transaction%20Versions.md)
 - [CHIP-2021-01 Minimum Transaction Size (v0.4)](https://gitlab.com/bitcoin.cash/chips/-/blob/master/CHIP-2021-01-Allow%20Smaller%20Transactions.md)
-- [CHIP-2022-02 CashTokens (v2.2.1)]()
-- CHIP-2022-05 P2SH32 (v1.5.1)
+- [CHIP-2022-02 CashTokens (v2.2.1)](https://github.com/bitjson/cashtokens/)
+- [CHIP-2022-05 P2SH32 (v1.5.1)](https://gitlab.com/0353F40E/p2sh32/-/blob/main/CHIP-2022-05_Pay-to-Script-Hash-32_(P2SH32)_for_Bitcoin_Cash.md)
 
 Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on the CHIP owner to see the idea through to fruition and build consensus.
 
