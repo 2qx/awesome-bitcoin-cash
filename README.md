@@ -386,7 +386,7 @@ Protocol changes, software standards and application specifications may be propo
 - [CHIP Guidelines](https://gitlab.com/ggriffith/cash-improvement-proposals/-/blob/master/CHIP-2020-11-CHIP-Guidelines.md)
 - [CHIPs: A more detailed process recommendation](https://gitlab.com/im_uname/cash-improvement-proposals/-/blob/master/CHIPs.md)
 - [CHIPs](https://bitcoincashresearch.org/c/chips/) - a dynamic list of proposed standards
-- [List CHIPs](https://bch.info/chips) - documents that record proposals to upgrade the Bitcoin Cash protocol, and their ongoing progress, both technical and consensus-building.
+- [List of CHIPs](https://bch.info/chips) - documents that record proposals to upgrade the Bitcoin Cash protocol, and their ongoing progress, both technical and consensus-building.
   
 ### Upcoming consensus changes, May 2023:
 
