@@ -87,7 +87,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Full Nodes](#full-nodes)
     - [Developer Resources](#developer-resources)
   - [Open-Source Teams Building on Bitcoin Cash](#open-source-teams-building-on-bitcoin-cash)
-  - [Testnet 4](#testnet-4)
   - [Simple Payment Verification (SPV)](#simple-payment-verification-spv)
   - [Libraries \& SDKs](#libraries--sdks)
     - [Language Agnostic](#language-agnostic)
@@ -236,7 +235,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Network
 
-- [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC,
+- [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+- [BCH Explorer](https://explorer.melroy.org/) [[src]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
   ### Testnet Explorers
   - [Chipnet (im_uname)](https://chipnet.imaginary.cash)
   - [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
@@ -441,9 +441,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [Bitcoin.com](https://bitcoin.com) [[repos]](https://github.com/Bitcoin-com) - Prolific group developing webapps, mobile apps, and new tooling, deployed at bitcoin.com. (Typescript with some Javascript et al.)
 - [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
 
-## Testnet 4
-
-- [Announcement](https://read.cash/@bitcoincashnode/bch-testnet4-for-may-2022-network-upgrade-95a21d51), [Explorer](https://testnet4.imaginary.cash/)
 
 ## Simple Payment Verification (SPV)
 
