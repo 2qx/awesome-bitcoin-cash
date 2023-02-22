@@ -1,3 +1,5 @@
+
+
 <div id='stars'></div>
 <div id='stars2'></div>
 <div id='stars3'></div>
@@ -135,7 +137,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 ## Mobile
 
 - [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
-- [Paytaca](https://www.paytaca.com/) [[src]] (https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
+- [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
 - [zapit](https://zapit.io/#/) - A native, non-custodial Bitcoin Cash wallet for iOS and Android.
 - [flowee pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/Flowee/pay/) [[apk]](https://flowee.org/products/pay/) [[docs]](https://flowee.org/docs/pay/) - A user friendly wallet for Android and Linux desktop.
 - [Bitcoin.com](https://wallet.bitcoin.com/) - A user friendly bitcoin wallet.
