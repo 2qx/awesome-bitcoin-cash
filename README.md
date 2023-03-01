@@ -469,11 +469,11 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/) [[src]](https://gitlab.com/FloweeTheHub/floweejs/) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
 - [mainnet-js](https://mainnet.cash/) [[src]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
 - [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
-- [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
+- [`<qr-code>`](https://github.com/bitjson/qr-code) [[demo]](https://qr.bitjson.com/) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
 
 ### Javascript
 
-- [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js) [[docs]](https://bchjs.fullstack.cash/)
+- [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js) [[docs]](https://bchjs.fullstack.cash/) - JavaScript library for creating web and mobile apps that can interact with the Bitcoin Cash (BCH) and eCash (XEC) blockchains
 - [electrum-cli](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
 - [signup.cash](https://signup.cash/) [[src]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps.
 - [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
