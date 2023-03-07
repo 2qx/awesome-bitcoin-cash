@@ -17,14 +17,16 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - name: Link Checker
-        uses: peter-evans/link-checker@v1
+        uses: lycheeverse/lychee-action@v1.5.1
         with:
-          args: -v -r *.md
+          # Use different output file path
+          output: /tmp/out.md
+        env:
+          GITHUB_TOKEN: ${{secrets.LINKS}}
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: Link Checker Report
-          content-filepath: ./link-checker/out.md
+          content-filepath: /tmp/out.md
           labels: report, automated issue
