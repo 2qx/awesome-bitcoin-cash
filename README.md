@@ -109,7 +109,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 - [bitcoincash.org](https://bitcoincash.org) - A general multi-lingual introduction.
 - [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
-- [Why Bitcoin Cash?](https://whybitcoincash.com/) - The revolution will not be censored.
+- [Why Bitcoin Cash?](https://whybitcoincash.com/) [[archive]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/)- The revolution will not be censored.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
 
 # State of the Project
@@ -138,12 +138,14 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 - [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
 - [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
-- [zapit](https://zapit.io/#/) - A native, non-custodial Bitcoin Cash wallet for iOS and Android.
+
 - [flowee pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/Flowee/pay/) [[apk]](https://flowee.org/products/pay/) [[docs]](https://flowee.org/docs/pay/) - A user friendly wallet for Android and Linux desktop.
-- [Bitcoin.com](https://wallet.bitcoin.com/) - A user friendly bitcoin wallet.
+
 
 Honorable mention:
 
+- [zapit](https://zapit.io/#/) - A native, non-custodial Bitcoin Cash wallet for iOS and Android. Non-OSS
+- [Bitcoin.com](https://wallet.bitcoin.com/) - A user friendly bitcoin wallet.  
 - [Cake Wallet](https://cakewallet.com/) [[src]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
 
 ## Desktop
@@ -270,7 +272,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Address Monitor](https://address.sploit.cash/#/) - An online utiltiy to monitor an address using bchd.
 - [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
-- [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) - An online IDE for developing Bitcoin Cash contracts.
+- [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
 
 ## Web
 
@@ -318,7 +320,6 @@ Just some good charities for the world at large.
 
 - [Tails](https://tails.boum.org/donate/index.en.html) - The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - **A United Kingdom based charity, founded in 1919**, to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
-- [God's Love We Deliver](https://www.glwd.org/donate/ways-to-give/donate-crypto-currency/) - **A non-denominational NYC charity**, that delivers illness-specific meals to New Yorkers in need [*especially* in pandemics]. Powered by [The Giving Block](https://www.thegivingblock.com/))
 - [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4) - dedicated to ensuring that technology supports freedom, justice, and innovation for all the people of the world.
 - [Bitpay Charity Directory](https://bitpay.com/directory/nonprofits) A list of charities that accept Bitcoin Cash and other cryptocurrencies.
 
@@ -349,9 +350,9 @@ Just some good charities for the world at large.
 ## General
 
 - [developers.cash](https://developers.cash/) - many useful resources
-- [Bitcoin.com Developer Resources](https://www.bitcoin.com/developer/) - Tooling and documentation developed by bitcoin.com.
 - [Permissionless Software Foundation Videos](https://psfoundation.cash/video/)
-
+- [Bitcoin.com Developer Resources](https://www.bitcoin.com/developer/) - Tooling and documentation developed by bitcoin.com.
+  
 ## Base Protocol
 
 - [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [[src]](https://github.com/SoftwareVerde/bitcoin-cash-specification) - maintained by Software Verde.
@@ -410,7 +411,7 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 - [Cashscript](https://cashscript.org/docs/basics/about/) [[src]](https://github.com/Bitcoin-com/cashscript) [[playground]](https://playground.cashscript.org/) - a solidity-style language that compiles to Bitcoin Cash Script.
 - [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
-- [Cashscript VS Code plugin](https://marketplace.visualstudio.com/items?itemName=nathanielcherian.cashscript) [[src]](https://github.com/nathanielCherian/vscode-cashscript) - Visual Studio Code extension for cashscript.
+- [Cashscript VSCode plugin](https://marketplace.visualstudio.com/items?itemName=nathanielcherian.cashscript) [[src]](https://github.com/nathanielCherian/vscode-cashscript) - Visual Studio Code extension for cashscript.
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
 - [spedn](https://spedn.pl/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
 
@@ -442,9 +443,8 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [General Protocols](https://GeneralProtocols.com) [[repos]](https://gitlab.com/GeneralProtocols) - Team researching and developing protocols for non-custodial and trustless networks using BitBox. (Typescript and Javascript)
 - [Electron Cash](https://electroncash.org/) [[repos]](https://github.com/Electron-Cash/) - Team maintaining a desktop SPV wallet with plugins and mobile app (Python)
 - [Flowee](https://flowee.org) [[repos]](https://codeberg.org/Flowee) - Team maintaining a non-mining full node and services to access the Bitcoin Cash network. (C++, NodeJs et al)
-- [Bitcoin.com](https://bitcoin.com) [[repos]](https://github.com/Bitcoin-com) - Prolific group developing webapps, mobile apps, and new tooling, deployed at bitcoin.com. (Typescript with some Javascript et al.)
 - [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
-
+- [Mainnet Cash](https://mainnet.cash/) [[repos]](https://github.com/mainnet-cash/) - Loose-knit team maintaining a shared server-side and client-side library. 
 
 ## Simple Payment Verification (SPV)
 
