@@ -241,7 +241,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 - [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) - Fastest ad-free universal block explorer.
 - [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
-- [Blockchair.com BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
+- [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [BCH Explorer](https://explorer.melroy.org/) [[src]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
   ### Testnet Explorers
   - [Chipnet (im_uname)](https://chipnet.imaginary.cash)
