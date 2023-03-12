@@ -155,6 +155,7 @@ Honorable mentions:
 ### Electron-Cash Plugins
 
 - [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding.
+- [Nostron](https://github.com/Electron-Cash/Nostron/) - Nostron is a plugin for the Electron-Cash BCH wallet.
 - [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments.
 - [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation.
 
@@ -238,9 +239,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Network
 
-- [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) - Fastest ad-free universal block explorer.
 - [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
-- [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [BCH Explorer](https://explorer.melroy.org/) [[src]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
   ### Testnet Explorers
   - [Chipnet (im_uname)](https://chipnet.imaginary.cash)
@@ -248,6 +247,9 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
   - [Testnet4 [old]](https://testnet4.imaginary.cash/)
   - [Testnet [old]](https://texplorer.bitcoinunlimited.info/)
 - [Chaingraph](https://chaingraph.cash/) [[src]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
+- [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) - Fastest ad-free universal block explorer.
+- [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
+- [CoinGecko API](https://www.coingecko.com/en/api/documentation) - Free tier api for price data.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
 - [privacy stats](https://stats.sploit.cash/#/fusion) - Recent list fusions.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
