@@ -314,6 +314,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 ## Projects dedicated to listing or enabling eCommerce.
 
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - list of merchants and stores.
+- [Use.Cash](https://usecash.com/) - Guide for using cryptocurrency like cash.
 - [Bitpay Directory](https://bitpay.com/directory) - partial list of websites using bitpay as a payment processor (sometimes outdated).
 - [Purse.io](https://purse.io/) - service to privately purchase goods on Amazon.com (US) at a discount.
 
