@@ -144,7 +144,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 Honorable mentions:
 
 - [zapit](https://zapit.io/#/) - A native, non-custodial Bitcoin Cash wallet for iOS and Android. Non-OSS
-- [Bitcoin.com](https://wallet.bitcoin.com/) - A user friendly bitcoin wallet.  
 - [Cake Wallet](https://cakewallet.com/) [[src]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
 
 ## Desktop
@@ -194,7 +193,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
-- [noise.cash](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
+- [noise.app](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
 - [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
 
