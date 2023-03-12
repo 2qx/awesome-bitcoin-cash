@@ -109,7 +109,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 - [bitcoincash.org](https://bitcoincash.org) - A general multi-lingual introduction.
 - [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
-- [Why Bitcoin Cash?](https://whybitcoincash.com/) [[archive]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/)- The revolution will not be censored.
+- [Why Bitcoin Cash?](https://whybitcoincash.com/) [[archive]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/) - The revolution will not be censored.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
 
 # State of the Project
