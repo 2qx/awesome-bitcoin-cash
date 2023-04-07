@@ -201,7 +201,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Crowdfunding
 
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
-- [IPFS Flipstarter](https://create.flipstarter.me/) [[src]](https://gitlab.com/ipfs-flipstarter/admin) - An IPFS flipstarter campaign site.
+- [IPFS Flipstarter](https://flipstarter.me/) [[src]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
 
 ## Entertainment
 
@@ -222,7 +222,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ### More decentralized
 
 - [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - web application that allows users, "Bulls", to take long positions with leverage on Bitcoin Cash against a number of other fiat and crypto assets using the Anyhedge protocol.
-- [Local Cryptos](https://localcryptos.com/) - Peer-to-peer marketplace with non-custodial escrow which supports Bitcoin Cash.
 - [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
 
 ## Oracles
@@ -243,7 +242,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
   ### Testnet Explorers
   - [Chipnet (im_uname)](https://chipnet.imaginary.cash)
   - [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
-  - [Testnet4 [old]](https://testnet4.imaginary.cash/)
   - [Testnet [old]](https://texplorer.bitcoinunlimited.info/)
 - [Chaingraph](https://chaingraph.cash/) [[src]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) - Fastest ad-free universal block explorer.
