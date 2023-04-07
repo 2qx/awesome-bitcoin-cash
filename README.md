@@ -61,6 +61,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Oracles](#oracles)
   - [Faucets](#faucets)
   - [Network](#network)
+    - [Explorers](#explorers)
     - [Testnet Explorers](#testnet-explorers)
   - [Services](#services)
   - [Utilities](#utilities)
@@ -237,24 +238,29 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Network
 
+- [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
+- [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
+- [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
+
+
+  ### Explorers
 - [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
 - [BCH Explorer](https://explorer.melroy.org/) [[src]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
+- [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) - Fastest ad-free universal block explorer.
+- [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
+- [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
+
   ### Testnet Explorers
   - [Chipnet (im_uname)](https://chipnet.imaginary.cash)
   - [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
   - [Testnet [old]](https://texplorer.bitcoinunlimited.info/)
+
+
 - [Chaingraph](https://chaingraph.cash/) [[src]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
-- [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) - Fastest ad-free universal block explorer.
-- [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [CoinGecko API](https://www.coingecko.com/en/api/documentation) - Free tier api for price data.
-- [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
 - [privacy stats](https://stats.sploit.cash/#/fusion) - Recent list fusions.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
 - [tx street](https://txstreet.com/v/bch) - transaction visualizer, updated with popular protocols.
-- [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
-- [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
-- [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
-- [CoinSalad](https://coinsalad.com/bitcoincash/) - Bitcoin Cash statistics
 - [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer. 
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 
