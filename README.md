@@ -321,7 +321,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [Bitgree](https://www.bitgree.com) - service to privately purchase goods on Amazon.com and others at a discount.
 - [Purse.io](https://purse.io/) - service to privately purchase goods on Amazon.com (US) at a discount.
 - [Bitpay Directory](https://bitpay.com/directory) - partial list of websites using bitpay as a payment processor (sometimes outdated).
-- 
+  
 ## Some Charities and Foundations
 
 Just some good charities for the world at large.
