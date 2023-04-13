@@ -316,7 +316,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 ## Projects dedicated to listing or enabling eCommerce.
 
-- [Bitgree](https://www.bitgree.com) - service to privately purchase goods on Amazon.com and others at a discount.
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - list of merchants and stores.
 - [Use.Cash](https://usecash.com/) - Guide for using cryptocurrency like cash.
 - [Bitgree](https://www.bitgree.com) - service to privately purchase goods on Amazon.com and others at a discount.
