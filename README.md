@@ -54,6 +54,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Projects Built on Bitcoin Cash](#projects-built-on-bitcoin-cash)
   - [Apps (Social)](#apps-social)
   - [Crowdfunding](#crowdfunding)
+  - [Decentralized Finance](#decentralized-finance)
   - [Entertainment](#entertainment)
   - [Exchanges](#exchanges)
     - [Centralized](#centralized)
@@ -204,6 +205,11 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[src]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
 - [IPFS Flipstarter](https://flipstarter.me/) [[src]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
 
+## Decentralized Finance
+
+- [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - web application that allows users, "Bulls", to take long positions with leverage on Bitcoin Cash against a number of other fiat and crypto assets using the Anyhedge protocol.
+- [Unspent](https://unspent.app) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) - Tools for executing a set of anyone-can-spend contracts on Bitcoin Cash. 
+
 ## Entertainment
 
 - [bch.games](https://bch.games/) - dice and numbers game.
@@ -222,8 +228,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### More decentralized
 
-- [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - web application that allows users, "Bulls", to take long positions with leverage on Bitcoin Cash against a number of other fiat and crypto assets using the Anyhedge protocol.
 - [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
+- [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
 
 ## Oracles
 
