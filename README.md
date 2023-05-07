@@ -97,15 +97,11 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Typescript](#typescript)
     - [Javascript](#javascript)
     - [Python](#python)
+    - [Rust](#rust)
     - [Java](#java)
     - [C](#c)
     - [PHP](#php)
     - [R](#r)
-- [Archive](#archive)
-  - [Simple Ledger Protocol (SLP Token)](#simple-ledger-protocol-slp-token)
-    - [Protocols](#protocols)
-    - [Libraries](#libraries)
-  - [SLP Token Projects](#slp-token-projects)
 
 # Getting Started
 
@@ -162,9 +158,7 @@ Honorable mentions:
 
 ## Cli
 
-- [bchwallet](https://github.com/gcash/bchwallet) - a secure Bitcoin Cash wallet daemon written in Go (golang)
 - [bitcore-wallet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets.
-- [openbazaar wallet](https://github.com/OpenBazaar/spvwallet) - an SPV wallet in Go (golang) developed for openbazaar2
 
 ## Browser
 
@@ -281,7 +275,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Utilities
 
-- [Address Monitor](https://address.sploit.cash/#/) - An online utiltiy to monitor an address using bchd.
 - [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 - [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
@@ -326,7 +319,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [Use.Cash](https://usecash.com/) - Guide for using cryptocurrency like cash.
 - [Bitgree](https://www.bitgree.com) - service to privately purchase goods on Amazon.com and others at a discount.
 - [Purse.io](https://purse.io/) - service to privately purchase goods on Amazon.com (US) at a discount.
-- [Bitpay Directory](https://bitpay.com/directory) - partial list of websites using bitpay as a payment processor (sometimes outdated).
   
 ## Some Charities and Foundations
 
@@ -358,8 +350,6 @@ Just some good charities for the world at large.
 
 # Documentation
 
-
-  
 
 ## General
 
@@ -463,7 +453,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 ## Simple Payment Verification (SPV)
 
 - [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server for Bitcoin Cash.
-- [ElectrsCash](https://github.com/BitcoinUnlimited/ElectrsCash) - Electron Cash Server, rust implementation.
+- [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum) - Rostrum is an efficient implementation of Electrum Server written in Rust.
 
 
 ## Libraries & SDKs
@@ -484,7 +474,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 - [electrum-cash](https://gitlab.com/GeneralProtocols/electrum-cash) [[docs]](https://gitlab.com/GeneralProtocols/electrum-cash) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
 - [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/) [[src]](https://codeberg.org/Flowee/js) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
 - [mainnet-js](https://mainnet.cash/) [[src]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
-- [bchd grpc web-client](https://github.com/simpleledgerinc/grpc-bchrpc-web) - protobuf based javascript client for interacting with bchd full nodes.
 - [`<qr-code>`](https://github.com/bitjson/qr-code) [[demo]](https://qr.bitjson.com/) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
 
 ### Javascript
@@ -497,9 +486,13 @@ There are various groups developing software stacks & apps for the broader ecosy
 ### Python
 
 - [bitcash](https://pybitcash.github.io/bitcash/) [[src]](https://github.com/pybitcash/bitcash) - python3 library.
-- [bchd python bindings](https://github.com/gcash/bchd/tree/master/bchrpc/pb-py) - sample protobuf based python client for bchd.
 - [jtoomim/p2pool](https://github.com/jtoomim/p2pool) - jtoomim fork of bitcoin pool mining software.
 
+
+### Rust
+
+- [rust-bitcoincash](https://gitlab.com/rust-bitcoincash/rust-bitcoincash/) - Rust Bitcoin Cash library.
+  
 ### Java
 
 - [bitcoincashj](https://github.com/pokkst/bitcoincashj) - Bitcoin Cash library for Java
@@ -516,36 +509,3 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - [rbch](https://cran.r-project.org/package=rbch) - Extraction and Statistical Analysis of Data from the BCH Blockchain
 
-
-# Archive
-
-## Simple Ledger Protocol (SLP Token)
-
-Simple Ledger Tokens (SLP) was an early implementation of tokens as data stored on Bitcoin Cash. Due to issues with both scale, usability and validation, this functionality was migrated to be a first class feature of Bitcoin Cash with new script code. 
-
-While some projects are phasing out use of SLP, it still exists along side Bitcoin Cash, and may still be supported by some software or sites. 
-
-### Protocols
-
-- Simple Ledger Protocol (SLP) [[specs]](https://slp.dev) - for handling ERC-20 style tokens.
-- [Simple Ledger Postage Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-postage-protocol.md) - Protocol for sending SLP tokens without BCH "gas".
-
-### Libraries
-
-- Simple Ledger [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
-- SLP Indexer [[src]](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer)
-- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Slp explorer for bitcoin cash.
-- [SLPDB](https://slpdb.fountainhead.cash/explorer) [[src]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer
-- [gs++](https://gs.fountainhead.cash/) [[src]](https://github.com/blockparty-sh/cpp_slp_graph_search) [[doc]](https://gs.fountainhead.cash/swagger.html) - a fast SLP indexer, validator, and graph search server.
-- [SLP Stream](https://slpstream.fountainhead.cash/channel) [[src]](https://github.com/blockparty-sh/slpstream) [[doc]](https://slp.dev/tooling/slpstream/) - a frontend API for GS++ that provides a streaming output of new transactions.
-- [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries.
-- [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer.
-- [SLP Icons](https://github.com/kosinusbch/slp-token-icons) - Hosted icons for slp tokens.
-  
-## SLP Token Projects 
-
-- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Open source explorer for SLP tokens.
-- Electron-Cash SLP Edition [[src]](https://github.com/simpleledger/Electron-Cash-SLP) [[releases]](https://github.com/simpleledger/Electron-Cash-SLP/releases)
-- [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
-- mistcoin [[archive]](http://web.archive.org/web/20210128134553/https://mistcoin.org/) [[blue miner]](https://gitlab.com/blue_mist/miner) - A mineable SLP token using a proof-of-work covenant contract
-- [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
