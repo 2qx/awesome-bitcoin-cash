@@ -125,7 +125,7 @@ Below is a copy of the original nine page whitepaper:
 - [Archived copy](https://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf) of the bitcoin whitepaper from bitcoin.org.
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs.
 - Websites hosting the bitcoin whitepaper [[wayback archive]](http://web.archive.org/web/20210516141704if_/https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated as of May 16th 2021.
-- [As a webcomic](https://whitepaper.coinspice.io/) [[中文]](https://whitepaper.coinspice.io/cn) [[日本語]](https://web.archive.org/web/20200217125719/https://www.bitcoin.jp/what-is-bitcoin/bitcoin-whitepaper-comic/) - Bitcoin White Paper web comic by Scott McCloud.
+- [As a webcomic](https://web.archive.org/web/20230215013643/https://whitepaper.coinspice.io/) [[中文]](https://web.archive.org/web/20230315051200/https://whitepaper.coinspice.io/cn) [[日本語]](https://web.archive.org/web/20200217125719/https://www.bitcoin.jp/what-is-bitcoin/bitcoin-whitepaper-comic/) - Bitcoin White Paper web comic by Scott McCloud.
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for building the original paper encoded on the blockchain on 2013-04-06.
 
 # Open-Source Wallets
