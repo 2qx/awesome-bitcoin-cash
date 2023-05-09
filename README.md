@@ -14,7 +14,6 @@ A curated list of Bitcoin Cash projects &amp; resources <br>
   <img src="https://awesome.re/badge.svg" alt="awesome" style="height:12px;border:10;">
 </a>
 
-
 <br />
 <br />
 Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-to-peer payment system for the world. 🚀
