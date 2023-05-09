@@ -136,7 +136,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 - [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
 - [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
-- [flowee pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/Flowee/pay/) [[apk]](https://flowee.org/products/pay/) [[docs]](https://flowee.org/docs/pay/) - A user friendly wallet for Android and Linux desktop.
+- [flowee pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/Flowee/pay/) [[apk]](https://flowee.org/products/pay/) [[docs]](https://codeberg.org/Flowee/Pay/wiki) - A user friendly wallet for Android and Linux desktop.
 - [Stack Wallet](https://stackwallet.com/) [[src]](https://github.com/cypherstack/stack_wallet) - Multicoin wallet with UTXO (coin) control.
 
 Honorable mentions:
