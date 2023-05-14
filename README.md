@@ -44,6 +44,12 @@ Below is a highlight of projects using the above upgrades:
 - [Electron Cash CashToken Beta](https://cashtokens.electroncash.org/en) [[src]](https://github.com/Electron-Cash/Electron-Cash/commits/cashtokens) [[download]](https://cashtokens.electroncash.org/downloads/) - Electron Wallet with CashTokens.
 - [CashTokens Web wallet](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet on the **chipnet test network**. 
   
+## Faucets
+
+- [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
+- [unspent](https://www.npmjs.com/package/unspent) [[src]](https://github.com/2qx/unspent/tree/main/packages/cli) - A js cli package with faucets. 
+- [unspent.dev](https://unspent.dev) [[src]](https://github.com/2qx/unspent) - A webapp with faucets supporting chipnet
+  
 ## Explorers
 - [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens.
 - Chipnet Explorers: [[imaginary]](https://chipnet.imaginary.cash) [[chaingraph]](https://chipnet.chaingraph.cash)
@@ -58,6 +64,7 @@ Below is a highlight of projects using the above upgrades:
 - [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
   - [Docs](#docs)
   - [Wallets](#wallets)
+  - [Faucets](#faucets)
   - [Explorers](#explorers)
   - [Registry Services](#registry-services)
 - [Contents](#contents)
@@ -82,7 +89,7 @@ Below is a highlight of projects using the above upgrades:
     - [Centralized](#centralized)
     - [More decentralized](#more-decentralized)
   - [Oracles](#oracles)
-  - [Faucets](#faucets)
+  - [Faucets](#faucets-1)
   - [Network](#network)
     - [Explorers](#explorers-1)
     - [Testnet Explorers](#testnet-explorers)
