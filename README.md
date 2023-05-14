@@ -34,9 +34,32 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 💚 [P2SH32 CHIP](https://bitcoincashresearch.org/t/chip-2022-05-pay-to-script-hash-32-p2sh32-for-bitcoin-cash/806)
 
+Below is a highlight of projects using the above upgrades: 
+
+## Docs
+- [CashTokens](https://cashtokens.org/) [[src]](https://github.com/cashtokens/cashtokens.org) - Specification for CashTokens.
+- [Bitcoin Cash Metadata Registries (BCMR)](https://cashtokens.org/docs/bcmr/chip/) [[src]](https://github.com/bitjson/chip-bcmr) - A standard for sharing authenticated metadata between Bitcoin Cash wallets.
+
+## Wallets 
+- [Electron Cash CashToken Beta](https://cashtokens.electroncash.org/en) [[src]](https://github.com/Electron-Cash/Electron-Cash/commits/cashtokens) [[download]](https://cashtokens.electroncash.org/downloads/) - Electron Wallet with CashTokens.
+- [CashTokens Web wallet](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet on the **chipnet test network**. 
+  
+## Explorers
+- [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens.
+- Chipnet Explorers: [[imaginary]](https://chipnet.imaginary.cash) [[chaingraph]](https://chipnet.chaingraph.cash)
+  
+## Registry Services
+- [IPFS-BCH](https://ipfs-bch.pat.mn/) [[src]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
+- [OpenTokenRegistry](https://otr.cash/) [[src]](https://github.com/OpenTokenRegistry/otr.cash) - Community-Verified Token Information
+
+
 # Contents
 
 - [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
+  - [Docs](#docs)
+  - [Wallets](#wallets)
+  - [Explorers](#explorers)
+  - [Registry Services](#registry-services)
 - [Contents](#contents)
 - [Getting Started](#getting-started)
 - [State of the Project](#state-of-the-project)
@@ -61,7 +84,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Oracles](#oracles)
   - [Faucets](#faucets)
   - [Network](#network)
-    - [Explorers](#explorers)
+    - [Explorers](#explorers-1)
     - [Testnet Explorers](#testnet-explorers)
   - [Services](#services)
   - [Utilities](#utilities)
@@ -161,9 +184,10 @@ Honorable mentions:
 
 ## Browser
 
+- [CashTokens Web wallet](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet on the **chipnet test network**. 
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 - [BCH Merchant PoS](https://pos.cash)[[src]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
-- [CashTokens Webwallet](https://my-cashtokens-webwallet.netlify.app) -  An experimental web wallet on the **chipnet test network**. 
+
 
 ## Paper/Offline Generator
 
@@ -233,7 +257,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
 - [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
 - BCH Testnet Faucet [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
-- [bitcoin-cash-faucet](https://www.npmjs.com/package/bitcoin-cash-faucet) [[src]](https://github.com/2qx/bitcoin-cash-faucet#readme) - An on-chain faucet for tBCH and BCH using introspection.
+- [unspent](https://www.npmjs.com/package/unspent) [[src]](https://github.com/2qx/unspent/tree/main/packages/cli) - A js package with command line faucets.
 
 ## Network
 
@@ -266,6 +290,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Services
 
+- [OpenTokenRegistry](https://otr.cash/) [[src]](https://github.com/OpenTokenRegistry/otr.cash) - Community-Verified Token Information
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [SideShift.ai](https://sideshift.ai/) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
 - [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
@@ -368,6 +393,7 @@ Just some good charities for the world at large.
 
 - [AnyHedge](https://anyhedge.com/) [[docs]](https://anyhedge.com/developers/) [[src]](https://gitlab.com/GeneralProtocols/anyhedge) - Decentralized hedge solution against arbitrary commodities for Bitcoin Cash
 - [Cashaddr](https://upgradespecs.bitcoincashnode.org/cashaddr/) - Format for Bitcoin Cash addresses.
+- [CashTokens](https://cashtokens.org/) [[src]](https://github.com/cashtokens/cashtokens.org) - Specification for CashTokens.
 - [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [[src]](https://github.com/cculianu/electrum-cash-protocol) - ElectrumX Protocol for [fulcrum](https://github.com/cculianu/Fulcrum) (UTXO indexer/SPV service). 
 - [Electrum Cash Protocol](https://bitcoincash.network/electrum/) [[src]](https://github.com/dagurval/electrum-cash-protocol) - Protocol for SPV clients and servers.
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
