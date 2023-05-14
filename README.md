@@ -47,8 +47,7 @@ Below is a highlight of projects using the above upgrades:
 ## Faucets
 
 - [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
-- [unspent.dev](https://unspent.dev) [[src]](https://github.com/2qx/unspent) - A webapp with faucets supporting Bitcoin Cash and the chipnet network
-- [unspent](https://www.npmjs.com/package/unspent) [[src]](https://github.com/2qx/unspent/tree/main/packages/cli) - A command line utxo finance package with chipnet [faucets](https://unspent.dev/contract?opReturn=6a047574786f014601010100021027010117a9148731a2b967a16c0f2dc0678c793ae4582f86c95d87&network=chipnet). 
+
   
 ## Explorers
 - [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens.
