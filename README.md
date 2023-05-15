@@ -41,19 +41,23 @@ Below is a highlight of projects using the above upgrades:
 - [Bitcoin Cash Metadata Registries (BCMR)](https://cashtokens.org/docs/bcmr/chip/) [[src]](https://github.com/bitjson/chip-bcmr) - A standard for sharing authenticated metadata between Bitcoin Cash wallets.
 
 ## Wallets 
-- [Electron Cash CashToken Beta](https://cashtokens.electroncash.org/en) [[src]](https://github.com/Electron-Cash/Electron-Cash/commits/cashtokens) [[download]](https://cashtokens.electroncash.org/downloads/) - Electron Wallet with CashTokens.
+- [Electron Cash CashToken Prerelease](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0-pres) [[src]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
 - [CashTokens Webwallet ](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
 - [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
   
 ## Faucets
 
-- [UnspentPhi: F,1,0,741,1](https://unspent.app/contract?opReturn=6a047574786f01460101010002e502010117a914ae83c90909bf710ef2d948ebf6f957a9219f549c87) - A faucet contract paying 741 sats Bitcoin Cash.
-
+- [UnspentPhi: F,1,0,741,1](https://unspent.app/contract?opReturn=6a047574786f01460101010002e502010117a914ae83c90909bf710ef2d948ebf6f957a9219f549c87) [[src]](https://github.com/2qx/unspent) - A faucet contract paying 741 sats Bitcoin Cash.
+- [`unspent`](https://www.npmjs.com/package/unspent?activeTab=readme) [[src]](https://github.com/2qx/unspent) - an javascript package with commands for faucets.
   
 ## Explorers
 - [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
 - [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
   
+## Finance
+
+- [Emerald DAO](https://emerald-dao.vercel.app/) [[steps]](https://old.reddit.com/r/cashtokens/comments/13ibe1c/how_do_i_get_emerald_dao_token/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
+
 ## Registry Services
 - [IPFS-BCH](https://ipfs-bch.pat.mn/) [[src]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
 - [OpenTokenRegistry](https://otr.cash/) [[src]](https://github.com/OpenTokenRegistry/otr.cash) - Community-Verified Token Information
@@ -66,6 +70,7 @@ Below is a highlight of projects using the above upgrades:
   - [Wallets](#wallets)
   - [Faucets](#faucets)
   - [Explorers](#explorers)
+  - [Finance](#finance)
   - [Registry Services](#registry-services)
 - [Contents](#contents)
 - [Getting Started](#getting-started)
@@ -290,7 +295,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [CoinGecko API](https://www.coingecko.com/en/api/documentation) - Free tier api for price data.
 - [privacy stats](https://stats.sploit.cash/#/fusion) - Recent list fusions.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
-- [tx street](https://txstreet.com/v/bch) - transaction visualizer, updated with popular protocols.
 - [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer. 
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 
