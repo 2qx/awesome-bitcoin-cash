@@ -41,7 +41,7 @@ Below is a highlight of projects using the above upgrades:
 - [Bitcoin Cash Metadata Registries (BCMR)](https://cashtokens.org/docs/bcmr/chip/) [[src]](https://github.com/bitjson/chip-bcmr) - A standard for sharing authenticated metadata between Bitcoin Cash wallets.
 
 ## Wallets 
-- [Electron Cash CashToken Prerelease](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0-pres) [[src]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
+- [Electron Cash CashToken Prerelease](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0-pre) [[src]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
 - [CashTokens Webwallet ](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
 - [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
   
