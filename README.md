@@ -51,8 +51,12 @@ Below is a highlight of projects using the above upgrades:
 - [`unspent`](https://www.npmjs.com/package/unspent?activeTab=readme) [[src]](https://github.com/2qx/unspent) - an javascript package with commands for faucets.
   
 ## Explorers
-- [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
+
 - [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+- [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
+- [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[src]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
+
+
   
 ## Finance
 
