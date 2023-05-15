@@ -42,16 +42,16 @@ Below is a highlight of projects using the above upgrades:
 
 ## Wallets 
 - [Electron Cash CashToken Beta](https://cashtokens.electroncash.org/en) [[src]](https://github.com/Electron-Cash/Electron-Cash/commits/cashtokens) [[download]](https://cashtokens.electroncash.org/downloads/) - Electron Wallet with CashTokens.
-- [CashTokens Web wallet](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet on the **chipnet test network**. 
+- [CashTokens Webwallet ](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
   
 ## Faucets
 
-- [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
+- [UnspentPhi: F,1,0,741,1](https://unspent.app/contract?opReturn=6a047574786f01460101010002e502010117a914ae83c90909bf710ef2d948ebf6f957a9219f549c87) - A faucet contract paying 741 sats Bitcoin Cash.
 
   
 ## Explorers
-- [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens.
-- Chipnet Explorers: [[imaginary]](https://chipnet.imaginary.cash) [[chaingraph]](https://chipnet.chaingraph.cash)
+- [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
+- [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
   
 ## Registry Services
 - [IPFS-BCH](https://ipfs-bch.pat.mn/) [[src]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
