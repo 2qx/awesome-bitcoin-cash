@@ -42,7 +42,7 @@ Below is a highlight of projects using the above upgrades:
 
 ## Wallets 
 - [Electron Cash CashToken Prerelease](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0-pre) [[src]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
-- [CashTokens Webwallet ](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
+- [CashTokens Webwallet ](https://cashtokens-wallet.app/) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
 - [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
   
 ## Faucets
