@@ -42,7 +42,7 @@ Below is a highlight of projects using the above upgrades:
 
 ## Wallets 
 - [Electron Cash CashToken Prerelease](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0-pre) [[src]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
-- [CashTokens Webwallet ](https://cashtokens-wallet.app/) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
+- [CashTokens Webwallet ](https://cashtokens-wallet.app/) [[alt]](https://my-cashtokens-webwallet.netlify.app/) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
 - [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
   
 ## Faucets
@@ -297,7 +297,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 - [Chaingraph](https://chaingraph.cash/) [[src]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [CoinGecko API](https://www.coingecko.com/en/api/documentation) - Free tier api for price data.
-- [privacy stats](https://stats.sploit.cash/#/fusion) - Recent list fusions.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
 - [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer. 
 - [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
