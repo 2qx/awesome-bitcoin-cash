@@ -60,7 +60,7 @@ Below is a highlight of projects using the above upgrades:
   
 ## Finance
 
-- [Emerald DAO](https://emerald-dao.vercel.app/) [[steps]](https://old.reddit.com/r/cashtokens/comments/13ibe1c/how_do_i_get_emerald_dao_token/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
+- [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
 
 ## Registry Services
 - [IPFS-BCH](https://ipfs-bch.pat.mn/) [[src]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
