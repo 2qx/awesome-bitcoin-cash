@@ -28,54 +28,8 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 [![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
 
-# The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!
-
-💚 [CashTokens](https://bitcoincashresearch.org/t/chip-2022-02-cashtokens-token-primitives-for-bitcoin-cash/725)
-
-💚 [P2SH32 CHIP](https://bitcoincashresearch.org/t/chip-2022-05-pay-to-script-hash-32-p2sh32-for-bitcoin-cash/806)
-
-Below is a highlight of projects using the above upgrades: 
-
-## Docs
-- [CashTokens](https://cashtokens.org/) [[src]](https://github.com/cashtokens/cashtokens.org) - Specification for CashTokens.
-- [Bitcoin Cash Metadata Registries (BCMR)](https://cashtokens.org/docs/bcmr/chip/) [[src]](https://github.com/bitjson/chip-bcmr) - A standard for sharing authenticated metadata between Bitcoin Cash wallets.
-
-## Wallets 
-- [Electron Cash CashToken](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) [[src]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
-- [CashTokens Webwallet ](https://cashtokens-wallet.app/) [[alt]](https://my-cashtokens-webwallet.netlify.app/) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
-- [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
-  
-## Faucets
-
-- [UnspentPhi: F,1,0,741,1](https://unspent.app/contract?opReturn=6a047574786f01460101010002e502010117a914ae83c90909bf710ef2d948ebf6f957a9219f549c87) [[src]](https://github.com/2qx/unspent) - A faucet contract paying 741 sats Bitcoin Cash.
-- [`unspent`](https://www.npmjs.com/package/unspent?activeTab=readme) [[src]](https://github.com/2qx/unspent) - an javascript package with commands for faucets.
-  
-## Explorers
-
-- [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
-- [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
-- [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[src]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
-
-
-  
-## Finance
-
-- [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
-
-## Registry Services
-- [IPFS-BCH](https://ipfs-bch.pat.mn/) [[src]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
-- [OpenTokenRegistry](https://otr.cash/) [[src]](https://github.com/OpenTokenRegistry/otr.cash) - Community-Verified Token Information
-
-
 # Contents
 
-- [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
-  - [Docs](#docs)
-  - [Wallets](#wallets)
-  - [Faucets](#faucets)
-  - [Explorers](#explorers)
-  - [Finance](#finance)
-  - [Registry Services](#registry-services)
 - [Contents](#contents)
 - [Getting Started](#getting-started)
 - [State of the Project](#state-of-the-project)
@@ -98,9 +52,9 @@ Below is a highlight of projects using the above upgrades:
     - [Centralized](#centralized)
     - [More decentralized](#more-decentralized)
   - [Oracles](#oracles)
-  - [Faucets](#faucets-1)
+  - [Faucets](#faucets)
   - [Network](#network)
-    - [Explorers](#explorers-1)
+    - [Explorers](#explorers)
     - [Testnet Explorers](#testnet-explorers)
   - [Services](#services)
   - [Utilities](#utilities)
@@ -122,7 +76,7 @@ Below is a highlight of projects using the above upgrades:
     - [Secondary protocols](#secondary-protocols)
   - [Discussion](#discussion)
   - [CHIP Process](#chip-process)
-    - [Upcoming consensus changes, May 2023:](#upcoming-consensus-changes-may-2023)
+    - [Previous consensus changes, May 2023:](#previous-consensus-changes-may-2023)
   - [Miner Consensus](#miner-consensus)
   - [Bitcoin Script](#bitcoin-script)
 - [Software](#software)
@@ -140,6 +94,8 @@ Below is a highlight of projects using the above upgrades:
     - [C](#c)
     - [PHP](#php)
     - [R](#r)
+- [Endorsements](#endorsements)
+  - [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
 
 # Getting Started
 
@@ -173,7 +129,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 ## Mobile
 
 - [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
-- [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
+- 🔵 [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
 - [flowee pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/Flowee/pay/) [[apk]](https://flowee.org/products/pay/) [[docs]](https://codeberg.org/Flowee/Pay/wiki) - A user friendly wallet for Android and Linux desktop.
 - [Stack Wallet](https://stackwallet.com/) [[src]](https://github.com/cypherstack/stack_wallet) - Multicoin wallet with UTXO (coin) control.
 
@@ -183,8 +139,7 @@ Honorable mentions:
 - [Cake Wallet](https://cakewallet.com/) [[src]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
 
 ## Desktop
-
-- [Electron-Cash](https://electroncash.org) [[src]](https://github.com/Electron-Cash/Electron-Cash) - the awesome SPV wallet for Bitcoin Cash.
+- 🔵 [Electron Cash CashToken](https://electroncash.org) [[release]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) [[src]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
 - [Flowee Pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/flowee/pay) - A payment solution, a wallet, a basis for your new product. But currently just a desktop wallet.
 
 ### Electron-Cash Plugins
@@ -199,8 +154,7 @@ Honorable mentions:
 - [bitcore-wallet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets.
 
 ## Browser
-
-- [CashTokens Web wallet](https://my-cashtokens-webwallet.netlify.app) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet on the **chipnet test network**. 
+- 🔵 [CashTokens Webwallet ](https://cashtokens-wallet.app/) [[alt]](https://my-cashtokens-webwallet.netlify.app/) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 - [BCH Merchant PoS](https://pos.cash)[[src]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
 
@@ -241,8 +195,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Decentralized Finance
 
 - [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - web application that allows users, "Bulls", to take long positions with leverage on Bitcoin Cash against a number of other fiat and crypto assets using the Anyhedge protocol.
+- 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
 - [Unspent](https://unspent.app) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) - Tools for executing a set of anyone-can-spend contracts on Bitcoin Cash. 
 
+  
 ## Entertainment
 
 - [bch.games](https://bch.games/) - dice and numbers game.
@@ -270,10 +226,12 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Faucets
 
-- [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
-- [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
+- 🔵 [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
+- 🔵 [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
+- 🔵 [UnspentPhi: F,1,0,741,1](https://unspent.app/contract?opReturn=6a047574786f01460101010002e502010117a914ae83c90909bf710ef2d948ebf6f957a9219f549c87) [[src]](https://github.com/2qx/unspent) - A faucet contract paying 741 sats Bitcoin Cash.
+- 🔵 [`unspent`](https://www.npmjs.com/package/unspent?activeTab=readme) [[src]](https://github.com/2qx/unspent) - an javascript package with commands for faucets.
 - BCH Testnet Faucet [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
-- [unspent](https://www.npmjs.com/package/unspent) [[src]](https://github.com/2qx/unspent/tree/main/packages/cli) - A js package with command line faucets.
+
 
 ## Network
 
@@ -282,16 +240,17 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
 
 
-  ### Explorers
-- [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+### Explorers
+- 🔵 [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+- 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[src]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
+- 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[src]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[src]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
-- [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[src]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
 
   ### Testnet Explorers
-  - [Chipnet (im_uname)](https://chipnet.imaginary.cash)
-  - [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
+  - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
+  - 🔵 [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
   - [Testnet [old]](https://texplorer.bitcoinunlimited.info/)
 
 
@@ -304,7 +263,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Services
 
-- [OpenTokenRegistry](https://otr.cash/) [[src]](https://github.com/OpenTokenRegistry/otr.cash) - Community-Verified Token Information
+- 🔵 [OpenTokenRegistry](https://otr.cash/) [[src]](https://github.com/OpenTokenRegistry/otr.cash) - Community-Verified Token Information
+- 🔵 [IPFS-BCH](https://ipfs-bch.pat.mn/) [[src]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [SideShift.ai](https://sideshift.ai/) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
 - [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
@@ -406,20 +366,18 @@ Just some good charities for the world at large.
 [Bitcoin Cash Standards](https://bitcoincashstandards.org) is a site dedicated to collecting, some of which are listed below:
 
 - [AnyHedge](https://anyhedge.com/) [[docs]](https://anyhedge.com/developers/) [[src]](https://gitlab.com/GeneralProtocols/anyhedge) - Decentralized hedge solution against arbitrary commodities for Bitcoin Cash
+- 🔵 [Bitcoin Cash Metadata Registries (BCMR)](https://cashtokens.org/docs/bcmr/chip/) [[src]](https://github.com/bitjson/chip-bcmr) - A standard for sharing authenticated metadata between Bitcoin Cash wallets.
 - [Cashaddr](https://upgradespecs.bitcoincashnode.org/cashaddr/) - Format for Bitcoin Cash addresses.
-- [CashTokens](https://cashtokens.org/) [[src]](https://github.com/cashtokens/cashtokens.org) - Specification for CashTokens.
+- [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses.
+- [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
+- [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
+- 🔵 [CashTokens](https://cashtokens.org/) [[src]](https://github.com/cashtokens/cashtokens.org) - Specification for CashTokens.
 - [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [[src]](https://github.com/cculianu/electrum-cash-protocol) - ElectrumX Protocol for [fulcrum](https://github.com/cculianu/Fulcrum) (UTXO indexer/SPV service). 
 - [Electrum Cash Protocol](https://bitcoincash.network/electrum/) [[src]](https://github.com/dagurval/electrum-cash-protocol) - Protocol for SPV clients and servers.
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
-- [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses.
-- [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app.
-- [CashFusion](https://cashfusion.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
-
-- [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
-   
-- [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 - [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[🐉implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle work in progress.
-
+- [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app.
+- [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 
 ## Discussion
 
@@ -436,7 +394,7 @@ Protocol changes, software standards and application specifications may be propo
 - [CHIPs](https://bitcoincashresearch.org/c/chips/) - a dynamic list of proposed standards
 - [List of CHIPs](https://bch.info/chips) - documents that record proposals to upgrade the Bitcoin Cash protocol, and their ongoing progress, both technical and consensus-building.
   
-### Upcoming consensus changes, May 2023:
+### Previous consensus changes, May 2023:
 
 - [CHIP-2021-01 Restrict Transaction Version (v1.0)](https://gitlab.com/bitcoin.cash/chips/-/blob/master/CHIP-2021-01-Restrict%20Transaction%20Versions.md)
 - [CHIP-2021-01 Minimum Transaction Size (v0.4)](https://gitlab.com/bitcoin.cash/chips/-/blob/master/CHIP-2021-01-Allow%20Smaller%20Transactions.md)
@@ -548,3 +506,15 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - [rbch](https://cran.r-project.org/package=rbch) - Extraction and Statistical Analysis of Data from the BCH Blockchain
 
+# Endorsements  
+
+Below is a list of endorsements made in the [Chip Process](#chip-process) in reverse chronological order.
+
+
+## The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!
+
+[539b2a492002da881a9ef9aa6604327299c7a498](https://github.com/bitjson/cashtokens/commit/539b2a492002da881a9ef9aa6604327299c7a498)
+
+💚 [CashTokens](https://bitcoincashresearch.org/t/chip-2022-02-cashtokens-token-primitives-for-bitcoin-cash/725)
+
+💚 [P2SH32 CHIP](https://bitcoincashresearch.org/t/chip-2022-05-pay-to-script-hash-32-p2sh32-for-bitcoin-cash/806)
