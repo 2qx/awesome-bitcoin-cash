@@ -154,7 +154,7 @@ Honorable mentions:
 - [bitcore-wallet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets.
 
 ## Browser
-- 🔵 [CashTokens Webwallet ](https://cashtokens-wallet.app/) [[alt]](https://my-cashtokens-webwallet.netlify.app/) [[src]](https://github.com/mr-zwets/my-cashtokens-webwallet) -  An experimental web wallet for CashTokens. 
+- 🔵 [Cashonize](https://cashonize.com/) [[src]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens. 
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 - [BCH Merchant PoS](https://pos.cash)[[src]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
 
