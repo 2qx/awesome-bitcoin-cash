@@ -103,6 +103,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
 - [Why Bitcoin Cash?](https://whybitcoincash.com/) [[archive]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/) - The revolution will not be censored.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
+- [BCHFAQ.com](https://bchfaq.com/) [[src]](https://github.com/fixthetracking/Bitcoin-Cash-FAQ) - Learn the fundamentals of Bitcoin Cash by getting simple answers to your basic questions.
 
 # State of the Project
 
@@ -360,7 +361,7 @@ Just some good charities for the world at large.
 ## Base Protocol
 
 - [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [[src]](https://github.com/SoftwareVerde/bitcoin-cash-specification) - maintained by Software Verde.
-- [BCH Specification](https://flowee.org/docs/spec/) - Specification hosed by flowee.org.
+- [BCH Specification](https://flowee.org/docs/spec/) - Specification hosted by flowee.org.
 - [reference.cash](https://reference.cash) - protocol documentation
 
 ### Secondary protocols
