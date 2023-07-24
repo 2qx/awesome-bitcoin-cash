@@ -51,6 +51,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Exchanges](#exchanges)
     - [Centralized](#centralized)
     - [More decentralized](#more-decentralized)
+    - [🐉 Cash Token DEXs 🐉](#-cash-token-dexs-)
   - [Oracles](#oracles)
   - [Faucets](#faucets)
   - [Network](#network)
@@ -120,7 +121,7 @@ Below is a copy of the original nine page whitepaper:
 - [Archived copy](https://web.archive.org/web/20100704213649if_/http://www.bitcoin.org:80/bitcoin.pdf) of the bitcoin whitepaper from bitcoin.org.
 - [bitcoin whitepaper](https://gateway.ipfs.io/ipfs/QmRA3NWM82ZGynMbYzAgYTSXCVM14Wx1RZ8fKP42G6gjgj) via ipfs.
 - Websites hosting the bitcoin whitepaper [[wayback archive]](http://web.archive.org/web/20210516141704if_/https://blockchair.com/bitcoin/whitepaper), with sha256 hashes calculated as of May 16th 2021.
-- [As a webcomic](https://web.archive.org/web/20230215013643/https://whitepaper.coinspice.io/) [[中文]](https://web.archive.org/web/20230315051200/https://whitepaper.coinspice.io/cn) [[日本語]](https://web.archive.org/web/20200217125719/https://www.bitcoin.jp/what-is-bitcoin/bitcoin-whitepaper-comic/) - Bitcoin White Paper web comic by Scott McCloud.
+- [As a webcomic](https://web.archive.org/web/20230215013643/https://whitepaper.coinspice.io/) [[中文]](https://web.archive.org/web/20230315051200/https://whitepaper.coinspice.io/cn) [[日本語]](https://web.archive.org/web/20200217125719/https://www.bitcoin.jp/what-is-bitcoin/bitcoin-whitepaper-comic/) - Bitcoin Whitepaper web comic by Scott McCloud.
 - [Instructions and code](https://bitcoin.stackexchange.com/questions/35959/how-is-the-whitepaper-decoded-from-the-blockchain-tx-with-1000x-m-of-n-multisi) for building the original paper encoded on the blockchain on 2013-04-06.
 
 # Open-Source Wallets
@@ -129,7 +130,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ## Mobile
 
-- [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
+- 🔵 [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
 - 🔵 [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
 - [Flowee Pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/Flowee/pay/) [[apk]](https://flowee.org/products/pay/) [[docs]](https://codeberg.org/Flowee/Pay/wiki) - A user friendly wallet for Android and Linux desktop.
 - [Selene Wallet](https://selene.cash/) [[src]](https://git.xulu.tech/selene.cash/selene-wallet/) - Easy, no-hassle, instant payments in the palm of your hand.
@@ -137,7 +138,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 Honorable mentions:
 
-- [zapit](https://zapit.io/#/) - A native, non-custodial Bitcoin Cash wallet for iOS and Android. Non-OSS
+- 🔵 [zapit](https://zapit.io/#/) - A native, non-custodial Bitcoin Cash wallet for iOS and Android. Non-OSS
 - [Cake Wallet](https://cakewallet.com/) [[src]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
 
 ## Desktop
@@ -159,6 +160,7 @@ Honorable mentions:
 - 🔵 [Cashonize](https://cashonize.com/) [[src]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens. 
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 - [BCH Merchant PoS](https://pos.cash)[[src]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
+- 🔵 [Pay4 Best](https://pay4.best/) [[src]](https://github.com/pay4best/pay4best.github.io) [[doc]](https://github.com/pay4best/doc) 🐉 - MetaMask Web3 to Conventional Wallet Bridge.
 
 
 ## Paper/Offline Generator
@@ -199,7 +201,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - web application that allows users, "Bulls", to take long positions with leverage on Bitcoin Cash against a number of other fiat and crypto assets using the Anyhedge protocol.
 - 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
 - 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens.
-- [Unspent](https://unspent.app) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) - Tools for executing a set of anyone-can-spend contracts on Bitcoin Cash. 
+- [Unspent](https://unspent.app) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) - Tools to create annuities, faucets, perpetuities & other simple contracts.
 
   
 ## Entertainment
@@ -222,6 +224,12 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 - [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
 - [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
+
+### 🐉 Cash Token DEXs 🐉
+
+Please note that the mechanics of these new decentralized exchanges involves significant risk and may result in the loss of your invested capital.
+- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant Product Market Maker Contract 
+- 🔵 [Fex Cash](https://fex.cash/) [[src]](https://github.com/fex-cash/fex) [[docs]](https://docs.fex.cash/products/utxo-based-amm) - A decentralized market of CashTokens for Bitcoin Cash. 
 
 ## Oracles
 
@@ -289,6 +297,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 These are other projects dedicated to listing projects in the Bitcoin Cash ecosystem:
 
+- [HelpMe Cash](https://helpme.cash/) [🔵](https://helpme.cash/CashTokens/) - A collection of links to things related to the cryptocurrency Bitcoin Cash
 - [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
 - [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
