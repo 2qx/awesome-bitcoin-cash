@@ -160,7 +160,6 @@ Honorable mentions:
 - 🔵 [Cashonize](https://cashonize.com/) [[src]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens. 
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 - [BCH Merchant PoS](https://pos.cash)[[src]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
-- 🔵 [Pay4 Best](https://pay4.best/) [[src]](https://github.com/pay4best/pay4best.github.io) [[doc]](https://github.com/pay4best/doc) 🐉 - MetaMask Web3 to Conventional Wallet Bridge.
 
 
 ## Paper/Offline Generator
@@ -229,7 +228,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 Please note that the mechanics of these new decentralized exchanges involves significant risk and may result in the loss of your invested capital.
 - 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant Product Market Maker Contract 
-- 🔵 [Fex Cash](https://fex.cash/) [[src]](https://github.com/fex-cash/fex) [[docs]](https://docs.fex.cash/products/utxo-based-amm) - A decentralized market of CashTokens for Bitcoin Cash. 
 
 ## Oracles
 
