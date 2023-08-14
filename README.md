@@ -276,6 +276,7 @@ Please note that the mechanics of these new decentralized exchanges involves sig
 - 🔵 [OpenTokenRegistry](https://otr.cash/) [[src]](https://github.com/OpenTokenRegistry/otr.cash) - Community-Verified Token Information
 - 🔵 [IPFS-BCH](https://ipfs-bch.pat.mn/) [[src]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
+- [CashTags](https://tags.infra.cash/) [[src]](https://github.com/developers-cash/cashtags-server) - Service for printable QR Codes (Payment URLs) whose value amounts can be specified in fiat (e.g. USD).
 - [SideShift.ai](https://sideshift.ai/) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
 - [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
