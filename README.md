@@ -494,7 +494,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### Python
 
-- [bitcash](https://pybitcash.github.io/bitcash/) [[src]](https://github.com/pybitcash/bitcash) [[docs]](bitcash.dev) - python3 library.
+- [bitcash](https://pybitcash.github.io/bitcash/) [[src]](https://github.com/pybitcash/bitcash) [[docs]](https://bitcash.dev) - python3 library.
 - [jtoomim/p2pool](https://github.com/jtoomim/p2pool) - jtoomim fork of bitcoin pool mining software.
 
 
