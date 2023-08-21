@@ -28,13 +28,13 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 [![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
 
-# [The Adaptive Blocksize Limit Algorithm (ebaa) CHIP for the May 2024 BCH Upgrade is AWESOME!"](https://gitlab.com/0353F40E/ebaa)
+# [The Adaptive Blocksize Limit Algorithm (ebaa) CHIP for the May 2024 BCH Upgrade is AWESOME!](https://gitlab.com/0353F40E/ebaa)
 
 [a42f44791b343ffcc118b0dd6645972e9a165e83](https://gitlab.com/0353F40E/ebaa/-/commit/a42f44791b343ffcc118b0dd6645972e9a165e83)
 
 # Contents
 
-- [The Adaptive Blocksize Limit Algorithm (ebaa) CHIP for the May 2024 BCH Upgrade is AWESOME!"](#the-adaptive-blocksize-limit-algorithm-ebaa-chip-for-the-may-2024-bch-upgrade-is-awesome)
+- [The Adaptive Blocksize Limit Algorithm (ebaa) CHIP for the May 2024 BCH Upgrade is AWESOME!](#the-adaptive-blocksize-limit-algorithm-ebaa-chip-for-the-may-2024-bch-upgrade-is-awesome)
 - [Contents](#contents)
 - [Getting Started](#getting-started)
 - [State of the Project](#state-of-the-project)
