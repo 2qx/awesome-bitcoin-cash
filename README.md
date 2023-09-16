@@ -298,7 +298,6 @@ Please note that the mechanics of these new decentralized exchanges involves sig
 
 ## Web
 
-- [PayButton](https://paybutton.org/) [[src]](https://github.com/paybutton/paybutton) - a simple html (or react component) button to accept Bitcoin Cash on a website.
 - [Bitcoin Paywall](https://wordpress.org/plugins/bitcoin-paywall/) [[src]](https://plugins.trac.wordpress.org/browser/bitcoin-paywall/) - Wordpress paywall plugin
 
 ## See Also
@@ -487,7 +486,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### Typescript
 
-- [PayButton](https://paybutton.org/) [[src]](https://github.com/PayButton/paybutton) - Front end library that makes it easier to accept Bitcoin Cash by adding a buy button.
 - [Libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
 - [electrum-cash](https://gitlab.com/GeneralProtocols/electrum-cash) [[docs]](https://gitlab.com/GeneralProtocols/electrum-cash) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
 - [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/) [[src]](https://codeberg.org/Flowee/js) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
