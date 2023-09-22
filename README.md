@@ -268,6 +268,7 @@ Please note that the mechanics of these new decentralized exchanges involves sig
   ### Testnet Explorers
   - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
   - 🔵 [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
+  - 🔵 [Chipnet (bch.ninja)](https://chipnet.bch.ninja)
   - [Testnet [old]](https://texplorer.bitcoinunlimited.info/)
 
 
