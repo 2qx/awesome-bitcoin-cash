@@ -332,6 +332,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [OpenStreetMap BCH Tag](https://overpass-turbo.eu/?w=%22currency%3ABCH%22%3D%22yes%22+global&R) - Entries tagged with `currency:BCH=yes` in OSM.
 - [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino.
 - [Bmap.app](https://bmap.app/) - ₿itcoin places all around the world!
+- [where2cash](https://where2.cash/) - Bitcoin Cash Map using OpenStreeMap data.
 
 ## Projects dedicated to listing or enabling eCommerce.
 
