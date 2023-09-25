@@ -296,6 +296,7 @@ Please note that the mechanics of these new decentralized exchanges involves sig
 - [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 - [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
+- 🔵 [CashTokens Studio](https://chipnet.cashtokens.studio/) -  CashToken creation tool (chipnet mode)
 
 ## Web
 
