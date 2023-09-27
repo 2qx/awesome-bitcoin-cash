@@ -108,8 +108,8 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 - [bitcoincash.org](https://bitcoincash.org) - A general multi-lingual introduction.
 - [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
-- [Why Bitcoin Cash?](https://whybitcoincash.com/) [[archive]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/) - The revolution will not be censored.
 - [BCHFAQ.com](https://bchfaq.com/) [[src]](https://github.com/fixthetracking/Bitcoin-Cash-FAQ) - Learn the fundamentals of Bitcoin Cash by getting simple answers to your basic questions.
+- [Why Bitcoin Cash?](https://whybitcoincash.com/) [[archive]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/) - The revolution will not be censored.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
 
 
@@ -138,7 +138,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 ## Mobile
 
 - 🔵 [Electron-Cash](https://electroncash.org) - Android [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/android) and iOS [[src]](https://github.com/Electron-Cash/Electron-Cash/tree/master/ios) versions available with more limited functionality.
-- 🔵 [Paytaca](https://www.paytaca.com/) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
+- 🔵 [Paytaca](https://www.paytaca.com/) [[apk]](https://github.com/paytaca/paytaca-app/releases) [[src]](https://github.com/paytaca/paytaca-app) - A mobile wallet for Android, iOS and ChromeOS
 - [Flowee Pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/Flowee/pay/) [[apk]](https://flowee.org/products/pay/) [[docs]](https://codeberg.org/Flowee/Pay/wiki) - A user friendly wallet for Android and Linux desktop.
 - [Selene Wallet](https://selene.cash/) [[src]](https://git.xulu.tech/selene.cash/selene-wallet/) - Easy, no-hassle, instant payments in the palm of your hand.
 - [Stack Wallet](https://stackwallet.com/) [[src]](https://github.com/cypherstack/stack_wallet) - Multicoin wallet with UTXO (coin) control.
