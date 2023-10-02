@@ -192,8 +192,11 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
+- [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
 - [noise.app](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
 - [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
+- [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
+- [Gaze.cash](https://gaze.cash/) - A more lenient pay-per-view video platform.
 - [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
 
 
@@ -256,6 +259,8 @@ Please note that the mechanics of these new decentralized exchanges involves sig
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
 - [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
 - [Tx Street](https://txstreet.com/v/bch-eth) [[src]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
+- [Bitcoin Energy Statistics](https://www.monsterbitar.se/~jonathan/energy/) - A comparison of energy usage for BCH and BTC.
+
 
 ### Explorers
 - 🔵 [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[src]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
@@ -287,7 +292,8 @@ Please note that the mechanics of these new decentralized exchanges involves sig
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [CashTags](https://tags.infra.cash/) [[src]](https://github.com/developers-cash/cashtags-server) - Service for printable QR Codes (Payment URLs) whose value amounts can be specified in fiat (e.g. USD).
 - [SideShift.ai](https://sideshift.ai/) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
-- [WhaleAlertBCH](https://twitter.com/WhaleAlertBch) [[src]](https://github.com/Ekliptor/cashwhale) - A twitter whalebot for BCH.
+- 🔵 [Token Stork](https://tokenstork.com/) - A CashToken market capitalization explorer.
+- 🔵 [Token Explorer](https://tokenexplorer.cash/) - A Token explorer for CashTokens.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [CCtip](https://cctip.io/) - Tipping for twitter, telegram, & discord.
 
@@ -297,6 +303,7 @@ Please note that the mechanics of these new decentralized exchanges involves sig
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 - [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
 - 🔵 [CashTokens Studio](https://chipnet.cashtokens.studio/) -  CashToken creation tool (chipnet mode)
+- 🔵 [Ghostwriter](https://ghostwriter.onrender.com/) - Mint text based NFTs.
 
 ## Web
 
