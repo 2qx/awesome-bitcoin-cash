@@ -211,6 +211,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
 - 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens.
 - 🔵 [Bitcats Heroes](https://bitcatsheroes.club/) - Collectibele NFT series with non-custodial minting contract.
+- 🔵 [CashNinjas](https://ninjas.cash/) [[src]](https://github.com/cashninjas) - an NFT collection leveraging the new CashTokens technology.
 - [Unspent](https://unspent.app) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) - Tools to create perpetuities, annuities, faucets & other simple anyone-can-spend contracts.
 
   
@@ -383,11 +384,10 @@ Just some good charities for the world at large.
 
 - [developers.cash](https://developers.cash/) - many useful resources
 - [Permissionless Software Foundation Videos](https://psfoundation.cash/video/)
-- [Bitcoin.com Developer Resources](https://www.bitcoin.com/developer/) - Tooling and documentation developed by bitcoin.com.
   
 ## Base Protocol
 
-- [BCH Specification](https://flowee.org/docs/spec/) - Specification hosted by flowee.org. ⭐
+- [BCH Specification](https://flowee.org/docs/spec/) - Specification hosted by flowee.org.
 - [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [[src]](https://github.com/SoftwareVerde/bitcoin-cash-specification) - maintained by Software Verde.
 - [reference.cash](https://reference.cash) - protocol documentation
 
@@ -405,7 +405,7 @@ Just some good charities for the world at large.
 - [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [[src]](https://github.com/cculianu/electrum-cash-protocol) - ElectrumX Protocol for [fulcrum](https://github.com/cculianu/Fulcrum) (UTXO indexer/SPV service). 
 - [Electrum Cash Protocol](https://bitcoincash.network/electrum/) [[src]](https://github.com/dagurval/electrum-cash-protocol) - Protocol for SPV clients and servers.
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
-- [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[🐉implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle work in progress.
+- [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle.
 - [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app.
 - [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 
