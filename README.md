@@ -56,7 +56,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Exchanges](#exchanges)
     - [Centralized](#centralized)
     - [More decentralized](#more-decentralized)
-    - [🐉 Cash Token DEXs 🐉](#-cash-token-dexs-)
   - [Oracles](#oracles)
   - [Faucets](#faucets)
   - [Network](#network)
@@ -142,11 +141,9 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Flowee Pay](https://flowee.org/products/pay/) [[src]](https://codeberg.org/Flowee/pay/) [[apk]](https://flowee.org/products/pay/) [[docs]](https://codeberg.org/Flowee/Pay/wiki) - A user friendly wallet for Android and Linux desktop.
 - [Selene Wallet](https://selene.cash/) [[src]](https://git.xulu.tech/selene.cash/selene-wallet/) - Easy, no-hassle, instant payments in the palm of your hand.
 - [Stack Wallet](https://stackwallet.com/) [[src]](https://github.com/cypherstack/stack_wallet) - Multicoin wallet with UTXO (coin) control.
-
-Honorable mentions:
-
-- 🔵 [zapit](https://zapit.io/#/) - A native, non-custodial Bitcoin Cash wallet for iOS and Android. Non-OSS
 - [Cake Wallet](https://cakewallet.com/) [[src]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
+- 🔵 [zapit](https://zapit.io/#/)* - A native, non-custodial Bitcoin Cash wallet for iOS and Android. *Not open source
+
 
 ## Desktop
 - 🔵 [Electron Cash CashToken](https://electroncash.org) [[release]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) [[src]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
@@ -212,6 +209,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens.
 - 🔵 [Bitcats Heroes](https://bitcatsheroes.club/) - Collectibele NFT series with non-custodial minting contract.
 - 🔵 [CashNinjas](https://ninjas.cash/) [[src]](https://github.com/cashninjas) - an NFT collection leveraging the new CashTokens technology.
+- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant Product Market Maker Contract 
 - [Unspent](https://unspent.app) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) - Tools to create perpetuities, annuities, faucets & other simple anyone-can-spend contracts.
 
   
@@ -236,10 +234,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
 - [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
 
-### 🐉 Cash Token DEXs 🐉
-
-Please note that the mechanics of these new decentralized exchanges involves significant risk and may result in the loss of your invested capital.
-- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant Product Market Maker Contract 
 
 ## Oracles
 
