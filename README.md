@@ -82,7 +82,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Discussion](#discussion)
   - [CHIP Process](#chip-process)
     - [Previous consensus changes, May 2023:](#previous-consensus-changes-may-2023)
-  - [Miner Consensus](#miner-consensus)
   - [Bitcoin Script](#bitcoin-script)
 - [Software](#software)
   - [Full Nodes](#full-nodes)
@@ -101,7 +100,13 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [R](#r)
 - [Endorsements](#endorsements)
   - [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
-  - [The Archive](#the-archive)
+- [The Archive](#the-archive)
+  - [Bitcoin Script tools](#bitcoin-script-tools)
+  - [Voting](#voting)
+  - [Simple Ledger Protocol (SLP Token)](#simple-ledger-protocol-slp-token)
+    - [Protocols](#protocols)
+    - [Libraries](#libraries)
+  - [SLP Token Projects](#slp-token-projects)
 
 # Getting Started
 
@@ -427,17 +432,13 @@ Protocol changes, software standards and application specifications may be propo
 
 Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on the CHIP owner to see the idea through to fruition and build consensus.
 
-## Miner Consensus
-
-- [Bitcoin Mining Parliament](https://bmp.virtualpol.com/) [[README]](https://bmp.virtualpol.com/README) [[src]](https://github.com/JavierGonzalez/BMP) - a decentralized place to talk, vote and more with delegated hashpower
-
 ## Bitcoin Script
 
 - [Cashscript](https://cashscript.org/docs/basics/about/) [[src]](https://github.com/Bitcoin-com/cashscript) [[playground]](https://playground.cashscript.org/) - a solidity-style language that compiles to Bitcoin Cash Script.
-- [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
-- [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
-- [Cashscript VSCode plugin](https://marketplace.visualstudio.com/items?itemName=nathanielcherian.cashscript) [[src]](https://github.com/nathanielCherian/vscode-cashscript) - Visual Studio Code extension for cashscript.
 - [bitauth ide](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
+- [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
+- [Cashscript VSCode plugin](https://marketplace.visualstudio.com/items?itemName=nathanielcherian.cashscript) [[src]](https://github.com/nathanielCherian/vscode-cashscript) - Visual Studio Code extension for cashscript.
+
 
 
 # Software
@@ -543,10 +544,44 @@ Below is a list of endorsements made in the [Chip Process](#chip-process) in rev
 💚 [P2SH32 CHIP](https://bitcoincashresearch.org/t/chip-2022-05-pay-to-script-hash-32-p2sh32-for-bitcoin-cash/806)
 
 
-## The Archive
+# The Archive
 
+Due to the nature of bitcoin, some stuff is forever... 
 
-
-- [mistcoin](https://web.archive.org/web/20210507164307/https://mistcoin.org/) - A mineable SLP token using a proof-of-work covenant contract
+## Bitcoin Script tools
 
 - [spedn](https://spedn.pl/) [[src]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
+
+- [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
+
+## Voting
+
+- [Bitcoin Mining Parliament](https://bmp.virtualpol.com/) [[README]](https://bmp.virtualpol.com/README) [[src]](https://github.com/JavierGonzalez/BMP) - a decentralized place to talk, vote and more with delegated hashpower
+
+
+## Simple Ledger Protocol (SLP Token)
+
+### Protocols
+
+- Simple Ledger Protocol (SLP) [[specs]](https://slp.dev) - for handling ERC-20 style tokens.
+- [Simple Ledger Postage Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-postage-protocol.md) - Protocol for sending SLP tokens without BCH "gas".
+
+### Libraries
+
+- Simple Ledger [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
+- SLP Indexer [[src]](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer)
+- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Slp explorer for bitcoin cash.
+- [SLPDB](https://slpdb.fountainhead.cash/explorer) [[src]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer
+- [gs++](https://gs.fountainhead.cash/) [[src]](https://github.com/blockparty-sh/cpp_slp_graph_search) [[doc]](https://gs.fountainhead.cash/swagger.html) - a fast SLP indexer, validator, and graph search server.
+- [SLP Stream](https://slpstream.fountainhead.cash/channel) [[src]](https://github.com/blockparty-sh/slpstream) [[doc]](https://slp.dev/tooling/slpstream/) - a frontend API for GS++ that provides a streaming output of new transactions.
+- [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries.
+- [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer.
+- [SLP Icons](https://github.com/kosinusbch/slp-token-icons) - Hosted icons for slp tokens.
+
+## SLP Token Projects 
+
+- [SLP Explorer](https://simpleledger.info/) [[src]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Open source explorer for SLP tokens.
+- Electron-Cash SLP Edition [[src]](https://github.com/simpleledger/Electron-Cash-SLP) [[releases]](https://github.com/simpleledger/Electron-Cash-SLP/releases)
+- [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
+- mistcoin [[archive]](http://web.archive.org/web/20210128134553/https://mistcoin.org/) [[blue miner]](https://gitlab.com/blue_mist/miner) - A mineable SLP token using a proof-of-work covenant contract
+- [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
