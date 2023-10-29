@@ -303,7 +303,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 - [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
 - 🔵 [CashTokens Studio](https://chipnet.cashtokens.studio/) -  CashToken creation tool (chipnet mode)
-- 🔵 [Ghostwriter](https://ghostwriter.onrender.com/) - Mint text based NFTs.
 
 ## Web
 
@@ -313,7 +312,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 These are other projects dedicated to listing projects in the Bitcoin Cash ecosystem:
 
-- [HelpMe Cash](https://helpme.cash/) [🔵](https://helpme.cash/CashTokens/) - A collection of links to things related to the cryptocurrency Bitcoin Cash
+- [HelpMe Cash](https://helpme.cash/) - A collection of links to things related to the cryptocurrency Bitcoin Cash
 - [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
 - [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
@@ -584,4 +583,4 @@ Due to the nature of bitcoin, some stuff is forever...
 - Electron-Cash SLP Edition [[src]](https://github.com/simpleledger/Electron-Cash-SLP) [[releases]](https://github.com/simpleledger/Electron-Cash-SLP/releases)
 - [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
 - mistcoin [[archive]](http://web.archive.org/web/20210128134553/https://mistcoin.org/) [[blue miner]](https://gitlab.com/blue_mist/miner) - A mineable SLP token using a proof-of-work covenant contract
-- [SpiceToken](https://spicetoken.org/) - A meme token for social tipping.
+- [SpiceToken](https://web.archive.org/web/20230216030610/https://spicetoken.org/) - A meme token for social tipping.
