@@ -296,6 +296,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - 🔵 [Token Explorer](https://tokenexplorer.cash/) - A Token explorer for CashTokens.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 - [CCtip](https://cctip.io/) - Tipping for twitter, telegram, & discord.
+- [BCH.gg](https://bch.gg/) - Bitcoin Cash URL Shortener
 
 ## Utilities
 
@@ -491,7 +492,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 ### Typescript
 
 - [Libauth](https://libauth.org/) [[src]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
-- [electrum-cash](https://gitlab.com/electrum-cash) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
+- [electrum-cash](https://gitlab.com/electrum-cash) [[docs]](https://electrum-cash.gitlab.io/network/) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
 - [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/) [[src]](https://codeberg.org/Flowee/js) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
 - [mainnet-js](https://mainnet.cash/) [[src]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
 - [`<qr-code>`](https://github.com/bitjson/qr-code) [[demo]](https://qr.bitjson.com/) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
