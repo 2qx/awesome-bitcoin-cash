@@ -246,7 +246,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Faucets
 
-- 🔵 [Testnet4 Faucet](https://tbch4.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
 - 🔵 [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
 - 🔵 [UnspentPhi: F,1,0,741,1](https://unspent.app/contract?opReturn=6a047574786f01460101010002e502010117a914ae83c90909bf710ef2d948ebf6f957a9219f549c87) [[src]](https://github.com/2qx/unspent) - A faucet contract paying 741 sats Bitcoin Cash.
 - 🔵 [`unspent`](https://www.npmjs.com/package/unspent?activeTab=readme) [[src]](https://github.com/2qx/unspent) - an javascript package with commands for faucets.
