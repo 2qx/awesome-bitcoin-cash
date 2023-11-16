@@ -216,7 +216,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - 🔵 [CashNinjas](https://ninjas.cash/) [[src]](https://github.com/cashninjas) - an NFT collection leveraging the new CashTokens technology.
 - 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant Product Market Maker Contract 
 - [Unspent](https://unspent.app) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) - Tools to create perpetuities, annuities, faucets & other simple anyone-can-spend contracts.
-
+- 🔵 [Ghostwriter](https://ghostwriter.pages.dev/) - Text based NFT minting. 
   
 ## Entertainment
 
