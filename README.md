@@ -168,6 +168,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 ## Browser
 - 🔵 [Cashonize](https://cashonize.com/) [[src]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens. 
 - [PSF wallet](https://wallet.fullstack.cash/) [[src]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
+- 🔵 [Microfi Wallet](https://microfi.eu/wallet/) - Microfi Free Flow Wallet
 - [BCH Merchant PoS](https://pos.cash)[[src]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
 
 
@@ -215,8 +216,10 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - 🔵 [Bitcats Heroes](https://bitcatsheroes.club/) - Collectibele NFT series with non-custodial minting contract.
 - 🔵 [CashNinjas](https://ninjas.cash/) [[src]](https://github.com/cashninjas) - an NFT collection leveraging the new CashTokens technology.
 - 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant Product Market Maker Contract 
-- [Unspent](https://unspent.app) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) - Tools to create perpetuities, annuities, faucets & other simple anyone-can-spend contracts.
-- 🔵 [Ghostwriter](https://ghostwriter.pages.dev/) - Text based NFT minting. 
+- [Unspent](https://unspent.cash) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  A Bitcoin Cash Perpetuity App
+- 🔵 [Ghostwriter](https://ghostwriter.pages.dev/) - Text based NFT minting
+- 🔵 [Wrapped Cash](https://wrapped.cash/) - Bitcoin Cash Wrapped as a CashToken
+- 🔵 [DogeCash](https://dogecash.uwu.ai/) - Don't let your dreams be memes.
   
 ## Entertainment
 
@@ -257,7 +260,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[src]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
 - [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
-- [Tx Street](https://txstreet.com/v/bch-eth) [[src]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
+- [Tx Street](https://anonhelper.com/v/bch-eth) [[src]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
 - [Bitcoin Energy Statistics](https://www.monsterbitar.se/~jonathan/energy/) - A comparison of energy usage for BCH and BTC.
 
 
