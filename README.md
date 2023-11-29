@@ -210,15 +210,16 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Decentralized Finance
 
-- [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - web application that allows users, "Bulls", to take long positions with leverage on Bitcoin Cash against a number of other fiat and crypto assets using the Anyhedge protocol.
-- 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
+- [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - Permissionless leverage and hedging using the Anyhedge protocol.
 - 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens.
+- [Unspent](https://unspent.cash) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  An irrevocable perpetuity app
+- 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
+- 🔵 [Wrapped Cash](https://wrapped.cash/) - Bitcoin Cash wrapped as a CashToken
 - 🔵 [Bitcats Heroes](https://bitcatsheroes.club/) - Collectibele NFT series with non-custodial minting contract.
 - 🔵 [CashNinjas](https://ninjas.cash/) [[src]](https://github.com/cashninjas) - an NFT collection leveraging the new CashTokens technology.
-- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant Product Market Maker Contract 
-- [Unspent](https://unspent.cash) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  A Bitcoin Cash Perpetuity App
+- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant product market maker contract 
 - 🔵 [Ghostwriter](https://ghostwriter.pages.dev/) - Text based NFT minting
-- 🔵 [Wrapped Cash](https://wrapped.cash/) - Bitcoin Cash Wrapped as a CashToken
+
 - 🔵 [DogeCash](https://dogecash.uwu.ai/) - Don't let your dreams be memes.
   
 ## Entertainment
