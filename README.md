@@ -292,10 +292,10 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ## Utilities
 
 - [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
-- [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 - [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
-- 🔵 [CashTokens Studio](https://chipnet.cashtokens.studio/) -  CashToken creation tool (chipnet mode)
-
+- 🔵 [CashTokens Studio](https://cashtokens.studio/) -  CashToken and Authkey creation tool ([chipnet](https://chipnet.cashtokens.studio/))
+- [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
+  
 ## Web
 
 - [Bitcoin Paywall](https://wordpress.org/plugins/bitcoin-paywall/) [[src]](https://plugins.trac.wordpress.org/browser/bitcoin-paywall/) - Wordpress paywall plugin
