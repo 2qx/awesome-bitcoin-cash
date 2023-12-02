@@ -28,13 +28,9 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 [![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
 
-# [The Adaptive Blocksize Limit Algorithm (ebaa) CHIP for the May 2024 BCH Upgrade is AWESOME!](https://gitlab.com/0353F40E/ebaa)
-
-[a42f44791b343ffcc118b0dd6645972e9a165e83](https://gitlab.com/0353F40E/ebaa/-/commit/a42f44791b343ffcc118b0dd6645972e9a165e83)
 
 # Contents
 
-- [The Adaptive Blocksize Limit Algorithm (ebaa) CHIP for the May 2024 BCH Upgrade is AWESOME!](#the-adaptive-blocksize-limit-algorithm-ebaa-chip-for-the-may-2024-bch-upgrade-is-awesome)
 - [Contents](#contents)
 - [Getting Started](#getting-started)
 - [State of the Project](#state-of-the-project)
@@ -99,6 +95,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [PHP](#php)
     - [R](#r)
 - [Endorsements](#endorsements)
+  - [The Adaptive Blocksize Limit Algorithm (ebaa) CHIP for the May 2024 BCH Upgrade is AWESOME!](#the-adaptive-blocksize-limit-algorithm-ebaa-chip-for-the-may-2024-bch-upgrade-is-awesome)
   - [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
 - [The Archive](#the-archive)
   - [Bitcoin Script tools](#bitcoin-script-tools)
@@ -264,6 +261,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [BCH Explorer](https://explorer.melroy.org/) [[src]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
+- 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash)[[src]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
 
   ### Testnet Explorers
   - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
@@ -297,6 +295,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Bitauth IDE](https://ide.bitauth.com/) [[src]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
 - 🔵 [CashTokens Studio](https://cashtokens.studio/) -  CashToken and Authkey creation tool ([chipnet](https://chipnet.cashtokens.studio/))
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
+- 🔵 [CashTokens Airdrop Tool](https://github.com/mr-zwets/airdrop-tool) - A command line utility to airdrop fungible tokens to NFT holders.
   
 ## Web
 
@@ -522,13 +521,16 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 Below is a list of endorsements made in the [Chip Process](#chip-process) in reverse chronological order.
 
-## The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!
+## The [Adaptive Blocksize Limit Algorithm (ebaa) CHIP](https://gitlab.com/0353F40E/ebaa) for the May 2024 BCH Upgrade is AWESOME!
+
+[a42f44791b343ffcc118b0dd6645972e9a165e83](https://gitlab.com/0353F40E/ebaa/-/commit/a42f44791b343ffcc118b0dd6645972e9a165e83)
+
+
+## The [CashTokens](https://bitcoincashresearch.org/t/chip-2022-02-cashtokens-token-primitives-for-bitcoin-cash/725) and [P2SH32 CHIP](https://bitcoincashresearch.org/t/chip-2022-05-pay-to-script-hash-32-p2sh32-for-bitcoin-cash/806) Proposals for the May 2023 BCH Upgrade are AWESOME!
 
 [539b2a492002da881a9ef9aa6604327299c7a498](https://github.com/bitjson/cashtokens/commit/539b2a492002da881a9ef9aa6604327299c7a498)
 
-💚 [CashTokens](https://bitcoincashresearch.org/t/chip-2022-02-cashtokens-token-primitives-for-bitcoin-cash/725)
 
-💚 [P2SH32 CHIP](https://bitcoincashresearch.org/t/chip-2022-05-pay-to-script-hash-32-p2sh32-for-bitcoin-cash/806)
 
 # The Archive
 
