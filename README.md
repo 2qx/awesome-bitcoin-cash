@@ -1,11 +1,5 @@
-
-
-<div id='stars'></div>
-<div id='stars2'></div>
-<div id='stars3'></div>
-<br/>
 <div align="center">
-  <img width="400px" alt="awesome bitcoin cash" src="./awesome-bitcoin-cash.dark.svg">
+  <img width="1400px" alt="awesome bitcoin cash" src="./awesome-bitcoin-cash.dark.svg">
 </div>
 <br/>
 <div align="center">
@@ -13,7 +7,7 @@ A curated list of Bitcoin Cash projects &amp; resources <br>
 <a href="https://awesome.re">
   <img src="https://awesome.re/badge.svg" alt="awesome" style="height:12px;border:10;">
 </a>
-
+<link rel="manifest" href="/assets/favicon/site.webmanifest">
 <br />
 Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-to-peer payment system for the world. 🚀
 

@@ -1,7 +1,7 @@
 {
     "name": "Awesome Bitcoin Cash",
-    "short_name": "🚀",
-    "description": "Bitcoin Cash (BCH) links",
+    "short_name": "🟢🚀",
+    "description": "BCH projects and resources",
     "scope": "/",
     "start_url": "/",
     "background_color": "#8dc351",
