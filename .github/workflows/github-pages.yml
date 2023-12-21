@@ -1,0 +1,54 @@
+name: Build and Deploy Jekyll site to GitHub Pages
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push request events for the master branch only
+  push:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "github-pages"
+  github-pages:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: setup
+        uses: actions/checkout@v3
+
+      # Downloads a prebuilt ruby and adds it to the PATH
+      - name: setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      
+      # Installs dependencies and Builds jekyll site 
+      - name: install dependencies & build site
+        uses: limjh16/jekyll-action-ts@v2
+        with:
+          # Enables caching. Similar to https://github.com/actions/cache.
+          enable_cache: true 
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: ${{ runner.os }}-gems-
+
+      # Downloads Node.js & install packages 
+      - name: setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 18
+      - run: npm ci 
+
+      # Generates service worker
+      - name: generate sw
+        run: npx workbox generateSW workbox-config.js
+
+      # Deploys static files to Github Pages 
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
