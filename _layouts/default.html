@@ -1,8 +1,7 @@
-
-
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,53 +17,55 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <!-- service Worker Logic -->	
+    <!-- service Worker Logic -->
     <script type="text/javascript" src="/sw.js"></script>
 
     <title>🟢🚀</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Awesome Bitcoin Cash" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Bitcoin Cash projects &amp; resources" />
-<meta property="og:description" content="Bitcoin Cash projects &amp; resources" />
-<link rel="canonical" href="https://awesomebitcoin.cash/" />
-<meta property="og:url" content="https://awesomebitcoin.cash/" />
-<meta property="og:image" content="https://awesomebitcoin.cash/assets/awesome-bitcoin-cash.banner.png" />
-<meta property="og:site_name" content="Awesome Bitcoin Cash" />
-<meta property="og:type" content="website" />
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:description" content="Bitcoin Cash projects &amp; resources" />
-<meta property="twitter:image" content="https://awesomebitcoin.cash/assets/awesome-bitcoin-cash.banner.png" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Awesome Bitcoin Cash" />
-<script type="application/ld+json">
+    <meta name="generator" content="Jekyll v3.9.3" />
+    <meta property="og:title" content="Awesome Bitcoin Cash" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="Actively maintained list of active projects and resources for the Bitcoin Cash (BCH) p2p cryptocurrency, and native CashTokens." />
+    <meta property="og:description" content="Actively maintained list of active projects and resources for the Bitcoin Cash (BCH) p2p cryptocurrency, and native CashTokens." />
+    <link rel="canonical" href="https://awesomebitcoin.cash/" />
+    <meta property="og:url" content="https://awesomebitcoin.cash/" />
+    <meta property="og:image" content="https://awesomebitcoin.cash/assets/awesome-bitcoin-cash.banner.png" />
+    <meta property="og:site_name" content="Awesome Bitcoin Cash" />
+    <meta property="og:type" content="website" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:description" content="Actively maintained list of active projects and resources for the Bitcoin Cash (BCH) p2p cryptocurrency, and native CashTokens." />
+    <meta property="twitter:image" content="https://awesomebitcoin.cash/assets/awesome-bitcoin-cash.banner.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Awesome Bitcoin Cash" />
+    <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","description":"Bitcoin Cash projects &amp; resources","headline":"awesome-bitcoin-cash","name":"awesome-bitcoin-cash","url":"http://awesomebitcoin.cash/"}</script>
 
-  </head>
+</head>
 
-  <body>
+<body>
 
     <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <div class="container">
+            <a id="a-title" href="{{ '/' | relative_url }}">
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            </a>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
+            <section id="downloads">
+                {% if site.show_downloads %}
+                <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+                <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+                {% endif %}
+                <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on
+                    GitHub</a>
+            </section>
+        </div>
     </header>
 
     <div class="container">
-      <section id="main_content">
-        {{ content }}
-      </section>
+        <section id="main_content">
+            {{ content }}
+        </section>
     </div>
-  </body>
+</body>
+
 </html>
