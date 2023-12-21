@@ -19,21 +19,6 @@ jobs:
       - name: setup
         uses: actions/checkout@v3
 
-      # Downloads a prebuilt ruby and adds it to the PATH
-      - name: setup ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.7
-      
-      # Installs dependencies and Builds jekyll site 
-      - name: install dependencies & build site
-        uses: limjh16/jekyll-action-ts@v2
-        with:
-          # Enables caching. Similar to https://github.com/actions/cache.
-          enable_cache: true 
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: ${{ runner.os }}-gems-
-
       # Downloads Node.js & install packages 
       - name: setup node
         uses: actions/setup-node@v2
