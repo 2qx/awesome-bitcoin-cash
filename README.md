@@ -150,6 +150,8 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Nostron](https://github.com/Electron-Cash/Nostron/) - Nostron is a plugin for the Electron-Cash BCH wallet.
 - [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments.
 - [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation.
+- [HODL](https://github.com/mainnet-pat/hodl_ec_plugin/) - smart contract plugin for Electron Cash to timelock the funds.
+- [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
 
 ## Cli
 
