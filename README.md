@@ -36,11 +36,11 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Browser](#browser)
   - [Paper/Offline Generator](#paperoffline-generator)
 - [Podcasts, News, Media](#podcasts-news-media)
-  - [The Bitcoin Cash Podcast](#the-bitcoin-cash-podcast)
 - [Projects Built on Bitcoin Cash](#projects-built-on-bitcoin-cash)
   - [Apps (Social)](#apps-social)
   - [Crowdfunding](#crowdfunding)
   - [Decentralized Finance](#decentralized-finance)
+  - [Collectables](#collectables)
   - [Entertainment](#entertainment)
   - [Exchanges](#exchanges)
     - [Centralized](#centralized)
@@ -173,9 +173,10 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 Bitcoin Cash focussed media and content.
 
-## The Bitcoin Cash Podcast
-
 - [The Bitcoin Cash Podcast](https://www.bitcoincashpodcast.com) - Available on Youtube [[src]](https://www.youtube.com/channel/UCsrDsJnHFnkMnJhEslofyPQ) and RSS [[src]](https://rss.com/podcasts/bitcoincashpodcast/) audio versions, plus other video and podcast platforms (see links at bottom of website).
+- Bitcoin Cash Foundation Weekly News - Available on [Youtube](https://www.youtube.com/@BitcoinCashFoundation) and [Telegram](https://t.me/BCHFNews) 
+- General Protocol Spaces -  Available on [Youtube](https://www.youtube.com/watch?v=707-DPzhdA8&list=PLcIK2erO9hWyM56FYkUAilfUmABbwpu7U) and twitter.
+
 
 # Projects Built on Bitcoin Cash
 
@@ -204,15 +205,22 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [Unspent](https://unspent.cash) [[src]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  An irrevocable perpetuity app
 - 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[src]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
 - 🔵 [Wrapped Cash](https://wrapped.cash/) - Bitcoin Cash wrapped as a CashToken
+- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant product market maker contract
+
+
+## Collectables 
+
+- 🔵 [BCH Guru NFTs](https://nfts.bch.guru) - a premier collection of NFTs
+- 🔵 [Ghostwriter](https://ghostwriter.pages.dev/) - Text based NFT minting
 - 🔵 [Bitcats Heroes](https://bitcatsheroes.club/) - Collectibele NFT series with non-custodial minting contract.
 - 🔵 [CashNinjas](https://ninjas.cash/) [[src]](https://github.com/cashninjas) - an NFT collection leveraging the new CashTokens technology.
-- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant product market maker contract
-- 🔵 [Ghostwriter](https://ghostwriter.pages.dev/) - Text based NFT minting
-- 🔵 [DogeCash](https://dogecash.uwu.ai/) - Don't let your dreams be memes
-
+  
+  
 ## Entertainment
 
 - [bch.games](https://bch.games/) - dice and numbers game.
+- 🔵 [BCU Guru](https://bch.guru) - A peer to peer price prediction game on Bitcoin Cash
+- 🔵 [DogeCash](https://dogecash.uwu.ai/) - Don't let your dreams be memes
 - [craft.cash](https://craft.cash/) [[src]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
 - [Enter the Sphere](https://market.enter-the-sphere.com/) - NFT trading card game.
