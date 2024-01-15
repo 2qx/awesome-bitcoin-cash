@@ -160,7 +160,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ## Browser
 - 🔵 [Cashonize](https://cashonize.com/) [[code]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens.
-- [PSF wallet](https://wallet.fullstack.cash/) [[code]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
+- [PSF wallet](https://wallet.fullstack.cash/) [[code]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - An web wallet with SLP support.
 - 🔵 [Microfi Wallet](https://microfi.eu/wallet/) - Microfi Free Flow Wallet
 - [BCH Merchant PoS](https://pos.cash) [[code]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
 
@@ -198,7 +198,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Crowdfunding
 
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[code]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
-- [IPFS Flipstarter](https://flipstarter.me/) [[code]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
+- IPFS Flipstarter [[code]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
 
 ## Decentralized Finance
 
@@ -225,7 +225,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - 🔵 [DogeCash](https://dogecash.uwu.ai/) - Don't let your dreams be memes
 - [craft.cash](https://craft.cash/) [[code]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
-- [Enter the Sphere](https://market.enter-the-sphere.com/) - NFT trading card game.
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf
 
 ## Exchanges
@@ -268,13 +267,11 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
 - 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash) [[code]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
-
   ### Testnet Explorers
   - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
   - 🔵 [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
   - 🔵 [Chipnet (bch.ninja)](https://chipnet.bch.ninja)
   - [Testnet [old]](https://texplorer.bitcoinunlimited.info/)
-
 - [Chaingraph](https://chaingraph.cash/) [[code]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [CoinGecko API](https://www.coingecko.com/en/api/documentation) - Free tier api for price data.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
@@ -545,7 +542,6 @@ Due to the nature of bitcoin, some stuff is forever...
 ## Bitcoin Script tools
 
 - [spedn](https://spedn.pl/) [[code]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
-
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 
 ## Voting
@@ -561,8 +557,8 @@ Due to the nature of bitcoin, some stuff is forever...
 
 ### Libraries
 
+- **⭐ SLP Indexer ⭐** [[code]](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer) - Functional SLP token indexer running token infrastructure for several businesses. 
 - Simple Ledger [[repos]](https://github.com/simpleledger) - Group leading SLP token integration. (Typescript & Python)
-- SLP Indexer [[code]](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer)
 - [SLP Explorer](https://simpleledger.info/) [[code]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Slp explorer for bitcoin cash.
 - SLPDB [[code]](https://github.com/simpleledger/SLPDB) [[doc]](https://slp.dev/tooling/slpdb/) - simpleledger indexer
 - [gs++](https://gs.fountainhead.cash/) [[code]](https://github.com/blockparty-sh/cpp_slp_graph_search) [[doc]](https://gs.fountainhead.cash/swagger.html) - a fast SLP indexer, validator, and graph search server.
@@ -573,8 +569,9 @@ Due to the nature of bitcoin, some stuff is forever...
 
 ## SLP Token Projects
 
+- **⭐ [PSF wallet](https://wallet.fullstack.cash/) ⭐** [[code]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - An web wallet with SLP support.
 - [SLP Explorer](https://simpleledger.info/) [[code]](https://github.com/salemkode/slp-explorer) [[backend src]](https://github.com/salemkode/slp-explorer-backend) - Open source explorer for SLP tokens.
 - Electron-Cash SLP Edition [[code]](https://github.com/simpleledger/Electron-Cash-SLP) [[releases]](https://github.com/simpleledger/Electron-Cash-SLP/releases)
-- [Honk Token](https://honkhonk.io/) [[whitepaper]](https://honkhonk.io/honkwhitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
+- Honk Token [[archive]](https://web.archive.org/web/20230921212507/https://honk.cash/) [[whitepaper]](https://web.archive.org/web/20220409174235/https://www.honk.cash/whitepaper.pdf) - A gambling/gaming/multipurpose SLP token.
 - mistcoin [[archive]](http://web.archive.org/web/20210128134553/https://mistcoin.org/) [[blue miner]](https://gitlab.com/blue_mist/miner) - A mineable SLP token using a proof-of-work covenant contract
-- [SpiceToken](https://web.archive.org/web/20230216030610/https://spicetoken.org/) - A meme token for social tipping.
+- SpiceToken [[archive]](https://web.archive.org/web/20230216030610/https://spicetoken.org/) - A meme SLP token for social tipping.
