@@ -92,7 +92,6 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
 - [The Archive](#the-archive)
   - [Bitcoin Script tools](#bitcoin-script-tools)
-  - [Voting](#voting)
   - [Simple Ledger Protocol (SLP Token)](#simple-ledger-protocol-slp-token)
     - [Protocols](#protocols)
     - [Libraries](#libraries)
@@ -492,7 +491,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js) [[docs]](https://bchjs.fullstack.cash/) - JavaScript library for creating web and mobile apps that can interact with the Bitcoin Cash (BCH) and eCash (XEC) blockchains
 - [electrum-cli](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
-- [signup.cash](https://signup.cash/) [[code]](https://github.com/signupcash/signup-core) - Non-custodial platform as a service for building decentralized apps.
 - [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
 
 ### Python
@@ -543,10 +541,6 @@ Due to the nature of bitcoin, some stuff is forever...
 
 - [spedn](https://spedn.pl/) [[code]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
-
-## Voting
-
-- [Bitcoin Mining Parliament](https://bmp.virtualpol.com/) [[README]](https://bmp.virtualpol.com/README) [[code]](https://github.com/JavierGonzalez/BMP) - a decentralized place to talk, vote and more with delegated hashpower
 
 ## Simple Ledger Protocol (SLP Token)
 
