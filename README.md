@@ -162,11 +162,13 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - 🔵 [Cashonize](https://cashonize.com/) [[code]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens.
 - [PSF wallet](https://wallet.fullstack.cash/) [[code]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static javascript web-wallet using gatsby react from the permissionless software foundation.
 - 🔵 [Microfi Wallet](https://microfi.eu/wallet/) - Microfi Free Flow Wallet
-- [BCH Merchant PoS](https://pos.cash)[[code]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
+- [BCH Merchant PoS](https://pos.cash) [[code]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
 
 ## Paper/Offline Generator
 
-- [Cash Address Generator](https://cashaddress.org/) - reputable javascript address generator suitable for offline use.
+- [Cash Address Generator](https://cashaddress.org/) [[code]](https://github.com/theantnest/bccaddress) - reputable javascript address generator suitable for offline use.
+- [Keep Bitcoin Free Paper Wallet](https://paper.keepbitcoinfree.org) [[code]](https://github.com/KeepBitcoinFree-org/paper.keepbitcoinfree.org) - A fork of the Bitcoin.com paper wallet
+ - [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [[code]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) - A fork of the cashaddress.org paper wallet
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 
 # Podcasts, News, Media
@@ -265,7 +267,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
-- 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash)[[code]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
+- 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash) [[code]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
 
   ### Testnet Explorers
   - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
