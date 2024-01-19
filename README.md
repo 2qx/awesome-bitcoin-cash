@@ -259,7 +259,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Bitcoin Energy Statistics](https://www.monsterbitar.se/~jonathan/energy/) - A comparison of energy usage for BCH and BTC.
 
 ### Explorers
-- 🔵 [Blockchain Explorer](https://explorer.bitcoinunlimited.info/) [[code]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+- 🔵 [Blockchain Explorer](https://explorer.bch.ninja/) [[code]](https://github.com/sickpig/bch-rpc-explorer) [[mirror: BU]](https://explorer.bitcoinunlimited.info/) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
 - 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[code]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
 - 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
@@ -543,6 +543,8 @@ Due to the nature of bitcoin, some stuff is forever...
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 
 ## Simple Ledger Protocol (SLP Token)
+
+
 
 ### Protocols
 
