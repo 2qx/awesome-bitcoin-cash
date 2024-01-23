@@ -442,12 +442,11 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 - [Flowee the Hub](https://flowee.org/) [[code]](https://codeberg.org/Flowee/thehub) - a node supporting a suite of software focused on payment integration. C++
 - [Bitcoin Verde](https://bitcoinverde.org/) [[code]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
 - [Knuth](https://kth.cash/) [[code]](https://github.com/k-nuth/kth) - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
-- [bchd](https://bchd.cash/) [[code]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - alternative implementation written in Go (golang)
+- [bchd](https://bchd.cash/) [[code]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - [DEPRECATED] alternative implementation written in Go (golang)
 
 ### Developer Resources
 
 - [Bitcoin Cash Research](https://bitcoincashresearch.org/) - Site dedicated to technical research on Bitcoin Cash.
-- [Bitcoin Cash Discussions](https://bitcoincashnetworkdiscussions.org/) [[youtube]](https://www.youtube.com/channel/UCmyoHmbSsChInLzZ9S5aAAw) - Site for hosting live meetings and discussions about protocols
 
 ## Open-Source Teams Building on Bitcoin Cash
 
