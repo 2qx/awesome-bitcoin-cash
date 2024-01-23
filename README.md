@@ -175,7 +175,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 Bitcoin Cash focussed media and content.
 
 - [The Bitcoin Cash Podcast](https://www.bitcoincashpodcast.com) - Available on [Youtube](https://www.youtube.com/channel/UCsrDsJnHFnkMnJhEslofyPQ) and [RSS](https://rss.com/podcasts/bitcoincashpodcast/) audio versions, plus other video and podcast platforms (see links at bottom of website).
-- Bitcoin Cash Foundation Weekly News - Available on [Youtube](https://www.youtube.com/@BitcoinCashFoundation) and [Telegram](https://t.me/BCHFNews) 
+- [Bitcoin Cash Foundation](https://bitcoincashfoundation.org/) Weekly News - Available on [Youtube](https://www.youtube.com/@BitcoinCashFoundation) and [Telegram](https://t.me/BCHFNews) 
 - General Protocol Spaces -  Available on [Youtube](https://www.youtube.com/watch?v=707-DPzhdA8&list=PLcIK2erO9hWyM56FYkUAilfUmABbwpu7U) and twitter.
 
 
@@ -192,7 +192,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
 - [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
 - [Gaze.cash](https://gaze.cash/) - A more lenient pay-per-view video platform.
-- [lazyfox](https://lazyfox.io) - a Bitcoin Cash powered question and answer / tasking platform.
 
 ## Crowdfunding
 
