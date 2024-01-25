@@ -281,7 +281,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 - 🔵 [OpenTokenRegistry](https://otr.cash/) [[code]](https://github.com/OpenTokenRegistry/otr.cash) - Community-Verified Token Information
 - 🔵 [IPFS-BCH](https://ipfs-bch.pat.mn/) [[code]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
-- [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github.
 - [CashTags](https://tags.infra.cash/) [[code]](https://github.com/developers-cash/cashtags-server) - Service for printable QR Codes (Payment URLs) whose value amounts can be specified in fiat (e.g. USD).
 - [SideShift.ai](https://sideshift.ai/) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
 - 🔵 [Token Stork](https://tokenstork.com/) - A CashToken market capitalization explorer.
@@ -537,6 +536,8 @@ Below is a list of endorsements made in the [Chip Process](#chip-process) in rev
 
 Due to the nature of bitcoin, some stuff is forever...
 
+- [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github. [DEPRECATED due to reddit API access changes]
+
 ## Bitcoin Script tools
 
 - [spedn](https://spedn.pl/) [[code]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
@@ -544,7 +545,7 @@ Due to the nature of bitcoin, some stuff is forever...
 
 ## Simple Ledger Protocol (SLP Token)
 
-
+The Permissionless Software Foundation is actively maintaining an SLP wallet and indexer, denoted with starts (⭐) below. 
 
 ### Protocols
 
