@@ -376,7 +376,7 @@ Just some good charities for the world at large.
 
 - [developers.cash](https://developers.cash/) - many useful resources
 - [Permissionless Software Foundation Videos](https://psfoundation.cash/video/)
-- [Electron Cash Wiki](https://wiki.electroncash.de/wiki/Main_Page
+- [Electron Cash Wiki](https://wiki.electroncash.de/wiki/Main_Page)
 
 ## Base Protocol
 
