@@ -258,7 +258,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Bitcoin Energy Statistics](https://www.monsterbitar.se/~jonathan/energy/) - A comparison of energy usage for BCH and BTC.
 
 ### Explorers
-- 🔵 [Blockchain Explorer](https://explorer.bch.ninja/) [[code]](https://github.com/sickpig/bch-rpc-explorer) [[mirror: BU]](https://explorer.bitcoinunlimited.info/) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+- 🔵 [Blockchain Explorer](https://explorer.bch.ninja/) [[code]](https://github.com/sickpig/bch-rpc-explorer) [[mirror: BU]](https://explorer.bitcoinunlimited.info/) [[mirror: electroncash.de]](https://explorer.electroncash.de) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
 - 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[code]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
 - 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
@@ -269,7 +269,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
   - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
   - 🔵 [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
   - 🔵 [Chipnet (bch.ninja)](https://chipnet.bch.ninja)
-  - [Testnet [old]](https://texplorer.bitcoinunlimited.info/)
+  - [Testnet [old]](https://texplorer.bitcoinunlimited.info/), [[mirror]](https://testnet-explorer.electroncash.de/)
 - [Chaingraph](https://chaingraph.cash/) [[code]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [CoinGecko API](https://www.coingecko.com/en/api/documentation) - Free tier api for price data.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
@@ -311,6 +311,7 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 - [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
 - [Mainnet Cash List](https://mainnet.cash/projects.html) - A list of projects maintained at mainnet.cash
+- [BCHGANG Link Directory](https://bchgang.org) - A directory of links about the cryptocurrency Bitcoin Cash: wallets, merchants, exchanges, tools, references, block explorer, developer guides, tutorials and more.
 
 # Merchants and Services Accepting Bitcoin Cash
 
@@ -375,6 +376,7 @@ Just some good charities for the world at large.
 
 - [developers.cash](https://developers.cash/) - many useful resources
 - [Permissionless Software Foundation Videos](https://psfoundation.cash/video/)
+- [Electron Cash Wiki](https://wiki.electroncash.de/wiki/Main_Page
 
 ## Base Protocol
 
