@@ -39,7 +39,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [Projects Built on Bitcoin Cash](#projects-built-on-bitcoin-cash)
   - [Apps (Social)](#apps-social)
   - [Crowdfunding](#crowdfunding)
-  - [Decentralized Finance](#decentralized-finance)
+  - [BCH Native Decentralized Finance](#bch-native-decentralized-finance)
   - [Collectables](#collectables)
   - [Entertainment](#entertainment)
   - [Exchanges](#exchanges)
@@ -199,14 +199,17 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[code]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
 - IPFS Flipstarter [[code]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
 
-## Decentralized Finance
+## BCH Native Decentralized Finance
+
+[DefiLlama](https://defillama.com/chain/Bitcoincash) - Statistics for Bitcoin Cash Defi.
 
 - [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - Permissionless leverage and hedging using the Anyhedge protocol.
 - 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens.
+- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant product market maker contract
 - [Unspent](https://unspent.cash) [[code]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  An irrevocable perpetuity app
 - 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[code]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
 - 🔵 [Wrapped Cash](https://wrapped.cash/) [[code]](https://gitlab.com/dagurval/wrapped-cash) - Bitcoin Cash wrapped as a CashToken
-- 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - A Constant product market maker contract
+
 
 
 ## Collectables 
@@ -236,8 +239,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### More decentralized
 
-- [AtmoicDex](https://atomicdex.io/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
 - [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
+- [Komodo Wallet](https://app.komodoplatform.com/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
 
 ## Oracles
 
@@ -255,7 +258,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[code]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
 - [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
-- [Tx Street](https://anonhelper.com/v/bch-eth) [[code]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
+- [Tx Street](https://txcity.io/v/bch-eth) [[code]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
 - [Bitcoin Energy Statistics](https://www.monsterbitar.se/~jonathan/energy/) - A comparison of energy usage for BCH and BTC.
 
 ### Explorers
@@ -287,7 +290,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - 🔵 [Token Stork](https://tokenstork.com/) - A CashToken market capitalization explorer.
 - 🔵 [Token Explorer](https://tokenexplorer.cash/) - A Token explorer for CashTokens.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
-- [CCtip](https://cctip.io/) - Tipping for twitter, telegram, & discord.
 - [BCH.gg](https://bch.gg/) - Bitcoin Cash URL Shortener
 
 ## Utilities
@@ -326,8 +328,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [alfa.top](https://alfa.top/) - Buy mobile top-up (credit) and internet with cryptocurrency.
 - [CheapAir](https://www.cheapair.com) - for your travel needs.
 - [items sold by Newegg](https://kb.newegg.com/knowledge-base/using-bitcoin-on-newegg/) - good for a great headset.
-- [Lanieri](https://www.lanieri.com) - makes a good suit.
-- [partsoven](https://www.partsoven.com/) - for that 3rd dimension of building.
 
 ## Geographic lists
 
@@ -348,7 +348,7 @@ Just some good charities for the world at large.
 
 - [Tails](https://tails.boum.org/donate/index.en.html) - The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - **A United Kingdom based charity, founded in 1919**, to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
-- [Electronic Freedom Foundation](https://supporters.eff.org/donate/join-4) - dedicated to ensuring that technology supports freedom, justice, and innovation for all the people of the world.
+- [The Internet Archive](https://blockchair.com/bitcoin-cash/address/1Archive1n2C579dMsAu3iC6tWzuQJz8dN) - 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
 - [Bitpay Charity Directory](https://bitpay.com/directory/nonprofits) A list of charities that accept Bitcoin Cash and other cryptocurrencies.
 
 # eCommerce Merchant Resources
