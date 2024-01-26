@@ -264,7 +264,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
-- [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) [[bch testnet]](https://www.blockchain.com/explorer?view=bch-testnet) - Established blockchain explorer.
+- [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) - Established blockchain explorer.
 - 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash) [[code]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
   ### Testnet Explorers
   - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
@@ -272,7 +272,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
   - 🔵 [Chipnet (bch.ninja)](https://chipnet.bch.ninja)
   - [Testnet [old]](https://texplorer.bitcoinunlimited.info/), [[mirror]](https://testnet-explorer.electroncash.de/)
 - [Chaingraph](https://chaingraph.cash/) [[code]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
-- [CoinGecko API](https://www.coingecko.com/en/api/documentation) - Free tier api for price data.
+- [CoinGecko API](https://www.coingecko.com/api/documentation) - Free tier api for price data.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
 - [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer.
