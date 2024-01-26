@@ -192,7 +192,8 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
 - [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
 - [Gaze.cash](https://gaze.cash/) - A more lenient pay-per-view video platform.
-
+- [WhoTipped.it](https://whotipped.it/) - Last tips given on memo.cash
+  
 ## Crowdfunding
 
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[code]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
