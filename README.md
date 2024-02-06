@@ -249,7 +249,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ## Faucets
 
 - 🔵 [Testnet Faucet](https://tbch.googol.cash/) [[code]](https://gitlab.com/uak/light-crypto-faucet)
-- 🔵 [UnspentPhi: F,1,0,741,1](https://unspent.app/contract?opReturn=6a047574786f01460101010002e502010117a914ae83c90909bf710ef2d948ebf6f957a9219f549c87) [[code]](https://github.com/2qx/unspent) - A faucet contract paying 741 sats Bitcoin Cash.
 - 🔵 [`unspent`](https://www.npmjs.com/package/unspent?activeTab=readme) [[code]](https://github.com/2qx/unspent) - an javascript package with commands for faucets.
 - BCH Testnet Faucet [[code]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
 
@@ -295,7 +294,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ## Utilities
 
 - [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
-- [Bitauth IDE](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
+- 🔵 [Bitauth IDE](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
 - 🔵 [CashTokens Studio](https://cashtokens.studio/) -  CashToken and Authkey creation tool ([chipnet](https://chipnet.cashtokens.studio/))
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
 - 🔵 [CashTokens Airdrop Tool](https://github.com/mr-zwets/airdrop-tool) - A command line utility to airdrop fungible tokens to NFT holders.
@@ -376,7 +375,7 @@ Just some good charities for the world at large.
 
 - [developers.cash](https://developers.cash/) - many useful resources
 - [Permissionless Software Foundation Videos](https://psfoundation.cash/video/)
-- [Electron Cash Wiki](https://wiki.electroncash.de/wiki/Main_Page
+- [Electron Cash Wiki](https://wiki.electroncash.de/wiki/Main_Page)
 
 ## Base Protocol
 
@@ -428,8 +427,8 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 
 ## Bitcoin Script
 
-- [Cashscript](https://cashscript.org/docs/basics/about/) [[code]](https://github.com/Bitcoin-com/cashscript) [[playground]](https://playground.cashscript.org/) - a solidity-style language that compiles to Bitcoin Cash Script.
-- [bitauth ide](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
+- 🔵 [Cashscript](https://cashscript.org/docs/basics/about/) [[code]](https://github.com/Bitcoin-com/cashscript) [[playground]](https://playground.cashscript.org/) - a solidity-style language that compiles to Bitcoin Cash Script.
+- 🔵 [bitauth ide](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
 - [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
 - [Cashscript VSCode plugin](https://marketplace.visualstudio.com/items?itemName=nathanielcherian.cashscript) [[code]](https://github.com/nathanielCherian/vscode-cashscript) - Visual Studio Code extension for cashscript.
 
