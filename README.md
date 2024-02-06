@@ -437,12 +437,12 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 
 ## Full Nodes
 
-- [BCHN](https://bitcoincashnode.org/) [[code]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [[docs]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
-- [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[code]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
+- 🔵 [BCHN](https://bitcoincashnode.org/) [[code]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [[docs]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
+- 🔵 [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[code]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
     - [Bitcoin Unlimited Improvement Proposals (BUIPS)](https://www.bitcoinunlimited.info/voting/)
 - [Flowee the Hub](https://flowee.org/) [[code]](https://codeberg.org/Flowee/thehub) - a node supporting a suite of software focused on payment integration. C++
-- [Bitcoin Verde](https://bitcoinverde.org/) [[code]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
-- [Knuth](https://kth.cash/) [[code]](https://github.com/k-nuth/kth) - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
+- 🔵 [Bitcoin Verde](https://bitcoinverde.org/) [[code]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
+- 🔵 [Knuth](https://kth.cash/) [[code]](https://github.com/k-nuth/kth) - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 - [bchd](https://bchd.cash/) [[code]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - [DEPRECATED] alternative implementation written in Go (golang)
 
 ### Developer Resources
@@ -465,8 +465,8 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ## Simple Payment Verification (SPV)
 
-- [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server for Bitcoin Cash.
-- [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum) - Rostrum is an efficient implementation of Electrum Server written in Rust.
+- 🔵 [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server for Bitcoin Cash.
+- 🔵 [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum) - Rostrum is an efficient implementation of Electrum Server written in Rust.
 
 ## Libraries & SDKs
 
@@ -475,16 +475,16 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### Language Agnostic
 
-- [mainnet](https://mainnet.cash/) [[tutorial]](https://mainnet.cash/tutorial/) [[rest spec]](https://rest-unstable.mainnet.cash/api-docs/#/) - Typescript library, also available via rest api, or over rest from [python](https://github.com/mainnet-cash/mainnet-python-generated), [golang](https://github.com/mainnet-cash/mainnet-go-generated), [php](https://github.com/mainnet-cash/mainnet-php-generated) generated clients, [et. al](https://mainnet.cash/tutorial/other-languages.html)
+-  🔵 [mainnet](https://mainnet.cash/) [[tutorial]](https://mainnet.cash/tutorial/) [[rest spec]](https://rest-unstable.mainnet.cash/api-docs/#/) - Typescript library, also available via rest api, or over rest from [python](https://github.com/mainnet-cash/mainnet-python-generated), [golang](https://github.com/mainnet-cash/mainnet-go-generated), [php](https://github.com/mainnet-cash/mainnet-php-generated) generated clients, [et. al](https://mainnet.cash/tutorial/other-languages.html)
 - [Insomnia](https://insomnia.fountainhead.cash/) [[code]](https://github.com/fountainhead-cash/insomnia) - Swagger/OpenAPI3 specification for ElectrumX
 - [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
 ### Typescript
 
-- [Libauth](https://libauth.org/) [[code]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
-- [electrum-cash](https://gitlab.com/electrum-cash) [[docs]](https://electrum-cash.gitlab.io/network/) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
+- 🔵 [Libauth](https://libauth.org/) [[code]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
+- 🔵 [electrum-cash](https://gitlab.com/electrum-cash) [[docs]](https://electrum-cash.gitlab.io/network/) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
 - [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/) [[code]](https://codeberg.org/Flowee/js) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
-- [mainnet-js](https://mainnet.cash/) [[code]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
+- 🔵 [mainnet-js](https://mainnet.cash/) [[code]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
 - [`<qr-code>`](https://github.com/bitjson/qr-code) [[demo]](https://qr.bitjson.com/) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
 
 ### Javascript
@@ -495,12 +495,12 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ### Python
 
-- [bitcash](https://pybitcash.github.io/bitcash/) [[code]](https://github.com/pybitcash/bitcash) [[docs]](https://bitcash.dev) - python3 library.
+- 🔵 [bitcash](https://pybitcash.github.io/bitcash/) [[code]](https://github.com/pybitcash/bitcash) [[docs]](https://bitcash.dev) - python3 library.
 - [jtoomim/p2pool](https://github.com/jtoomim/p2pool) - jtoomim fork of bitcoin pool mining software.
 
 ### Rust
 
-- [rust-bitcoincash](https://gitlab.com/rust-bitcoincash/rust-bitcoincash/) - Rust Bitcoin Cash library.
+- 🔵 [rust-bitcoincash](https://gitlab.com/rust-bitcoincash/rust-bitcoincash/) - Rust Bitcoin Cash library.
 
 ### Java
 
