@@ -142,6 +142,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 ## Desktop
 - 🔵 [Electron Cash CashToken](https://electroncash.org) [[release]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) [[code]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
 - [Flowee Pay](https://flowee.org/products/pay/) [[code]](https://codeberg.org/flowee/pay) - A payment solution, a wallet, a basis for your new product. But currently just a desktop wallet.
+- 🔵 [Cashonize (quasar)](https://github.com/cashonize/cashonize-quasar/releases/tag/v0.0.2) [[code]](https://github.com/cashonize/cashonize-quasar) - Cashonize rewrite with Quasar & Vue-js
 
 ### Electron-Cash Plugins
 
