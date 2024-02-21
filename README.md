@@ -104,6 +104,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 - [BCHFAQ.com](https://bchfaq.com/) [[code]](https://github.com/fixthetracking/Bitcoin-Cash-FAQ) - Learn the fundamentals of Bitcoin Cash by getting simple answers to your basic questions.
 - [Why Bitcoin Cash?](https://whybitcoincash.com/) [[archive]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/) - The revolution will not be censored.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
+- [Why Cryptocurrencies?](https://whycryptocurrencies.com/toc.html) [[code]](https://github.com/treeman/why_cryptocurrencies) - An explanation on why cryptocurrencies were created, what they do differently and why they matter.
 
 # State of the Project
 
