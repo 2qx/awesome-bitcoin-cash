@@ -168,8 +168,8 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 ## Paper/Offline Generator
 
 - [Cash Address Generator](https://cashaddress.org/) [[code]](https://github.com/theantnest/bccaddress) - reputable javascript address generator suitable for offline use.
-- [Keep Bitcoin Free Paper Wallet](https://paper.keepbitcoinfree.org) [[code]](https://github.com/KeepBitcoinFree-org/paper.keepbitcoinfree.org) - A fork of the Bitcoin.com paper wallet
- - [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [[code]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) - A fork of the cashaddress.org paper wallet
+- [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [[code]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) - A fork of the cashaddress.org paper wallet
+- Keep Bitcoin Free Paper Wallet [[code]](https://github.com/KeepBitcoinFree-org/paper.keepbitcoinfree.org) - A fork of the Bitcoin.com paper wallet
 - [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 
 # Podcasts, News, Media
