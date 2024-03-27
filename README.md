@@ -384,6 +384,7 @@ Just some good charities for the world at large.
 - [BCH Specification](https://flowee.org/docs/spec/) - Specification hosted by flowee.org.
 - [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [[code]](https://github.com/SoftwareVerde/bitcoin-cash-specification) - maintained by Software Verde.
 - [reference.cash](https://reference.cash) - protocol documentation
+- [Upgrade specs](https://upgradespecs.bitcoincashnode.org/) - Bitcoin Cash upgrade specifications as implemented by BCHN.
 
 ### Secondary protocols
 
