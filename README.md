@@ -328,6 +328,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [keys4coins](https://www.keys4coins.com/) - Buy PC games and gift cards with cryptocurrency.
 - [alfa.top](https://alfa.top/) - Buy mobile top-up (credit) and internet with cryptocurrency.
 - [CheapAir](https://www.cheapair.com) - for your travel needs.
+- [Travala](https://www.travala.com) - for your travel needs.
 - [items sold by Newegg](https://kb.newegg.com/knowledge-base/using-bitcoin-on-newegg/) - good for a great headset.
 
 ## Geographic lists
