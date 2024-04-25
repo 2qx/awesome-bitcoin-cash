@@ -61,6 +61,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Some Charities and Foundations](#some-charities-and-foundations)
 - [eCommerce Merchant Resources](#ecommerce-merchant-resources)
   - [Bitcoin Cash Open-Source plugins](#bitcoin-cash-open-source-plugins)
+  - [Point of Sale Clients](#point-of-sale-clients)
   - [Non-Custodial Payment Processors](#non-custodial-payment-processors)
   - [BCH-to-Fiat Payment Processors](#bch-to-fiat-payment-processors)
   - [Payment Processor Status](#payment-processor-status)
@@ -360,10 +361,14 @@ Just some good charities for the world at large.
 
 - [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Bitcoin Cash integration for CryptoWoo
 
+## Point of Sale Clients
+
+- 🔵 [Paytaca](https://www.paytaca.com/) [[apk]](https://github.com/paytaca/paytaca-app/releases) [[code]](https://github.com/paytaca/paytaca-app) - A mobile wallet with integrated POS.
+- [pos.cash](https://pos.cash) [[code]](https://github.com/softwareverde/pos-cash) - a non-custodial web-based point of sale BCH client.
+  
 ## Non-Custodial Payment Processors
 
 - [Prompt.cash](https://prompt.cash) [[demo]](https://www.youtube.com/watch?v=8TIpZW1P_9M) [[docs]](https://prompt.cash/pub/docs/#introduction) - a non-custodial Bitcoin Cash payment gateway
-- [pos.cash](https://pos.cash) [[code]](https://github.com/softwareverde/pos-cash) - a non-custodial web-based point of sale BCH client.
 - [Cash Pay Server](https://github.com/developers-cash/cash-pay-server-js) [[docs]](https://developers-cash.github.io/cash-pay-server-js/) - a self-hostable NodeJS micro-service that can be used to handle BIP70 and JSON Payment Protocol invoices for Bitcoin Cash (BCH)
 
 ## BCH-to-Fiat Payment Processors
