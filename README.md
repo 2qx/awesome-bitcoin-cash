@@ -342,7 +342,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 ## Projects dedicated to listing or enabling eCommerce.
 
-- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash) - list of merchants and stores.
 - [Use.Cash](https://usecash.com/) - Guide for using cryptocurrency like cash.
 - [Bitgree](https://www.bitgree.com) - service to privately purchase goods on Amazon.com and others at a discount.
 
@@ -405,7 +404,7 @@ Just some good charities for the world at large.
 - CashFusion(https://cashfusion.org) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
 - 🔵 [CashTokens](https://cashtokens.org/) [[code]](https://github.com/cashtokens/cashtokens.org) - Specification for CashTokens.
-- [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [[code]](https://github.com/cculianu/electrum-cash-protocol) - ElectrumX Protocol for [fulcrum](https://github.com/cculianu/Fulcrum) (UTXO indexer/SPV service).
+- [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [[code]](https://github.com/cculianu/electrum-cash-protocol) - ElectrumX Protocol for [fulcrum](https://fulcrumserver.org) (UTXO indexer/SPV service).
 - [Electrum Cash Protocol](https://bitcoincash.network/electrum/) [[code]](https://github.com/dagurval/electrum-cash-protocol) - Protocol for SPV clients and servers.
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
 - [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle.
@@ -475,7 +474,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ## Simple Payment Verification (SPV)
 
-- 🔵 [Fulcrum](https://github.com/cculianu/Fulcrum) - A fast & nimble SPV Server for Bitcoin Cash.
+- 🔵 [Fulcrum](https://fulcrumserver.org) [[repos]](https://github.com/cculianu/Fulcrum/) - A fast & nimble SPV Server for Bitcoin Cash.
 - 🔵 [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum) - Rostrum is an efficient implementation of Electrum Server written in Rust.
 
 ## Libraries & SDKs
