@@ -96,6 +96,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Simple Ledger Protocol (SLP Token)](#simple-ledger-protocol-slp-token)
     - [Protocols](#protocols)
     - [Libraries](#libraries)
+  - [Services](#services-1)
   - [SLP Token Projects](#slp-token-projects)
 
 # Getting Started
@@ -171,7 +172,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Cash Address Generator](https://cashaddress.org/) [[code]](https://github.com/theantnest/bccaddress) - reputable javascript address generator suitable for offline use.
 - [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [[code]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) - A fork of the cashaddress.org paper wallet
 - Keep Bitcoin Free Paper Wallet [[code]](https://github.com/KeepBitcoinFree-org/paper.keepbitcoinfree.org) - A fork of the Bitcoin.com paper wallet
-- [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 
 # Podcasts, News, Media
 
@@ -227,7 +227,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [bch.games](https://bch.games/) - dice and numbers game.
 - 🔵 [BCU Guru](https://bch.guru) - A peer to peer price prediction game on Bitcoin Cash
-- 🔵 [DogeCash](https://dogecash.uwu.ai/) - Don't let your dreams be memes
 - [craft.cash](https://craft.cash/) [[code]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf
@@ -269,7 +268,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
-- [Blockchain.com BCH explorer](https://www.blockchain.com/explorer?view=bch) - Established blockchain explorer.
+- [Blockchain.com BCH explorer](https://www.blockchain.com/explorer/assets/bch) - Established blockchain explorer.
 - 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash) [[code]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
   ### Testnet Explorers
   - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
@@ -277,7 +276,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
   - 🔵 [Chipnet (bch.ninja)](https://chipnet.bch.ninja)
   - [Testnet [old]](https://texplorer.bitcoinunlimited.info/), [[mirror]](https://testnet-explorer.electroncash.de/)
 - [Chaingraph](https://chaingraph.cash/) [[code]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
-- [CoinGecko API](https://www.coingecko.com/api/documentation) - Free tier api for price data.
+- [CoinGecko API](https://www.coingecko.com/api/documentation) - API for price data.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
 - [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer.
@@ -573,6 +572,10 @@ The Permissionless Software Foundation is actively maintaining an SLP wallet and
 - [goslp](https://github.com/simpleledgerinc/goslp) - SLP go libraries.
 - [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer.
 - [SLP Icons](https://github.com/kosinusbch/slp-token-icons) - Hosted icons for slp tokens.
+
+## Services
+
+- [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 
 ## SLP Token Projects
 
