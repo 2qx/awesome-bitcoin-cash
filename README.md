@@ -188,6 +188,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Apps (Social)
 
+- [BCHouse](https://bchouse.app/) - BCHouse is a short message media site with tipping and fundraisers.
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
