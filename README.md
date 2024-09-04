@@ -262,9 +262,10 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
 - [Tx Street](https://txcity.io/v/bch-eth) [[code]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
 - [Bitcoin Energy Statistics](https://www.monsterbitar.se/~jonathan/energy/) - A comparison of energy usage for BCH and BTC.
-
+- [ViaBtc](https://viabtc.com) [[tools]](https://www.viabtc.com/tools/broadcast?symbol=BCH) - Via Blockchain, Making the World a Better Place.
+  
 ### Explorers
-- 🔵 [Blockchain Explorer](https://explorer.bch.ninja/) [[code]](https://github.com/sickpig/bch-rpc-explorer) [[mirror: BU]](https://explorer.bitcoinunlimited.info/) [[mirror: electroncash.de]](https://explorer.electroncash.de) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+- 🔵 [Blockchain Explorer](https://explorer.bch.ninja/) [[code]](https://github.com/sickpig/bch-rpc-explorer) [[mirror: electroncash.de]](https://explorer.electroncash.de) - Database-free, self-hosted Bitcoin Cash explorer, via RPC. [[mirror?: BU]](https://explorer.bitcoinunlimited.info/)
 - 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[code]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
 - 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
@@ -289,10 +290,10 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - 🔵 [IPFS-BCH](https://ipfs-bch.pat.mn/) [[code]](https://github.com/mainnet-pat/ipfs-bch.pat.mn) - IPFS file pinning service with on-chain settlement
 - [CashTags](https://tags.infra.cash/) [[code]](https://github.com/developers-cash/cashtags-server) - Service for printable QR Codes (Payment URLs) whose value amounts can be specified in fiat (e.g. USD).
 - [SideShift.ai](https://sideshift.ai/) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
+- 🔵 [Token Burner](https://www.tokenburner.cash/) - Bitcoin Cash Token Burner
 - 🔵 [Token Stork](https://tokenstork.com/) - A CashToken market capitalization explorer.
 - 🔵 [Token Explorer](https://tokenexplorer.cash/) - A Token explorer for CashTokens.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
-- [BCH.gg](https://bch.gg/) - Bitcoin Cash URL Shortener
 
 ## Utilities
 
@@ -492,7 +493,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - 🔵 [Libauth](https://libauth.org/) [[code]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
 - 🔵 [electrum-cash](https://gitlab.com/electrum-cash) [[docs]](https://electrum-cash.gitlab.io/network/) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
-- [flowee-js](https://flowee.org/floweejs/) [[docs]](https://flowee.org/docs/) [[code]](https://codeberg.org/Flowee/js) - Bindings for using Flowee applications and libraries with the NodeJS JavaScript engine.
 - 🔵 [mainnet-js](https://mainnet.cash/) [[code]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
 - [`<qr-code>`](https://github.com/bitjson/qr-code) [[demo]](https://qr.bitjson.com/) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
 
