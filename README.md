@@ -209,7 +209,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ## Crowdfunding
 
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[code]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
-- [Fundme](https://fundme.cash) [[contracts]](https://github.com/SayoshiNakamario/CashStarter) - Non-Custodial crowd funding using BCH smart contracts.
+- [FundMe.Cash](https://fundme.cash) [[contracts]](https://github.com/SayoshiNakamario/CashStarter) - Non-Custodial crowd funding using BCH smart contracts.
 - IPFS Flipstarter [[code]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
 
 ## BCH Native Decentralized Finance
