@@ -224,6 +224,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - 🔵 [Future BCH](https://futurebitcoin.cash) [[code]](https://github.com/2qx/future-bitcoin-cash) - Time-locked BCH CashToken future series.
 - [Unspent](https://unspent.cash) [[code]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  An irrevocable perpetuity app
 - 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[code]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
+- 🔵 [BadgerCoin](https://badgers.cash) [[contracts]](https://github.com/SayoshiNakamario/BadgersStake) [[docs]](https://badgers.cash/FAQ) - A proof-of-ownership memecoin on BitcoinCash.
 - 🔵 [Wrapped Cash](https://wrapped.cash/) [[code]](https://gitlab.com/dagurval/wrapped-cash) - Bitcoin Cash wrapped as a CashToken
 
 
