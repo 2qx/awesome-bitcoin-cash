@@ -21,6 +21,14 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
 
 [![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
 
+## The [CHIP-2021-05 VM Limits: Targeted Virtual Machine Limits](https://github.com/bitjson/bch-vm-limits) for the May 2025 BCH Upgrade is AWESOME!
+
+[dc9edee34c8eae7328ab9bdf941cf593864f0b57](https://github.com/bitjson/bch-vm-limits/commit/dc9edee34c8eae7328ab9bdf941cf593864f0b57)
+
+## The [CHIP-2024-07 BigInt: High-Precision Arithmetic for Bitcoin Cash](https://github.com/bitjson/bch-bigint) for the May 2025 BCH Upgrade is AWESOME!
+
+[e3687289f887c1a81d67fbf822be238d440f4ac7](https://github.com/bitjson/bch-bigint/pull/11/commits/e3687289f887c1a81d67fbf822be238d440f4ac7)
+
 
 # Contents
 
@@ -164,7 +172,6 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 ## Browser
 - 🔵 [Cashonize](https://cashonize.com/) [[code]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens.
 - [PSF wallet](https://wallet.fullstack.cash/) [[code]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - An web wallet with SLP support.
-- 🔵 [Microfi Wallet](https://microfi.eu/wallet/) - Microfi Free Flow Wallet
 - [BCH Merchant PoS](https://pos.cash) [[code]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
 
 ## Paper/Offline Generator
@@ -188,7 +195,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## Apps (Social)
 
-- [BCHouse](https://bchouse.app/) - BCHouse is a short message media site with tipping and fundraisers.
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
@@ -197,10 +203,12 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
 - [Gaze.cash](https://gaze.cash/) - A more lenient pay-per-view video platform.
 - [WhoTipped.it](https://whotipped.it/) - Last tips given on memo.cash
+- [BCHouse](https://bchouse.app/) - BCHouse is a short message media site with tipping and fundraisers.
   
 ## Crowdfunding
 
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[code]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
+- [Fundme](https://fundme.cash) - 
 - IPFS Flipstarter [[code]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
 
 ## BCH Native Decentralized Finance
@@ -328,7 +336,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 - [Namecheap](https://namecheap.com) - dns, ssl and some packaged hosting.
 - [keys4coins](https://www.keys4coins.com/) - Buy PC games and gift cards with cryptocurrency.
-- [alfa.top](https://alfa.top/) - Buy mobile top-up (credit) and internet with cryptocurrency.
 - [Travala](https://www.travala.com) - for your travel needs.
 - [items sold by Newegg](https://kb.newegg.com/knowledge-base/using-bitcoin-on-newegg/) - good for a great headset.
 
@@ -339,7 +346,8 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [Paytaca Map](https://map.paytaca.com/) - Map and directory of Paytaca merchants, vending, & cash-in machines
 - [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino.
 - [Bmap.app](https://bmap.app/) - ₿itcoin places all around the world!
-- [map.usecash](https://map.usecash.com)[[code]](https://github.com/modenero/use-cash) - Use Cash map built by Modenero.
+- [map.usecash](https://map.usecash.com) [[code]](https://github.com/modenero/use-cash) - Use Cash map built by Modenero.
+- [BQuest](https://bquest.cash/) - South Africans can easily spend Bitcoin Cash!
 
 ## Projects dedicated to listing or enabling eCommerce.
 
