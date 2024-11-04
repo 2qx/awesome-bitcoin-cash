@@ -425,7 +425,7 @@ Just some good charities for the world at large.
 - [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle.
 - [WalletConnect](https://github.com/mainnet-pat/wc2-bch-bcr) - WalletConnect 2 implementation for Bitcoin Cash. 
 - [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app.
-- [CashShuffle](https://cashshuffle.com/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
+- [CashShuffle](https://cashshuffle.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
 
 ## Discussion
 
