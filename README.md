@@ -203,13 +203,11 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
 - [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
 - [Gaze.cash](https://gaze.cash/) - A more lenient pay-per-view video platform.
-- [WhoTipped.it](https://whotipped.it/) - Last tips given on memo.cash
-- [BCHouse](https://bchouse.app/) - BCHouse is a short message media site with tipping and fundraisers.
   
 ## Crowdfunding
 
 - [SoftwareVerde/Flipstarter](https://github.com/SoftwareVerde/flipstarter) - The BitcoinVerde flipstarter fork.
-- [FundMe.Cash](https://fundme.cash) [[contracts]](https://github.com/SayoshiNakamario/CashStarter) - A non-Custodial crowd funding using BCH smart contracts.
+- [FundMe.Cash](https://fundme.cash) [[contracts]](https://github.com/SayoshiNakamario/CashStarter) - A non-custodial crowd funding using BCH smart contracts.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[code]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
 - IPFS Flipstarter [[code]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
 - [Flipstarters on Bitcoin Cash](https://flipstarters.bitcoincash.network/#/) - An overview of active and historical flipstarters.
