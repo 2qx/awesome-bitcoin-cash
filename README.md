@@ -19,17 +19,6 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING.md).
 <br/>
 
-[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
-
-## The [CHIP-2021-05 VM Limits: Targeted Virtual Machine Limits](https://github.com/bitjson/bch-vm-limits) for the May 2025 BCH Upgrade is AWESOME!
-
-[dc9edee34c8eae7328ab9bdf941cf593864f0b57](https://github.com/bitjson/bch-vm-limits/commit/dc9edee34c8eae7328ab9bdf941cf593864f0b57)
-
-## The [CHIP-2024-07 BigInt: High-Precision Arithmetic for Bitcoin Cash](https://github.com/bitjson/bch-bigint) for the May 2025 BCH Upgrade is AWESOME!
-
-[e3687289f887c1a81d67fbf822be238d440f4ac7](https://github.com/bitjson/bch-bigint/pull/11/commits/e3687289f887c1a81d67fbf822be238d440f4ac7)
-
-
 # Contents
 
 - [Contents](#contents)
@@ -48,6 +37,8 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Apps (Social)](#apps-social)
   - [Crowdfunding](#crowdfunding)
   - [BCH Native Decentralized Finance](#bch-native-decentralized-finance)
+    - [Trackers](#trackers)
+    - [Dapps](#dapps)
   - [Collectables](#collectables)
   - [Entertainment](#entertainment)
   - [Exchanges](#exchanges)
@@ -62,6 +53,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Utilities](#utilities)
   - [Web](#web)
   - [See Also](#see-also)
+- [💚🤝🧡 Bitcoin Cash × Monero 🧡🤝💚](#-bitcoin-cash--monero-)
 - [Merchants and Services Accepting Bitcoin Cash](#merchants-and-services-accepting-bitcoin-cash)
   - [A Short List](#a-short-list)
   - [Geographic lists](#geographic-lists)
@@ -86,6 +78,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Developer Resources](#developer-resources)
   - [Open-Source Teams Building on Bitcoin Cash](#open-source-teams-building-on-bitcoin-cash)
   - [Simple Payment Verification (SPV)](#simple-payment-verification-spv)
+  - [Mining](#mining)
   - [Libraries \& SDKs](#libraries--sdks)
     - [Language Agnostic](#language-agnostic)
     - [Typescript](#typescript)
@@ -94,9 +87,12 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
     - [Rust](#rust)
     - [Java](#java)
     - [C](#c)
+    - [C#](#c-1)
     - [PHP](#php)
     - [R](#r)
 - [Endorsements](#endorsements)
+  - [The CHIP-2024-07 BigInt: High-Precision Arithmetic for Bitcoin Cash for the May 2025 BCH Upgrade is AWESOME!](#the-chip-2024-07-bigint-high-precision-arithmetic-for-bitcoin-cash-for-the-may-2025-bch-upgrade-is-awesome)
+  - [The CHIP-2021-05 VM Limits: Targeted Virtual Machine Limits for the May 2025 BCH Upgrade is AWESOME!](#the-chip-2021-05-vm-limits-targeted-virtual-machine-limits-for-the-may-2025-bch-upgrade-is-awesome)
   - [The Adaptive Blocksize Limit Algorithm (ebaa) CHIP for the May 2024 BCH Upgrade is AWESOME!](#the-adaptive-blocksize-limit-algorithm-ebaa-chip-for-the-may-2024-bch-upgrade-is-awesome)
   - [The CashTokens and P2SH32 CHIP Proposals for the May 2023 BCH Upgrade are AWESOME!](#the-cashtokens-and-p2sh32-chip-proposals-for-the-may-2023-bch-upgrade-are-awesome)
 - [The Archive](#the-archive)
@@ -176,10 +172,11 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 ## Paper/Offline Generator
 
+- [Stamps](https://stamps.cash/#/) [[code]](https://github.com/harvmaster/CashStamps) - Create reclaimable BCH wallets
 - [Cash Address Generator](https://cashaddress.org/) [[code]](https://github.com/theantnest/bccaddress) - reputable javascript address generator suitable for offline use.
 - [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [[code]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) - A fork of the cashaddress.org paper wallet
 - Keep Bitcoin Free Paper Wallet [[code]](https://github.com/KeepBitcoinFree-org/paper.keepbitcoinfree.org) - A fork of the Bitcoin.com paper wallet
-- [Stamps](https://stamps.cash/#/) [[code]](https://github.com/harvmaster/CashStamps) - Create reclaimable BCH wallets
+
 
 # Podcasts, News, Media
 
@@ -198,6 +195,8 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
+- [BCHouse](https://bchouse.app/) - Social networking and crowdfunding with BitcoinCash
+- [BCHBoard](https://bchboard.deno.dev/) [[nostr]](https://bchboard.npub.pro/) [[tg bot]](https://t.me/BitcoinCashBoardBot) - Post an anonymous message on the Bitcoin Cash Board on Nostr
 - [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
 - [noise.app](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
 - [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
@@ -214,15 +213,20 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ## BCH Native Decentralized Finance
 
-[DefiLlama](https://defillama.com/chain/Bitcoincash) - Statistics for Bitcoin Cash Defi.
+### Trackers
+
+- [DefiLlama](https://defillama.com/chain/Bitcoincash) - Statistics for Bitcoin Cash Defi.
+- [Bitcoin Cash Savers Club](https://futurebitcoin.cash/savers) - Hosted by Future Bitcoin Cash
+
+### Dapps
 
 - [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - Permissionless leverage and hedging using the Anyhedge protocol.
 - 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - Bitcoin Cash Decentralized Exchange.
 - 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens.
 - 🔵 [Future BCH](https://futurebitcoin.cash) [[code]](https://github.com/2qx/future-bitcoin-cash) - Time-locked BCH CashToken future series.
+- 🔵 [BadgerCoin](https://badgers.cash) [[contracts]](https://github.com/SayoshiNakamario/BadgersStake) [[docs]](https://badgers.cash/FAQ) - A proof-of-ownership memecoin on BitcoinCash.
 - [Unspent](https://unspent.cash) [[code]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  An irrevocable perpetuity app
 - 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[code]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
-- 🔵 [BadgerCoin](https://badgers.cash) [[contracts]](https://github.com/SayoshiNakamario/BadgersStake) [[docs]](https://badgers.cash/FAQ) - A proof-of-ownership memecoin on BitcoinCash.
 - 🔵 [Wrapped Cash](https://wrapped.cash/) [[code]](https://gitlab.com/dagurval/wrapped-cash) - Bitcoin Cash wrapped as a CashToken
 
 
@@ -329,6 +333,11 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
 - [Mainnet Cash List](https://mainnet.cash/projects.html) - A list of projects maintained at mainnet.cash
 - [BCHGANG Link Directory](https://bchgang.org) - A directory of links about the cryptocurrency Bitcoin Cash: wallets, merchants, exchanges, tools, references, block explorer, developer guides, tutorials and more.
+
+# 💚🤝🧡 Bitcoin Cash × Monero 🧡🤝💚 
+
+- [BasicSwapdex](https://basicswapdex.com) [[code]](https://github.com/basicswap/basicswap) - Atomic swap DEX with BitcoinCash support
+- [monujo.cash](https://monujo.cash/) - Fork of Cashonize webwallet for Monero.
 
 # Merchants and Services Accepting Bitcoin Cash
 
@@ -446,6 +455,9 @@ Protocol changes, software standards and application specifications may be propo
 - [CHIP-2021-01 Minimum Transaction Size (v0.4)](https://gitlab.com/bitcoin.cash/chips/-/blob/master/CHIP-2021-01-Allow%20Smaller%20Transactions.md)
 - [CHIP-2022-02 CashTokens (v2.2.1)](https://github.com/bitjson/cashtokens/)
 - [CHIP-2022-05 P2SH32 (v1.5.1)](https://gitlab.com/0353F40E/p2sh32/-/blob/main/CHIP-2022-05_Pay-to-Script-Hash-32_(P2SH32)_for_Bitcoin_Cash.md)
+- [Excessive Block-size Adjustment Algorithm (EBAA) for Bitcoin Cash](https://gitlab.com/0353F40E/ebaa/-/blob/main/README.md)
+- [CHIP-2021-05 vm-limits](https://github.com/bitjson/bch-vm-limits)
+- [CHIP-2024-07 BigInt](https://github.com/bitjson/bch-bigint)
 
 Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on the CHIP owner to see the idea through to fruition and build consensus.
 
@@ -467,6 +479,7 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 - 🔵 [Bitcoin Verde](https://bitcoinverde.org/) [[code]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
 - 🔵 [Knuth](https://kth.cash/) [[code]](https://github.com/k-nuth/kth) - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
 - [bchd](https://bchd.cash/) [[code]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - [DEPRECATED] alternative implementation written in Go (golang)
+
 
 ### Developer Resources
 
@@ -491,6 +504,10 @@ There are various groups developing software stacks & apps for the broader ecosy
 - 🔵 [Fulcrum](https://fulcrumserver.org) [[repos]](https://github.com/cculianu/Fulcrum/) - A fast & nimble SPV Server for Bitcoin Cash.
 - 🔵 [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum) - Rostrum is an efficient implementation of Electrum Server written in Rust.
 
+## Mining
+
+[cculianu/asicseer-pool](https://github.com/cculianu/asicseer-pool) - ASICseer Pool: Fast, C-based, multithreaded mining pool software for Bitcoin Cash 
+
 ## Libraries & SDKs
 
 - [Developer tools](https://bch.info/en/developers) - Page devoted to high level developer tools.
@@ -507,6 +524,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 - 🔵 [Libauth](https://libauth.org/) [[code]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
 - 🔵 [electrum-cash](https://gitlab.com/electrum-cash) [[docs]](https://electrum-cash.gitlab.io/network/) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
 - 🔵 [mainnet-js](https://mainnet.cash/) [[code]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
+- [Chaingraph-ts [code]](https://github.com/mr-zwets/chaingraph-ts) - library for working with Chaingraph in a fully type-safe way 
 - [`<qr-code>`](https://github.com/bitjson/qr-code) [[demo]](https://qr.bitjson.com/) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
 
 ### Javascript
@@ -532,6 +550,10 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - [Breadwallet Core](https://github.com/breadwallet/breadwallet-core) - SPV bitcoin C library.
 
+### C#
+
+- [BitcoinCashClient](https://github.com/david-shattuck/BitcoinCashClient) - Simple C# Library for Bitcoin Cash 
+
 ### PHP
 
 - [cashp](https://github.com/Ekliptor/cashp) - Library for BCH.
@@ -543,6 +565,16 @@ There are various groups developing software stacks & apps for the broader ecosy
 # Endorsements
 
 Below is a list of endorsements made in the [Chip Process](#chip-process) in reverse chronological order.
+
+[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
+
+## The [CHIP-2024-07 BigInt: High-Precision Arithmetic for Bitcoin Cash](https://github.com/bitjson/bch-bigint) for the May 2025 BCH Upgrade is AWESOME!
+
+[e3687289f887c1a81d67fbf822be238d440f4ac7](https://github.com/bitjson/bch-bigint/pull/11/commits/e3687289f887c1a81d67fbf822be238d440f4ac7)
+
+## The [CHIP-2021-05 VM Limits: Targeted Virtual Machine Limits](https://github.com/bitjson/bch-vm-limits) for the May 2025 BCH Upgrade is AWESOME!
+
+[dc9edee34c8eae7328ab9bdf941cf593864f0b57](https://github.com/bitjson/bch-vm-limits/commit/dc9edee34c8eae7328ab9bdf941cf593864f0b57)
 
 ## The [Adaptive Blocksize Limit Algorithm (ebaa) CHIP](https://gitlab.com/0353F40E/ebaa) for the May 2024 BCH Upgrade is AWESOME!
 
