@@ -77,7 +77,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Full Nodes](#full-nodes)
     - [Developer Resources](#developer-resources)
   - [Open-Source Teams Building on Bitcoin Cash](#open-source-teams-building-on-bitcoin-cash)
-  - [Simple Payment Verification (SPV)](#simple-payment-verification-spv)
+  - [Simple Payment Verification (SPV) Indexers](#simple-payment-verification-spv-indexers)
   - [Mining](#mining)
   - [Libraries \& SDKs](#libraries--sdks)
     - [Language Agnostic](#language-agnostic)
@@ -473,12 +473,13 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 ## Full Nodes
 
 - 🔵 [BCHN](https://bitcoincashnode.org/) [[code]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [[docs]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
-- 🔵 [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[code]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
-    - [Bitcoin Unlimited Improvement Proposals (BUIPS)](https://www.bitcoinunlimited.info/voting/)
-- 🔵 [Flowee the Hub](https://flowee.org/) [[code]](https://codeberg.org/Flowee/thehub) - a node supporting a suite of software focused on payment integration. C++
 - 🔵 [Bitcoin Verde](https://bitcoinverde.org/) [[code]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
 - 🔵 [Knuth](https://kth.cash/) [[code]](https://github.com/k-nuth/kth) - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
-- [bchd](https://bchd.cash/) [[code]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - [DEPRECATED] alternative implementation written in Go (golang)
+- 🔵 [bchd](https://bchd.cash/) [[code]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - [DEPRECATED] alternative implementation written in Go (golang)
+- 🔵 [Flowee the Hub](https://flowee.org/) [[code]](https://codeberg.org/Flowee/thehub) - a node supporting a suite of software focused on payment integration. C++ 
+- 🔵 [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[code]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
+    - [Bitcoin Unlimited Improvement Proposals (BUIPS)](https://www.bitcoinunlimited.info/voting/)
+
 
 
 ### Developer Resources
@@ -495,14 +496,16 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 - [General Protocols](https://GeneralProtocols.com) [[repos]](https://gitlab.com/GeneralProtocols) - Team researching and developing protocols for non-custodial and trustless networks using BitBox. (Typescript and Javascript)
 - [Electron Cash](https://electroncash.org/) [[repos]](https://github.com/Electron-Cash/) - Team maintaining a desktop SPV wallet with plugins and mobile app (Python)
+- [Riften Labs](https://www.riftenlabs.com/) [[repos]](https://gitlab.com/riftenlabs) - A privately owned protocol research, development, and software company.
 - [Flowee](https://flowee.org) [[repos]](https://codeberg.org/Flowee) - Team maintaining a non-mining full node and services to access the Bitcoin Cash network. (C++, NodeJs et al)
-- [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
 - [Mainnet Cash](https://mainnet.cash/) [[repos]](https://github.com/mainnet-cash/) - Loose-knit team maintaining a shared server-side and client-side library.
+- [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
 
-## Simple Payment Verification (SPV)
+## Simple Payment Verification (SPV) Indexers
 
 - 🔵 [Fulcrum](https://fulcrumserver.org) [[repos]](https://github.com/cculianu/Fulcrum/) - A fast & nimble SPV Server for Bitcoin Cash.
 - 🔵 [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum) - Rostrum is an efficient implementation of Electrum Server written in Rust.
+- 🔵 [bchc](https://github.com/PayButton/bchc)  - A high performance full node & indexer for Bitcoin Cash. 
 
 ## Mining
 
