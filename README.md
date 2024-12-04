@@ -38,7 +38,7 @@ Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING
   - [Crowdfunding](#crowdfunding)
   - [BCH Native Decentralized Finance](#bch-native-decentralized-finance)
     - [Trackers](#trackers)
-    - [Dapps](#dapps)
+    - [Bitcoin Cash Dapps \[a-z\]](#bitcoin-cash-dapps-a-z)
   - [Collectables](#collectables)
   - [Entertainment](#entertainment)
   - [Exchanges](#exchanges)
@@ -218,16 +218,17 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [DefiLlama](https://defillama.com/chain/Bitcoincash) - Statistics for Bitcoin Cash Defi.
 - [Bitcoin Cash Savers Club](https://futurebitcoin.cash/savers) - Hosted by Future Bitcoin Cash
 
-### Dapps
+### Bitcoin Cash Dapps [a-z]
 
-- [BCH Bull](https://bchbull.com/) [[app]](https://app.bchbull.com/) - Permissionless leverage and hedging using the Anyhedge protocol.
+- 🔵 [BadgerCoin](https://badgers.cash) [[code]](https://github.com/SayoshiNakamario/BadgersStake) [[docs]](https://badgers.cash/FAQ) - A proof-of-ownership memecoin on BitcoinCash.
+- [BCH Bull](https://bchbull.com/) [[code]](https://gitlab.com/GeneralProtocols/anyhedge) [[app]](https://app.bchbull.com/) - Permissionless leverage and hedging using the Anyhedge protocol.
 - 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - Bitcoin Cash Decentralized Exchange.
-- 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens.
+- 🔵 [Emerald DAO](https://emerald-dao.cash/) [[code]](https://gitlab.com/0353F40E/emerald-dao/) [[app]](https://emerald-dao.vercel.app/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault. 
 - 🔵 [Future BCH](https://futurebitcoin.cash) [[code]](https://github.com/2qx/future-bitcoin-cash) - Time-locked BCH CashToken future series.
-- 🔵 [BadgerCoin](https://badgers.cash) [[contracts]](https://github.com/SayoshiNakamario/BadgersStake) [[docs]](https://badgers.cash/FAQ) - A proof-of-ownership memecoin on BitcoinCash.
-- 🔵 [Moria Money](https://www.moria.money/) [[docs]](https://docs.riftenlabs.com/moria) [[stats]](https://app.moria.money/stats) - A protocol for oracle-based borrowing against BCH collateral.
+
+- 🔵 [Moria Money](https://www.moria.money/) [[code]](https://gitlab.com/riftenlabs/moria) [[docs]](https://docs.riftenlabs.com/moria) [[stats]](https://app.moria.money/stats) - A protocol for oracle-based borrowing against BCH collateral.
+- 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens. 
 - [Unspent](https://unspent.cash) [[code]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  An irrevocable perpetuity app
-- 🔵 [Emerald DAO](https://emerald-dao.cash/) [[app]](https://emerald-dao.vercel.app/) [[code]](https://gitlab.com/0353F40E/emerald-dao/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault.
 - 🔵 [Wrapped Cash](https://wrapped.cash/) [[code]](https://gitlab.com/dagurval/wrapped-cash) - Bitcoin Cash wrapped as a CashToken
 
 
@@ -258,6 +259,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### More decentralized
 
+- [BasicSwapdex](https://basicswapdex.com) [[code]](https://github.com/basicswap/basicswap) - Atomic swap DEX with BitcoinCash support
 - [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
 - [Komodo Wallet](https://app.komodoplatform.com/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
 
