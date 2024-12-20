@@ -309,7 +309,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [CashTags](https://tags.infra.cash/) [[code]](https://github.com/developers-cash/cashtags-server) - Service for printable QR Codes (Payment URLs) whose value amounts can be specified in fiat (e.g. USD).
 - [SideShift.ai](https://sideshift.ai/) - enables HUMANS and AI to shift between 30+ cryptocurrencies.
 - [NanoGPT](https://nano-gpt.com/) - offers access to top of the line AI models without a subscription.
-- 🔵 [Token Burner](https://www.tokenburner.cash/) - Bitcoin Cash Token Burner
+- 🔵 [Token Burner](https://www.tokenburner.cash/) [[code]](https://gitlab.com/dagurval/contract-burner) - Bitcoin Cash Token Burner
+- 🔵 [Token Stork](https://tokenstork.com/) [[code]](https://github.com/JesusPieceHoly/tokenstork) - A CashToken market capitalization explorer.
 - 🔵 [Token Explorer](https://tokenexplorer.cash/) - A Token explorer for CashTokens.
 - [Chaintip Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties) - BCH bot for github bounties.
 
