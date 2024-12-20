@@ -377,6 +377,7 @@ Just some good charities for the world at large.
 - [Tails](https://tails.boum.org/donate/index.en.html) - The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.
 - [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - **A United Kingdom based charity, founded in 1919**, to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
 - [The Internet Archive](https://blockchair.com/bitcoin-cash/address/1Archive1n2C579dMsAu3iC6tWzuQJz8dN) - 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
+- [Signal](https://signal.org/donate/) - A nonprofit built for you. No ads, no trackers, no surveillance.
 - [Bitpay Charity Directory](https://bitpay.com/directory/nonprofits) A list of charities that accept Bitcoin Cash and other cryptocurrencies.
 
 # eCommerce Merchant Resources
