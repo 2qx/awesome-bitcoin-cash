@@ -469,6 +469,7 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 
 - 🔵 [Cashscript](https://cashscript.org/docs/basics/about/) [[code]](https://github.com/Bitcoin-com/cashscript) [[playground]](https://playground.cashscript.org/) - a solidity-style language that compiles to Bitcoin Cash Script.
 - 🔵 [bitauth ide](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
+- [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
 - [Cashscript VSCode plugin](https://marketplace.visualstudio.com/items?itemName=nathanielcherian.cashscript) [[code]](https://github.com/nathanielCherian/vscode-cashscript) - Visual Studio Code extension for cashscript.
 
@@ -603,7 +604,6 @@ Due to the nature of bitcoin, some stuff is forever...
 ## Bitcoin Script tools
 
 - [spedn](https://spedn.pl/) [[code]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
-- [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 
 ## Simple Ledger Protocol (SLP Token)
 
