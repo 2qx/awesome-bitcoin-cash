@@ -12,12 +12,6 @@ A curated list of Bitcoin Cash projects &amp; resources <br>
 Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-to-peer payment system for the world. 🚀
 
 </div>
-<br/>
-
-📤 [a mobile friendly version](https://awesomebitcoin.cash) of this [project](https://github.com/2qx/awesome-bitcoin-cash) is formatted [from markdown](https://github.com/2qx/awesome-bitcoin-cash/blob/master/README.md) by github pages.
-
-Pull requests are welcome, please see [the contribution guidelines](CONTRIBUTING.md).
-<br/>
 
 # Contents
 
@@ -357,13 +351,13 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 ## Geographic lists
 
+- [Paytaca Map](https://map.paytaca.com/) - Map and directory of Paytaca merchants, vending, & cash-in machines.
 - [OpenStreetMap BCH Tag](https://overpass-turbo.eu/?w=%22currency%3ABCH%22%3D%22yes%22+global&R) - Entries tagged with `currency:BCH=yes` in OSM.
-- [where2cash](https://where2.cash/) - Bitcoin Cash Map using OpenStreeMap data.
-- [Paytaca Map](https://map.paytaca.com/) - Map and directory of Paytaca merchants, vending, & cash-in machines
+- [BQuest](https://bquest.cash/) - South Africans can easily spend Bitcoin Cash!
 - [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino.
 - [Bmap.app](https://bmap.app/) - ₿itcoin places all around the world!
 - [map.usecash](https://map.usecash.com) [[code]](https://github.com/modenero/use-cash) - Use Cash map built by Modenero.
-- [BQuest](https://bquest.cash/) - South Africans can easily spend Bitcoin Cash!
+
 
 ## Projects dedicated to listing or enabling eCommerce.
 
@@ -427,11 +421,10 @@ Just some good charities for the world at large.
 - 🔵 [Bitcoin Cash Metadata Registries (BCMR)](https://cashtokens.org/docs/bcmr/chip/) [[code]](https://github.com/bitjson/chip-bcmr) - A standard for sharing authenticated metadata between Bitcoin Cash wallets.
 - [Cashaddr](https://upgradespecs.bitcoincashnode.org/cashaddr/) - Format for Bitcoin Cash addresses.
 - [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses.
-- CashFusion(https://cashfusion.org) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
+- [CashFusion](https://cashfusion.org) [[spec]](https://github.com/cashshuffle/spec/blob/master/CASHFUSION.md) - a privacy protocol for privately and trustlessly joining coin amounts.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
 - 🔵 [CashTokens](https://cashtokens.org/) [[code]](https://github.com/cashtokens/cashtokens.org) - Specification for CashTokens.
 - [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [[code]](https://github.com/cculianu/electrum-cash-protocol) - ElectrumX Protocol for [fulcrum](https://fulcrumserver.org) (UTXO indexer/SPV service).
-- [Electrum Cash Protocol](https://bitcoincash.network/electrum/) [[code]](https://github.com/dagurval/electrum-cash-protocol) - Protocol for SPV clients and servers.
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
 - [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle.
 - [WalletConnect](https://github.com/mainnet-pat/wc2-bch-bcr) - WalletConnect 2 implementation for Bitcoin Cash.
