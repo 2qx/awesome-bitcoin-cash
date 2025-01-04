@@ -4,15 +4,16 @@
 <br/>
 <div align="center">
 A curated list of Bitcoin Cash projects &amp; resources <br>
-<a href="https://awesome.re">
-  <img src="https://awesome.re/badge.svg" alt="awesome" style="height:12px;border:10;">
-</a>
+
 <link rel="manifest" href="/assets/favicon/site.webmanifest">
 <br />
 Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-to-peer payment system for the world. 🚀
 
 </div>
+<br>
 
+[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
+ <img src="https://awesome.re/badge.svg" alt="awesome" style="height:20px;border:10;">
 # Contents
 
 - [Contents](#contents)
@@ -567,8 +568,6 @@ There are various groups developing software stacks & apps for the broader ecosy
 # Endorsements
 
 Below is a list of endorsements made in the [Chip Process](#chip-process) in reverse chronological order.
-
-[![Check Links](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml/badge.svg)](https://github.com/2qx/awesome-bitcoin-cash/actions/workflows/links.yml)
 
 ## The [CHIP-2024-07 BigInt: High-Precision Arithmetic for Bitcoin Cash](https://github.com/bitjson/bch-bigint) for the May 2025 BCH Upgrade is AWESOME!
 
