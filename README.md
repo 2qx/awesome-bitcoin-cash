@@ -210,6 +210,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ### Trackers
 
 - [DefiLlama](https://defillama.com/chain/Bitcoincash) - Statistics for Bitcoin Cash Defi.
+- [Tokenaut.cash](https://tokenaut.cash/) - Navigating the projects in the CashTokens space
 - [Bitcoin Cash Savers Club](https://futurebitcoin.cash/savers) - Hosted by Future Bitcoin Cash
 
 ### Bitcoin Cash Dapps [a-z]
@@ -255,7 +256,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 - [BasicSwapdex](https://basicswapdex.com) [[code]](https://github.com/basicswap/basicswap) - Atomic swap DEX with BitcoinCash support
 - [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
-- [Komodo Wallet](https://app.komodoplatform.com/) - Decentralized exchange with desktop clients supporting BCH and many UTXO coins, ETH, ERC-20 tokens
 
 ## Oracles
 
@@ -325,6 +325,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 These are other projects dedicated to listing projects in the Bitcoin Cash ecosystem:
 
 - [HelpMe Cash](https://helpme.cash/) - A collection of links to things related to the cryptocurrency Bitcoin Cash
+- [minisatoshi.cash](https://minisatoshi.cash/) [[code]](https://github.com/minisat0shi/minisatoshi.cash) -  It's up to us.
 - [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
 - [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
