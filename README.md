@@ -479,26 +479,28 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 Below is a list of projects using CashScript and/or BitcoinScript.
 
 [CashScript](https://cashscript.org) is a "transpiler" for [BitcoinScript](https://reference.cash/protocol/blockchain/script). Developers can write CashScript and then use [`cashc`](https://www.npmjs.com/package/cashc) to transform it into the BitcoinScript language Satoshi developed.
-
-|CTs| Project| Contract | Author |  Description |
-|-|-|-|-|:--| 
-|| [AnyHedge](https://anyhedge.com/) | [.cash](https://gitlab.com/GeneralProtocols/anyhedge/contracts) |  [General Protocols](https://generalprotocols.com/)|  a protocol for protocol for setteling oracle-based swaps against BCH collateral  
-|🔵| [AuthGuard](https://cashtokens.studio/) |  [.cash](https://github.com/mr-zwets/AuthGuard) [announcement](https://bitcoincashresearch.org/t/a-simple-token-burner-contract/1312/) |  [Mathieu Geukens](https://github.com/mr-zwets/) | A standard for authchain management which makes updating the authchain more secure and convenient. 
-|🔵|  [BadgersStake](https://badgers.cash)  |  [.cash](https://github.com/SayoshiNakamario/BadgersStake) | [Sayoshi Nakamario](https://github.com/SayoshiNakamario/) | A decentralized staking contract for BitcoinCash.
-|🔵|  [CashNinjas](https://ninjas.cash/) | [.cash](https://github.com/cashninjas/minting-contract/blob/main/contract/mint.cash) |  [Mathieu Geukens](https://github.com/mr-zwets/) |  Multi-threaded NFT minting contract  
-|🔵| [CashStarter](https://fundme.cash) |   [.cash](https://github.com/SayoshiNakamario/CashStarter) |[Sayoshi Nakamario](https://github.com/SayoshiNakamario/)|  A decentralized crowdfunding system built on BitcoinCash.
-|🔵| CatDex | [announcement, .cash](https://bitcoincashresearch.org/t/catdex-a-token-category-authorized-decentralized-exchange/1480/3) | [2qx](https://github.com/2qx) |  A dex geared toward stable assets.
-| | [Drip Mine](https://gitlab.com/0353F40E/drip-mine) | [.cash](https://gitlab.com/0353F40E/drip-mine) [app](https://unspent.app/documentation#drip-mine) |  [Bitcoin Cash Autist](https://gitlab.com/0353F40E/)  |  a pure MEV faucet where miners could call the contract to make extra money in each block
-|🔵| [Emerald DAO](https://emerald-dao.cash/) | [.cash](https://gitlab.com/0353F40E/emerald-dao/-/tree/main/contracts/v2-1-0)  [code](https://github.com/mainnet-pat/emerald_dao) | [BCA](https://gitlab.com/0353F40E/) with help from [mainnet-pat](https://github.com/mainnet-pat/) | [CLOSED FUND] A fixed-term deposit savings vault using NFTs with crowdfunded rewards.
-|🔵| [Future Bitcoin Cash](https://futurebitcoin.cash) | [.cash](https://futurebitcoin.cash/contracts) |  [2qx](https://github.com/2qx) and [audited](https://futurebitcoin.cash/audit) by [BCA](https://gitlab.com/0353F40E/) |  Timelocked Bitcoin Cash Futures with incentives.
-|| [HODL EC Plugin](https://github.com/mainnet-pat/hodl_ec_plugin) |  [contract](https://github.com/mainnet-pat/hodl_ec_plugin?tab=readme-ov-file#contract-details) | [mainnet-pat](https://github.com/mainnet-pat/) |smart contract plugin for Electron Cash to timelock the funds.
-|🔵| [Moria](https://www.moria.money/) |  [whitepaper, .cash](https://www.moria.money/_files/ugd/ae85be_3a372c0240c547c3b4ad64f7139a3284.pdf) | [RiftenLabs](https://www.riftenlabs.com/) |  a protocol for oracle-based borrowing against BCH collateral
-|🔵| Small Index  | [announcement, .cash](https://bitcoincashresearch.org/t/a-small-key-value-index-contract/1471)  | [2qx](https://github.com/2qx) | a pay-per-use highly distributed key-store index service.
-|🔵| [TokenBurner](https://www.tokenburner.cash/) | [announcement](https://bitcoincashresearch.org/t/a-simple-token-burner-contract/1312/) [code](https://gitlab.com/dagurval/contract-burner) |  [DagurVal](https://gitlab.com/dagurval/) |   Tool for burning tokens on Bitcoin Cash
-|| [Unspent Phi](https://unspent.app) | [.cash]((https://unspent.app/documentation))  [src](https://github.com/2qx/unspent) | [2qx](https://github.com/2qx)|  Seven simple anyone-can-spend contracts.
-|🔵| [Wrapped Bitcoin Cash](https://wrapped.cash/) | [src](https://gitlab.com/dagurval/wrapped-cash) [announcement](https://bitcoincashresearch.org/t/wbch-bch-wrapped-as-cash-token/1196) |  [DagurVal](https://gitlab.com/dagurval/) | Bitcoin Cash wrapped as a CashToken
+|      |   |
+|---|:--| 
+| **[AnyHedge](https://anyhedge.com/)** <br>[General Protocols](https://generalprotocols.com/)<br> [.cash](https://gitlab.com/GeneralProtocols/anyhedge/contracts) |  a protocol for protocol for setteling oracle-based swaps against BCH collateral  
+| **[AuthGuard](https://cashtokens.studio/)** <br> [Mathieu Geukens](https://github.com/mr-zwets/) <br>🔵   [.cash](https://github.com/mr-zwets/AuthGuard) [announcement](https://bitcoincashresearch.org/t/a-simple-token-burner-contract/1312/)  | A standard for authchain management which makes updating the authchain more secure and convenient. 
+| **[BadgersStake](https://badgers.cash)** <br>[Sayoshi Nakamario](https://github.com/SayoshiNakamario/) <br>🔵  [.cash](https://github.com/SayoshiNakamario/BadgersStake)  | A decentralized staking contract for BitcoinCash.
+|  **[CashNinjas](https://ninjas.cash/)** <br> [Mathieu Geukens](https://github.com/mr-zwets/) <br>🔵 [.cash](https://github.com/cashninjas/minting-contract/blob/main/contract/mint.cash)  |  Multi-threaded NFT minting contract  
+| **[CashStarter](https://fundme.cash)** <br> [Sayoshi Nakamario](https://github.com/SayoshiNakamario/) <br> 🔵   [.cash](https://github.com/SayoshiNakamario/CashStarter) |  A decentralized crowdfunding system built on BitcoinCash.
+| **CatDex** <br>[2qx](https://github.com/2qx)  <br> 🔵  [announcement, .cash](https://bitcoincashresearch.org/t/catdex-a-token-category-authorized-decentralized-exchange/1480/3) |  A dex geared toward stable assets.
+|  **[Drip Mine](https://gitlab.com/0353F40E/drip-mine)** <br> [Bitcoin Cash Autist](https://gitlab.com/0353F40E/)  <br>  [.cash,](https://gitlab.com/0353F40E/drip-mine) [unspent](https://unspent.app/contract?opReturn=6a047574786f0124010223aa20a1c3a6a95ce1c4726221dc3e5f9d231611176b39f3c731cb0d24c650ee9b4b4c87&network=chipnet)  |  a pure MEV faucet where miners could call the contract to make extra money in each block
+| **[Emerald DAO](https://emerald-dao.cash/)** <br> [BCA](https://gitlab.com/0353F40E/) with help from [mainnet-pat](https://github.com/mainnet-pat/)  <br>  🔵  [.cash](https://gitlab.com/0353F40E/emerald-dao/-/tree/main/contracts/v2-1-0),  [code](https://github.com/mainnet-pat/emerald_dao) | [CLOSED FUND] A fixed-term deposit savings vault using NFTs with crowdfunded rewards.
+| **[Future Bitcoin Cash](https://futurebitcoin.cash)** <br> [2qx](https://github.com/2qx) and [audited](https://futurebitcoin.cash/audit) by [BCA](https://gitlab.com/0353F40E/) <br>  🔵 [.cash](https://futurebitcoin.cash/contracts)  |  Timelocked Bitcoin Cash Futures with incentives.
+| **[HODL Plugin](https://github.com/mainnet-pat/hodl_ec_plugin)** <br> [mainnet-pat](https://github.com/mainnet-pat/) <br>  [~.cash, BitcoinScript](https://github.com/mainnet-pat/hodl_ec_plugin?tab=readme-ov-file#contract-details)  | plugin for Electron Cash to timelock the funds.
+| **[Moria](https://www.moria.money/)**  <br> [RiftenLabs](https://www.riftenlabs.com/) <br>  🔵   [whitepaper, .cash](https://www.moria.money/_files/ugd/ae85be_3a372c0240c547c3b4ad64f7139a3284.pdf)  |  a protocol for oracle-based borrowing against BCH collateral
+| **Small Index** <br> [2qx](https://github.com/2qx) <br>  🔵  [announcement, .cash](https://bitcoincashresearch.org/t/a-small-key-value-index-contract/1471)   | a pay-per-use highly distributed key-store index service.
+| **[TokenBurner](https://www.tokenburner.cash/)**  <br> [DagurVal](https://gitlab.com/dagurval/)  <br>  🔵  [announcement, .cash](https://bitcoincashresearch.org/t/a-simple-token-burner-contract/1312/) [code](https://gitlab.com/dagurval/contract-burner)  |   Tool for burning tokens on Bitcoin Cash
+| **[Unspent Phi](https://unspent.app)** <br> [2qx](https://github.com/2qx) <br>   [.cash]((https://unspent.app/documentation))  [src](https://github.com/2qx/unspent) |  Seven simple anyone-can-spend contracts.
+| **[Wrapped Bitcoin Cash](https://wrapped.cash/)** <br> [DagurVal](https://gitlab.com/dagurval/) <br>  🔵  [src](https://gitlab.com/dagurval/wrapped-cash) [announcement, .cash](https://bitcoincashresearch.org/t/wbch-bch-wrapped-as-cash-token/1196)  | Bitcoin Cash wrapped as a CashToken
 
 ### See Also:
+
+- [BADGERS_0: Bitcoin Application Developer Guidelines - Environmental Risks & Survival](https://bitcoincashresearch.org/t/bitcoin-application-developer-guidelines-environmental-risks-survival/1470)
+
 
 - [Contract tag](https://bitcoincashresearch.org/tag/contracts) on BitcoinCashResearch.org
 
@@ -506,7 +508,6 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 - [Examples in documentation](https://cashscript.org/docs/language/examples) and [examples in the CashScript github](https://github.com/CashScript/cashscript/tree/master/examples). 
 
-There is an [on-boarding manual to help CashScript and solo dapp developers survive longer in the space and perform better as a group](https://bitcoincashresearch.org/t/bitcoin-application-developer-guidelines-environmental-risks-survival/1470)
 
 # Software
 
