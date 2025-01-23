@@ -70,7 +70,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
   - [Script](#script)
     - [Tooling](#tooling)
     - [Bitcoin Script DeFi Projects](#bitcoin-script-defi-projects)
-    - [See Also:](#see-also-1)
+    - [See Also](#see-also-1)
 - [Software](#software)
   - [Full Nodes](#full-nodes)
     - [Developer Resources](#developer-resources)
@@ -499,7 +499,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 | **[Wrapped Bitcoin Cash](https://wrapped.cash/)** <br> [DagurVal](https://gitlab.com/dagurval/) <br>  🔵  [src](https://gitlab.com/dagurval/wrapped-cash) [announcement, .cash](https://bitcoincashresearch.org/t/wbch-bch-wrapped-as-cash-token/1196)                                                                                | Bitcoin Cash wrapped as a CashToken                                                                |
 
 
-### See Also:
+### See Also
 
 - [BADGERS_0: Bitcoin Application Developer Guidelines - Environmental Risks & Survival](https://bitcoincashresearch.org/t/bitcoin-application-developer-guidelines-environmental-risks-survival/1470)
 
