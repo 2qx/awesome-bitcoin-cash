@@ -197,7 +197,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [BCHBoard](https://bchboard.deno.dev/) [[nostr]](https://bchboard.npub.pro/) [[tg bot]](https://t.me/BitcoinCashBoardBot) - Post an anonymous message on the Bitcoin Cash Board on Nostr
 - [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
 - [noise.app](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
-- [OnlyCoins](https://onlycoins.com/) - Adult content monetization platform.
 - [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
 - [Gaze.cash](https://gaze.cash/) - A more lenient pay-per-view video platform.
 
@@ -289,10 +288,11 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer/assets/bch) - Established blockchain explorer.
 - 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash) [[code]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
   ### Testnet Explorers
-  - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
+  - 🔵 [Chipnet (loping.net)](https://cbch.loping.net)
   - 🔵 [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
   - 🔵 [Chipnet (bch.ninja)](https://chipnet.bch.ninja)
-
+  - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
+  
 - [Chaingraph](https://chaingraph.cash/) [[code]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [CoinGecko API](https://www.coingecko.com/api/documentation) - API for price data.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
