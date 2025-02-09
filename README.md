@@ -98,7 +98,6 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
   - [Simple Ledger Protocol (SLP Token)](#simple-ledger-protocol-slp-token)
     - [Protocols](#protocols)
     - [Libraries](#libraries)
-  - [Services](#services-1)
   - [SLP Token Projects](#slp-token-projects)
 
 # Getting Started
@@ -374,7 +373,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 Just some good charities for the world at large.
 
 - [Tails](https://tails.boum.org/donate/index.en.html) - The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.
-- [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - **A United Kingdom based charity, founded in 1919**, to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
+- [Save the Children](https://files.savethechildren.org/cryptocurrency-donation/) - A United Kingdom based charity, founded in 1919, to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
 - [The Internet Archive](https://blockchair.com/bitcoin-cash/address/1Archive1n2C579dMsAu3iC6tWzuQJz8dN) - 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
 - [Signal](https://signal.org/donate/) - A nonprofit built for you. No ads, no trackers, no surveillance.
 - [Bitpay Charity Directory](https://bitpay.com/directory/nonprofits) A list of charities that accept Bitcoin Cash and other cryptocurrencies.
@@ -495,7 +494,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 | **[Moria](https://www.moria.money/)**                            | a protocol for oracle-based borrowing against BCH collateral  <br> [RiftenLabs](https://www.riftenlabs.com/) <br>  🔵   [whitepaper, .cash](https://www.moria.money/_files/ugd/ae85be_3a372c0240c547c3b4ad64f7139a3284.pdf)                                                                                                                                             |
 | **Small Index**                                                  | a pay-per-use highly distributed key-store index service. <br> [2qx](https://github.com/2qx) <br>  🔵  [announcement, .cash](https://bitcoincashresearch.org/t/a-small-key-value-index-contract/1471)                                                                                                                                                                   |
 | **[TokenBurner](https://www.tokenburner.cash/)**                 | Tool for burning tokens on Bitcoin Cash <br> [DagurVal](https://gitlab.com/dagurval/)  <br>  🔵  [announcement, .cash](https://bitcoincashresearch.org/t/a-simple-token-burner-contract/1312/) [code](https://gitlab.com/dagurval/contract-burner)                                                                                                                      |
-| **[Unspent Phi](https://unspent.app)**                           | Seven simple anyone-can-spend contracts. <br> [2qx](https://github.com/2qx) <br>   [.cash]((https://unspent.app/documentation))  [src](https://github.com/2qx/unspent)                                                                                                                                                                                                 |
+| **[Unspent Phi](https://unspent.app)**                           | Seven simple anyone-can-spend contracts. <br> [2qx](https://github.com/2qx) <br>   [.cash](https://unspent.app/documentation)  [src](https://github.com/2qx/unspent)                                                                                                                                                                                                 |
 | **[Wrapped Bitcoin Cash](https://wrapped.cash/)**                | Bitcoin Cash wrapped as a CashToken  <br> [DagurVal](https://gitlab.com/dagurval/) <br>  🔵  [src](https://gitlab.com/dagurval/wrapped-cash) [announcement, .cash](https://bitcoincashresearch.org/t/wbch-bch-wrapped-as-cash-token/1196)                                                                                                                               |
 
 
@@ -662,9 +661,6 @@ The Permissionless Software Foundation is actively maintaining an SLP wallet and
 - [SLP Indexer](https://github.com/Bitcoin-com/slp-indexer) - bitcoin.com indexer.
 - [SLP Icons](https://github.com/kosinusbch/slp-token-icons) - Hosted icons for slp tokens.
 
-## Services
-
-- [BCH Gifts](https://gifts.bitcoin.com/) - generate reclaimable preloaded paper private keys as gifts.
 
 ## SLP Token Projects
 
