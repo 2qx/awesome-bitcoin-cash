@@ -142,11 +142,13 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Stack Wallet](https://stackwallet.com/) [[code]](https://github.com/cypherstack/stack_wallet) - Multicoin wallet with UTXO (coin) control.
 - [Cake Wallet](https://cakewallet.com/) [[code]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
 - 🔵 [zapit](https://zapit.io/#/)* - A native, non-custodial Bitcoin Cash wallet for iOS and Android. *Not open source
+- [Coin Wallet](https://coin.space/) [[code]](https://github.com/CoinSpace/CoinSpace) - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
 
 ## Desktop
 - 🔵 [Electron Cash CashToken](https://electroncash.org) [[release]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) [[code]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
 - [Flowee Pay](https://flowee.org/products/pay/) [[code]](https://codeberg.org/flowee/pay) - A payment solution, a wallet, a basis for your new product. But currently just a desktop wallet.
 - 🔵 [Cashonize (quasar)](https://github.com/cashonize/cashonize-quasar/releases/tag/v0.0.2) [[code]](https://github.com/cashonize/cashonize-quasar) - Cashonize rewrite with Quasar & Vue-js
+- [Coin Wallet](https://coin.space/) [[code]](https://github.com/CoinSpace/CoinSpace) - A self-custodial multicurrency wallet for multiple platforms (Windows, macOS and Linux).
 
 ### Electron-Cash Plugins
 
@@ -166,6 +168,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - 🔵 [Cashonize](https://cashonize.com/) [[code]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens.
 - [PSF wallet](https://wallet.fullstack.cash/) [[code]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - An web wallet with SLP support.
 - [BCH Merchant PoS](https://pos.cash) [[code]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
+- [Coin Wallet](https://coin.space/) [[code]](https://github.com/CoinSpace/CoinSpace) - A self-custodial multicurrency wallet for multiple platforms (Web and Tor).
 
 ## Paper/Offline Generator
 
