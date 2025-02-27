@@ -1,17 +1,33 @@
 {
-    "name": "Awesome Bitcoin Cash",
-    "short_name": "🟢🚀",
-    "description": "BCH projects and resources",
-    "scope": "/",
-    "start_url": "/",
-    "background_color": "#8dc351",
-    "theme_color": "#8dc351",
-    "display": "standalone", 
-    "icons": [
-        {
-          "src": "/assets/awesome-bitcoin-cash.png",
-          "type": "image/png",
-          "sizes": "820x820"
-        }
-    ]
-  }
+  "name": "Awesome",
+  "short_name": "🟢🚀",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "48x48",
+      "src": "/assets/maskable_icon_x48.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "128x128",
+      "src": "/assets/maskable_icon_x128.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "192x192",
+      "src": "/assets/maskable_icon_x192.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/assets/maskable_icon_x512.png",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}

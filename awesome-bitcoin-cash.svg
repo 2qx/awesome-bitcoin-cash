@@ -5,34 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    viewBox="0 0 788 788"
    data-name="Layer 1"
-   id="Layer_1"
-   sodipodi:docname="awesome-bitcoin-cash.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1715"
-     inkscape:window-height="849"
-     id="namedview39"
-     showgrid="false"
-     inkscape:zoom="0.84709239"
-     inkscape:cx="464.94357"
-     inkscape:cy="445.28331"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g30-5" />
+   id="Layer_1">
   <metadata
      id="metadata23">
     <rdf:RDF>

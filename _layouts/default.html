@@ -7,15 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <!-- insert favicons. use https://realfavicongenerator.net/ -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png?v=1">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png?v=1">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png?v=1">
-    <link rel="manifest" href="/assets/site.webmanifest">
-    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg?v=1" color="#5bbad5">
-    <link rel="shortcut icon" href="/assets/favicon/favicon.ico?v=1">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+
+    <link rel="icon" type="image/png" href="/assets/maskable-icon_x128.png" sizes="128x128" />
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="shortcut icon" href="/assets/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/assets/maskable_icon_x192.png" />
+    <meta name="apple-mobile-web-app-title" content="Awesome" />
+    <link rel="manifest" href="/assets/site.webmanifest" />
 
     <!-- service Worker Logic -->
     <script type="text/javascript" src="/sw.js"></script>
