@@ -286,11 +286,14 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ### Explorers
 
 #### RPC Explorer
+
 - 🔵 RPC Explorer [[code]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+ 
   ##### Mainnet:
   - 🔵 [mirror: bch.loping.net](https://bch.loping.net/)
   - 🔵 [mirror: explorer.bch.ninja](https://explorer.bch.ninja/)
   - 🔵 [mirror: electroncash.de](https://explorer.electroncash.de)
+  - 
    ##### Chipnet (testnet):
   - 🔵 [mirror: (loping.net)](https://cbch.loping.net)
   - 🔵 [mirror: (chaingraph)](https://chipnet.chaingraph.cash)
