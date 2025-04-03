@@ -43,7 +43,9 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
   - [Faucets](#faucets)
   - [Network](#network)
     - [Explorers](#explorers)
-    - [Testnet Explorers](#testnet-explorers)
+      - [RPC Explorer](#rpc-explorer)
+        - [Mainnet:](#mainnet)
+        - [Chipnet (testnet):](#chipnet-testnet)
   - [Services](#services)
   - [Utilities](#utilities)
   - [Web](#web)
@@ -282,18 +284,26 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [ViaBtc](https://viabtc.com) [[tools]](https://www.viabtc.com/tools/broadcast?symbol=BCH) - Via Blockchain, Making the World a Better Place.
 
 ### Explorers
-- 🔵 [Blockchain Explorer](https://explorer.bch.ninja/) [[code]](https://github.com/sickpig/bch-rpc-explorer) [[mirror:loping.net]](https://bch.loping.net/) [[mirror: electroncash.de]](https://explorer.electroncash.de) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+
+#### RPC Explorer
+- 🔵 RPC Explorer [[code]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
+  ##### Mainnet:
+  - 🔵 [mirror: bch.loping.net](https://bch.loping.net/)
+  - 🔵 [mirror: explorer.bch.ninja](https://explorer.bch.ninja/)
+  - 🔵 [mirror: electroncash.de](https://explorer.electroncash.de)
+   ##### Chipnet (testnet):
+  - 🔵 [mirror: (loping.net)](https://cbch.loping.net)
+  - 🔵 [mirror: (chaingraph)](https://chipnet.chaingraph.cash)
+  - 🔵 [mirror: (bch.ninja)](https://chipnet.bch.ninja)
+  - 🔵 [mirror: (im_uname)](https://chipnet.imaginary.cash)
+  
 - 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[code]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
 - 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer/assets/bch) - Established blockchain explorer.
 - 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash) [[code]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
-  ### Testnet Explorers
-  - 🔵 [Chipnet (loping.net)](https://cbch.loping.net)
-  - 🔵 [Chipnet (chaingraph)](https://chipnet.chaingraph.cash)
-  - 🔵 [Chipnet (bch.ninja)](https://chipnet.bch.ninja)
-  - 🔵 [Chipnet (im_uname)](https://chipnet.imaginary.cash)
+
   
 - [Chaingraph](https://chaingraph.cash/) [[code]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [CoinGecko API](https://www.coingecko.com/api/documentation) - API for price data.
