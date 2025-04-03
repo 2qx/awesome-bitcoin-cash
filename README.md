@@ -196,7 +196,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
 - [BCHouse](https://bchouse.app/) - Social networking and crowdfunding with BitcoinCash
-- [BCHBoard](https://bchboard.deno.dev/) [[nostr]](https://bchboard.npub.pro/) [[tg bot]](https://t.me/BitcoinCashBoardBot) - Post an anonymous message on the Bitcoin Cash Board on Nostr
+- BCHBoard [[nostr]](https://bchboard.npub.pro/) [[tg bot]](https://t.me/BitcoinCashBoardBot) - Post an anonymous message on the Bitcoin Cash Board on Nostr
 - [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
 - [noise.app](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
 - [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
@@ -316,7 +316,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Utilities
 
-- [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
 - 🔵 [Bitauth IDE](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[walk-thru]](https://www.youtube.com/watch?v=o-igo-adS8E) - An online IDE for developing Bitcoin Cash contracts.
 - 🔵 [CashTokens Studio](https://cashtokens.studio/) -  CashToken and Authkey creation tool ([chipnet](https://chipnet.cashtokens.studio/))
 - [Bitcoin.com Tools](https://tools.bitcoin.com/) - A mix of Bitcoin utilities.
@@ -409,7 +408,6 @@ Just some good charities for the world at large.
 
 ## General
 
-- [developers.cash](https://developers.cash/) - many useful resources
 - [Permissionless Software Foundation Videos](https://psfoundation.cash/video/)
 - [Electron Cash Wiki](https://wiki.electroncash.de/wiki/Main_Page)
 
@@ -557,7 +555,7 @@ There are various groups developing software stacks & apps for the broader ecosy
 
 ## Mining
 
-[cculianu/asicseer-pool](https://github.com/cculianu/asicseer-pool) - ASICseer Pool: Fast, C-based, multithreaded mining pool software for Bitcoin Cash
+- [cculianu/asicseer-pool](https://github.com/cculianu/asicseer-pool) - ASICseer Pool: Fast, C-based, multithreaded mining pool software for Bitcoin Cash
 
 ## Libraries & SDKs
 
@@ -641,6 +639,7 @@ Below is a list of endorsements made in the [Chip Process](#chip-process) in rev
 
 Due to the nature of bitcoin, some stuff is forever...
 
+- [CashAccount](https://www.cashaccount.info/) - Online utility for cashaccounts (address handles).
 - [chaintip](https://www.chaintip.org) - An on-chain non-custodial tipping bot for reddit/twitter & github. [DEPRECATED due to reddit API access changes]
 
 ## Bitcoin Script tools
