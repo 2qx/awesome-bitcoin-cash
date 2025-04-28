@@ -17,7 +17,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 # Contents
 
 + [Getting Started](#getting-started)
-+ [Whitepaper](#whitepaper)
++ [Bitcoin Whitepaper](#bitcoin-whitepaper)
 + [Open-Source Wallets](#open-source-wallets)
 + [Podcasts, News, Media](#podcasts-news-media)
 + [Projects Built on Bitcoin Cash](#projects-built-on-bitcoin-cash)
@@ -49,7 +49,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 - [Why Cryptocurrencies?](https://whycryptocurrencies.com/toc.html) [[code]](https://github.com/treeman/why_cryptocurrencies) - An explanation on why cryptocurrencies were created, what they do differently and why they matter.
 
 
-## Whitepaper
+## Bitcoin Whitepaper
 
 "Bitcoin: A Peer-to-Peer Electronic Cash System" by Satoshi Nakamoto.
 
