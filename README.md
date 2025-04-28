@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1400px" alt="awesome bitcoin cash" src="./awesome-bitcoin-cash.dark.svg">
+  <img width="400px" alt="awesome bitcoin cash" src="./awesome-bitcoin-cash.dark.svg">
 </div>
 <br/>
 <div align="center">
