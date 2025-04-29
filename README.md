@@ -43,6 +43,7 @@ Bitcoin Cash (BCH) is a project to scale bitcoin on-chain as an electronic peer-
 
 - [BCH Info](https://bch.info/) - Multilingual site for general information about bitcoin cash.
 - [BCHFAQ.com](https://bchfaq.com/) [[code]](https://github.com/fixthetracking/Bitcoin-Cash-FAQ) - Learn the fundamentals of Bitcoin Cash by getting simple answers to your basic questions.
+- [WhatIsBitcoin.Cash](https://whatisbitcoin.cash) [[src]](https://github.com/minisat0shi/minisatoshi.cash) - Discover Bitcoin Cash (BCH): a fast, low-cost, decentralized cryptocurrency designed for everyone. Join the freedom revolution!
 - [Why Bitcoin Cash?](https://whybitcoincash.com/) [[archive]](https://web.archive.org/web/20230228125654/https://whybitcoincash.com/) - The revolution will not be censored.
 - [bitcoincash.org](https://bitcoincash.org) - A general multi-lingual introduction.
 - [Bitcoin.com Getting Started](https://www.bitcoin.com/get-started/) - Comprehensive introduction for general audiences.
@@ -273,7 +274,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 These are other projects dedicated to listing projects in the Bitcoin Cash ecosystem:
 
 - [HelpMe Cash](https://helpme.cash/) - A collection of links to things related to the cryptocurrency Bitcoin Cash
-- [minisatoshi.cash](https://minisatoshi.cash/) [[code]](https://github.com/minisat0shi/minisatoshi.cash) -  It's up to us.
+- [minisatoshi.cash](https://minisatoshi.cash/ecosystem) [[code]](https://github.com/minisat0shi/minisatoshi.cash) -  Extensive BCH project list with category filters and searching functionality.
 - [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
 - [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
@@ -361,6 +362,7 @@ Just some good charities for the world at large.
 - [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [[code]](https://github.com/SoftwareVerde/bitcoin-cash-specification) - maintained by Software Verde.
 - [reference.cash](https://reference.cash) - protocol documentation
 - [Upgrade specs](https://upgradespecs.bitcoincashnode.org/) - Bitcoin Cash upgrade specifications as implemented by BCHN.
+- [Upgrade History](https://minisatoshi.cash/upgrade-history) [[src]](https://github.com/minisat0shi/minisatoshi.cash) - Full history of Bitcoin (Cash) upgrades since 2009 including future proposals
 
 ### Secondary protocols
 
