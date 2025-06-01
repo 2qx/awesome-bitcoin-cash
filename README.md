@@ -413,9 +413,9 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 
 ### Tooling
 
+- 🔵 [bitauth ide](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
 - 🔵 [Cashscript](https://cashscript.org/docs/basics/about/) [[code]](https://github.com/Bitcoin-com/cashscript) [[playground]](https://playground.cashscript.org/) - a solidity-style language that compiles to Bitcoin Cash Script.
 - [Cashscript VSCode plugin](https://marketplace.visualstudio.com/items?itemName=CashScript.cashscript-vscode) [[code]](https://github.com/CashScript/vscode-cashscript) - Visual Studio Code extension for cashscript.
-- 🔵 [bitauth ide](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
 
@@ -429,7 +429,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 |                                                                  |                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[AnyHedge](https://anyhedge.com/)**                            | a protocol for protocol for setteling oracle-based swaps against BCH collateral  <br>[General Protocols](https://generalprotocols.com/)<br> [.cash](https://gitlab.com/GeneralProtocols/anyhedge/contracts)                                                                                                                                                            |
-| **[AuthGuard](https://cashtokens.studio/)**                      | A standard for authchain management which makes updating the authchain more secure and convenient.  <br> [Mathieu Geukens](https://github.com/mr-zwets/) <br>🔵   [.cash](https://github.com/mr-zwets/AuthGuard) [announcement](https://bitcoincashresearch.org/t/chip-2023-08-authguard-standard/1130)                                                                 |
+| **[AuthGuard](https://cashtokens.studio/)**                      | A standard for authchain management which makes updating the authchain more secure and convenient.  <br> [Bitcoin Cash Autist](https://gitlab.com/0353F40E/) <br>🔵   [.cash](https://github.com/mr-zwets/AuthGuard) [announcement](https://bitcoincashresearch.org/t/chip-2023-08-authguard-standard/1130)                                                                 |
 | **[BadgersStake](https://badgers.cash)**                         | A decentralized staking contract for BitcoinCash.<br>[Sayoshi Nakamario](https://github.com/SayoshiNakamario/) <br>🔵  [.cash](https://github.com/SayoshiNakamario/BadgersStake)                                                                                                                                                                                        |
 | **BitCANN** | a decentralized domain name and identity system <br> [kiok](https://github.com/kiok46) <br> [.cash](https://github.com/BitCANN/contracts) [announcement](https://bitcoincashresearch.org/t/bitcann-bitcoin-cash-for-assigned-names-and-numbers/1512)|
 | **[CashNinjas](https://ninjas.cash/)**                           | Multi-threaded NFT minting contract  <br> [Mathieu Geukens](https://github.com/mr-zwets/) <br>🔵 [.cash](https://github.com/cashninjas/minting-contract/blob/main/contract/mint.cash)                                                                                                                                                                                   |
@@ -468,10 +468,9 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 - 🔵 [BCHN](https://bitcoincashnode.org/) [[code]](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) [[docs]](https://docs.bitcoincashnode.org/) - a descendant of the Bitcoin Core and Bitcoin ABC software projects with independent development team. C/C++.
 - 🔵 [Bitcoin Verde](https://bitcoinverde.org/) [[code]](https://github.com/softwareverde/bitcoin-verde) [[docs]](https://explorer.bitcoinverde.org/documentation/) - java implementation with the goal of being interoperable with mining nodes.
 - 🔵 [Knuth](https://kth.cash/) [[code]](https://github.com/k-nuth/kth) - a high performance implementation of the Bitcoin protocol focused on applications needing extra capacity and resilience.
-- 🔵 [bchd](https://bchd.cash/) [[code]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - [DEPRECATED] alternative implementation written in Go (golang)
+- 🔵 [bchd](https://bchd.cash/) [[code]](https://github.com/gcash/bchd) [[docs]](https://github.com/gcash/bchd/tree/master/docs) - alternative implementation written in Go (golang)
 - 🔵 [Flowee the Hub](https://flowee.org/) [[code]](https://codeberg.org/Flowee/thehub) - a node supporting a suite of software focused on payment integration. C++
-- 🔵 [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[code]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
-    - [Bitcoin Unlimited Improvement Proposals (BUIPS)](https://www.bitcoinunlimited.info/voting/)
+
 
 ### Indexers Simple Payment Verification (SPV) 
 
@@ -599,6 +598,11 @@ The Permissionless Software Foundation is actively maintaining an SLP wallet and
 - Simple Ledger Protocol (SLP) [[specs]](https://slp.dev) - for handling ERC-20 style tokens.
 - [Simple Ledger Postage Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-postage-protocol.md) - Protocol for sending SLP tokens without BCH "gas".
 
+#### Full Node Softwares
+
+- 🔵 [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[code]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
+    - [Bitcoin Unlimited Improvement Proposals (BUIPS)](https://www.bitcoinunlimited.info/voting/)
+  
 #### Libraries
 
 - **⭐ SLP Indexer ⭐** [[code]](https://github.com/Permissionless-Software-Foundation/psf-slp-indexer) - Functional SLP token indexer running token infrastructure for several businesses.
