@@ -180,7 +180,9 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ### Entertainment
 
+
 - [bch.games](https://bch.games/) - dice and numbers game.
+- 🔵 [bchpump](https://bchpump.cash/pump) - BCH Pump is a token launchpad on BitcoinCash network.
 - 🔵 [BCU Guru](https://bch.guru) - A peer to peer price prediction game on Bitcoin Cash
 - [craft.cash](https://craft.cash/) [[code]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
@@ -199,9 +201,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [BasicSwapdex](https://basicswapdex.com) [[code]](https://github.com/basicswap/basicswap) - Atomic swap DEX with BitcoinCash support
 - [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
 
-### Oracles
-
-- [Oracles.Cash](https://oracles.cash/) [[Best Practices]](https://gitlab.com/GeneralProtocols/priceoracle/library#best-practices-for-price-oracle-consumers) [[spec]](https://gitlab.com/GeneralProtocols/priceoracle/specification) - Price oracles for Bitcoin Cash
 
 ### Faucets
 
@@ -215,6 +214,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[code]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
 - [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
 - [Tx Street](https://txcity.io/v/bch-eth) [[code]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
+- [Oracles.Cash](https://oracles.cash/) [[Best Practices]](https://gitlab.com/GeneralProtocols/priceoracle/library#best-practices-for-price-oracle-consumers) [[spec]](https://gitlab.com/GeneralProtocols/priceoracle/specification) - Price oracles for Bitcoin Cash
 - [Bitcoin Energy Statistics](https://www.monsterbitar.se/~jonathan/energy/) - A comparison of energy usage for BCH and BTC.
 - [ViaBtc](https://viabtc.com) [[tools]](https://www.viabtc.com/tools/broadcast?symbol=BCH) - Via Blockchain, Making the World a Better Place.
 
@@ -234,9 +234,9 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[code]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
 - 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
+- [Cashflow](https://cashflow.dev) [[code]](https://github.com/rnbrady/cashflow) - A visual transaction explorer.
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer/assets/bch) - Established blockchain explorer.
-- 🔵 [BCH CashTokens NFT Viewer](https://viewer.sploit.cash) [[code]](https://github.com/acidsploit/cashtokens-nft-viewer) -  Sploit's NFT viewer.
 
   
 - [Chaingraph](https://chaingraph.cash/) [[code]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
@@ -244,7 +244,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
 - [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer.
-- [bitcoinfees.cash](https://bitcoinfees.cash/) - bitcoin chain fee juxtaposition.
 
 ## Services
 
@@ -285,7 +284,7 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 
 - [AxeSwap](https://axeswap.net) [[code]](https://github.com/mainnet-pat/axeswap) [[docs]](https://axeswap.net/docs) - Trustless Monero and Bitcoin Cash atomic cross-chain exchange.
 - [BasicSwapdex](https://basicswapdex.com) [[code]](https://github.com/basicswap/basicswap) - Atomic swap DEX with BitcoinCash support
-- [monujo.cash](https://monujo.cash/) - Fork of Cashonize webwallet for Monero.
+- [monujo.cash](https://monujo.vercel.app/) - Fork of Cashonize webwallet for Monero.
 
 ## Merchants and Services Accepting Bitcoin Cash
 
@@ -416,6 +415,7 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 - 🔵 [bitauth ide](https://ide.bitauth.com/) [[code]](https://github.com/bitauth/bitauth-ide) [[video intro]](https://www.youtube.com/watch?v=o-igo-adS8E) - an integrated development environment for bitcoin authentication.
 - 🔵 [Cashscript](https://cashscript.org/docs/basics/about/) [[code]](https://github.com/Bitcoin-com/cashscript) [[playground]](https://playground.cashscript.org/) - a solidity-style language that compiles to Bitcoin Cash Script.
 - [Cashscript VSCode plugin](https://marketplace.visualstudio.com/items?itemName=CashScript.cashscript-vscode) [[code]](https://github.com/CashScript/vscode-cashscript) - Visual Studio Code extension for cashscript.
+- [BCH Stack Wizard](https://bitjson.github.io/bch-wizard/) [[code]](https://github.com/bitjson/bch-wizard) - A tool for finding the optimal script to transform a stack state.
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
 
@@ -431,8 +431,9 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 | **[AnyHedge](https://anyhedge.com/)**                            | a protocol for protocol for setteling oracle-based swaps against BCH collateral  <br>[General Protocols](https://generalprotocols.com/)<br> [.cash](https://gitlab.com/GeneralProtocols/anyhedge/contracts)                                                                                                                                                            |
 | **[AuthGuard](https://cashtokens.studio/)**                      | A standard for authchain management which makes updating the authchain more secure and convenient.  <br> [Bitcoin Cash Autist](https://gitlab.com/0353F40E/) <br>🔵   [.cash](https://github.com/mr-zwets/AuthGuard) [announcement](https://bitcoincashresearch.org/t/chip-2023-08-authguard-standard/1130)                                                                 |
 | **[BadgersStake](https://badgers.cash)**                         | A decentralized staking contract for BitcoinCash.<br>[Sayoshi Nakamario](https://github.com/SayoshiNakamario/) <br>🔵  [.cash](https://github.com/SayoshiNakamario/BadgersStake)                                                                                                                                                                                        |
-| **BitCANN** | a decentralized domain name and identity system <br> [kiok](https://github.com/kiok46) <br> [.cash](https://github.com/BitCANN/contracts) [announcement](https://bitcoincashresearch.org/t/bitcann-bitcoin-cash-for-assigned-names-and-numbers/1512)|
+| **[BitCANN](https://bitcann.org/)** | a decentralized domain name and identity system <br> [kiok](https://github.com/kiok46) <br> [.cash](https://github.com/BitCANN/contracts) [announcement](https://bitcoincashresearch.org/t/bitcann-bitcoin-cash-for-assigned-names-and-numbers/1512)|
 | **[CashNinjas](https://ninjas.cash/)**                           | Multi-threaded NFT minting contract  <br> [Mathieu Geukens](https://github.com/mr-zwets/) <br>🔵 [.cash](https://github.com/cashninjas/minting-contract/blob/main/contract/mint.cash)                                                                                                                                                                                   |
+| **[Burner](https://www.tokenburner.cash/)** | A simple token burner contract <br> [DagurVal](https://gitlab.com/dagurval/) <br>  🔵  [src](https://gitlab.com/dagurval/contract-burner) [announcement, .cash](https://bitcoincashresearch.org/t/a-simple-token-burner-contract/1312)                                                                                                                               |
 | **[CashStarter](https://fundme.cash)**                           | A decentralized crowdfunding system built on BitcoinCash. <br> [Sayoshi Nakamario](https://github.com/SayoshiNakamario/) <br> 🔵   [.cash](https://github.com/SayoshiNakamario/CashStarter)                                                                                                                                                                             |
 | **CatDex**                                                       | A dex geared toward stable assets.<br>[2qx](https://github.com/2qx)  <br> 🔵  [announcement, .cash](https://bitcoincashresearch.org/t/catdex-a-token-category-authorized-decentralized-exchange/1480/3)                                                                                                                                                                 |
 | **[Drip Mine](https://gitlab.com/0353F40E/drip-mine)**           | a pure MEV faucet where miners could call the contract to make extra money in each block <br> [Bitcoin Cash Autist](https://gitlab.com/0353F40E/)  <br>  [.cash,](https://gitlab.com/0353F40E/drip-mine) [unspent](https://unspent.app/contract?opReturn=6a047574786f0124010223aa20a1c3a6a95ce1c4726221dc3e5f9d231611176b39f3c731cb0d24c650ee9b4b4c87&network=chipnet) |
@@ -453,6 +454,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 - [BADGERS_0: Bitcoin Application Developer Guidelines - Environmental Risks & Survival](https://bitcoincashresearch.org/t/bitcoin-application-developer-guidelines-environmental-risks-survival/1470)
 
+- [BADGERS_1: Bitcoin Applicatoin Developer Guide - Engineering Resource Stragegy](https://www.reddit.com/r/btc/comments/1krub4l/bitcoin_application_developer_guide_engineering/)
 
 - [Contract tag](https://bitcoincashresearch.org/tag/contracts) on BitcoinCashResearch.org
 
@@ -587,7 +589,7 @@ Due to the nature of bitcoin, some stuff is forever...
 
 ### Bitcoin Script tools
 
-- [spedn](https://spedn.pl/) [[code]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) - a high level smart contract language that compiles to Bitcoin Cash Script.
+- [spedn](https://spedn.pl/) [[code]](https://bitbucket.org/o-studio/spedn/src/develop/) [[docs]](https://spedn.readthedocs.io/en/latest/) [[archive]](https://web.archive.org/web/20250323202400/https://spedn.pl/)- a high level smart contract language that compiles to Bitcoin Cash Script.
 
 ### Simple Ledger Protocol (SLP Token)
 
