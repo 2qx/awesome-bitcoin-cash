@@ -122,6 +122,7 @@ Bitcoin Cash focussed media and content.
 - [Bitcoin Cash Foundation](https://bitcoincashfoundation.org/) Weekly News - Available on [Youtube](https://www.youtube.com/@BitcoinCashFoundation) and [Telegram](https://t.me/BCHFNews)
 - General Protocol Spaces -  Available on [Youtube](https://www.youtube.com/watch?v=707-DPzhdA8&list=PLcIK2erO9hWyM56FYkUAilfUmABbwpu7U) and twitter.
 - [The Bitcoin Cash Podcast](https://www.bitcoincashpodcast.com) - Available on [Youtube](https://www.youtube.com/channel/UCsrDsJnHFnkMnJhEslofyPQ) and [RSS](https://rss.com/podcasts/bitcoincashpodcast/) audio versions, plus other video and podcast platforms (see links at bottom of website).
+- [Persian Bitcoin Cash](https://persianbitcoincash.com) - A Persian blog about Bitcoin Cash and cryptocurrencies. Both original and translated articles. [RSS](https://persianbitcoincash.com/index.xml)
 
 
 
