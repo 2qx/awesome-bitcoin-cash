@@ -111,6 +111,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 - [Stamps](https://stamps.cash/#/) [[code]](https://github.com/harvmaster/CashStamps) - Create reclaimable BCH wallets
 - [Cash Address Generator](https://cashaddress.org/) [[code]](https://github.com/theantnest/bccaddress) - reputable javascript address generator suitable for offline use.
+- [Paytaca Paper Wallet](https://paperwallet.paytaca.com/#/)  [[code]](https://github.com/paytaca/paperwallet) - Generate stylish and secure Bitcoin Cash (BCH) paper wallets.
 - [Bitcoin.com Paper Wallet](https://paperwallet.bitcoin.com/) [[code]](https://github.com/Bitcoin-com/paperwallet.bitcoin.com) - A fork of the cashaddress.org paper wallet
 - Keep Bitcoin Free Paper Wallet [[code]](https://github.com/KeepBitcoinFree-org/paper.keepbitcoinfree.org) - A fork of the Bitcoin.com paper wallet
 
@@ -146,8 +147,13 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [SoftwareVerde/Flipstarter](https://github.com/SoftwareVerde/flipstarter) - The BitcoinVerde flipstarter fork.
 - [FundMe.Cash](https://fundme.cash) [[contracts]](https://github.com/SayoshiNakamario/CashStarter) - A non-custodial crowd funding using BCH smart contracts.
 - [flipstarter](https://flipstarter.cash/) [[Introduction]](https://read.cash/@flipstarter/introducing-flipstarter-695d4d50) [[code]](https://gitlab.com/flipstarter/backend) - a crowd funding app using anyone can pay multisig transactions.
+- [Superbchat](https://superbchat.cash/) [[code]](https://github.com/vulkan0n/superbchat) - A simple BitcoinCash (BCH) superchat donation system in Go 
 - IPFS Flipstarter [[code]](https://gitlab.com/ipfs-flipstarter) - An IPFS flipstarter campaign site.
 - [Flipstarters on Bitcoin Cash](https://flipstarters.bitcoincash.network/#/) - An overview of active and historical flipstarters.
+
+### Tickets
+
+- [Event.cash](https://event.cash/) - Sell tickets for events with instant payments.
 
 ## BCH Native Decentralized Finance
 
@@ -160,17 +166,12 @@ All of these apps are mostly stable and active. Always check the notes of a part
 ### Bitcoin Cash Dapps [a-z]
 
 - 🔵 [BadgerCoin](https://badgers.cash) [[code]](https://github.com/SayoshiNakamario/BadgersStake) [[docs]](https://badgers.cash/FAQ) - A proof-of-ownership memecoin on BitcoinCash.
-- [BCH Bull](https://bchbull.com/) [[code]](https://gitlab.com/GeneralProtocols/anyhedge) [[app]](https://app.bchbull.com/) - Permissionless leverage and hedging using the Anyhedge protocol.
 - 🔵 [Cauldron](https://www.cauldron.quest/) [[whitepaper]](https://www.cauldron.quest/_files/ugd/ae85be_b1dc04d2b6b94ab5a200e3d8cd197aa3.pdf) - Bitcoin Cash Decentralized Exchange.
 - 🔵 [Emerald DAO](https://0353F40E.gitlab.io/emerald-dao/) [[code]](https://gitlab.com/0353F40E/emerald-dao/) [[app]](https://emerald-dao.vercel.app/) - A simple Bitcoin Cash DAO template which acts as a fixed-term deposit savings vault. 
 - 🔵 [Future BCH](https://futurebitcoin.cash) [[code]](https://github.com/2qx/future-bitcoin-cash) - Time-locked BCH CashToken future series.
-
-- 🔵 [Moria Money](https://www.moria.money/) [[code]](https://gitlab.com/riftenlabs/moria) [[docs]](https://docs.riftenlabs.com/moria) [[stats]](https://app.moria.money/stats) - A protocol for oracle-based borrowing against BCH collateral.
 - 🔵 [TapSwap](https://tapswap.cash/) - An open marketplace for fungible and non-fungible tokens. 
 - [Unspent](https://unspent.cash) [[code]](https://github.com/2qx/unspent) [[cli]](https://www.npmjs.com/package/unspent) [[docs]](https://unspent.app/documentation) -  An irrevocable perpetuity app
 - 🔵 [Wrapped Cash](https://wrapped.cash/) [[code]](https://gitlab.com/dagurval/wrapped-cash) - Bitcoin Cash wrapped as a CashToken
-
-
 
 ### Collectables
 
@@ -178,16 +179,23 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - 🔵 [CashNinjas](https://ninjas.cash/) [[code]](https://github.com/cashninjas) - an NFT collection leveraging the new CashTokens technology.
 - 🔵 [Ghostwriter](https://ghostwriter.pages.dev/) - Text based NFT minting
 
-
 ### Entertainment
 
-
+- [bugs.cash](https://bugs.cash/) - An online multiplayer browser game.
 - [bch.games](https://bch.games/) - dice and numbers game.
-- 🔵 [bchpump](https://bchpump.cash/pump) - BCH Pump is a token launchpad on BitcoinCash network.
-- 🔵 [BCU Guru](https://bch.guru) - A peer to peer price prediction game on Bitcoin Cash
+- 🔵 [bchpump](https://bchpump.cash/pump), [xPump](https://bchpump.cash/pump/stake) [[code]](https://github.com/mainnet-pat/SushiBar) - A token launchpad on BitcoinCash network.
 - [craft.cash](https://craft.cash/) [[code]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
 - [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf
+
+### ⚠️ Oracle-driven Fiat Speculation ⚠️
+
+There are several groups in Bitcoin Cash building and promoting products which liquidate users speculating on price, without ever delivering the underlying asset.
+
+- [BCH Bull](https://bchbull.com/) [[code]](https://gitlab.com/GeneralProtocols/anyhedge) [[app]](https://app.bchbull.com/) - Leverage and hedging using the Anyhedge protocol.
+- 🔵 [BCH Guru](https://bch.guru) - A peer to peer price prediction game on Bitcoin Cash
+- 🔵 [Moria Money](https://www.moria.money/) [[code]](https://gitlab.com/riftenlabs/moria) [[docs]](https://docs.riftenlabs.com/moria) [[stats]](https://app.moria.money/stats) - A protocol for oracle-based borrowing against BCH collateral.
+- 🔵 [ParityUSD](https://parityusd.com/) [[src]](https://github.com/ParityUSD) -  A protocol for oracle-based borrowing against BCH collateral, with staking.
 
 ## Exchanges
 
@@ -199,14 +207,13 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### More decentralized
 
-- [BasicSwapdex](https://basicswapdex.com) [[code]](https://github.com/basicswap/basicswap) - Atomic swap DEX with BitcoinCash support
 - [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
+- [BasicSwapdex](https://basicswapdex.com) [[code]](https://github.com/basicswap/basicswap) - Atomic swap DEX with BitcoinCash support
 
 
 ### Faucets
 
 - 🔵 [Testnet Faucet](https://tbch.googol.cash/) [[code]](https://gitlab.com/uak/light-crypto-faucet)
-- 🔵 [`unspent`](https://www.npmjs.com/package/unspent?activeTab=readme) [[code]](https://github.com/2qx/unspent) - an javascript package with commands for faucets.
 - BCH Testnet Faucet [[code]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
 
 ## Network
@@ -233,9 +240,9 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
     - 🔵 [im_uname](https://chipnet.imaginary.cash)
   
 - 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[code]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
-- 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- Fastest ad-free universal block explorer.
+- 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- A fast ad-free universal block explorer.
 - [BCH Explorer](https://explorer.melroy.org/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
-- [Cashflow](https://cashflow.dev) [[code]](https://github.com/rnbrady/cashflow) - A visual transaction explorer.
+- 🔵 [Cashflow](https://cashflow.dev) [[code]](https://github.com/rnbrady/cashflow) - A visual transaction explorer.
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer/assets/bch) - Established blockchain explorer.
 
@@ -330,6 +337,7 @@ Just some good charities for the world at large.
 ### Bitcoin Cash Open-Source plugins
 
 - [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Bitcoin Cash integration for CryptoWoo
+- [Paytaca Woo Commerce Plugin](https://payment-hub.paytaca.com/) [[code]](https://github.com/paytaca/woocommerce-plugin) - A WordPress WooCommerce plugin for integrating Bitcoin Cash payments using the Paytaca Payment Hub API
 
 ### Point of Sale Clients
 
@@ -368,7 +376,6 @@ Just some good charities for the world at large.
 
 [Bitcoin Cash Standards](https://bitcoincashstandards.org) is a site dedicated to collecting, some of which are listed below:
 
-- [AnyHedge](https://anyhedge.com/) [[docs]](https://anyhedge.com/developers/) [[code]](https://gitlab.com/GeneralProtocols/anyhedge) - Decentralized hedge solution against arbitrary commodities for Bitcoin Cash
 - 🔵 [Bitcoin Cash Metadata Registries (BCMR)](https://cashtokens.org/docs/bcmr/chip/) [[code]](https://github.com/bitjson/chip-bcmr) - A standard for sharing authenticated metadata between Bitcoin Cash wallets.
 - [Cashaddr](https://upgradespecs.bitcoincashnode.org/cashaddr/) - Format for Bitcoin Cash addresses.
 - [Cash Accounts](https://gitlab.com/cash-accounts/specification/blob/master/SPECIFICATION.md) - attach a human readable name to Bitcoin Cash addresses.
@@ -419,9 +426,9 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 - [BCH Stack Wizard](https://bitjson.github.io/bch-wizard/) [[code]](https://github.com/bitjson/bch-wizard) - A tool for finding the optimal script to transform a stack state.
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
+- [vm.cash](https://vm.cash/opcodes) - Opcode reference for the Bitcoin Cash virtual machine.
 
-
-### Bitcoin Script DeFi Projects
+### Bitcoin Script Projects
 
 Below is a list of projects using CashScript and/or BitcoinScript.
 
@@ -429,7 +436,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 |                                                                  |                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[AnyHedge](https://anyhedge.com/)**                            | a protocol for protocol for setteling oracle-based swaps against BCH collateral  <br>[General Protocols](https://generalprotocols.com/)<br> [.cash](https://gitlab.com/GeneralProtocols/anyhedge/contracts)                                                                                                                                                            |
+| **[AnyHedge](https://anyhedge.com/)**                            | a protocol for protocol for oracle-based swaps (⚠️) against BCH collateral  <br>[General Protocols](https://generalprotocols.com/)<br> [.cash](https://gitlab.com/GeneralProtocols/anyhedge/contracts)                                                                                                                                                            |
 | **[AuthGuard](https://cashtokens.studio/)**                      | A standard for authchain management which makes updating the authchain more secure and convenient.  <br> [Mathieu Geukens](https://github.com/mr-zwets/) <br>🔵   [.cash](https://github.com/mr-zwets/AuthGuard) [announcement](https://bitcoincashresearch.org/t/chip-2023-08-authguard-standard/1130)                                                                 |
 | **[BadgersStake](https://badgers.cash)**                         | A decentralized staking contract for BitcoinCash.<br>[Sayoshi Nakamario](https://github.com/SayoshiNakamario/) <br>🔵  [.cash](https://github.com/SayoshiNakamario/BadgersStake)                                                                                                                                                                                        |
 | **[BitCANN](https://bitcann.org/)** | a decentralized domain name and identity system <br> [kiok](https://github.com/kiok46) <br> [.cash](https://github.com/BitCANN/contracts) [announcement](https://bitcoincashresearch.org/t/bitcann-bitcoin-cash-for-assigned-names-and-numbers/1512)|
@@ -440,11 +447,12 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 | **[Emerald DAO](https://0353F40E.gitlab.io/emerald-dao/)**                     | [CLOSED FUND] A fixed-term deposit savings vault using NFTs with crowdfunded rewards. <br> [BCA](https://gitlab.com/0353F40E/) with help from [mainnet-pat](https://github.com/mainnet-pat/)  <br>  🔵  [.cash](https://gitlab.com/0353F40E/emerald-dao/-/tree/main/contracts/v2-1-0),  [code](https://github.com/mainnet-pat/emerald_dao)                              |
 | **[Future Bitcoin Cash](https://futurebitcoin.cash)**            | Timelocked Bitcoin Cash Futures with incentives.<br> [2qx](https://github.com/2qx) and [audited](https://futurebitcoin.cash/audit) by [BCA](https://gitlab.com/0353F40E/) <br>  🔵 [.cash](https://futurebitcoin.cash/contracts)                                                                                                                                        |
 | **[HODL Plugin](https://github.com/mainnet-pat/hodl_ec_plugin)** | plugin for Electron Cash to timelock the funds.<br> [mainnet-pat](https://github.com/mainnet-pat/) <br>  [~.cash, BitcoinScript](https://github.com/mainnet-pat/hodl_ec_plugin?tab=readme-ov-file#contract-details)                                                                                                                                                    |
-| **[Moria](https://www.moria.money/)**                            | a protocol for oracle-based borrowing against BCH collateral  <br> [RiftenLabs](https://www.riftenlabs.com/) <br>  🔵   [whitepaper, .cash](https://www.moria.money/_files/ugd/ae85be_3a372c0240c547c3b4ad64f7139a3284.pdf)                                                                                                                                             |
+| **[Moria](https://www.moria.money/)**                            | a protocol for oracle-based borrowing (⚠️) against BCH collateral  <br> [RiftenLabs](https://www.riftenlabs.com/) <br>  🔵   [whitepaper, .cash](https://www.moria.money/_files/ugd/ae85be_3a372c0240c547c3b4ad64f7139a3284.pdf)                                                                                                                                             |
 | **OpenCashDAO** | A Decentralized Autonomous Organization (DAO) template <br> [kiok](https://github.com/kiok46) <br> [.cash](https://github.com/OpenCashDAO/contracts) [announcement](https://bitcoincashresearch.org/t/opencashdao/1521/1)|
 | **[p-bond](https://gitlab.com/0353F40E/p-bond)**           | a constant product bonding cureve<br> [Bitcoin Cash Autist](https://gitlab.com/0353F40E/)  <br>  [.cash,](https://gitlab.com/0353F40E/p-bond) [bchpump](https://bchpump.cash/pump) |
 | **Simple Swap**  | A simple two party CashTokens DEX atomic swapping prototype. see: [TapSwap](https://tapswap.cash). <br> [Bitcoin Cash Autist](https://gitlab.com/0353F40E/) <br>  🔵  [.cash](https://gitlab.com/0353F40E/simple-swap) |
 | **Small Index**                                                  | a pay-per-use highly distributed key-store index service. <br> [2qx](https://github.com/2qx) <br>  🔵  [announcement, .cash](https://bitcoincashresearch.org/t/a-small-key-value-index-contract/1471)                                                                                                                                                                   |
+| **SushiBar**  | A simple two party CashTokens DEX atomic swapping prototype. see: [xPump](https://tapswap.cash/pump/stake). <br> [Bitcoin Cash Autist](https://gitlab.com/0353F40E/) <br>  🔵  [.cash](https://gitlab.com/0353F40E/simple-swap) |
 | **[TokenBurner](https://www.tokenburner.cash/)**                 | Tool for burning tokens on Bitcoin Cash <br> [DagurVal](https://gitlab.com/dagurval/)  <br>  🔵  [announcement, .cash](https://bitcoincashresearch.org/t/a-simple-token-burner-contract/1312/) [code](https://gitlab.com/dagurval/contract-burner)                                                                                                                      |
 | **[Unspent Phi](https://unspent.app)**                           | Seven simple anyone-can-spend contracts. <br> [2qx](https://github.com/2qx) <br>   [.cash](https://unspent.app/documentation)  [src](https://github.com/2qx/unspent)                                                                                                                                                                                                 |
 | **[Wrapped Bitcoin Cash](https://wrapped.cash/)**                | Bitcoin Cash wrapped as a CashToken  <br> [DagurVal](https://gitlab.com/dagurval/) <br>  🔵  [src](https://gitlab.com/dagurval/wrapped-cash) [announcement, .cash](https://bitcoincashresearch.org/t/wbch-bch-wrapped-as-cash-token/1196)                                                                                                                               |
@@ -519,6 +527,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 ### Rust
 
 - 🔵 [rust-bitcoincash](https://gitlab.com/rust-bitcoincash/rust-bitcoincash/) - Rust Bitcoin Cash library.
+- 🔵 electrum-client-netagnostic [[src]](https://gitlab.com/dagurval/rust-electrum-client) [[docs]](https://docs.rs/electrum-client-netagnostic/latest/electrum_client_netagnostic/) - Network agnostic bitcoin Electrum client library.
 
 ### Java
 
