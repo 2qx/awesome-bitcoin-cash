@@ -185,7 +185,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - 🔵 [bchpump](https://bchpump.cash/pump), [xPump](https://bchpump.cash/pump/stake) [[code]](https://github.com/mainnet-pat/SushiBar) - A token launchpad on BitcoinCash network.
 - [craft.cash](https://craft.cash/) [[code]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
-- [Spin BCH](https://SpinBCH.com) - Spinning wheel based gambling using zero-conf
 
 ### ⚠️ Oracle-driven Fiat Speculation ⚠️
 
