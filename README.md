@@ -315,7 +315,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 ### Projects dedicated to listing or enabling eCommerce.
 
-- [Use.Cash](https://usecash.com/) - Guide for using cryptocurrency like cash.
 - [Bitgree](https://www.bitgree.com) - service to privately purchase goods on Amazon.com and others at a discount.
 
 ### Some Charities and Foundations
