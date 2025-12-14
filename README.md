@@ -135,8 +135,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
-- [BCHouse](https://bchouse.app/) - Social networking and crowdfunding with BitcoinCash
-- BCHBoard [[nostr]](https://bchboard.npub.pro/) [[tg bot]](https://t.me/BitcoinCashBoardBot) - Post an anonymous message on the Bitcoin Cash Board on Nostr
+- [vox.cash/pop](https://vox.cash) - a chat app where messages print future coupons.
 - [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
 - [noise.app](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
 - [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
@@ -313,8 +312,6 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 - [BQuest](https://bquest.cash/) - South Africans can easily spend Bitcoin Cash!
 - [Bitcoin.com map](https://map.bitcoin.com/) - website and mobile app for discovering merchants, formerly marco coino.
 - [Bmap.app](https://bmap.app/) - ₿itcoin places all around the world!
-- [map.usecash](https://map.usecash.com) [[code]](https://github.com/modenero/use-cash) - Use Cash map built by Modenero.
-
 
 ### Projects dedicated to listing or enabling eCommerce.
 
@@ -611,7 +608,6 @@ The Permissionless Software Foundation is actively maintaining an SLP wallet and
 #### Full Node Softwares
 
 - 🔵 [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[code]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
-    - [Bitcoin Unlimited Improvement Proposals (BUIPS)](https://www.bitcoinunlimited.info/voting/)
   
 #### Libraries
 
