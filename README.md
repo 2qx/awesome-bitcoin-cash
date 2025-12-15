@@ -102,6 +102,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [bitcore-wallet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets.
 
 ### Browser
+- [UniversalBitWallet](https://universalbitwallet.com/) - Send and Receive Crypto Globally with Ease with a multitoken wallet. 
 - 🔵 [Cashonize](https://cashonize.com/) [[code]](https://github.com/cashonize/wallet) -  An experimental web wallet for CashTokens.
 - [PSF wallet](https://wallet.fullstack.cash/) [[code]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - An web wallet with SLP support.
 - [BCH Merchant PoS](https://pos.cash) [[code]](https://github.com/softwareverde/pos-cash) - Bitcoin Cash Web Point of Sale, from SoftwareVerde.
