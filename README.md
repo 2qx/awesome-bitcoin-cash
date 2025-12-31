@@ -229,7 +229,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
   - mainnet
     - 🔵 [bch.loping.net](https://bch.loping.net/)
     - 🔵 [explorer.bch.ninja](https://explorer.bch.ninja/)
-    - 🔵 [electroncash.de](https://explorer.electroncash.de)
   - chipnet
     - 🔵 [loping.net](https://cbch.loping.net)
     - 🔵 [chaingraph](https://chipnet.chaingraph.cash)
@@ -516,7 +515,7 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 ### Python
 
-- 🔵 [bitcash](https://pybitcash.github.io/bitcash/) [[code]](https://github.com/pybitcash/bitcash) [[docs]](https://bitcash.dev) - python3 library.
+- 🔵 [bitcash](https://pybitcash.github.io/bitcash/) [[code]](https://github.com/pybitcash/bitcash).
 - [jtoomim/p2pool](https://github.com/jtoomim/p2pool) - jtoomim fork of bitcoin pool mining software.
 
 ### Rust
