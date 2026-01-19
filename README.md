@@ -239,7 +239,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[code]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
 - 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- A fast ad-free universal block explorer.
 - 🔵 [Pat's Blockbook Explorer](https://blockbook.pat.mn/) [[code]](https://github.com/mainnet-pat/blockbook) - A backend and explorer with CashToken support.
-- [BCH Explorer](https://bchexplorer.cash/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
+- 🔵 [BCH Explorer](https://bchexplorer.cash/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
 - 🔵 [Cashflow](https://cashflow.dev) [[code]](https://github.com/rnbrady/cashflow) - A visual transaction explorer.
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer/assets/bch) - Established blockchain explorer.
@@ -249,7 +249,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [CoinGecko API](https://www.coingecko.com/api/documentation) - API for price data.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
-- [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer.
 
 ## Services
 
