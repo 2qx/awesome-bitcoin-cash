@@ -243,13 +243,10 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - 🔵 [Cashflow](https://cashflow.dev) [[code]](https://github.com/rnbrady/cashflow) - A visual transaction explorer.
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer/assets/bch) - Established blockchain explorer.
-
-  
 - [Chaingraph](https://chaingraph.cash/) [[code]](https://github.com/bitauth/chaingraph) - A multi-node blockchain indexer and GraphQL API.
 - [CoinGecko API](https://www.coingecko.com/api/documentation) - API for price data.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
-- [Mempool Project](https://bchmempool.cash/) - A Bitcoin Cash (BCH) adaptation of the mempool open-source explorer.
 
 ## Services
 
