@@ -194,7 +194,8 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 - [Coinflex](https://coinflex.com) - Coin Futures and Lending Exchange
 - [CoinEx](https://www.coinex.com) - A professional global cryptocurrency exchange (BCH friendly)
-  
+- [BitcoinVN](https://bitcoinvn.io) - Non-custodial instant exchange supporting BCH since day one, with 0-conf deposits for small amounts.
+
 ## Faucets
 - [BCH Testnet Faucet](https://faucet.fullstack.cash/) [[src]](https://github.com/christroutner/testnet-faucet2/) - Fullstack.cash faucet for tBCH.
 - [Testnet Faucet](https://tbch.googol.cash/) [[src]](https://gitlab.com/uak/light-crypto-faucet)
