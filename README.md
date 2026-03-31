@@ -499,8 +499,10 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 ### Typescript
 
 - 🔵 [Libauth](https://libauth.org/) [[code]](https://github.com/bitauth/libauth) - an ultra-lightweight, zero-dependency library for Bitcoin Cash and Bitauth applications. (Formerly `bitcoin-ts`.)
-- 🔵 [electrum-cash](https://gitlab.com/electrum-cash) [[docs]](https://electrum-cash.gitlab.io/network/) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
 - 🔵 [mainnet-js](https://mainnet.cash/) [[code]](https://github.com/mainnet-cash/mainnet-js) - Typescript library, also available over rest.
+- 🔵 [electrum-cash](https://gitlab.com/electrum-cash) [[docs]](https://electrum-cash.gitlab.io/network/) [[tutorials]](https://read.cash/search?q=electrum-cash) - JavaScript library that lets you connect with one or more Electrum servers.
+- 🔵 [rpckit](https://rpckit.vercel.app/) [[code]](https://github.com/mainnet-pat/rpckit) - Library for JSON-RPC communication with type-safe transports, automatic batching, and built-in failover.
+- 🔵 [mem-cash](https://github.com/mainnet-pat/mem-cash) - Modern, tree-shakeable TypeScript implementation of the in-memory Bitcoin Cash VM and Electrum Cash protocol.
 - 🔵 [cashlab](https://github.com/hosseinzoda/cashlab) - High-level packages to do defi in the BCH network
 - [Chaingraph-ts [code]](https://github.com/mr-zwets/chaingraph-ts) - library for working with Chaingraph in a fully type-safe way
 - [`<qr-code>`](https://github.com/bitjson/qr-code) [[demo]](https://qr.bitjson.com/) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
@@ -550,11 +552,11 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 There are various groups developing software stacks & apps for the broader ecosystem.
 
-- [General Protocols](https://GeneralProtocols.com) [[repos]](https://gitlab.com/GeneralProtocols) - Team researching and developing protocols for non-custodial and trustless networks using BitBox. (Typescript and Javascript)
 - [Electron Cash](https://electroncash.org/) [[repos]](https://github.com/Electron-Cash/) - Team maintaining a desktop SPV wallet with plugins and mobile app (Python)
 - [Riften Labs](https://www.riftenlabs.com/) [[repos]](https://gitlab.com/riftenlabs) - A privately owned protocol research, development, and software company.
-- [Flowee](https://flowee.org) [[repos]](https://codeberg.org/Flowee) - Team maintaining a non-mining full node and services to access the Bitcoin Cash network. (C++, NodeJs et al)
 - [Mainnet Cash](https://mainnet.cash/) [[repos]](https://github.com/mainnet-cash/) - Loose-knit team maintaining a shared server-side and client-side library.
+- [General Protocols](https://GeneralProtocols.com) [[repos]](https://gitlab.com/GeneralProtocols) - Team researching and developing protocols for non-custodial and trustless networks using BitBox. (Typescript and Javascript)
+- [Flowee](https://flowee.org) [[repos]](https://codeberg.org/Flowee) - Team maintaining a non-mining full node and services to access the Bitcoin Cash network. (C++, NodeJs et al)
 - [FullStack Cash](https://fullstack.cash/) [[repos]](https://github.com/Permissionless-Software-Foundation) - Team building web/ipfs apps based on BitBox compatible stack. (Javascript)
 
 
