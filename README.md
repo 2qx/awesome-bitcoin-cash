@@ -209,6 +209,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 ### Centralized
 
 - [CoinEx](https://www.coinex.com/) - A BCH friendly exchange with automatic coin-splitting
+- [BitcoinVN](https://bitcoinvn.io) - Non-custodial instant exchange supporting BCH since day one, with 0-conf deposits for small amounts.
 
 ### More decentralized
 
