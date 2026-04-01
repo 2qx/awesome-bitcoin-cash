@@ -92,16 +92,15 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 
 - [Flipstarter Plugin](https://gitlab.com/flipstarter/flipstarter-electron-cash) - plugin for crowdfunding.
 - [Nostron](https://github.com/Electron-Cash/Nostron/) - Nostron is a plugin for the Electron-Cash BCH wallet.
-- [Inter-Wallet Transfer plugin](https://github.com/KarolTrzeszczkowski/Inter-Wallet-Transfer-EC-plugin) - A plugin, that sends your coins to another wallet one by one, every time to a fresh address.
-- [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments.
-- [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation.
+- [EC WalletConnect](https://github.com/OPReturnCode/Electron-Cash-Wallet-Connect) - An Electron Cash plugin enabling WalletConnect
+- [Inter-Wallet Transfer plugin](https://github.com/KarolTrzeszczkowski/Inter-Wallet-Transfer-EC-plugin) - A plugin, that sends your coins to another wallet one by 
+  one, every time to a fresh address.
 - [HODL](https://github.com/mainnet-pat/hodl_ec_plugin/) - smart contract plugin for Electron Cash to timelock funds.
 - [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
-
-### Cli
-
-- [bitcore-wallet](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet) - A command line wallet used for BitPay wallets.
-
+- [Mecenas Plugin](https://github.com/KarolTrzeszczkowski/Mecenas-recurring-payment-EC-plugin/releases) - recurring payments.
+- [Last Will](https://github.com/KarolTrzeszczkowski/Electron-Cash-Last-Will-Plugin) - dead man smart contract creation.
+- [Javascript/Libauth](https://github.com/fyookball/js-libauth-integration-plugin) - JS and Libauth Integration plugin for Electron Cash ⚠️ Experimental ⚠️ 
+  
 ### Browser
 - 🔵 [Cashonize](https://cashonize.com/) [[code]](https://github.com/cashonize/cashonize-wallet) -  An experimental web wallet for CashTokens.
 - [PSF wallet](https://wallet.fullstack.cash/) [[code]](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - An web wallet with SLP support.
@@ -117,15 +116,15 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - Keep Bitcoin Free Paper Wallet [[code]](https://github.com/KeepBitcoinFree-org/paper.keepbitcoinfree.org) - A fork of the Bitcoin.com paper wallet
 
 
-## Podcasts, News, Media
+<!-- ## Podcasts, News, Media
 
 Bitcoin Cash focussed media and content.
 
-- [Bitcoin Cash Foundation](https://bitcoincashfoundation.org/) Weekly News - Available on [Youtube](https://www.youtube.com/@BitcoinCashFoundation) and [Telegram](https://t.me/BCHFNews)
+
 - General Protocol Spaces -  Available on [Youtube](https://www.youtube.com/watch?v=707-DPzhdA8&list=PLcIK2erO9hWyM56FYkUAilfUmABbwpu7U) and twitter.
 - [The Bitcoin Cash Podcast](https://www.bitcoincashpodcast.com) - Available on [Youtube](https://www.youtube.com/channel/UCsrDsJnHFnkMnJhEslofyPQ) and [RSS](https://rss.com/podcasts/bitcoincashpodcast/) audio versions, plus other video and podcast platforms (see links at bottom of website).
 - [Persian Bitcoin Cash](https://persianbitcoincash.com) - A Persian blog about Bitcoin Cash and cryptocurrencies. Both original and translated articles. [RSS](https://persianbitcoincash.com/index.xml)
-
+- [Bitcoin Cash Foundation](https://bitcoincashfoundation.org/) Weekly News - Available on [Youtube](https://www.youtube.com/@BitcoinCashFoundation) and [Telegram](https://t.me/BCHFNews) -->
 
 
 ## Projects Built on Bitcoin Cash
@@ -136,11 +135,13 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [read.cash](https://read.cash) - a conventionally hosted long-format blogging platform, with BCH tipping for content.
 - [memo.cash](https://memo.cash) - short message social media site with decentralized SLP token exchange.
-- [vox.cash/pop](https://vox.cash) - a chat app where messages print future coupons.
-- [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
-- [noise.app](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
+- [VOX•POP](https://vox.cash) - a high signal to noise chat app.
+- [Purely Peer](https://purelypeer.cash/) - Discover the thrill of quest hunting.
+- [issues.cash](https://issues.cash) [[code]](https://github.com/dlbnco/issues.cash) - Bounty platform on Bitcoin Cash 
 - [Glimpse.cash](https://glimpse.cash/) - A pay per view video hosting and streaming platform.
 - [Gaze.cash](https://gaze.cash/) - A more lenient pay-per-view video platform.
+- [Cashrain](https://cashrain.com/) - A platform where creators create communities for their members.
+- [noise.app](https://noise.app) - An invite only Bitcoin Cash powered micro-blogging platform.
 
 ### Crowdfunding
 
@@ -174,6 +175,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 ### Collectables
 
+- 🔵 [bchpump](https://bchpump.cash/pump), [xPump](https://bchpump.cash/pump/stake) [[code]](https://github.com/mainnet-pat/SushiBar) - A token launchpad on BitcoinCash network.
 - 🔵 [Bitcats Heroes](https://bitcatsheroes.club/) - Collectibele NFT series with non-custodial minting contract.
 - 🔵 [CashNinjas](https://ninjas.cash/) [[code]](https://github.com/cashninjas) - an NFT collection leveraging the new CashTokens technology.
 - 🔵 [Ghostwriter](https://ghostwriter.pages.dev/) - Text based NFT minting
@@ -182,7 +184,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [bugs.cash](https://bugs.cash/) - An online multiplayer browser game.
 - [bch.games](https://bch.games/) - dice and numbers game.
-- 🔵 [bchpump](https://bchpump.cash/pump), [xPump](https://bchpump.cash/pump/stake) [[code]](https://github.com/mainnet-pat/SushiBar) - A token launchpad on BitcoinCash network.
+
 - [craft.cash](https://craft.cash/) [[code]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
 
@@ -193,7 +195,7 @@ There are several groups in Bitcoin Cash building and promoting products which l
 - [BCH Bull](https://bchbull.com/) [[code]](https://gitlab.com/GeneralProtocols/anyhedge) [[app]](https://app.bchbull.com/) - Leverage and hedging using the Anyhedge protocol.
 - 🔵 [BCH Guru](https://bch.guru) - A peer to peer price prediction game on Bitcoin Cash
 - 🔵 [Moria Money](https://www.moria.money/) [[code]](https://gitlab.com/riftenlabs/moria) [[docs]](https://docs.riftenlabs.com/moria) [[stats]](https://app.moria.money/stats) - A protocol for oracle-based borrowing against BCH collateral.
-- 🔵 [ParityUSD](https://parityusd.com/) [[src]](https://github.com/ParityUSD) -  A protocol for oracle-based borrowing against BCH collateral, with staking.
+<!-- - 🔵 [ParyonUSD](https://pParyonusd.com/) [[src]](https://github.com/ParyonUSD) -  A protocol for oracle-based borrowing against BCH collateral, with staking. -->
 
 ## Exchanges
 
@@ -221,11 +223,12 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
 - [Tx Street](https://txcity.io/v/bch-eth) [[code]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
 - [Oracles.Cash](https://oracles.cash/) [[Best Practices]](https://gitlab.com/GeneralProtocols/priceoracle/library#best-practices-for-price-oracle-consumers) [[spec]](https://gitlab.com/GeneralProtocols/priceoracle/specification) - Price oracles for Bitcoin Cash
-- [Bitcoin Energy Statistics](https://www.monsterbitar.se/~jonathan/energy/) - A comparison of energy usage for BCH and BTC.
+- [Bitcoin Energy Statistics](https://energy.bchexplorer.cash) - A comparison of energy usage for BCH and BTC.
 - [ViaBtc](https://viabtc.com) [[tools]](https://www.viabtc.com/tools/broadcast?symbol=BCH) - Via Blockchain, Making the World a Better Place.
 
 ## Explorers
 
+- 🔵 ⭐ [BCH Explorer](https://bchexplorer.cash/) ⭐ [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
 - 🔵 BCH RPC Explorer [[code]](https://github.com/sickpig/bch-rpc-explorer) - Database-free, self-hosted Bitcoin Cash explorer, via RPC.
   - mainnet
     - 🔵 [bch.loping.net](https://bch.loping.net/)
@@ -235,11 +238,10 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
     - 🔵 [chaingraph](https://chipnet.chaingraph.cash)
     - 🔵 [bch.ninja](https://chipnet.bch.ninja)
     - 🔵 [im_uname](https://chipnet.imaginary.cash)
-  
 - 🔵 [Bitcoin Cash Explorer](https://explorer.salemkode.com/) [[code]](https://github.com/salemkode/explorer) - A Bitcoin Cash Explorer with CashTokens, by SalemKode.
-- 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom)- A fast ad-free universal block explorer.
+- 🔵 [Bitcoin Cash Explorer](https://bchexplorer.info) [[chipnet]](http://chipnet.bchexplorer.info/) [[code]](https://github.com/paytaca/bitcoincash-explorer) - Paytaca's Bitcoin Cash Explorer
+- 🔵 [3xpl.com BCH Explorer](https://3xpl.com/bitcoin-cash) [[code]](https://github.com/3xplcom) - A fast ad-free universal block explorer.
 - 🔵 [Pat's Blockbook Explorer](https://blockbook.pat.mn/) [[code]](https://github.com/mainnet-pat/blockbook) - A backend and explorer with CashToken support.
-- 🔵 [BCH Explorer](https://bchexplorer.cash/) [[code]](https://gitlab.melroy.org/bitcoincash/explorer) - Bitcoin Cash Explorer by Melroy van den Berg
 - 🔵 [Cashflow](https://cashflow.dev) [[code]](https://github.com/rnbrady/cashflow) - A visual transaction explorer.
 - [Blockchair BCH Explorer](https://blockchair.com/bitcoin-cash) - Universal blockchain explorer and search engine.
 - [Blockchain.com BCH explorer](https://www.blockchain.com/explorer/assets/bch) - Established blockchain explorer.
@@ -277,6 +279,7 @@ These are other projects dedicated to listing projects in the Bitcoin Cash ecosy
 
 - [HelpMe Cash](https://helpme.cash/) - A collection of links to things related to the cryptocurrency Bitcoin Cash
 - [minisatoshi.cash](https://minisatoshi.cash/ecosystem) [[code]](https://github.com/minisat0shi/minisatoshi.cash) -  Extensive BCH project list with category filters and searching functionality.
+- [BCH Webring](https://bchwebring.com/) - Federation of Bitcoin Cash websites
 - [Bitcoin Cash Projects](https://www.bitcoin.com/bitcoin-cash-projects/) - maintained by bitcoin.com.
 - [BCH Developments](https://keepbitcoinfree.org/bch-dev/) - list maintained by KeepBitcoinFree.
 - [Canonical awesome-bitcoin-cash](https://github.com/dsmurrell/awesome-bitcoin-cash) - the original.
@@ -318,18 +321,16 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 
 Just some good charities for the world at large.
 
-- [Tails](https://tails.boum.org/donate/index.en.html) - The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.
+- [The Internet Archive](https://blockchair.com/bitcoin-cash/address/1Archive1n2C579dMsAu3iC6tWzuQJz8dN): 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
 - [Save the Children](https://support.savethechildren.org/site/SPageNavigator/donation__crypto.html) - A United Kingdom based charity, founded in 1919, to improve the lives of children through better education, health care, and economic opportunities, as well as providing emergency aid in natural disasters, war, and other conflicts. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
-- [The Internet Archive](https://blockchair.com/bitcoin-cash/address/1Archive1n2C579dMsAu3iC6tWzuQJz8dN) - 1Archive1n2C579dMsAu3iC6tWzuQJz8dN
-- [Signal](https://signal.org/donate/) - A nonprofit built for you. No ads, no trackers, no surveillance.
-- [Bitpay Charity Directory](https://bitpay.com/directory/nonprofits) A list of charities that accept Bitcoin Cash and other cryptocurrencies.
+- [Signal](https://signal.org/donate/) - A nonprofit built for you. No ads, no trackers, no surveillance. (Cryptocurrency donations are powered by [The Giving Block](https://www.thegivingblock.com/))
 
 ## eCommerce Merchant Resources
 
 ### Bitcoin Cash Open-Source plugins
 
-- [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Bitcoin Cash integration for CryptoWoo
 - [Paytaca Woo Commerce Plugin](https://payment-hub.paytaca.com/) [[code]](https://github.com/paytaca/woocommerce-plugin) - A WordPress WooCommerce plugin for integrating Bitcoin Cash payments using the Paytaca Payment Hub API
+- [CryptoWoo for WooCommerce](https://github.com/WeProgramIT/cryptowoo-bitcoin-cash-addon) - Bitcoin Cash integration for CryptoWoo
 
 ### Point of Sale Clients
 
@@ -358,12 +359,13 @@ Just some good charities for the world at large.
 
 ### Base Protocol
 
-- [BCH Specification](https://flowee.org/docs/spec/) - Specification hosted by flowee.org.
+- ⭐[BCH Specification](https://flowee.org/docs/spec/) - Specification hosted by flowee.org.⭐ 
 - [Bitcoin Cash Protocol Documentation](https://documentation.cash/) [[code]](https://github.com/SoftwareVerde/bitcoin-cash-specification) - maintained by Software Verde.
 - [reference.cash](https://reference.cash) - protocol documentation
 - [Upgrade specs](https://upgradespecs.bitcoincashnode.org/) - Bitcoin Cash upgrade specifications as implemented by BCHN.
 - [Upgrade History](https://minisatoshi.cash/upgrade-history) [[src]](https://github.com/minisat0shi/minisatoshi.cash) - Full history of Bitcoin (Cash) upgrades since 2009 including future proposals
-
+- [vm.cash](https://vm.cash/opcodes) - Opcode reference for the Bitcoin Cash virtual machine.
+  
 ### Secondary protocols
 
 [Bitcoin Cash Standards](https://bitcoincashstandards.org) is a site dedicated to collecting, some of which are listed below:
@@ -375,11 +377,12 @@ Just some good charities for the world at large.
 - [CashID](https://gitlab.com/cashid/protocol-specification) - Specification using Bitcoin Cash for secure authentication.
 - 🔵 [CashTokens](https://cashtokens.org/) [[code]](https://github.com/cashtokens/cashtokens.org) - Specification for CashTokens.
 - [Electrum Cash Protocol (Fulcrum)](https://electrum-cash-protocol.readthedocs.io/en/latest/) [[code]](https://github.com/cculianu/electrum-cash-protocol) - ElectrumX Protocol for [fulcrum](https://fulcrumserver.org) (UTXO indexer/SPV service).
+- [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app.
+- [Moria Protocol](https://docs.riftenlabs.com/moria/) - a decentralized borrowing and stablecoin protocol.
 - [Payment Requests Specification (BIP-0070)](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki) - For dealing with invoice style payments at specific amounts.
 - [Price Oracle](https://gitlab.com/GeneralProtocols/priceoracle/specification) [[implementation]](https://gitlab.com/GeneralProtocols/priceoracle/library) - Price oracle.
 - [WalletConnect](https://github.com/mainnet-pat/wc2-bch-bcr) - WalletConnect 2 implementation for Bitcoin Cash.
-- [Memo Protocol](https://memo.cash/protocol) - for the on-chain tweet style social media app.
-- [CashShuffle](https://cashshuffle.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
+- [WizardConnect](https://docs.riftenlabs.com/wizardconnect/) - a protocol and library for connecting dapps to HD cryptocurrency wallets
 
 ## Discussion
 
@@ -418,7 +421,7 @@ Anyone may propose an improvement to Bitcoin Cash, but the responsibility is on 
 - [BCH Stack Wizard](https://bitjson.github.io/bch-wizard/) [[code]](https://github.com/bitjson/bch-wizard) - A tool for finding the optimal script to transform a stack state.
 - [meep](https://github.com/gcash/meep) - a command line Bitcoin Cash script debugger.
 - [AutoCove](https://github.com/TinosNitso/AutoCove-Plugin) - Electrum-cash script decoder.
-- [vm.cash](https://vm.cash/opcodes) - Opcode reference for the Bitcoin Cash virtual machine.
+
 
 ### Bitcoin Script Projects
 
@@ -511,7 +514,6 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 
 - [bch-js](https://github.com/Permissionless-Software-Foundation/bch-js) [[docs]](https://bchjs.fullstack.cash/) - JavaScript library for creating web and mobile apps that can interact with the Bitcoin Cash (BCH) and eCash (XEC) blockchains
 - [electrum-cli](https://github.com/rkalis/electrum-cli) - Super simple command line electrum client.
-- [bitcore-lib-cash](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash) - javaScript library, maintained by bitpay.
 
 ### Python
 
@@ -538,11 +540,6 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 ### PHP
 
 - [cashp](https://github.com/Ekliptor/cashp) - Library for BCH.
-
-### R
-
-- [rbch](https://cran.r-project.org/package=rbch) - Extraction and Statistical Analysis of Data from the BCH Blockchain
-
 
 ## Teams
 
@@ -602,7 +599,8 @@ The Permissionless Software Foundation is actively maintaining an SLP wallet and
 
 - Simple Ledger Protocol (SLP) [[specs]](https://slp.dev) - for handling ERC-20 style tokens.
 - [Simple Ledger Postage Protocol](https://github.com/simpleledger/slp-specifications/blob/master/slp-postage-protocol.md) - Protocol for sending SLP tokens without BCH "gas".
-
+- [CashShuffle](https://cashshuffle.org/) [[spec]](https://github.com/cashshuffle/spec/blob/master/SPECIFICATION.md) - a privacy protocol for combining transactions with others, splitting to the lowest common amount.
+  
 #### Full Node Softwares
 
 - 🔵 [BitcoinUnlimited](https://www.bitcoinunlimited.info/) [[code]](https://github.com/BitcoinUnlimited/BitcoinUnlimited) - a full node implentation focused on supporting user needs, C/C++.
