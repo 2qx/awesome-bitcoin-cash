@@ -30,16 +30,6 @@ jobs:
       - name: setup
         uses: actions/checkout@v3
 
-      # Downloads Node.js & install packages 
-      - name: setup node
-        uses: actions/setup-node@v2
-        with:
-          node-version: 18
-      - run: npm ci 
-
-      # Generates service worker
-      - name: generate sw
-        run: npx workbox generateSW workbox-config.js
 
       # Deploys static files to Github Pages 
       - name: deploy
