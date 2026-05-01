@@ -198,7 +198,7 @@ There are several groups in Bitcoin Cash building and promoting products which l
 - [BCH Bull](https://bchbull.com/) [[code]](https://gitlab.com/GeneralProtocols/anyhedge) [[app]](https://app.bchbull.com/) - Leverage and hedging using the Anyhedge protocol.
 - 🔵 [BCH Guru](https://bch.guru) - A peer to peer price prediction game on Bitcoin Cash
 - 🔵 [Moria Money](https://www.moria.money/) [[code]](https://gitlab.com/riftenlabs/moria) [[docs]](https://docs.riftenlabs.com/moria) [[stats]](https://app.moria.money/stats) - A protocol for oracle-based borrowing against BCH collateral.
-- 🔵 [ParyonUSD](https://pParyonusd.com/) [[src]](https://github.com/ParyonUSD) -  A protocol for oracle-based borrowing against BCH collateral, with staking.
+- 🔵 [ParyonUSD](https://paryonusd.com/) [[src]](https://github.com/ParyonUSD) -  A protocol for oracle-based borrowing against BCH collateral, with staking.
 
 ## Exchanges
 
