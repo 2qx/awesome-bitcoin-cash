@@ -189,8 +189,6 @@ All of these apps are mostly stable and active. Always check the notes of a part
 
 - [bugs.cash](https://bugs.cash/) - An online multiplayer browser game.
 - [bch.games](https://bch.games/) - dice and numbers game.
-
-- [craft.cash](https://craft.cash/) [[code]](https://github.com/blockparty-sh/craft.cash) - Voxel world stored on Bitcoin Cash.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
 
 ### ⚠️ Oracle-driven Fiat Speculation ⚠️
@@ -502,8 +500,6 @@ Below is a list of projects using CashScript and/or BitcoinScript.
 ### Language Agnostic
 
 -  🔵 [mainnet](https://mainnet.cash/) [[tutorial]](https://mainnet.cash/tutorial/) [[rest spec]](https://rest-unstable.mainnet.cash/api-docs/#/) - Typescript library, also available via rest api, or [python](https://github.com/mainnet-cash/mainnet-python-generated), [golang](https://github.com/mainnet-cash/mainnet-go-generated), [php](https://github.com/mainnet-cash/mainnet-php-generated) clients, [et. al](https://mainnet.cash/tutorial/other-languages.html)
-- [Insomnia](https://insomnia.fountainhead.cash/) [[code]](https://github.com/fountainhead-cash/insomnia) - Swagger/OpenAPI3 specification for ElectrumX
-- [BitBox OpenAPI 3 (Swagger) spec](https://github.com/Bitcoin-com/rest.bitcoin.com/tree/master/swaggerJSONFiles) - for rest.bitcoin.com see: [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 
 ### Typescript
 
