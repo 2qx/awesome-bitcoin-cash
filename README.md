@@ -81,7 +81,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Stack Wallet](https://stackwallet.com/) [[code]](https://github.com/cypherstack/stack_wallet) - Multicoin wallet with UTXO (coin) control.
 - [Cake Wallet](https://cakewallet.com/) [[code]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
 - [Coin Wallet](https://coin.space/) [[code]](https://github.com/CoinSpace/CoinSpace) - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
-- [Midori Wallet](https:/astian.org/midori-wallet/) [[code]]([https://github.com/CoinSpace/CoinSpace](https://github.com/midoriwallet/midoriwallet)) - A lightweight, private, reliable, and secure wallet for Android, iOS.
+- [Midori Wallet](https://astian.org/midori-wallet/) [[code]]([https://github.com/CoinSpace/CoinSpace](https://github.com/midoriwallet/midoriwallet)) - A lightweight, private, reliable, and secure wallet for Android, iOS.
 
 ### Desktop
 - 🔵 [Electron Cash CashToken](https://electroncash.org) [[release]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) [[code]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
@@ -200,7 +200,7 @@ There are several groups in Bitcoin Cash building and promoting products which l
 - [BCH Bull](https://bchbull.com/) [[code]](https://gitlab.com/GeneralProtocols/anyhedge) [[app]](https://app.bchbull.com/) - Leverage and hedging using the Anyhedge protocol.
 - 🔵 [BCH Guru](https://bch.guru) - A peer to peer price prediction game on Bitcoin Cash
 - 🔵 [Moria Money](https://www.moria.money/) [[code]](https://gitlab.com/riftenlabs/moria) [[docs]](https://docs.riftenlabs.com/moria) [[stats]](https://app.moria.money/stats) - A protocol for oracle-based borrowing against BCH collateral.
-<!-- - 🔵 [ParyonUSD](https://pParyonusd.com/) [[src]](https://github.com/ParyonUSD) -  A protocol for oracle-based borrowing against BCH collateral, with staking. -->
+- 🔵 [ParyonUSD](https://pParyonusd.com/) [[src]](https://github.com/ParyonUSD) -  A protocol for oracle-based borrowing against BCH collateral, with staking.
 
 ## Exchanges
 
