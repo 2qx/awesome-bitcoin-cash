@@ -346,6 +346,7 @@ Just some good charities for the world at large.
 
 - [Prompt.cash](https://prompt.cash) [[demo]](https://www.youtube.com/watch?v=8TIpZW1P_9M) [[docs]](https://prompt.cash/pub/docs/#introduction) - a non-custodial Bitcoin Cash payment gateway
 - [Cash Pay Server](https://github.com/developers-cash/cash-pay-server-js) [[docs]](https://developers-cash.github.io/cash-pay-server-js/) - a self-hostable NodeJS micro-service that can be used to handle BIP70 and JSON Payment Protocol invoices for Bitcoin Cash (BCH)
+- [HTTPay](https://simonvolpert.com/httpay/) - A self-hosted, 0-conf payment processing proxy
 
 ### BCH-to-Fiat Payment Processors
 
