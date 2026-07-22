@@ -83,6 +83,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Cake Wallet](https://cakewallet.com/) [[code]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
 - [Coin Wallet](https://coin.space/) [[code]](https://github.com/CoinSpace/CoinSpace) - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
 - [Midori Wallet](https://astian.org/midori-wallet/) [[code]](https://github.com/midoriwallet/midoriwallet) - A lightweight, private, reliable, and secure wallet for Android, iOS.
+- [Vultisig](https://vultisig.com/) [[code]](https://github.com/vultisig) - A seedless, self-custodial MPC wallet — no seed phrase, key shares split across your own devices. Multi-chain incl. BCH (iOS and Android).
 
 ### Desktop
 - 🔵 [Electron Cash CashToken](https://electroncash.org) [[release]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) [[code]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
@@ -90,9 +91,11 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - 🔵 [Cashonize (quasar)](https://github.com/cashonize/cashonize-wallet/tags) [[code]](https://github.com/cashonize/cashonize-wallet) - Cashonize rewrite with Quasar & Vue-js
 - [Coin Wallet](https://coin.space/) [[code]](https://github.com/CoinSpace/CoinSpace) - A self-custodial multicurrency wallet for multiple platforms (Windows, macOS and Linux).
 - [Midori Wallet](https://astian.org/midori-wallet/) [[code]](https://github.com/midoriwallet/midoriwallet) - A lightweight, private, reliable, and secure wallet.
+- [Vultisig](https://vultisig.com/) [[code]](https://github.com/vultisig) - A seedless, self-custodial MPC wallet — no seed phrase, key shares split across your own devices. Multi-chain incl. BCH (macOS, Windows, Linux).
 
 ### Web Browser
 - [Midori Wallet](https://astian.org/midori-wallet/) [[code]](https://github.com/midoriwallet/midoriwallet) - A lightweight, private, reliable, and secure wallet Coming sooon.
+- [Vultisig](https://vultisig.com/) [[code]](https://github.com/vultisig) - A seedless, self-custodial MPC wallet browser extension — no seed phrase, key shares split across your own devices. Multi-chain incl. BCH.
 
 #### Electron-Cash Plugins
 
