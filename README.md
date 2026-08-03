@@ -254,6 +254,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [CoinGecko API](https://www.coingecko.com/api/documentation) - API for price data.
 - [Blockchair Bulk Data](https://gz.blockchair.com/bitcoin-cash/) - Daily compressed dumps of blockchain data.
 - [CashFusion Stats](https://fusionstats.redteam.cash/) - Data on privacy-enhancing CashFusion transactions.
+- [Paygate Explorer](https://paygate.love/explorer) - Free multi-chain explorer for BTC, LTC, DOGE, ETH, BSC, TON, TRON and Solana with address/tx lookup and rich lists.
 
 ## Services
 
