@@ -225,6 +225,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Oracles.Cash](https://oracles.cash/) [[Best Practices]](https://gitlab.com/GeneralProtocols/priceoracle/library#best-practices-for-price-oracle-consumers) [[spec]](https://gitlab.com/GeneralProtocols/priceoracle/specification) - Price oracles for Bitcoin Cash
 - [Bitcoin Energy Statistics](https://energy.bchexplorer.cash) - A comparison of energy usage for BCH and BTC.
 - [ViaBtc](https://viabtc.com) [[tools]](https://www.viabtc.com/tools/broadcast?symbol=BCH) - Via Blockchain, Making the World a Better Place.
+- [OpenChainBench BCH RPC Benchmark](https://openchainbench.com/benchmarks/bitcoin-cash-rpc) - Live p50/p90/p99 latency for every free keyless BCH RPC endpoint (Blockchair, Bitcore, BiggestFan BCHN node), probed every 60s from 3 regions.
 
 ## Explorers
 
