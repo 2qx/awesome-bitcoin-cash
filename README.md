@@ -316,6 +316,7 @@ Although some of these may appear to only accept Bitcoin (BTC), they do, in fact
 ### Projects dedicated to listing or enabling eCommerce.
 
 - [Bitgree](https://www.bitgree.com) - service to privately purchase goods on Amazon.com and others at a discount.
+- [Mobazha](https://mobazha.org/) [[app]](https://app.mobazha.org/) [[demo]](https://youtu.be/Q8bQWmm3Byw) - a hosted decentralized commerce platform for independent sellers with native BCH direct and moderated 2-of-3 escrow payments. OpenBazaar successor.
 
 ### Some Charities and Foundations
 
