@@ -186,6 +186,7 @@ All of these apps are mostly stable and active. Always check the notes of a part
 - [bugs.cash](https://bugs.cash/) - An online multiplayer browser game.
 - [bch.games](https://bch.games/) - dice and numbers game.
 - [Satoshi dice](https://www.satoshidice.com/) - a provably fair dice game.
+- [Gumshoe](https://www.gumshoemystery.com/) - a weekly mystery with BCH reward.
 
 ### ⚠️ Oracle-driven Fiat Speculation ⚠️
 
@@ -202,7 +203,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### Centralized
 
-- [CoinEx](https://www.coinex.com/) - A BCH friendly exchange with automatic coin-splitting
 - [BitcoinVN](https://bitcoinvn.io) - Non-custodial instant exchange supporting BCH since day one, with 0-conf deposits for small amounts.
 
 ### More decentralized
@@ -218,7 +218,6 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ## Network
 
-- [fork.lol](https://fork.lol) - Site to monitor network health in relation to BTC.
 - [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/) [[code]](https://github.com/jhoenicke/mempool) - Colorful mempool graphs.
 - [Electrum Server Status for BCH](https://1209k.com/bitcoin-eye/ele.php?chain=bch) [[or tBCH]](https://1209k.com/bitcoin-eye/ele.php?chain=tbch) - A 1209k hosted list of electrum servers
 - [Tx Street](https://txcity.io/v/bch-eth) [[code]](https://github.com/txstreet/txstreet) - a live blockchain transaction and mempool visualizer.
