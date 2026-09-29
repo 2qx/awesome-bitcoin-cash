@@ -224,6 +224,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 - [Oracles.Cash](https://oracles.cash/) [[Best Practices]](https://gitlab.com/GeneralProtocols/priceoracle/library#best-practices-for-price-oracle-consumers) [[spec]](https://gitlab.com/GeneralProtocols/priceoracle/specification) - Price oracles for Bitcoin Cash
 - [Bitcoin Energy Statistics](https://energy.bchexplorer.cash) - A comparison of energy usage for BCH and BTC.
 - [ViaBtc](https://viabtc.com) [[tools]](https://www.viabtc.com/tools/broadcast?symbol=BCH) - Via Blockchain, Making the World a Better Place.
+- [SoloFury](https://solofury.com/bch/) [[docs]](https://solofury.com/api-docs/) - Non-custodial solo mining pool for Bitcoin Cash: 1% fee, block reward paid in the coinbase to the miner's own address, TLS and Stratum V2 endpoints in nine regions, with live stats and a public API.
 
 ## Explorers
 
