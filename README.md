@@ -203,6 +203,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 ### Centralized
 
+- [AltQuick](https://altquick.com/market/bitcoin-cash-bitcoin/) - Order-book exchange running since 2015 with a BCH/BTC market and no ID verification.
 - [BitcoinVN](https://bitcoinvn.io) - Non-custodial instant exchange supporting BCH since day one, with 0-conf deposits for small amounts.
 
 ### More decentralized
