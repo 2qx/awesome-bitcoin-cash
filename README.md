@@ -209,6 +209,7 @@ Bitcoin Cash is supported on hundreds of exchanges, these are a few.
 
 - [Thorchain Swap](https://app.thorswap.finance/) - Swap native assets directly with any non-custodial wallet across nine blockchains.
 - [BasicSwapdex](https://basicswapdex.com) [[code]](https://github.com/basicswap/basicswap) - Atomic swap DEX with BitcoinCash support
+- [Shieldz Swap](https://swap.shieldz.cash/chains/bitcoin-cash) - Non-custodial swaps between native BCH and BTC, ETH, USDT and 40 more chains, no account.
 
 
 ### Faucets
