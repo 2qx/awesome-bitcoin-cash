@@ -82,6 +82,7 @@ Below are non-custodial open-source wallets that use features specific to Bitcoi
 - [Stack Wallet](https://stackwallet.com/) [[code]](https://github.com/cypherstack/stack_wallet) - Multicoin wallet with UTXO (coin) control.
 - [Cake Wallet](https://cakewallet.com/) [[code]](https://github.com/cake-tech/cake_wallet) [[apk]](https://github.com/cake-tech/cake_wallet/releases) - An open source wallet for iOS and Android supporting XMR and other currencies.
 - [Coin Wallet](https://coin.space/) [[code]](https://github.com/CoinSpace/CoinSpace) - A self-custodial multicurrency wallet for multiple platforms (iOS and Android).
+- [Gem Wallet](https://gemwallet.com/) [[code]](https://github.com/gemwalletcom/wallet) [[apk]](https://f-droid.org/packages/com.gemwallet.android) - Open-source, self-custodial multi-chain wallet for iOS and Android.
 
 ### Desktop
 - 🔵 [Electron Cash CashToken](https://electroncash.org) [[release]](https://github.com/Electron-Cash/Electron-Cash/releases/tag/4.3.0) [[code]](https://github.com/Electron-Cash/Electron-Cash/) - Electron Cash with CashTokens.
